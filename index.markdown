@@ -10,37 +10,46 @@ keywords: ["Orthodox Theravada", "Buddhism", "Theravada", "Dhamma", "Abhidhamma"
 
 Welcome to **Orthodox Theravada**. This website is dedicated to sharing the authentic teachings of the Buddha according to the Theravada tradition.
 
-### Discussion & Questions
+---
 
-If you have questions or want to participate in discussions, please visit the forum:
+### Explore
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="https://classicaltheravada.org" class="btn btn--primary btn--large" style="font-size: 1.25rem; padding: 1rem 2rem;">Discussion Forum / Ask a Question</a>
+<div class="ot-card-grid" id="explore-section">
+
+  <a href="/orthodoxtheravada/books" class="ot-nav-card" id="books-card">
+    <div class="ot-nav-card__icon">📚</div>
+    <h3 class="ot-nav-card__title">Books</h3>
+    <p class="ot-nav-card__desc">Free PDF books from the Buddhist Publication Society and other classical Theravāda sources.</p>
+  </a>
+
+  <a href="/orthodoxtheravada/pali-tools" class="ot-nav-card" id="pali-card">
+    <div class="ot-nav-card__icon">📜</div>
+    <h3 class="ot-nav-card__title">Pāḷi Tools</h3>
+    <p class="ot-nav-card__desc">Read the Pāḷi Canon with ePiṭaka and the Tipiṭaka Pāḷi Reader app.</p>
+  </a>
+
+  <a href="/orthodoxtheravada/discuss" class="ot-nav-card" id="forum-card">
+    <div class="ot-nav-card__icon">💬</div>
+    <h3 class="ot-nav-card__title">Discuss</h3>
+    <p class="ot-nav-card__desc">Ask questions and join the Classical Theravāda discussion forum.</p>
+  </a>
+
+  <a href="/orthodoxtheravada/meditation" class="ot-nav-card" id="meditation-card">
+    <div class="ot-nav-card__icon">🧘</div>
+    <h3 class="ot-nav-card__title">Meditation</h3>
+    <p class="ot-nav-card__desc">Samatha and vipassanā meditation resources in the Orthodox Theravāda tradition.</p>
+  </a>
+
+  <a href="/orthodoxtheravada/videos" class="ot-nav-card" id="videos-card">
+    <div class="ot-nav-card__icon">🎥</div>
+    <h3 class="ot-nav-card__title">Videos</h3>
+    <p class="ot-nav-card__desc">Dhamma talks and video teachings on Orthodox Theravāda Buddhism.</p>
+  </a>
+
+  <a href="/orthodoxtheravada/links" class="ot-nav-card" id="links-card">
+    <div class="ot-nav-card__icon">🔗</div>
+    <h3 class="ot-nav-card__title">Links</h3>
+    <p class="ot-nav-card__desc">Recommended websites — ClassicalTheravada.org, ePiṭaka, Abhidhamma.org, and more.</p>
+  </a>
+
 </div>
-
----
-
-### Recommended Websites
-
-*   [Abhidhamma.org](https://abhidhamma.org) - Resources on Abhidhamma.
-*   [AmericanMonk.org](https://americanmonk.org) - Writings and reflections by an American Monk.
-
----
-
-### Good Classical Theravada Books (BPS)
-
-Here are some recommended books from the Buddhist Publication Society (BPS) and other sources. You can find many of these in the [BPS Online Library](https://www.bps.lk/bps-library/):
-
-1.  [The Word of the Buddha](https://www.bps.lk) - Nyanatiloka Thera
-2.  [The Path to Deliverance](https://www.bps.lk) - Nyanatiloka Thera
-3.  [Fundamentals of Buddhism](https://www.bps.lk) - Nyanatiloka Thera
-4.  [The Buddha's Ancient Path](https://www.bps.lk) - Piyadassi Thera
-5.  [A Manual of Abhidhamma](https://www.bps.lk) - Narada Thera
-6.  [The Seven Stages of Purification](https://www.bps.lk) - Matara Sri Nanarama
-7.  [The Life of the Buddha](https://www.bps.lk) - Nanamoli Thera
-8.  [The Noble Eightfold Path](https://www.bps.lk) - Bhikkhu Bodhi
-9.  [The Mirror of the Dhamma](https://www.bps.lk) - Narada Thera & Bhikkhu Kassapa
-10. [Comprehensive Manual of Abhidhamma](https://www.bps.lk) - Bhikkhu Bodhi
-
-*(Note: Click the links above to visit BPS and search for the PDFs).*
-
