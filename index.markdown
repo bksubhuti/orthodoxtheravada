@@ -5,9 +5,7 @@ lang: en
 description: "A website dedicated to Orthodox Theravada Buddhism."
 excerpt: "Resources and information about Orthodox Theravada Buddhism."
 keywords: ["Orthodox Theravada", "Buddhism", "Theravada", "Dhamma", "Abhidhamma"]
-header:
-  overlay_color: "#333"
-  overlay_filter: 0.3
+
 ---
 
 Welcome to **Orthodox Theravada**. This website is dedicated to sharing the authentic teachings of the Buddha according to the Theravada tradition.

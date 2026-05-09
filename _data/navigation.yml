@@ -3,8 +3,7 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "News"
-    url: /news/
+
   - title: "Forum Posts"
     url: /forum-posts/
   - title: "Forum"
