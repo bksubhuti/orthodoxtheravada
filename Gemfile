@@ -1,4 +1,4 @@
-# Gemfile for Florida Buddhist Monastery Website
+# Gemfile for Orthodox Theravada Website
 # Works locally and on GitHub Pages with the Minimal Mistakes theme.
 
 source "https://rubygems.org"

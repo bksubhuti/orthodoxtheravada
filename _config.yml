@@ -2,11 +2,11 @@
 # Site settings
 # --------------------------------------------------
 
-title: Florida Buddhist Monastery, TVI
-email: Tayzawbatha851@gmail.com
-description: "A Theravāda Buddhist monastery and 501(c)(3) non-profit organization located in Geneva, Florida."
+title: Orthodox Theravada
+email: info@orthodoxtheravada.org
+description: "A website dedicated to Orthodox Theravada Buddhism."
 baseurl: "" # leave empty for root of domain
-url: "https://floridabuddhistmonastery.org"
+url: "http://orthodoxtheravada.org"
 
 # Optional (SEO + clarity)
 twitter_username: ""

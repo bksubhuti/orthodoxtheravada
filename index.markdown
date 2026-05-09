@@ -1,34 +1,48 @@
 ---
-title: "Florida Buddhist Monastery, TVI"
+title: "Orthodox Theravada"
 layout: single
 lang: en
-description: "Also known as Tayzawbatha Vihara, Inc. — a Theravada Buddhist monastery near Orlando, in Geneva, Seminole County, Florida. A 501(c)(3) non-profit dedicated to meditation, study, and spiritual growth."
-excerpt: "A Theravada Buddhist monastery near Orlando, located in Geneva, Seminole County — a peaceful sanctuary for meditation, study, and Dhamma practice."
-keywords: ["Florida Buddhist Monastery", "Tayzawbatha Vihara", "Theravāda", "Theravada Buddhism", "Buddhist temple Florida", "Buddhist monastery near Orlando", "Seminole County Buddhist Monastery", "Geneva Buddhist Monastery"]
+description: "A website dedicated to Orthodox Theravada Buddhism."
+excerpt: "Resources and information about Orthodox Theravada Buddhism."
+keywords: ["Orthodox Theravada", "Buddhism", "Theravada", "Dhamma", "Abhidhamma"]
 header:
-  overlay_image: /images/monastery_banner.png
+  overlay_color: "#333"
   overlay_filter: 0.3
-  overlay_logo: /images/tvi_logo.png
 ---
 
-**Florida Buddhist Monastery, TVI (Tayzawbatha Vihara, Inc.)** is a Theravāda Buddhist monastery located in the peaceful rural community of Geneva, Florida—just northeast of Orlando, serving the Seminole County area.  It is legally registered and operated under **Tayzawbatha Vihara, Inc.**, a 501(c)(3) non-profit religious organization dedicated to preserving and sharing the timeless teachings of the Buddha.
+Welcome to **Orthodox Theravada**. This website is dedicated to sharing the authentic teachings of the Buddha according to the Theravada tradition.
 
-The monastery serves as a sanctuary for meditation, study, and spiritual growth.  Our resident bhikkhus follow the traditional monastic discipline of Theravāda Buddhism and welcome lay visitors who wish to learn and practice the Dhamma.
+### Discussion & Questions
 
-The monastery provides a simple and serene environment, allowing visitors to step back from worldly distractions and cultivate the path of Dhamma.  Over the years, Tayzawbatha Vihara has also hosted temporary novice monk ordinations — including Sayalay (nuns) who dedicate their lives to Buddhist practice.  You can read more about these events and reflections on our <a href="https://americanmonk.org/sayalay-ordination/" target="_blank" rel="noopener noreferrer">ordination insights</a> and <a href="https://americanmonk.org/a-month-in-geneva-florida/" target="_blank" rel="noopener noreferrer">time in Geneva</a>.
+If you have questions or want to participate in discussions, please visit the forum:
 
----
-
-### Address & Registration
-
-> **Florida Buddhist Monastery 
-> (Tayzawbatha Vihara, Inc.)**  
-> 851 Cochran Rd, Geneva, FL 32732, USA  
->  
-> **Currently closed.**
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://classicaltheravada.org" class="btn btn--primary btn--large" style="font-size: 1.25rem; padding: 1rem 2rem;">Discussion Forum / Ask a Question</a>
+</div>
 
 ---
 
-### Our Vision
+### Recommended Websites
 
-To maintain a peaceful and supportive environment for all who wish to practice the Buddha’s Dhamma.  Through the example of monastic discipline, study, and compassion, **Florida Buddhist Monastery (Tayzawbatha Vihara, Inc.)** aspires to be a living expression of Theravāda Buddhism in the modern world.
+*   [Abhidhamma.org](https://abhidhamma.org) - Resources on Abhidhamma.
+*   [AmericanMonk.org](https://americanmonk.org) - Writings and reflections by an American Monk.
+
+---
+
+### Good Classical Theravada Books (BPS)
+
+Here are some recommended books from the Buddhist Publication Society (BPS) and other sources. You can find many of these in the [BPS Online Library](https://www.bps.lk/bps-library/):
+
+1.  [The Word of the Buddha](https://www.bps.lk) - Nyanatiloka Thera
+2.  [The Path to Deliverance](https://www.bps.lk) - Nyanatiloka Thera
+3.  [Fundamentals of Buddhism](https://www.bps.lk) - Nyanatiloka Thera
+4.  [The Buddha's Ancient Path](https://www.bps.lk) - Piyadassi Thera
+5.  [A Manual of Abhidhamma](https://www.bps.lk) - Narada Thera
+6.  [The Seven Stages of Purification](https://www.bps.lk) - Matara Sri Nanarama
+7.  [The Life of the Buddha](https://www.bps.lk) - Nanamoli Thera
+8.  [The Noble Eightfold Path](https://www.bps.lk) - Bhikkhu Bodhi
+9.  [The Mirror of the Dhamma](https://www.bps.lk) - Narada Thera & Bhikkhu Kassapa
+10. [Comprehensive Manual of Abhidhamma](https://www.bps.lk) - Bhikkhu Bodhi
+
+*(Note: Click the links above to visit BPS and search for the PDFs).*
+
