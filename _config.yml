@@ -5,8 +5,8 @@
 title: Orthodox Theravada
 email: info@orthodoxtheravada.org
 description: "A website dedicated to Orthodox Theravada Buddhism."
-baseurl: "" # leave empty for root of domain
-url: "http://orthodoxtheravada.org"
+baseurl: "/orthodoxtheravada" # for GitHub Pages project site
+url: "https://bksubhuti.github.io"
 
 # Optional (SEO + clarity)
 twitter_username: ""
