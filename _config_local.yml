@@ -1,0 +1,14 @@
+# --------------------------------------------------
+# Local development overrides
+# Usage: bundle exec jekyll serve --config _config.yml,_config_local.yml
+# --------------------------------------------------
+
+# Use locally installed gem instead of fetching from GitHub
+theme: "minimal-mistakes-jekyll"
+remote_theme: ~
+
+# Drop jekyll-remote-theme from plugins so it doesn't try to fetch anything
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache

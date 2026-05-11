@@ -58,8 +58,8 @@ defaults:
 # Plugins and theme
 # --------------------------------------------------
 
-remote_theme: "mmistakes/minimal-mistakes"
-#theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"  # used by GitHub Pages
+# theme: "minimal-mistakes-jekyll"           # used locally (overridden by _config_local.yml)
 
 plugins:
   - jekyll-feed
