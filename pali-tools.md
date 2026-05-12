@@ -26,7 +26,7 @@ The Pāḷi language preserves the Buddha's teachings exactly as they were trans
 
   <a href="https://tipitaka.app" target="_blank" rel="noopener" class="ot-tool-card" id="tpr-link">
     <div class="ot-tool-card__icon ot-tool-card__icon--img">
-      <img src="/orthodoxtheravada/images/tpr-icon.png" alt="Tipiṭaka Pāḷi Reader icon" />
+      <img src="/images/tpr-icon.png" alt="Tipiṭaka Pāḷi Reader icon" />
     </div>
     <div class="ot-tool-card__body">
       <h3>Tipiṭaka Pāḷi Reader</h3>
