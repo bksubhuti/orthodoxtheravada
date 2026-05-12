@@ -3,6 +3,16 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Books"
+    url: /books
+  - title: "Pāḷi Tools"
+    url: /pali-tools
   - title: "Forum"
     url: /forum/
+  - title: "Meditation"
+    url: /meditation
+  - title: "Videos"
+    url: /videos
+  - title: "Links"
+    url: /links
 
