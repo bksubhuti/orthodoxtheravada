@@ -2,9 +2,9 @@
 title: "Recommended Books"
 layout: single
 lang: en
-description: "Free PDF books on Orthodox Theravada Buddhism — BPS, Ajahn Sujin, and Nina van Gorkom libraries."
-excerpt: "Free PDF books on Orthodox Theravada Buddhism from the Buddhist Publication Society and other classical sources."
-keywords: ["Orthodox Theravada", "Buddhism", "Theravada books", "BPS", "PDF", "Abhidhamma", "Dhamma books"]
+description: "Free PDF books on Orthodox Theravāda Buddhism — BPS, Ajahn Sujin, and Nina van Gorkom libraries."
+excerpt: "Free PDF books on Orthodox Theravāda Buddhism from the Buddhist Publication Society and other classical sources."
+keywords: ["Orthodox Theravāda", "Buddhism", "Theravāda books", "BPS", "PDF", "Abhidhamma", "Dhamma books"]
 ---
 
 Explore free PDF books from the Buddhist Publication Society and other classical Theravāda sources.

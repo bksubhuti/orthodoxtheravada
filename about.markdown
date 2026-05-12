@@ -1,10 +1,10 @@
 ---
-title: "About Orthodox Theravada"
+title: "About Orthodox Theravāda"
 permalink: /about/
 layout: single
 ---
 
-## What is Orthodox Theravada?
+## What is Orthodox Theravāda?
 
 Orthodox Theravāda refers to the tradition that strictly follows the rules and guidelines laid out in the Pāḷi Theravāda root texts, commentaries, and sub-commentaries. This is the tradition practiced in centers such as:
 

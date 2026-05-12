@@ -2,11 +2,13 @@
 # Site settings
 # --------------------------------------------------
 
-title: Orthodox Theravada
+title: Orthodox Theravāda
 email: info@orthodoxtheravada.org
-description: "A website dedicated to Orthodox Theravada Buddhism."
+description: "A website dedicated to Orthodox Theravāda Buddhism."
 baseurl: "" # for custom domain
 url: "https://orthodoxtheravada.org"
+logo: /images/logo.png # Consider making a square version without text for better fit
+og_image: /images/og-social.png
 
 # Optional (SEO + clarity)
 twitter_username: ""

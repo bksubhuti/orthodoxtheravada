@@ -3,9 +3,6 @@ main:
     url: /
   - title: "About"
     url: /about/
-
-  - title: "Forum Posts"
-    url: /forum-posts/
   - title: "Forum"
-    url: https://classicaltheravada.org
+    url: /forum/
 

@@ -1,10 +1,35 @@
 ---
-title: "Recent Discussions"
-permalink: /forum-posts/
+title: "Forum"
+permalink: /forum/
 layout: single
+lang: en
+description: "Discuss Orthodox Theravāda Buddhism at the Classical Theravāda forum."
+excerpt: "Join the Classical Theravāda discussion forum to ask questions and connect with others on the path."
+keywords: ["Orthodox Theravāda", "discussion", "forum", "Classical Theravāda", "questions", "Dhamma study"]
 ---
 
-Here are the latest discussions from the [Classical Theravada Forum](https://classicaltheravada.org).
+### The Classical Theravāda Forum
+
+**[ClassicalTheravada.org](https://classicaltheravada.org)** is the dedicated community forum for discussing these teachings openly. Whether you are a beginner with basic questions or an experienced practitioner, this is the place to ask, discuss, and connect with others on the path.
+
+Topics covered include:
+- Dhamma study and understanding
+- Abhidhamma and Paramattha Dhammas
+- Vinaya questions
+- Meditation in the context of the Pāḷi Canon
+- Book discussions and recommended readings
+
+<div style="text-align: center; margin: 2.5rem 0;">
+  <a href="https://classicaltheravada.org" target="_blank" rel="noopener" class="btn btn--primary btn--large" id="join-forum-btn" style="font-size: 1.2rem; padding: 1rem 2.5rem;">
+    Join the Discussion Forum →
+  </a>
+</div>
+
+---
+
+### Recent Discussions
+
+Here are the latest discussions from the forum.
 
 <div id="discourse-posts">
   <ul>
@@ -46,9 +71,6 @@ Here are the latest discussions from the [Classical Theravada Forum](https://cla
 </style>
 
 <script>
-// We keep the script to try and fetch live updates.
-// If it succeeds, it will replace the static list above.
-// If it fails (due to CORS or network), the static list remains!
 document.addEventListener("DOMContentLoaded", function() {
   const discourseUrl = "https://classicaltheravada.org";
   const container = document.getElementById("discourse-posts");
@@ -63,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function() {
     .then(data => {
       const topics = data.topic_list.topics;
       if (!topics || topics.length === 0) {
-        return; // Keep static content if no topics
+        return;
       }
 
       let html = '<ul>';
@@ -82,9 +104,7 @@ document.addEventListener("DOMContentLoaded", function() {
       container.innerHTML = html;
     })
     .catch(error => {
-      console.log('Live fetch failed (likely CORS), showing static fallback.', error);
-      // Do nothing, static list is already there.
+      console.log('Live fetch failed, showing static fallback.', error);
     });
 });
 </script>
-

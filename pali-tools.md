@@ -4,7 +4,7 @@ layout: single
 lang: en
 description: "Free Pāḷi language tools, readers, and resources for studying the original Theravāda scriptures."
 excerpt: "Tools for reading and studying the Pāḷi Canon — the original language of the Theravāda scriptures."
-keywords: ["Pali", "Pāḷi", "Tipitaka", "Pali Reader", "Orthodox Theravada", "Pali Canon", "ePitaka"]
+keywords: ["Pali", "Pāḷi", "Tipitaka", "Pali Reader", "Orthodox Theravāda", "Pali Canon", "ePitaka"]
 ---
 
 The Pāḷi language preserves the Buddha's teachings exactly as they were transmitted. These tools make the Pāḷi Canon accessible for study and reading.

@@ -4,7 +4,7 @@ layout: single
 lang: en
 description: "Meditation resources for Orthodox Theravāda Buddhism — Pa-Auk Tawya tradition."
 excerpt: "Meditation in the Orthodox Theravāda tradition, as taught at Pa-Auk Tawya Monastery."
-keywords: ["Orthodox Theravada", "meditation", "Pa-Auk", "samatha", "vipassana", "jhana", "Theravada meditation"]
+keywords: ["Orthodox Theravāda", "meditation", "Pa-Auk", "samatha", "vipassana", "jhana", "Theravāda meditation"]
 ---
 
 Meditation in the Orthodox Theravāda tradition follows the path laid out in the Pāḷi Canon and the *Visuddhimagga*. This includes the development of *samatha* (calm) and *vipassanā* (insight) grounded in a stable foundation of *sīla* (virtue).

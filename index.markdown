@@ -1,14 +1,14 @@
 ---
-title: "Orthodox Theravada"
+title: "Orthodox Theravāda"
 layout: single
 lang: en
-description: "A website dedicated to Orthodox Theravada Buddhism."
-excerpt: "Resources and information about Orthodox Theravada Buddhism."
-keywords: ["Orthodox Theravada", "Buddhism", "Theravada", "Dhamma", "Abhidhamma"]
+description: "A website dedicated to Orthodox Theravāda Buddhism."
+excerpt: "Resources and information about Orthodox Theravāda Buddhism."
+keywords: ["Orthodox Theravāda", "Buddhism", "Theravāda", "Dhamma", "Abhidhamma"]
 
 ---
 
-Welcome to **Orthodox Theravada**. This website is dedicated to sharing the authentic teachings of the Buddha according to the Theravada tradition.
+Welcome to **Orthodox Theravāda**. This website is dedicated to sharing the authentic teachings of the Buddha according to the Theravāda tradition.
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to **Orthodox Theravada**. This website is dedicated to sharing the auth
     <p class="ot-nav-card__desc">Read the Pāḷi Canon with ePiṭaka and the Tipiṭaka Pāḷi Reader app.</p>
   </a>
 
-  <a href="/discuss" class="ot-nav-card" id="forum-card">
+  <a href="/forum" class="ot-nav-card" id="forum-card">
     <div class="ot-nav-card__icon">💬</div>
     <h3 class="ot-nav-card__title">Discuss</h3>
     <p class="ot-nav-card__desc">Ask questions and join the Classical Theravāda discussion forum.</p>

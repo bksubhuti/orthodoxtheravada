@@ -4,7 +4,7 @@ layout: single
 lang: en
 description: "Recommended websites for Orthodox and Classical Theravāda Buddhism."
 excerpt: "Key online resources for studying and practicing Orthodox Theravāda Buddhism."
-keywords: ["Orthodox Theravada", "Buddhism", "links", "Classical Theravada", "Abhidhamma", "Pali"]
+keywords: ["Orthodox Theravāda", "Buddhism", "links", "Classical Theravāda", "Abhidhamma", "Pali"]
 ---
 
 Key websites for Orthodox and Classical Theravāda study and practice.
