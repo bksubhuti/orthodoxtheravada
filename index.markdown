@@ -14,15 +14,24 @@ keywords: ["Orthodox Theravāda", "Theravāda Buddhism", "Pāli Canon", "Abhidha
 
 This website is dedicated to preserving and sharing **Orthodox Theravāda** — the Buddha’s Dhamma as transmitted through the Pāli Canon (Tipiṭaka), the ancient commentaries, and the Abhidhamma tradition. Our aim is to provide clear, reliable resources for sincere students and practitioners who seek the classical understanding without modern reinterpretations.
 
----
-
 ### What is Orthodox Theravāda?
 
-Orthodox Theravāda emphasizes:
-- Direct reliance on the Tipiṭaka and authoritative commentaries (especially the works of Venerable Buddhaghosa).
-- Systematic study of the Abhidhamma alongside sutta practice.
-- Samatha and vipassanā meditation as taught in the classical texts.
-- Preservation of the full monastic Vinaya and traditional doctrinal integrity.
+To establish our foundation, Orthodox Theravāda is defined by its unwavering commitment to the historical, unbroken lineage of the Mahāvihāra tradition. We emphasize:
+- **Direct reliance on the Tipiṭaka and Commentaries:** A commitment to the Pāḷi Canon as the core foundation, understood through the essential lens of the ancient commentaries (Aṭṭhakathā) and sub-commentaries (Ṭīkā), particularly the clarifying works of Venerable Buddhaghosa.
+- **Systematic study of the Abhidhamma:** Recognizing the Abhidhamma Piṭaka as the ultimate teaching (paramattha dhamma) that is necessary for a precise, analytical understanding of mind and matter alongside standard sutta practice.
+- **Classical meditation methodologies:** The cultivation of both samatha and vipassanā exactly as they are detailed in the Visuddhimagga and classical texts, avoiding modern innovations that stray from the traditional path of purification.
+- **Preservation of the Vinaya:** Strict adherence to the full monastic discipline established by the Buddha, ensuring the proper conduct of the Saṅgha and the protection of traditional doctrinal integrity.
+
+
+
+---
+### What is not Orthodox Theravāda?
+
+To clarify our focus, the following approaches and traditions, while often holding value for others, fall outside the scope of Orthodox Theravāda:
+- **Sutta-only methodologies:** Approaches that rely exclusively on the suttas—often emphasizing a strict adherence only to what they define as *Buddhavacana* or "the Buddha's words"—while rejecting or marginalizing the traditional commentaries, the Abhidhamma, or the works of Venerable Buddhaghosa. Historically, the ideological stance of rejecting the Abhidhamma to rely solely on the suttas belonged to the ancient Sautrāntika sect, a school that eventually died out.
+- **Modern historical-critical movements:** Approaches focusing primarily on "Early Buddhist Texts" (EBTs) or comparative textual studies that prioritize academic reconstruction over the established, unbroken Theravāda lineage.
+- **"Pure Dhamma" movements:** Contemporary groups that claim to bypass the historical monastic tradition and orthodox frameworks to teach a newly interpreted or uniquely rediscovered Dhamma.
+- **Other Buddhist Vehicles:** Traditions such as Mahāyāna, Vajrayāna (Tibetan Buddhism), or Zen, which utilize different foundational texts, bodhisattva ideals, and philosophical paradigms outside the Pāḷi Tipiṭaka.
 
 ---
 
