@@ -1,5 +1,6 @@
 ---
 title: "Resources"
+permalink: /resources/
 layout: single
 lang: en
 description: "Resources for studying and practicing Orthodox Theravāda Buddhism."
