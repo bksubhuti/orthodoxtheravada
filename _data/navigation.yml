@@ -1,20 +1,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
   - title: "Articles"
     url: /articles/
-  - title: "Books"
-    url: /books
-  - title: "Pāḷi Tools"
-    url: /pali-tools
+  - title: "Resources"
+    url: /resources/
   - title: "Forum"
     url: /forum/
   - title: "Meditation"
     url: /meditation
-  - title: "Videos"
-    url: /videos
-  - title: "Links"
-    url: /links
+  - title: "About"
+    url: /about/
+
 
