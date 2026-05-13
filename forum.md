@@ -10,6 +10,12 @@ keywords: ["Orthodox Theravāda", "discussion", "forum", "Classical Theravāda",
 
 ### The Classical Theravāda Forum
 
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://classicaltheravada.org" target="_blank" rel="noopener">
+    <img src="https://classicaltheravada.org/uploads/default/optimized/2X/9/9c7021f8b586822eec097369a13b4dbb4e0c1598_2_180x180.png" alt="Classical Theravada Logo" style="max-width: 300px; height: auto;" />
+  </a>
+</div>
+
 **[ClassicalTheravada.org](https://classicaltheravada.org)** is the dedicated community forum for discussing these teachings openly. Whether you are a beginner with basic questions or an experienced practitioner, this is the place to ask, discuss, and connect with others on the path.
 
 Topics covered include:

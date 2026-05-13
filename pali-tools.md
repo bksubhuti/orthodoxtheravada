@@ -16,7 +16,9 @@ The Pāḷi language preserves the Buddha's teachings exactly as they were trans
 <div class="ot-card-grid">
 
   <a href="https://epitaka.org" target="_blank" rel="noopener" class="ot-tool-card" id="epitaka-link">
-    <div class="ot-tool-card__icon">📜</div>
+    <div class="ot-tool-card__icon ot-tool-card__icon--img">
+      <img src="https://www.google.com/s2/favicons?domain=epitaka.org&sz=128" alt="ePiṭaka" style="width: 48px; height: 48px; border-radius: 12px;" />
+    </div>
     <div class="ot-tool-card__body">
       <h3>ePiṭaka</h3>
       <p>Browse the complete Pāḷi Tipiṭaka online with a clean, readable interface. A comprehensive digital edition of the canonical texts.</p>
