@@ -50,6 +50,7 @@ defaults:
       path: ""
       type: "posts"
     values:
+      permalink: /:title/
       header:
         overlay_image: /images/plain_orthodox_banner.jpg
         overlay_color: "#333"
@@ -74,6 +75,11 @@ atom_feed:
   hide: true
 footer:
   custom: true
+
+collections:
+  articles:
+    output: true
+    permalink: /:title/
 
 # --------------------------------------------------
 # Exclusions

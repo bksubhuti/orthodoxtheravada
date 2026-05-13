@@ -74,7 +74,7 @@ To clarify our focus, the following approaches and traditions, while often holdi
   <a href="/articles" class="ot-nav-card" id="articles-card">
     <div class="ot-nav-card__icon">📝</div>
     <h3 class="ot-nav-card__title">Articles</h3>
-    <p class="ot-nav-card__desc">Essays and explanations on key doctrines, common misconceptions, and classical Theravāda perspectives.</p>
+    <p class="ot-nav-card__desc">Essays, explanations, and reflections on Orthodox Theravāda Buddhism.</p>
   </a>
 
 </div>
