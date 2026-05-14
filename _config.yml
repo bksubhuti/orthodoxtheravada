@@ -3,12 +3,12 @@
 # --------------------------------------------------
 
 title: Orthodox Theravāda
-email: info@orthodoxtheravada.org
+email: [EMAIL_ADDRESS]
 description: "A website dedicated to Orthodox Theravāda Buddhism."
 baseurl: "" # for custom domain
 url: "https://orthodoxtheravada.org"
-logo: /images/logo.png # Consider making a square version without text for better fit
-og_image: /images/og-social.png
+logo: /images/orthodox_theravada_logo.png
+og_image: /images/orthodox_theravada_logo.png
 
 # Optional (SEO + clarity)
 twitter_username: ""
@@ -43,7 +43,7 @@ defaults:
       layout: single
       author_profile: false
       header:
-        overlay_image: /images/plain_orthodox_banner.jpg
+        overlay_image: /images/plain_orthodox_banner3.jpg
         overlay_color: "#333"
         overlay_filter: 0.3
   - scope:
@@ -52,7 +52,7 @@ defaults:
     values:
       permalink: /:title/
       header:
-        overlay_image: /images/plain_orthodox_banner.jpg
+        overlay_image: /images/plain_orthodox_banner3.jpg
         overlay_color: "#333"
         overlay_filter: 0.3
 

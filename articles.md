@@ -13,7 +13,7 @@ Welcome to the articles section of Orthodox Theravāda.
       {% if post.featured_image %}
         <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}" class="article-thumb">
       {% else %}
-        <img src="/images/logo.png" alt="Default Icon" class="article-thumb">
+        <img src="/images/orthodox_theravada_logo.png" alt="Default Icon" class="article-thumb">
       {% endif %}
       <div class="article-content">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
