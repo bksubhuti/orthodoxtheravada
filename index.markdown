@@ -12,7 +12,12 @@ keywords: ["Orthodox Theravāda", "Theravāda Buddhism", "Pāli Canon", "Abhidha
 
 **Welcome to the authentic teachings of the Buddha.**
 
-This website is dedicated to preserving and sharing **Orthodox Theravāda** — the Buddha’s Dhamma as transmitted through the Pāli Canon (Tipiṭaka), the ancient commentaries, and the Abhidhamma tradition. Our aim is to provide clear, reliable resources for sincere students and practitioners who seek the classical understanding without modern reinterpretations.
+To understand the Buddha’s teachings in their most authentic form, one must look to the ancient, unbroken lineage that has preserved them. This website is dedicated to preserving and sharing Orthodox Theravāda.
+
+According to the Theravāda the Pāḷi Tipiṭaka was recited and preserved by the arahats at the first three great Councils. These teachings were handed down through a continuous monastic lineage. The ancient commentaries, many of which  were preserved from the time of the First Council, were later edited and arranged by the great commentator Buddhaghosa. His work was approved by the ancient monks of the Mahāvihāra.
+
+The Mahāvihāra was the ancient monastic center that safeguarded the Pāḷi Tipiṭaka and its authorized commentaries. Our aim is to provide clear and reliable resources for sincere students and practitioners who seek the classical understanding of the Buddha’s teaching, relying on a continuous, lived transmission of Dhamma rather than modern speculation.
+
 
 ### What is Orthodox Theravāda?
 
