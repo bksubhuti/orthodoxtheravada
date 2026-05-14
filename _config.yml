@@ -43,7 +43,7 @@ defaults:
       layout: single
       author_profile: false
       header:
-        overlay_image: /images/plain_orthodox_banner3.jpg
+        overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
         overlay_filter: 0.3
   - scope:
@@ -52,7 +52,7 @@ defaults:
     values:
       permalink: /:title/
       header:
-        overlay_image: /images/plain_orthodox_banner3.jpg
+        overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
         overlay_filter: 0.3
 
