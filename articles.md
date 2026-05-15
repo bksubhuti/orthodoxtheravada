@@ -49,8 +49,8 @@ Welcome to the articles section of Orthodox Theravāda.
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 .article-thumb {
-  width: 64px;
-  height: 64px;
+  width: 140px;
+  height: 140px;
   border-radius: 8px;
   margin-right: 1.2rem;
   object-fit: cover;
