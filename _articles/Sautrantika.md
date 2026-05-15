@@ -4,9 +4,9 @@ layout: single
 date: 2026-05-15
 description: "The historical error of the Sautrāntikas and the danger of rejecting the Abhidhamma and the commentaries."
 tags: [Sautrāntikas, Mahayana, Vajrayana, Abhidhamma, Commentaries]
-featured_image: /images/sutta_only.png
+featured_image: /images/sutta_only.jpg
 header:
-  overlay_image: /images/sutta_only.png
+  overlay_image: /images/sutta_only.jpg
   overlay_filter: 0.75
 ---
 
