@@ -50,7 +50,28 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: /:title/
+      layout: single
+      author_profile: false
+      header:
+        overlay_image: /images/plain_orthodox_banner4.jpg
+        overlay_color: "#333"
+        overlay_filter: 0.3
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: single
+      author_profile: false
+      header:
+        overlay_image: /images/plain_orthodox_banner4.jpg
+        overlay_color: "#333"
+        overlay_filter: 0.3
+  - scope:
+      path: ""
+      type: "terms"
+    values:
+      layout: single
+      author_profile: false
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -80,6 +101,9 @@ collections:
   articles:
     output: true
     permalink: /:title/
+  terms:
+    output: true
+    permalink: /dictionary/:title/
 
 # --------------------------------------------------
 # Exclusions

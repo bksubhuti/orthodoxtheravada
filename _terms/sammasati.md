@@ -1,0 +1,28 @@
+---
+layout: single
+title: "Sammāsati"
+pali_spelling: "Sammāsati"
+category: "doctrinalConcept"
+frequency_rank: 97
+cross_links: ["magga", "samadhi", "sati", "satipatthana"]
+canonical_texts: ["Majjhima Nikaya", "Digha Nikaya", "Vibhanga"]
+commentaries: ["Visuddhimagga", "Papancasudani"]
+---
+### Grammatical Analysis
+**Sammāsati**: [f.] Right Mindfulness; Correct Awareness; Perfect Attentiveness. Formed by *sammā* (correctly) + *sati* (mindfulness/presence of mind).
+
+### Orthodox Definition
+*Sammāsati* is the seventh limb of the Noble Eightfold Path, serving as the essential stabilizer within the concentration training division (*samādhi-sikkhā*). Doctrinally, it is identical to the beautiful mental factor of mindfulness (*sati-cetasika*).
+
+The Buddha defined the operational field of *Sammāsati* explicitly through the **four foundations of mindfulness** (*satipaṭṭhāna*):
+1. Contemplating the body (*kāye kāyānupassī*).
+2. Contemplating feelings (*vedanāsu vedanānupassī*).
+3. Contemplating the mind (*citte cittānupassī*).
+4. Contemplating mental objects/principles (*dhammesu dhammānupassī*).
+
+The commentaries point out that mindfulness is "Right" when it is free from thoughts of self, ownership, or delusion, confronting the objective field face-to-face with objective clarity. It prevents the mind from drifting into unwholesome fantasy, providing the immediate, pristine platform necessary for entering absorption.
+
+### Textual References
+* **Sutta**: *Satipaṭṭhāna Sutta* (MN 10) / *Mahāsatipaṭṭhāna Sutta* (DN 22) – The supreme canonical definitions detailing the mechanics of Right Mindfulness.
+* **Abhidhamma**: *Vibhaṅga* (Satipaṭṭhāna-vibhaṅga analysis).
+* **Commentary**: *Papañcasūdanī* – Extensive manual managing the psychological tracking metrics of mindfulness.
