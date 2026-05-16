@@ -103,7 +103,7 @@ collections:
     permalink: /:title/
   terms:
     output: true
-    permalink: /dictionary/:title/
+    permalink: /glossary/:title/
 
 # --------------------------------------------------
 # Exclusions

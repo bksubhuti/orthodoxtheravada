@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Buddhist Dictionary"
-permalink: /dictionary/
+title: "Pāḷi Glossary"
+permalink: /glossary/
 author_profile: false
 ---
 
-Welcome to the Orthodox Theravāda Dictionary. Here you will find detailed definitions and textual references for key Pāḷi terms and doctrinal concepts.
+Welcome to the Orthodox Theravāda Glossary. Here you will find detailed definitions and textual references for key Pāḷi terms and doctrinal concepts.
 
-<div class="dictionary-index">
+<div class="glossary-index">
   {% assign sorted_terms = site.terms | sort: "title" %}
   {% assign current_letter = "" %}
 
@@ -37,7 +37,7 @@ Welcome to the Orthodox Theravāda Dictionary. Here you will find detailed defin
 </div>
 
 <style>
-.dictionary-index h2 {
+.glossary-index h2 {
   border-bottom: 2px solid #f2f2f2;
   margin-top: 2em;
   padding-bottom: 0.5em;

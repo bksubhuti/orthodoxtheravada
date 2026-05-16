@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Articles"
     url: /articles/
-  - title: "Dictionary"
-    url: /dictionary/
+  - title: "Glossary"
+    url: /glossary/
   - title: "Resources"
     url: /resources/
   - title: "Forum"
