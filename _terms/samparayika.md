@@ -1,0 +1,23 @@
+---
+layout: single
+title: "Samparāyika"
+pali_spelling: "Samparāyika"
+category: "doctrinalConcept"
+frequency_rank: 329
+cross_links: ["ditthadhammika", "kamma-vipaka", "bhava"]
+canonical_texts: ["Anguttara Nikaya"]
+commentaries: ["Manorathapurani", "Visuddhimagga"]
+---
+### Grammatical Analysis
+**Samparāyika**: [adj.] Belonging to the next life; pertaining to the future state. Derived from *samparāya* (future life, next world) + *ika* (adjective suffix).
+
+### Orthodox Definition
+*Samparāyika* refers to the welfare, dangers, or karmic results that will be experienced in subsequent rebirths following the death of the current physical body.
+
+While the Buddha valued present-life welfare, he emphasized that *Samparāyika-attha* (welfare for the future) was vastly more important, as the cycle of saṃsāra is immeasurably long. To secure happiness in the next life, a layperson must develop four specific qualities: accomplishment in faith (*saddhā*), virtue (*sīla*), generosity (*cāga*), and wisdom (*paññā*).
+
+In Abhidhamma karma theory, *Samparāyika-kamma* (or *Upapajja-vedanīya-kamma*) refers specifically to the heavy volitional action (the seventh javana-citta in a cognitive series) that will explicitly dictate the destination of the very next rebirth.
+
+### Textual References
+* **Sutta**: *Dīghajāṇu Sutta* (AN 8.54) – The four conditions leading to happiness in the future life.
+* **Commentary**: *Visuddhimagga* (Chapter XIX) – Classifying the sequence of karmic ripening across future lives.
