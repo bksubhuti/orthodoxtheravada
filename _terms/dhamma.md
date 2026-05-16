@@ -23,4 +23,4 @@ In the context of ultimate reality (*paramattha*), dhammas are the basic, irredu
 ### Textual References
 * **Sutta**: *Dhammacakkappavattana Sutta* (SN 56.11) – The setting in motion of the Wheel of Dhamma.
 * **Abhidhamma**: *Dhammasaṅgaṇī* (Book I) – Categorization of all dhammas into wholesome (*kusala*), unwholesome (*akusala*), and indeterminate (*abyākata*).
-* **Commentary**: *Atthasālinī* (Poli-glossary on the *Dhammasaṅgaṇī*).
+* **Commentary**: *Atthasālinī* (Pāḷi-glossary on the *Dhammasaṅgaṇī*).

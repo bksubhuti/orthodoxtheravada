@@ -17,7 +17,7 @@ According to the Mahāvihāra commentarial tradition, *Bodhi* refers specificall
 The tradition recognizes three distinct models of Bodhi:
 1. *Sāvakabodhi* (or *Anubodhi*): The awakening of a noble disciple (*sāvaka*), achieved by hearing and practicing the Dhamma taught by a Fully Enlightened Buddha, culminating in Arahatship.
 2. *Paccekabodhi*: The independent awakening of a Silent Buddha (*Paccekabuddha*) who realizes the truths by himself without an instructor, but does not establish an Order or teach the wider world.
-3. *Sammāsamodhi*: The supreme, omniscient enlightenment of a Fully Enlightened Buddha (*Samma-sambuddha*), who discovers the path independently and possesses the capacity to set the Wheel of Dhamma in motion for cosmic benefit.
+3. *Sammāsambodhi*: The supreme, omniscient enlightenment of a Fully Enlightened Buddha (*Sammā-sambuddha*), who discovers the path independently and possesses the capacity to set the Wheel of Dhamma in motion for cosmic benefit.
 
 Architecturally, the physical tree under which the Bodhisatta attained this state is termed the *Bodhirukka*, serving as a primary focal point for orthodox lay devotion.
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sammāndiṭṭhi"
+title: "Sammādiṭṭhi"
 pali_spelling: "Sammādiṭṭhi"
 category: "doctrinalConcept"
 frequency_rank: 91

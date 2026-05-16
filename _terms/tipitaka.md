@@ -9,7 +9,7 @@ canonical_texts: ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Tipiṭaka**: [nt.] The Three Baskets; The Pali Canon. Formed by *ti* (three) + *piṭaka* (basket; container; traditional vessel of transmission). 
+**Tipiṭaka**: [nt.] The Three Baskets; The Pāḷi Canon. Formed by *ti* (three) + *piṭaka* (basket; container; traditional vessel of transmission). 
 
 ### Orthodox Definition
 The *Tipiṭaka* represents the entire, definitive textual canon of Theravāda Buddhism, preserved and transmitted in the Pāḷi language. It contains the preserved oral record of the Buddha's long ministry, structured formally during the First Buddhist Council (*Paṭhama-saṅgīti*) held at Rājagaha immediately following his passing.
