@@ -97,7 +97,8 @@
 
 /* === Hero Banner Text Styles === */
 .page__hero--overlay .wrapper {
-  text-align: center; /* Move text to the center */
+  text-align: center; /* Center text */
+  padding-left: 10%; /* Slight offset to clear the logo on the left */
 }
 
 /* Enlarge the main title */
@@ -115,6 +116,9 @@
 
 /* Responsive: Make it even bigger on tablets/desktops */
 @media (min-width: 48em) {
+  .page__hero--overlay .wrapper {
+    padding-left: 12%; /* Slight offset on desktop */
+  }
   .page__hero--overlay .page__title {
     font-size: 4rem; /* Desktop size */
   }
