@@ -12,15 +12,15 @@ commentaries: ["Cariyapitaka-Atthakatha"]
 **Pāramī**: [f.] perfection; transcendent virtue. Derived from *parama* (highest, supreme, excellent) or from *pāraṃ* (the further shore) + root *mā* (to cross, bring across). Literally means "that which carries one across to the further shore of Nibbāna" or "the conduct of supreme persons."
 
 ### Orthodox Definition
-In orthodox Theravāda doctrine—crystallized within the late canonical books and extensively systematized by Ācariya Dhammapāla in the commentaries—*Pāramī* (or *Pāramitā*) refers to the noble qualities cultivated by a Bodhisatta over countless lifetimes to achieve final Buddhahood. 
+In orthodox Theravāda doctrine—crystallized within the late canonical books and extensively systematized by Ācariya Dhammapāla in the commentaries—*Pāramī* (or *Pāramitā*) refers to the noble qualities cultivated by a [Bodhisatta](/glossary/bodhisatta/) over countless lifetimes to achieve final Buddhahood. 
 
 While the general goal of Arahatship requires spiritual development, the full *Pāramī* matrix is explicitly the requirement for independent, supreme enlightenment (*Sammāsamodhi*).
 
 The Theravāda tradition recognizes **ten distinct perfections**:
-1. *Dāna* (Generosity)
-2. *Sīla* (Virtue/Morality)
-3. *Nekkhamma* (Renunciation)
-4. *Paññā* (Wisdom)
+1. *[Dāna](/glossary/dana/)* (Generosity)
+2. *[Sīla](/glossary/sila/)* (Virtue/Morality)
+3. *[Nekkhamma](/glossary/nekkhamma/)* (Renunciation)
+4. *[Paññā](/glossary/panna/)* (Wisdom)
 5. *Viriya* (Energy/Effort)
 6. *Khanti* (Patience/Forbearance)
 7. *Sacca* (Truthfulness)

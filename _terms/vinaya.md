@@ -15,7 +15,7 @@ commentaries: ["Samantapasadika"]
 In the architecture of the Theravāda textual transmission, *Vinaya* represents the monastic discipline and institutional laws established by the Buddha to govern the daily conduct of monks (*bhikkhus*) and nuns (*bhikkhunīs*). It is the first major division of the Tipiṭaka (*Vinaya Piṭaka*).
 
 The Vinaya operates on two parallel legal tracks:
-1. *Anā-deva* (The Rule of Command): The prohibitive laws codified into the **Pātimokkha** rules, designed to prevent bodily and verbal transgressions.
+1. *Anā-deva* (The Rule of Command): The prohibitive laws codified into the **[Pātimokkha](/glossary/patimokkha/)** rules, designed to prevent bodily and verbal transgressions.
 2. *Vatta* (The Duties and Protocols): The positive behavioral regulations concerning housing, robes, food, and interpersonal monastic relationships.
 
 The orthodox tradition maintains that the Vinaya is the absolute lifeblood of the Dispensation (*Vinayo nāma sāsanassa āyu*). As long as the Vinaya laws are strictly preserved and practiced by a valid monastic chapter, the structural transmission of the Sasana remains intact.

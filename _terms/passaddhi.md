@@ -18,7 +18,7 @@ In the Theravāda Abhidhamma, *passaddhi* is a beautiful mental factor split int
 
 It functions as the fifth factor of enlightenment (*passaddhi-sambojjhaṅga*). Its primary psychological role is to directly counteract and pacify the disturbing, burning stains of restlessness and remorse (*uddhacca-kukkucca*). 
 
-The *Atthasālinī* notes that its characteristic is the quietening of mental disturbance (*daratha-vūpasama-lakkhaṇā*), acting like an oasis cooling a traveler parched by desert heat. It prepares the mind to slide smoothly into deep concentration (*samādhi*), for as the Buddha stated: *"Passaddhakāyassa sukhaṃ hoti, sukhino cittaṃ samādhiyati"* (The body of the tranquil is at ease; the mind of one at ease becomes concentrated).
+The *Atthasālinī* notes that its characteristic is the quietening of mental disturbance (*daratha-vūpasama-lakkhaṇā*), acting like an oasis cooling a traveler parched by desert heat. It prepares the mind to slide smoothly into deep concentration (*[samādhi](/glossary/samadhi/)*), for as the Buddha stated: *"Passaddhakāyassa sukhaṃ hoti, sukhino cittaṃ samādhiyati"* (The body of the tranquil is at ease; the mind of one at ease becomes concentrated).
 
 ### Textual References
 * **Sutta**: *Ānāpānasati Sutta* (MN 118) – Charting how tranquilizing the bodily and mental formations fulfills the enlightenment factor of composure.

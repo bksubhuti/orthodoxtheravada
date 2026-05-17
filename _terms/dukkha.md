@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Dukkha**: [nt.; adj.] suffering; pain; unsatisfactoriness; stress; insecurity. Traditionally derived from *du* (bad, difficult) + *kha* (space, axle-hole), implying a wheel that fits badly on its axle, causing a jarring, unstable ride. Alternatively, from *du* (vile) + *khama* (to bear), meaning that which is hard to endure.
 
 ### Orthodox Definition
-*Dukkha* is the core existential problem that Buddhism sets out to diagnose and cure. In the *Ariyasacca* (Noble Truths) framework, it is the First Noble Truth, which must be fully understood (*pariññeyya*).
+*Dukkha* is the core existential problem that Buddhism sets out to diagnose and cure. In the *[Ariyasacca](/glossary/ariyasacca/)* (Noble Truths) framework, it is the First Noble Truth, which must be fully understood (*pariññeyya*).
 
 The Mahāvihāra commentary emphasizes that dukkha operates on three distinct levels of reality:
 1. *Dukkha-dukkha*: Suffering as ordinary physical pain, mental grief, and obvious distress.

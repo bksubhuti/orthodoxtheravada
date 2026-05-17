@@ -9,10 +9,10 @@ canonical_texts: ["Anguttara Nikaya", "Samyutta Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Āhāre paṭikūlasaññā**: [f.] the perception of repulsiveness in nutriment/food. Formed by *āhāre* (in food/nutriment) + *paṭikūla* (repulsive, disagreeable, disgusting) + *saññā* (perception).
+**Āhāre paṭikūlasaññā**: [f.] the perception of repulsiveness in nutriment/food. Formed by *āhāre* (in food/nutriment) + *paṭikūla* (repulsive, disagreeable, disgusting) + *[saññā](/glossary/sanna/)* (perception).
 
 ### Orthodox Definition
-*Āhāre paṭikūlasaññā* is a highly specialized meditation subject (*kammaṭṭhāna*) designed exclusively to shatter the hindrance of sensual desire (*kāmacchanda*), specifically the primal attachment to the taste of food (*rasa-taṇhā*).
+*Āhāre paṭikūlasaññā* is a highly specialized meditation subject (*kammaṭṭhāna*) designed exclusively to shatter the hindrance of sensual desire (*[kāmacchanda](/glossary/kamachanda/)*), specifically the primal attachment to the taste of food (*rasa-taṇhā*).
 
 The practitioner deliberately alters their perception of a meal by analyzing it through ten repulsive aspects:
 1. Going (the dirty path walked to collect alms).

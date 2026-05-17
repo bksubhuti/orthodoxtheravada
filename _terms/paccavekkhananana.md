@@ -19,7 +19,7 @@ This is a mundane cognitive process where the newly awakened disciple retrospect
 2. The Fruition they just attained.
 3. The Defilements that have been destroyed.
 4. The Defilements that still remain (except for an Arahat, who has none).
-5. Nibbāna, the object they just penetrated.
+5. [Nibbāna](/glossary/nibbana/), the object they just penetrated.
 
 This knowledge provides absolute psychological certainty of their attainment, ensuring they do not need to rely on faith or an external teacher to confirm their awakening.
 

@@ -15,7 +15,7 @@ commentaries: ["Samantapasadika"]
 The *Uposatha* is the primary recurring ritual day in the Theravāda calendar, aligned with the lunar cycle (occurring on the full moon, new moon, and sometimes the half-moon days). 
 
 It serves two distinct functions:
-1. **For the Saṅgha**: The full moon and new moon days are the mandatory times for the formal recitation of the *Pātimokkha*. All monks residing within a designated boundary (*sīmā*) must gather together. They purify themselves by confessing offenses, and then one monk recites the entire monastic code from memory.
+1. **For the [Saṅgha](/glossary/sangha/)**: The full moon and new moon days are the mandatory times for the formal recitation of the *[Pātimokkha](/glossary/patimokkha/)*. All monks residing within a designated boundary (*sīmā*) must gather together. They purify themselves by confessing offenses, and then one monk recites the entire monastic code from memory.
 2. **For the Laity**: Lay followers (*upāsakas* and *upāsikās*) utilize the Uposatha days to intensify their practice. They visit the monastery, listen to Dhamma talks, and elevate their daily five precepts to the **Eight Uposatha Precepts**, which include abstaining from eating after noon, entertainment, and sleeping on luxurious beds, essentially simulating the monastic life for 24 hours.
 
 ### Textual References

@@ -12,7 +12,7 @@ commentaries: ["Cariyapitaka-Atthakatha", "Visuddhimagga"]
 **Khanti**: [f.] patience; forbearance; tolerance; endurance. From root *kham* (to bear, endure, look forgivingly upon). Signifies the psychological stability that remains unperturbed under harsh conditions.
 
 ### Orthodox Definition
-*Khanti* is the sixth of the ten perfections (*pāramī*). Doctrinally rooted in the beautiful mental factor of non-hatred (*adosa-cetasika*), it serves as the ultimate defensive quality against the sudden arising of anger, aversion, and ill-will (*dosa*).
+*Khanti* is the sixth of the ten perfections (*[pāramī](/glossary/parami/)*). Doctrinally rooted in the beautiful mental factor of non-hatred (*adosa-cetasika*), it serves as the ultimate defensive quality against the sudden arising of anger, aversion, and ill-will (*[dosa](/glossary/dosa/)*).
 
 The orthodox commentaries split the application of khanti into three clear functional fields:
 1. *Adhivāsana-khanti* (Endurance of physical discomfort): Patiently bearing cold, heat, hunger, thirst, insect bites, and intense bodily pain without mental grief or whining.

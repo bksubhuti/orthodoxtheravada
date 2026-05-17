@@ -14,7 +14,7 @@ commentaries: ["Paramatthadipani"]
 ### Orthodox Definition
 The *Therīgāthā* is the ninth book of the Khuddaka Nikāya. It contains 522 verses spoken by 73 fully enlightened female disciples (Arahats). 
 
-It is widely considered one of the oldest collections of women's literature in the world. Like the *Theragāthā*, these are triumphant poems of liberation. The nuns recount their past sufferings—loss of children, domestic abuse, prostitution, the physical decay of aging, and the heavy burdens of the household life—and how the Dhamma provided them with absolute freedom. 
+It is widely considered one of the oldest collections of women's literature in the world. Like the *[Theragāthā](/glossary/theragatha/)*, these are triumphant poems of liberation. The nuns recount their past sufferings—loss of children, domestic abuse, prostitution, the physical decay of aging, and the heavy burdens of the household life—and how the Dhamma provided them with absolute freedom. 
 
 The text serves as the ultimate canonical proof of the Theravāda doctrine that women possess the exact same spiritual capacity to achieve Arahatship as men, experiencing the identical taste of liberation.
 

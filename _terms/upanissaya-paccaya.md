@@ -17,8 +17,8 @@ commentaries: ["Patthana-atthakatha"]
 It is divided into three categories:
 1. **Object Decisive Support**: An object that is so incredibly desirable that it forcibly pulls the mind toward it.
 2. **Proximity Decisive Support**: The immense momentum of the preceding mind-moment forcing the next one to arise.
-3. **Natural Decisive Support**: The most common usage. This explains how strong past habits, environmental conditions, or heavy kamma decisively cause future outcomes. For example, past giving (*dāna*) acts as a strong decisive support for future wealth. Good weather and heavy rain act as a decisive support for a successful harvest. 
+3. **Natural Decisive Support**: The most common usage. This explains how strong past habits, environmental conditions, or heavy [kamma](/glossary/kamma/) decisively cause future outcomes. For example, past giving (*dāna*) acts as a strong decisive support for future wealth. Good weather and heavy rain act as a decisive support for a successful harvest. 
 
 ### Textual References
-* **Abhidhamma**: *Paṭṭhāna* – Mapping how previous wholesome states act as a decisive support for later wholesome states, and how weather/food act as decisive supports for the body.
-* **Commentary**: *Paṭṭhāna-aṭṭhakathā* – Emphasizing the "strong" (*upa*) prefix to differentiate it from basic support.
+* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – Mapping how previous wholesome states act as a decisive support for later wholesome states, and how weather/food act as decisive supports for the body.
+* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – Emphasizing the "strong" (*upa*) prefix to differentiate it from basic support.

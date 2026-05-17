@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga", "Sammohavinodani"]
 **Avijjā**: [f.] ignorance; nescience; blindness. Formed by negative prefix *a* (not) + *vijjā* (true spiritual knowledge, clear vision). From root *vid* (to know, perceive). Literally means the active lack of correct spiritual vision.
 
 ### Orthodox Definition
-*Avijjā* is the absolute structural cornerstone of unwholesome reality. It is the first link in the twelve-fold chain of Dependent Origination (*avijjā-paccayā saṅkhārā*) and is doctrinally identical to the unwholesome mental factor of delusion (*moha-cetasika*).
+*Avijjā* is the absolute structural cornerstone of unwholesome reality. It is the first link in the twelve-fold chain of Dependent Origination (*avijjā-paccayā saṅkhārā*) and is doctrinally identical to the unwholesome mental factor of delusion (*[moha](/glossary/moha/)-cetasika*).
 
 The orthodox tradition defines avijjā not as mere general ignorance of worldly facts or academic data, but specifically as non-knowledge regarding four structural axes:
 1. Non-knowledge of suffering (*dukkha*).
@@ -24,5 +24,5 @@ The commentaries explain that avijjā acts like a thick psychological cataract, 
 
 ### Textual References
 * **Sutta**: *Avijjā Sutta* (SN 45.1) – Identifying ignorance as the forerunner of all unwholesome states, accompanied by shamelessness and recklessness.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Definition of Moha).
+* **Abhidhamma**: *Dhammasaṅgaṇī* (Definition of [Moha](/glossary/moha/)).
 * **Commentary**: *Sammohavinodanī* (Commentary on the Vibhaṅga) – Exhaustive analysis of how ignorance structures wrong perspectives.

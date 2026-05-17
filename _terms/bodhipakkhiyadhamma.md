@@ -15,13 +15,13 @@ commentaries: ["Visuddhimagga"]
 The *Bodhipakkhiyadhammā* are the **37 Wings to Awakening**, representing the absolute, comprehensive summary of the Buddha's practical teaching. Before his passing, the Buddha gathered the Saṅgha and declared that these exact 37 principles must be preserved and practiced to ensure the survival of the Dispensation.
 
 They are organized into seven distinct sets:
-1. The 4 Foundations of Mindfulness (*Satipaṭṭhāna*)
-2. The 4 Right Strivings (*Sammappadhāna*)
-3. The 4 Bases of Spiritual Power (*Iddhipāda*)
-4. The 5 Spiritual Faculties (*Indriya*)
-5. The 5 Spiritual Powers (*Bala*)
-6. The 7 Factors of Enlightenment (*Bojjhaṅga*)
-7. The Noble Eightfold Path (*Aṭṭhaṅgika Magga*)
+1. The 4 Foundations of Mindfulness (*[Satipaṭṭhāna](/glossary/satipatthana/)*)
+2. The 4 Right Strivings (*[Sammappadhāna](/glossary/sammappadhana/)*)
+3. The 4 Bases of Spiritual Power (*[Iddhipāda](/glossary/iddhipada/)*)
+4. The 5 Spiritual Faculties (*[Indriya](/glossary/indriya/)*)
+5. The 5 Spiritual Powers (*[Bala](/glossary/bala/)*)
+6. The 7 Factors of Enlightenment (*[Bojjhaṅga](/glossary/bojjhanga/)*)
+7. The Noble Eightfold Path (*Aṭṭhaṅgika [Magga](/glossary/magga/)*)
 
 The *Visuddhimagga* explains that while these appear as 37 distinct items, doctrinally they reduce to just 14 ultimate mental factors (*cetasika*) operating under different functional titles (e.g., *sati* appears as a foundation, a faculty, a power, an enlightenment factor, and a path factor). 
 

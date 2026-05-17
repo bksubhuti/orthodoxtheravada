@@ -15,8 +15,8 @@ commentaries: ["Visuddhimagga"]
 *Bhāvanā* is the Theravāda term for what the modern world calls "meditation," but its orthodox meaning is far more active and structural. It does not mean emptying the mind or passively relaxing; it means the deliberate, energetic cultivation and multiplication of wholesome mental factors (*kusala-cetasika*).
 
 It operates structurally across two distinct systems:
-1. *Samatha-bhāvanā* (Cultivation of Tranquility): Developing concentration (*samādhi*) to suppress the hindrances and achieve absorption (*jhāna*).
-2. *Vipassanā-bhāvanā* (Cultivation of Insight): Developing wisdom (*paññā*) to penetrate the three characteristics of reality (*anicca*, *dukkha*, *anattā*) and uproot defilements permanently.
+1. *[Samatha](/glossary/samatha/)-bhāvanā* (Cultivation of Tranquility): Developing concentration (*samādhi*) to suppress the hindrances and achieve absorption (*jhāna*).
+2. *[Vipassanā](/glossary/vipassana/)-bhāvanā* (Cultivation of Insight): Developing wisdom (*paññā*) to penetrate the three characteristics of reality (*anicca*, *dukkha*, *anattā*) and uproot defilements permanently.
 
 As a basis of merit (*puññakiriya-vatthu*), *bhāvanā* is considered the highest possible worldly action, yielding vastly more karmic power than generosity (*dāna*) or morality (*sīla*), because it directly purifies the core operating system of consciousness.
 

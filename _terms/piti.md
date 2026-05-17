@@ -14,7 +14,7 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 ### Orthodox Definition
 *Pīti* is classified in the Abhidhamma as a miscellaneous mental factor (*pakiṇṇaka-cetasika*), capable of arising in wholesome, unwholesome (greed-rooted), or functional consciousness. In the context of meditation, it is the fourth factor of enlightenment (*pīti-sambojjhaṅga*) and an essential factor of the first and second *jhānas*.
 
-The commentaries place massive emphasis on separating *pīti* (which is a mental formation or *saṅkhāra* representing structural interest and excitement) from *sukha* (which is actual pleasant feeling or *vedanā*). Pīti is like a thirsty desert traveler seeing an oasis in the distance; *sukha* is that traveler actually drinking the water.
+The commentaries place massive emphasis on separating *pīti* (which is a mental formation or *saṅkhāra* representing structural interest and excitement) from *[sukha](/glossary/sukha/)* (which is actual pleasant feeling or *vedanā*). Pīti is like a thirsty desert traveler seeing an oasis in the distance; *[sukha](/glossary/sukha/)* is that traveler actually drinking the water.
 
 The *Visuddhimagga* taxonomizes **five progressive intensities of meditative pīti**:
 1. *Khuddikā pīti* (Minor rapture): Causing the hair on the body to stand on end.

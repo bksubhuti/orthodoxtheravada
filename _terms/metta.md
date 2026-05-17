@@ -14,7 +14,7 @@ commentaries: ["Visuddhimagga", "Paramatthadipani"]
 ### Orthodox Definition
 *Mettā* is the sincere wish for the welfare, safety, and true happiness of all sentient beings without exception. Doctrinally, it is the mental factor of non-hatred (*adosa-cetasika*) expressed in an active, expansive manner. It is completely distinct from sentimental or personal affection (*sineha*), which is rooted in selfish attachment and craving (*taṇhā*).
 
-Mettā stands as the first of the four boundless states or divine abodes (*brahmavihāra*). Its primary psychological function is to directly counteract and extinguish anger, ill-will, and aversion (*dosa*).
+Mettā stands as the first of the four boundless states or divine abodes (*[brahmavihāra](/glossary/brahmavihara/)*). Its primary psychological function is to directly counteract and extinguish anger, ill-will, and aversion (*[dosa](/glossary/dosa/)*).
 
 The *Visuddhimagga* defines its specific parameters:
 * **Lakkhaṇa** (Characteristic): Promoting the welfare of beings.

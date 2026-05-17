@@ -12,7 +12,7 @@ commentaries: ["Sumangalavilasini", "Dhammapada-Atthakatha"]
 **Appamāda**: [m.] heedfulness; diligence; non-negligence; earnestness. Formed by negative prefix *a* (not) + *pamāda* (negligence, laziness, intoxication, carelessness). 
 
 ### Orthodox Definition
-*Appamāda* is arguably the single most important practical exhortation in the Theravāda tradition. It represents the constant, unwavering presence of mindfulness (*sati*) coupled with the energetic drive (*viriya*) to protect the mind from defilements and urgently cultivate wholesome states.
+*Appamāda* is arguably the single most important practical exhortation in the Theravāda tradition. It represents the constant, unwavering presence of mindfulness (*[sati](/glossary/sati/)*) coupled with the energetic drive (*[viriya](/glossary/viriya/)*) to protect the mind from defilements and urgently cultivate wholesome states.
 
 The commentaries define its characteristic as the non-relaxing of attention toward wholesome states (*kusaladhammesu avossagga-lakkhaṇo*). It is the psychological opposite of spiritual drifting, laziness, and sensory intoxication. 
 

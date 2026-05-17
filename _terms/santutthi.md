@@ -14,7 +14,7 @@ commentaries: ["Visuddhimagga", "Papancasudani"]
 ### Orthodox Definition
 *Santuṭṭhi* is the supreme ascetic virtue of contentment. In the Theravāda monastic framework, it specifically refers to being completely satisfied with whatever basic requisites (*paccaya*) one receives—robes, alms food, lodging, and medicine—regardless of whether they are coarse or refined, plentiful or scarce.
 
-Doctrinally, it is driven by the wholesome mental factor of non-greed (*alobha-cetasika*). The commentaries map contentment into three precise levels:
+Doctrinally, it is driven by the wholesome mental factor of non-greed (*[alobha](/glossary/alobha/)-cetasika*). The commentaries map contentment into three precise levels:
 1. *Yathālābha-santuṭṭhi*: Contentment with whatever is actually received, without wishing for more.
 2. *Yathābala-santuṭṭhi*: Contentment with what is appropriate for one's physical strength or health (e.g., trading a heavy robe for a lighter one if sick, without greed).
 3. *Yathāsāruppa-santuṭṭhi*: Contentment with what is suitable for a renunciant (e.g., rejecting an overly luxurious item and accepting a humble one instead).

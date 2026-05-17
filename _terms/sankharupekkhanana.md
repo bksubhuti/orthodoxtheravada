@@ -9,7 +9,7 @@ canonical_texts: ["Patisambhidamagga"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Saṅkhārupekkhāñāṇa**: [nt.] Knowledge of equanimity towards formations. Formed by *saṅkhāra* (formations, conditioned phenomena) + *upekkhā* (equanimity, perfect balance) + *ñāṇa* (knowledge).
+**Saṅkhārupekkhāñāṇa**: [nt.] Knowledge of equanimity towards formations. Formed by *saṅkhāra* (formations, conditioned phenomena) + *[upekkhā](/glossary/upekkhā/)* (equanimity, perfect balance) + *ñāṇa* (knowledge).
 
 ### Orthodox Definition
 *Saṅkhārupekkhāñāṇa* is the absolute pinnacle of mundane insight meditation. Having thoroughly re-observed the empty nature of reality, the mind gives up all struggle, fear, and even the aggressive desire to escape. It falls into a state of profound, unshakable neutrality toward all conditioned things. 

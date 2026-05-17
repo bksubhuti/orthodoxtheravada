@@ -9,10 +9,10 @@ canonical_texts: ["Majjhima Nikaya", "Digha Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Āsavakkhayañāṇa**: [nt.] knowledge of the destruction of the taints. Formed by *āsava* (taints, influxes) + *khaya* (destruction, exhaustion) + *ñāṇa* (knowledge). 
+**Āsavakkhayañāṇa**: [nt.] knowledge of the destruction of the taints. Formed by *[āsava](/glossary/asava/)* (taints, influxes) + *khaya* (destruction, exhaustion) + *ñāṇa* (knowledge). 
 
 ### Orthodox Definition
-*Āsavakkhayañāṇa* is the sixth and final supernormal knowledge (*abhiññā*). Unlike the first five, which are mundane and bound to saṃsāra, this knowledge is strictly supramundane (*lokuttara*). It was the third and final knowledge attained by the Buddha in the last watch of the night, finalizing his supreme awakening.
+*Āsavakkhayañāṇa* is the sixth and final supernormal knowledge (*[abhiññā](/glossary/abhinna/)*). Unlike the first five, which are mundane and bound to saṃsāra, this knowledge is strictly supramundane (*lokuttara*). It was the third and final knowledge attained by the Buddha in the last watch of the night, finalizing his supreme awakening.
 
 This knowledge occurs when the mind perfectly penetrates the Four Noble Truths. The meditator directly sees: "This is suffering, this is the origin, this is the cessation, this is the path... These are the taints, this is their origin, this is their cessation, this is the path leading to their cessation." 
 

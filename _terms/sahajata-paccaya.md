@@ -19,5 +19,5 @@ In Abhidhamma, consciousness (*citta*) and mental factors (*cetasikas*) always a
 The standard commentarial simile is the lighting of a lamp. At the exact millisecond the flame is ignited, the light and the heat are simultaneously generated. The flame acts as the co-nascence condition for the light and heat.
 
 ### Textual References
-* **Abhidhamma**: *Paṭṭhāna* – Mapping how the four immaterial aggregates mutually condition one another via co-nascence.
-* **Commentary**: *Paṭṭhāna-aṭṭhakathā* – Providing the simile of the burning lamp, illustrating simultaneous causality that defies linear time.
+* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – Mapping how the four immaterial aggregates mutually condition one another via co-nascence.
+* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – Providing the simile of the burning lamp, illustrating simultaneous causality that defies linear time.

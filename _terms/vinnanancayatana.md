@@ -9,10 +9,10 @@ canonical_texts: ["Majjhima Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Viññāṇañcāyatana**: [nt.] the base of infinite consciousness; the sphere of boundless cognition. Formed by *viññāṇa* (consciousness) + *ananta* (infinite) + *āyatana* (base).
+**Viññāṇañcāyatana**: [nt.] the base of infinite consciousness; the sphere of boundless cognition. Formed by *[viññāṇa](/glossary/vinnana/)* (consciousness) + *ananta* (infinite) + *āyatana* (base).
 
 ### Orthodox Definition
-*Viññāṇañcāyatana* is the second of the four immaterial absorptions (*arūpajhāna*). To attain this state, the meditator must master the first immaterial absorption (Infinite Space), emerge from it, and realize that the concept of "space" is still too close to the material realm and relatively coarse.
+*Viññāṇañcāyatana* is the second of the four immaterial absorptions (*[arūpajhāna](/glossary/arupajhana/)*). To attain this state, the meditator must master the first immaterial absorption (Infinite Space), emerge from it, and realize that the concept of "space" is still too close to the material realm and relatively coarse.
 
 The meditator withdraws their attention from the *concept* of infinite space and instead locks their attention onto the *consciousness* that was aware of that space. Because the preceding consciousness pervaded an infinite object, the consciousness itself is perceived as infinite. The mind absorbs into this state, repeating "infinite consciousness, infinite consciousness."
 

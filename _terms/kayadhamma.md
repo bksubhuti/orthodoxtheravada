@@ -12,7 +12,7 @@ commentaries: ["Papañcasudani"]
 **Kāyadhamma**: [m.] Bodily phenomenon; bodily action; bodily states. Formed by *kāya* (body) + *dhamma* (phenomenon, state, doctrine). Often used synonymously with *Kāyakamma* (bodily action).
 
 ### Orthodox Definition
-In the context of the courses of action (*kammapatha*), *Kāyadhamma* refers to volitional actions executed through the physical door of the body. 
+In the context of the courses of action (*[kammapatha](/glossary/kamma-patha/)*), *Kāyadhamma* refers to volitional actions executed through the physical door of the body. 
 
 There are three unwholesome bodily kammas:
 1. **Pāṇātipātā** (Killing living beings).

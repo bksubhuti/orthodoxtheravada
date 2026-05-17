@@ -12,7 +12,7 @@ commentaries: ["Manorathapurani"]
 **Aṅguttaranikāya**: [m.] The Collection of Numerical Discourses; The "Further-factored" Collection. Formed by *aṅga* (factor, part, item) + *uttara* (higher, further) + *nikāya* (collection). 
 
 ### Orthodox Definition
-The *Aṅguttara-nikāya* is the fourth collection of the Sutta-piṭaka, containing **over 9,000 short discourses**. It is structured purely by numerical progression, functioning essentially as the encyclopedia or index of the Buddha's teachings.
+The *Aṅguttara-nikāya* is the fourth collection of the [Sutta-piṭaka](/glossary/sutta-pitaka/), containing **over 9,000 short discourses**. It is structured purely by numerical progression, functioning essentially as the encyclopedia or index of the Buddha's teachings.
 
 It begins with the "Book of the Ones" (lists of single items), proceeds to the "Book of the Twos" (e.g., the two types of fools), and progresses mathematically up to the "Book of the Elevens." 
 

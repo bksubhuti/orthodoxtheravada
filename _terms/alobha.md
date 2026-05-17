@@ -12,7 +12,7 @@ commentaries: ["Atthasalini"]
 **Alobha**: [m.] Non-greed; unselfishness; detachment. Formed by negative prefix *a* (not, without) + *lobha* (greed, clinging, lust).
 
 ### Orthodox Definition
-*Alobha* is the first of the three Wholesome Roots (*kusala-mūla*). It is a beautiful mental factor (*sobhana-cetasika*) present in every single wholesome state of consciousness. 
+*Alobha* is the first of the three Wholesome Roots (*[kusala-mūla](/glossary/kusala-mula/)*). It is a beautiful mental factor (*sobhana-[cetasika](/glossary/cetasika/)*) present in every single wholesome state of consciousness. 
 
 Although formulated as a negative word (non-greed), its psychological function is entirely positive. It ranges from the basic generosity (*dāna*) of giving away material possessions, to the profound detachment of renunciation (*nekkhamma*). The commentaries compare *Alobha* to a drop of water on a lotus leaf; just as the water rolls off without adhering to the leaf, a mind rooted in *alobha* experiences the sensory world without adhering or clinging to objects. It is the direct psychological antidote to the sticky, adhesive quality of craving.
 

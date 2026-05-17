@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Vīmaṃsā**: [f.] investigation; ingenuity; analysis; critical examination. Derived from root *mān* (to think, consider, weigh). 
 
 ### Orthodox Definition
-*Vīmaṃsā* is the **Fourth Base of Spiritual Power** (*Iddhipāda*). Doctrinally, it is absolutely identical to the faculty of wisdom (*paññā*) and the enlightenment factor of investigation (*dhammavicaya*). 
+*Vīmaṃsā* is the **Fourth Base of Spiritual Power** (*[Iddhipāda](/glossary/iddhipada/)*). Doctrinally, it is absolutely identical to the faculty of wisdom (*[paññā](/glossary/panna/)*) and the enlightenment factor of investigation (*[dhammavicaya](/glossary/dhammavicaya/)*). 
 
 When operating as a base of power, *vīmaṃsā* represents the supreme ingenuity and analytical sharpness of the meditator. If a practitioner is struggling to calm the mind or penetrate a concept, they do not rely on sheer willpower or brute-force energy; instead, they use *vīmaṃsā* to critically dissect the problem, adjust their meditation object, outsmart their own defilements, and engineer a breakthrough.
 

@@ -12,7 +12,7 @@ commentaries: ["Samantapasadika", "Sumangalavilasini", "Atthasalini"]
 **Aṭṭhakathā**: [f.] Commentary; explanation of meaning. Formed by *attha* (meaning, sense, purpose) + *kathā* (talk, speech, discourse).
 
 ### Orthodox Definition
-The *Aṭṭhakathā* constitutes the vast body of classical Theravāda commentaries. While the Tipiṭaka contains the words of the Buddha, the *Aṭṭhakathā* contains the orthodox Mahāvihāra interpretations of those words. 
+The *Aṭṭhakathā* constitutes the vast body of classical Theravāda commentaries. While the Tipiṭaka contains the words of the Buddha, the *Aṭṭhakathā* contains the orthodox [Mahāvihāra](/glossary/maha-vihara/) interpretations of those words. 
 
 According to tradition, the original commentaries were brought to Sri Lanka by Venerable Mahinda in the 3rd century BCE and preserved in the old Sinhalese language. In the 5th century CE, great scholars—most notably **Venerable Buddhaghosa**, along with Dhammapāla, Buddhadatta, and Upasena—traveled to Sri Lanka and translated these massive works back into Pāli.
 

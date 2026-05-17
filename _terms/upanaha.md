@@ -12,9 +12,9 @@ commentaries: ["Papancasudani"]
 **Upanāha**: [m.] resentment; enmity; holding a grudge; bearing ill-will. Formed by prefix *upa* (closely) + root *nah* (to tie, bind). Literally means "to tie up closely" or "binding anger to oneself."
 
 ### Orthodox Definition
-*Upanāha* operates as the dangerous continuation of *kodha* (anger). Ranked as a minor defilement (*upakkilesa*), it represents the mind's refusal to let go of an offense.
+*Upanāha* operates as the dangerous continuation of *[kodha](/glossary/kodha/)* (anger). Ranked as a minor defilement (*[upakkilesa](/glossary/upakkilesa/)*), it represents the mind's refusal to let go of an offense.
 
-While *kodha* is the initial explosion of wrath, *upanāha* is the deliberate tying of that anger into a permanent knot. A person afflicted by this defilement constantly replays past wrongs in their mind: "He insulted me, he hit me, he defeated me, he robbed me." By holding onto these grudges, the practitioner ensures their own continuous suffering and locks themselves in karmic feuds that span across multiple lifetimes.
+While *[kodha](/glossary/kodha/)* is the initial explosion of wrath, *upanāha* is the deliberate tying of that anger into a permanent knot. A person afflicted by this defilement constantly replays past wrongs in their mind: "He insulted me, he hit me, he defeated me, he robbed me." By holding onto these grudges, the practitioner ensures their own continuous suffering and locks themselves in karmic feuds that span across multiple lifetimes.
 
 The *Dhammapada* states explicitly that those who harbor *upanāha* can never pacify their hatred. It is abandoned through wise reflection on the law of kamma and the cultivation of forgiveness.
 

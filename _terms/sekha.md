@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga", "Sumangalavilasini"]
 **Sekha**: [m.; adj.] a learner; a noble disciple undergoing training; trainee. From root *sikkh* (to train, study, learn). Doctrinally designates an individual who has entered the higher supramundane training.
 
 ### Orthodox Definition
-A *Sekha* is any individual who has successfully transitioned out of the worldling status (*puthujjana*) by directly capturing the first supramundane path-consciousness, yet has not completed final liberation. A sekha is an active trainee under the Three Higher Trainings (*adhisīla*, *adhicitta*, *adhipaññā*).
+A *Sekha* is any individual who has successfully transitioned out of the worldling status (*[puthujjana](/glossary/puthujjana/)*) by directly capturing the first supramundane path-consciousness, yet has not completed final liberation. A sekha is an active trainee under the Three Higher Trainings (*adhisīla*, *adhicitta*, *adhipaññā*).
 
 The sekha taxonomy encompasses exactly **seven of the eight noble individuals** (*ariya-puggala*):
 1. The one standing on the path of Stream-entry (*sotāpatti-maggaṭṭho*).

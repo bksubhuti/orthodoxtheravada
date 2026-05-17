@@ -9,10 +9,10 @@ canonical_texts: ["Petavatthu"]
 commentaries: ["Paramatthadipani"]
 ---
 ### Grammatical Analysis
-**Petavatthu**: [nt.] Stories of the Hungry Ghosts. Formed by *peta* (departed spirit, hungry ghost) + *vatthu* (story).
+**Petavatthu**: [nt.] Stories of the Hungry Ghosts. Formed by *[peta](/glossary/peta/)* (departed spirit, hungry ghost) + *vatthu* (story).
 
 ### Orthodox Definition
-The *Petavatthu* is the seventh book of the Khuddaka Nikāya, serving as the dark, karmic mirror to the *Vimānavatthu*. It contains 51 stories demonstrating the horrific karmic consequences of unwholesome deeds, specifically stinginess, malice, and disrespect for the Saṅgha.
+The *Petavatthu* is the seventh book of the Khuddaka Nikāya, serving as the dark, karmic mirror to the *[Vimānavatthu](/glossary/vimanavatthu/)*. It contains 51 stories demonstrating the horrific karmic consequences of unwholesome deeds, specifically stinginess, malice, and disrespect for the Saṅgha.
 
 Venerable Mahāmoggallāna (and other monks) encounter wretched beings (*petas*) suffering from extreme hunger, thirst, or grotesque physical deformities. When asked about their past karma, the ghosts recount their earthly deeds of greed, stealing from the monastic order, or abusing their parents. 
 
@@ -20,4 +20,4 @@ Crucially, the *Petavatthu* establishes the orthodox Theravāda mechanics for th
 
 ### Textual References
 * **Canonical**: *Tirokuṭṭa Sutta* (Pv 1.5) – The foundational discourse on merit-sharing, describing ghosts standing outside the walls of their former homes waiting for their relatives to make offerings on their behalf.
-* **Commentary**: *Paramatthadīpanī* – Detailing the exact malicious acts that lead to rebirth in the Peta realm.
+* **Commentary**: *Paramatthadīpanī* – Detailing the exact malicious acts that lead to rebirth in the [Peta](/glossary/peta/) realm.

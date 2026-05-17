@@ -17,11 +17,11 @@ commentaries: ["Visuddhimagga"]
 The *Visuddhimagga* notes that the characteristic of sīla is the establishing of order, coordination, and harmony (*sīlana-lakkhaṇa*), which provides a foundation free of remorse, allowing concentration (*samādhi*) to develop.
 
 For different segments of the community, sīla is structured into distinct tiers of training rules:
-* For lay devotees: The permanent observation of the **Pañcasīla** (Five Precepts) and the periodic training of the **Aṭṭhaṅgasīla** (Eight Precepts) on Uposatha days.
+* For lay devotees: The permanent observation of the **[Pañcasīla](/glossary/pancasila/)** (Five Precepts) and the periodic training of the **Aṭṭhaṅgasīla** (Eight Precepts) on Uposatha days.
 * For novices (*sāmaṇera*): The **Dasasīla** (Ten Precepts).
-* For fully ordained monks (*bhikkhu*): The exhaustive **Catu-pārisuddhi-sīla** (Fourfold Purification Virtue), which includes Patimokkha restraint, sense faculty restraint, livelihood purification, and the proper reflection on monastical requisites.
+* For fully ordained monks (*bhikkhu*): The exhaustive **Catu-pārisuddhi-sīla** (Fourfold Purification Virtue), which includes [Patimokkha](/glossary/patimokkha/) restraint, sense faculty restraint, livelihood purification, and the proper reflection on monastical requisites.
 
 ### Textual References
 * **Sutta**: *Sāmaññaphala Sutta* (DN 2) – Section detailing the gradual training in moral discipline.
-* **Vinaya**: *Bhikkhupātimokkham* – Code of disciplinary restraint.
+* **[Vinaya](/glossary/vinaya/)**: *Bhikkhupātimokkham* – Code of disciplinary restraint.
 * **Commentary**: *Visuddhimagga* (Part I, Chapters I and II) – Detailed mapping of the varieties, benefits, and purification of moral virtue.

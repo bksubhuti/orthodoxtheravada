@@ -9,10 +9,10 @@ canonical_texts: ["Majjhima Nikaya", "Samyutta Nikaya"]
 commentaries: ["Visuddhimagga", "Papancasudani"]
 ---
 ### Grammatical Analysis
-**Ānāpānasati**: [f.] mindfulness of breathing. Formed by *āna* (in-breath) + *apāna* (out-breath) + *sati* (mindfulness). Meaning: anchoring the presence of mind explicitly onto the sensation of the breath.
+**Ānāpānasati**: [f.] mindfulness of breathing. Formed by *āna* (in-breath) + *apāna* (out-breath) + *[sati](/glossary/sati/)* (mindfulness). Meaning: anchoring the presence of mind explicitly onto the sensation of the breath.
 
 ### Orthodox Definition
-*Ānāpānasati* is one of the most widely praised and structurally complete meditation objects (*kammaṭṭhāna*) in the Pāḷi Canon, serving as the vehicle through which the Buddha himself attained supreme enlightenment. It is uniquely capable of fulfilling both tranquility (*samatha*) down to the fourth *jhāna* and insight (*vipassanā*) culminating in Arahatship.
+*Ānāpānasati* is one of the most widely praised and structurally complete meditation objects (*kammaṭṭhāna*) in the Pāḷi Canon, serving as the vehicle through which the Buddha himself attained supreme enlightenment. It is uniquely capable of fulfilling both tranquility (*[samatha](/glossary/samatha/)*) down to the fourth *[jhāna](/glossary/jhana/)* and insight (*[vipassanā](/glossary/vipassana/)*) culminating in Arahatship.
 
 The canonical execution is structured strictly into **four tetrads (sixteen total steps)**:
 * **The First Tetrad (Body):** Experiencing long breaths, short breaths, the entire breath body, and calming the bodily formation.

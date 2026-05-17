@@ -12,7 +12,7 @@ commentaries: ["Atthasalini", "Visuddhimagga"]
 **Vicikicchā**: [f.] skeptical doubt; indecision; perplexity. Traditionally derived from *vi* (vexed, apart) + root *cit* (to think), meaning a split mind or vexed thinking. Alternatively, from *vici* (investigating) + *kiccha* (tiresome), implying a tiring, unwholesome drifting that never arrives at a firm conclusion.
 
 ### Orthodox Definition
-*Vicikicchā* is the fifth of the five mental hindrances (*nīvaraṇa*) and the second of the ten binding fetters (*saṃyojana*). It is a specific unwholesome mental factor (*akusala-cetasika*) that completely paralyzes spiritual execution. 
+*Vicikicchā* is the fifth of the five mental hindrances (*[nīvaraṇa](/glossary/nivarana/)*) and the second of the ten binding fetters (*[saṃyojana](/glossary/samyojana/)*). It is a specific unwholesome mental factor (*akusala-cetasika*) that completely paralyzes spiritual execution. 
 
 The orthodox definition separates wholesome, analytical questioning (seeking clarification on dhamma) from *Vicikicchā*, which is a cynical, chronic paralysis regarding eight strategic points:
 1. Doubt in the Buddha's enlightenment.
@@ -24,7 +24,7 @@ The orthodox definition separates wholesome, analytical questioning (seeking cla
 7. Doubt regarding both past and future.
 8. Doubt regarding the causal links of Dependent Origination.
 
-It acts like standing at a crossroads in a desert without a map. It is temporarily suppressed by the jhāna factor of sustained thought (*vicāra*) and is **completely eradicated forever at the moment of Stream-entry (*Sotāpanna*)**.
+It acts like standing at a crossroads in a desert without a map. It is temporarily suppressed by the jhāna factor of sustained thought (*vicāra*) and is **completely eradicated forever at the moment of Stream-entry (*[Sotāpanna](/glossary/sotapanna/)*)**.
 
 ### Textual References
 * **Sutta**: *Kālāma Sutta* (AN 3.65) – Where the Buddha validates natural, investigative perplexity but shows how to move through it to absolute certainty.

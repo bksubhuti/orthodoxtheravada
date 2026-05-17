@@ -9,7 +9,7 @@ canonical_texts: ["Majjhima Nikaya", "Dhammasangani"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Āpodhātu**: [f.] water element; element of cohesion; fluidity. Formed by *āpo* (water, liquid) + *dhātu* (element). 
+**Āpodhātu**: [f.] water element; element of cohesion; fluidity. Formed by *āpo* (water, liquid) + *[dhātu](/glossary/dhatu/)* (element). 
 
 ### Orthodox Definition
 *Āpodhātu* is the second of the four great physical elements (*mahābhūta*). Rather than literal water, it represents the abstract material principle of **cohesion, binding, and fluidity**. 

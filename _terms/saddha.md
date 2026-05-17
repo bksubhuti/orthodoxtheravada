@@ -18,7 +18,7 @@ The *Visuddhimagga* and *Atthasālinī* define its structural qualities using tw
 1. *Sampasādana-lakkhaṇā* (Purifying characteristic): It acts like a water-clearing gem thrown into muddy water, causing all dirt, impurities, and hindrances to instantly settle to the bottom, leaving the mind crystalline and calm (*serenity*).
 2. *Sampakkhandhana-lakkhaṇā* (Leaping forward characteristic): It acts like a courageous commander who leaps across a dangerous stream to lead troops safely across, inspiring the other spiritual faculties to exert themselves.
 
-Saddhā serves as the first of the five spiritual faculties (*indriya*) and spiritual powers (*bala*). It must be balanced perfectly with wisdom (*paññā*) to prevent sliding into naive devotion, just as concentration must be balanced with energy.
+Saddhā serves as the first of the five spiritual faculties (*[indriya](/glossary/indriya/)*) and spiritual powers (*[bala](/glossary/bala/)*). It must be balanced perfectly with wisdom (*paññā*) to prevent sliding into naive devotion, just as concentration must be balanced with energy.
 
 ### Textual References
 * **Sutta**: *Cṅkī Sutta* (MN 95) – Exploring the critical distinction between merely preserving an inherited belief and actually discovering and realizing ultimate truth.

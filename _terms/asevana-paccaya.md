@@ -19,5 +19,5 @@ In a standard cognitive process (*citta-vīthi*), the active, karmically potent 
 The commentaries use the simile of reading a book. The first time you read a text, you stumble over the words. The second time, it is easier. By the seventh time, you can recite it flawlessly. The previous readings act as a repetition condition for the mastery of the final reading.
 
 ### Textual References
-* **Abhidhamma**: *Paṭṭhāna* – "Preceding wholesome states are related to succeeding wholesome states by repetition condition."
-* **Commentary**: *Paṭṭhāna-aṭṭhakathā* – Providing the simile of applying multiple coats of perfume to a garment, where each coat makes the scent stronger.
+* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – "Preceding wholesome states are related to succeeding wholesome states by repetition condition."
+* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – Providing the simile of applying multiple coats of perfume to a garment, where each coat makes the scent stronger.

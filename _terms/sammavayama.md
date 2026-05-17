@@ -9,12 +9,12 @@ canonical_texts: ["Samyutta Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Sammāvāyāma**: [m.] Right Effort; Correct Exertion; Perfect Striving. Formed by *sammā* (correctly) + *vāyāma* (effort, struggle, labor). Doctrinally identical to the mental factor of energy (*viriya-cetasika*) directed toward spiritual development.
+**Sammāvāyāma**: [m.] Right Effort; Correct Exertion; Perfect Striving. Formed by *sammā* (correctly) + *vāyāma* (effort, struggle, labor). Doctrinally identical to the mental factor of energy (*[viriya](/glossary/viriya/)-cetasika*) directed toward spiritual development.
 
 ### Orthodox Definition
-*Sammāvāyāma* is the sixth limb of the Noble Eightfold Path and the first component of the concentration division (*samādhi-sikkhā*). It represents the heroic driving power that prevents the path from becoming an empty intellectual exercise.
+*Sammāvāyāma* is the sixth limb of the Noble Eightfold Path and the first component of the concentration division (*[samādhi](/glossary/samadhi/)-sikkhā*). It represents the heroic driving power that prevents the path from becoming an empty intellectual exercise.
 
-The Buddha formalized Right Effort into **four distinct structural strivings** (*sammappadhāna*):
+The Buddha formalized Right Effort into **four distinct structural strivings** (*[sammappadhāna](/glossary/sammappadhana/)*):
 1. *Saṃvara-ppadhāna* (Effort to Prevent): Rousing the will to prevent unarisen unwholesome states (such as hindrances) from flashing into existence.
 2. *Pahāna-ppadhāna* (Effort to Abandon): Rousing energy to actively discard and drive out unwholesome states that have already manifested.
 3. *Bhāvanā-ppadhāna* (Effort to Cultivate): Exerting the mind to initiate and awaken unarisen wholesome states (such as the factors of enlightenment).
@@ -22,5 +22,5 @@ The Buddha formalized Right Effort into **four distinct structural strivings** (
 
 ### Textual References
 * **Sutta**: *Padhāna Sutta* (AN 4.14) – Foundational mapping of the four distinct functional methods of correct spiritual striving.
-* **Abhidhamma**: *Vibhaṅga* (Magga-vibhaṅga exposition).
+* **Abhidhamma**: *Vibhaṅga* ([Magga](/glossary/magga/)-vibhaṅga exposition).
 * **Commentary**: *Visuddhimagga* (Chapter XXII) – Detailing how energy transforms from a fluctuating, unstable element into an unmoving supramundane path factor.

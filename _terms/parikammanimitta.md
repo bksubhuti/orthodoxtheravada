@@ -9,10 +9,10 @@ canonical_texts: ["Patisambhidamagga"]
 commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ---
 ### Grammatical Analysis
-**Parikammanimitta**: [nt.] preparatory sign; preliminary object. Formed by *parikamma* (preparation, preliminary action, arrangement) + *nimitta* (sign/image).
+**Parikammanimitta**: [nt.] preparatory sign; preliminary object. Formed by *parikamma* (preparation, preliminary action, arrangement) + *[nimitta](/glossary/nimitta/)* (sign/image).
 
 ### Orthodox Definition
-The *Parikammanimitta* is the very first stage of the meditation object in the development of tranquility (*samatha*). It is the raw, physical object that the beginner practitioner uses to anchor their wandering mind.
+The *Parikammanimitta* is the very first stage of the meditation object in the development of tranquility (*[samatha](/glossary/samatha/)*). It is the raw, physical object that the beginner practitioner uses to anchor their wandering mind.
 
 For example, in Earth Kasiṇa meditation, the *parikammanimitta* is an actual physical disc made of clay that the monk places on the ground in front of him. In *Ānāpānasati* (mindfulness of breathing), it is the actual tactile sensation of the air striking the tip of the nose or the upper lip. 
 

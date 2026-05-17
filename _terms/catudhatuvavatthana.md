@@ -9,10 +9,10 @@ canonical_texts: ["Majjhima Nikaya", "Digha Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Catudhātuvavatthāna**: [nt.] analysis of the four elements; definition of the four elements. Formed by *catu* (four) + *dhātu* (element) + *vavatthāna* (determining, analyzing, defining).
+**Catudhātuvavatthāna**: [nt.] analysis of the four elements; definition of the four elements. Formed by *catu* (four) + *[dhātu](/glossary/dhatu/)* (element) + *vavatthāna* (determining, analyzing, defining).
 
 ### Orthodox Definition
-*Catudhātuvavatthāna* is the foundational practice for transitioning from tranquility (*samatha*) into insight (*vipassanā*). It is the mental dissection of the physical body into the four abstract material principles: Earth (solidity), Water (cohesion), Fire (temperature), and Wind (motion).
+*Catudhātuvavatthāna* is the foundational practice for transitioning from tranquility (*samatha*) into insight (*[vipassanā](/glossary/vipassana/)*). It is the mental dissection of the physical body into the four abstract material principles: Earth (solidity), Water (cohesion), Fire (temperature), and Wind (motion).
 
 The practitioner sweeps their awareness through the body, refusing to perceive "hands," "legs," "lungs," or "self." Instead, they only note the raw tactile data: hard, soft, flowing, warm, cold, pushing, vibrating. 
 

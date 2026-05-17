@@ -9,10 +9,10 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
 ### Grammatical Analysis
-**Suttavibhaṅga**: [m.] The Analysis of the Rules. Formed by *sutta* (rule, thread, clause) + *vibhaṅga* (analysis, breakdown, explanation). In the Vinaya context, "sutta" refers specifically to the rules of the Pātimokkha.
+**Suttavibhaṅga**: [m.] The Analysis of the Rules. Formed by *sutta* (rule, thread, clause) + *vibhaṅga* (analysis, breakdown, explanation). In the Vinaya context, "sutta" refers specifically to the rules of the [Pātimokkha](/glossary/patimokkha/).
 
 ### Orthodox Definition
-The *Suttavibhaṅga* is the first major division of the Vinaya Piṭaka. It contains the exhaustive, legalistic analysis of every single rule in the monks' and nuns' disciplinary code (*Pātimokkha*).
+The *Suttavibhaṅga* is the first major division of the Vinaya Piṭaka. It contains the exhaustive, legalistic analysis of every single rule in the monks' and nuns' disciplinary code (*[Pātimokkha](/glossary/patimokkha/)*).
 
 It is structured meticulously. For every rule, the text provides:
 1. **The Origin Story**: The specific historical event or scandalous behavior of a monk or nun that forced the Buddha to lay down the rule.

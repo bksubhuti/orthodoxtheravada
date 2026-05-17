@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Saṅghānussati**: [f.] recollection of the Saṅgha. Formed by *Saṅgha* (the community) + *anussati* (recollection).
 
 ### Orthodox Definition
-*Saṅghānussati* is the third of the ten Recollections. It focuses strictly on the virtues of the *Ariyasaṅgha*—the eight types of noble disciples who have reached the supramundane paths and fruitions, rather than the conventional monastic order.
+*Saṅghānussati* is the third of the ten Recollections. It focuses strictly on the virtues of the *[Ariyasaṅgha](/glossary/ariyasangha/)*—the eight types of noble disciples who have reached the supramundane paths and fruitions, rather than the conventional monastic order.
 
 The practitioner contemplates the nine standard virtues found in the chanting formula: *"Suppaṭipanno bhagavato sāvakasaṅgho... āhuneyyo, pāhuneyyo, dakkhiṇeyyo, añjalikaraṇīyo, anuttaraṃ puññakkhettaṃ lokassā'ti."* (Practicing the good way is the Saṅgha... worthy of gifts, hospitality, offerings, and reverential salutation, the incomparable field of merit for the world).
 

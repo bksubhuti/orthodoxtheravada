@@ -12,7 +12,7 @@ commentaries: ["Paramatthadipani"]
 **Peta**: [m.] departed spirit; hungry ghost; the deceased. Derived from prefix *pa* (forth/away) + root *i* (to go). Literally means "one who has gone away" or departed.
 
 ### Orthodox Definition
-In Theravāda cosmology, a *Peta* refers to a specific class of beings reborn into the Realm of Hungry Ghosts (*peta-loka*), which is one of the four planes of misery (*apāya*). 
+In Theravāda cosmology, a *Peta* refers to a specific class of beings reborn into the Realm of Hungry Ghosts (*peta-loka*), which is one of the four planes of misery (*[apāya](/glossary/apaya/)*). 
 
 Unlike hell-beings who suffer constant physical torture, petas primarily suffer from intense, unquenchable physical and psychological deprivation—most notably extreme hunger, thirst, and exhaustion. According to the texts, this specific rebirth is the direct karmic result (*vipāka*) of heavy unwholesome actions rooted in stinginess (*macchariya*), extreme greed, and denying alms to the virtuous. 
 
@@ -20,5 +20,5 @@ They exist on the fringes of the human realm, often in forests, abandoned houses
 
 ### Textual References
 * **Sutta**: *Tirokuḍḍa Sutta* (KhP 7) – The foundational discourse detailing how ghosts wait outside the walls of their former homes, hoping their relatives will share merit with them.
-* **Canonical**: *Petavatthu* – An entire canonical book containing 51 narratives of past bad kamma and corresponding peta rebirths.
+* **Canonical**: *Petavatthu* – An entire canonical book containing 51 narratives of past bad [kamma](/glossary/kamma/) and corresponding peta rebirths.
 * **Commentary**: *Paramatthadīpanī* – Detailed exegesis on the specific types of ghosts and the mechanics of merit transfer.

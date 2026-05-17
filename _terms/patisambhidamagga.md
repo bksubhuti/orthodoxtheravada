@@ -12,7 +12,7 @@ commentaries: ["Saddhammappakasini"]
 **Paṭisambhidāmagga**: [m.] The Path of Discrimination; The Path of Analysis. Formed by *paṭisambhidā* (analytical knowledge, exact discrimination) + *magga* (path).
 
 ### Orthodox Definition
-The *Paṭisambhidāmagga* is the twelfth book of the Khuddaka Nikāya. Like the *Niddesa*, it is attributed entirely to Venerable Sāriputta. 
+The *Paṭisambhidāmagga* is the twelfth book of the Khuddaka Nikāya. Like the *[Niddesa](/glossary/niddesa/)*, it is attributed entirely to Venerable Sāriputta. 
 
 While placed in the Sutta-piṭaka, it reads exactly like an Abhidhamma text. It is an incredibly dense, structural mapping of the mechanics of meditation, insight (*vipassanā*), and awakening. It does not tell stories; it systematically catalogues exactly how insight knowledges arise, how mindfulness of breathing is perfected, and the precise cognitive mechanics of the paths and fruits.
 

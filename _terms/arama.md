@@ -14,7 +14,7 @@ commentaries: ["Samantapasadika"]
 ### Orthodox Definition
 Originally meaning a "pleasure park" owned by royalty or wealthy merchants, *Ārāma* became the standard term for a large tract of land or grove donated to the Buddha and his Saṅgha. 
 
-Because monks required quiet, secluded places near enough to villages for alms but far enough away to avoid the noise of lay life, these donated parks became the epicenters of Buddhist monasticism. An *ārāma* refers more to the enclosed grounds, gardens, and forested areas, whereas a *vihāra* refers to the specific buildings constructed on those grounds.
+Because monks required quiet, secluded places near enough to villages for alms but far enough away to avoid the noise of lay life, these donated parks became the epicenters of Buddhist monasticism. An *ārāma* refers more to the enclosed grounds, gardens, and forested areas, whereas a *[vihāra](/glossary/vihara/)* refers to the specific buildings constructed on those grounds.
 
 The most famous examples in Buddhist history are *Jetavana Anāthapiṇḍikassa Ārāma* (Jeta's Grove, Anāthapiṇḍika's Park) in Sāvatthī, and *Veḷuvana* (The Bamboo Grove) donated by King Bimbisāra in Rājagaha.
 

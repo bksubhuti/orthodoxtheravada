@@ -12,9 +12,9 @@ commentaries: ["Visuddhimagga", "Sumangalavilasini"]
 **Brahma**: [m.] supreme being; highest deity; divine entity. Used to denote beings of the highest, purest, and most sublime cosmological planes.
 
 ### Orthodox Definition
-In the Theravāda system, a *Brahma* is an exceedingly powerful, radiant celestial being residing in the Fine-Material (*rūpāvacara*) or Immaterial (*arūpāvacara*) realms, situated far above the sensuous deva planes. 
+In the Theravāda system, a *Brahma* is an exceedingly powerful, radiant celestial being residing in the Fine-Material (*rūpāvacara*) or Immaterial (*arūpāvacara*) realms, situated far above the sensuous [deva](/glossary/deva/) planes. 
 
-Rebirth into a Brahma realm cannot be achieved merely through ordinary generosity or morality; it requires the successful mastery of meditative absorption (*jhāna*) or the boundless divine abodes (*brahmavihāra*). Brahmas do not experience physical pain, sensual lust, or anger, as these defilements are suppressed by their deep concentration.
+Rebirth into a Brahma realm cannot be achieved merely through ordinary generosity or morality; it requires the successful mastery of meditative absorption (*[jhāna](/glossary/jhana/)*) or the boundless divine abodes (*[brahmavihāra](/glossary/brahmavihara/)*). Brahmas do not experience physical pain, sensual lust, or anger, as these defilements are suppressed by their deep concentration.
 
 The Buddha frequently interacted with two highly prominent Brahmas: *Brahma Sahampati* (who famously requested the Buddha to teach the Dhamma) and *Baka Brahma* (whom the Buddha had to cure of the eternalist delusion that he was an immortal creator god). The highest Brahma realms are the Pure Abodes (*Suddhāvāsa*), exclusively populated by Non-Returners (*Anāgāmī*) and Arahats.
 

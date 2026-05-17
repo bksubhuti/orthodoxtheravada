@@ -15,16 +15,16 @@ commentaries: ["Visuddhimagga", "Sammohavinodani"]
 *Paṭiccasamuppāda* is the structural core of the Buddha's cognitive discovery at the foot of the Bodhi tree. It maps out the exact causal mechanics of how suffering (*dukkha*) is generated and sustained across the three lifetimes of saṃsāra, without relying on a creator god or an eternal soul.
 
 The standard structural formula consists of **twelve interlinked causal nodes**:
-1. Ignorance (*avijjā*)
-2. Volitional Formations (*saṅkhāra*)
-3. Consciousness (*viññāṇa*)
+1. Ignorance (*[avijjā](/glossary/avijja/)*)
+2. Volitional Formations (*[saṅkhāra](/glossary/sankhara/)*)
+3. Consciousness (*[viññāṇa](/glossary/vinnana/)*)
 4. Mentality-Materiality (*nāmārupa*)
 5. Six Sense Bases (*saḷāyatana*)
 6. Contact (*phassa*)
 7. Feeling (*vedanā*)
-8. Craving (*taṇhā*)
-9. Clinging (*upādāna*)
-10. Becoming (*bhava*)
+8. Craving (*[taṇhā](/glossary/tanha/)*)
+9. Clinging (*[upādāna](/glossary/upadana/)*)
+10. Becoming (*[bhava](/glossary/bhava/)*)
 11. Birth (*jāti*)
 12. Aging and Death (*jarāmaraṇa*)
 

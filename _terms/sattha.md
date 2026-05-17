@@ -16,7 +16,7 @@ In the Pali Canon, *Satthā* is the primary epithet used by disciples to refer t
 
 This title emphasizes the Buddha's role not as a creator, a savior who grants grace, or a prophet relaying a divine message, but strictly as an unparalleled pedagogical master. He is the shower of the way (*maggakkhāyī*). He provides the exact instructions required to escape saṃsāra, but the effort to walk the path remains entirely on the shoulders of the disciple. 
 
-As noted, upon his passing, the role of the *Satthā* was officially transferred to the Dhamma-vinaya.
+As noted, upon his passing, the role of the *Satthā* was officially transferred to the [Dhamma-vinaya](/glossary/dhamma-vinaya/).
 
 ### Textual References
 * **Sutta**: *Bhayabherava Sutta* (MN 4) – The standard formula praising the Buddha as the Teacher of gods and humans.

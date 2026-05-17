@@ -9,7 +9,7 @@ canonical_texts: ["Dhammapada"]
 commentaries: ["Dhammapadatthakatha"]
 ---
 ### Grammatical Analysis
-**Dhammapada**: [nt.] The Path of Dhamma; The Verses of Truth. Formed by *dhamma* (truth, doctrine) + *pada* (path, footstep, line, verse).
+**Dhammapada**: [nt.] The Path of [Dhamma](/glossary/dhamma/); The Verses of Truth. Formed by *[dhamma](/glossary/dhamma/)* (truth, doctrine) + *pada* (path, footstep, line, verse).
 
 ### Orthodox Definition
 The *Dhammapada* is the second book of the Khuddaka Nikāya and is arguably the most famous, widely read, and translated Buddhist text in the world. 

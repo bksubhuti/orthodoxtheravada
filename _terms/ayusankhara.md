@@ -14,7 +14,7 @@ commentaries: ["Sumangalavilasini"]
 ### Orthodox Definition
 *Āyusaṅkhāra* refers to the specific, finite quantum of karmic energy that determines the maximum length of a sentient being's lifespan in a particular rebirth. 
 
-When a being is reborn, their past reproductive kamma (*janaka-kamma*) establishes an *āyusaṅkhāra*—a sort of biological and karmic "battery." Biological death (*maraṇa*) occurs when this karmic battery runs out, when the natural lifespan of the realm is reached, or when a sudden, destructive kamma (*upacchedaka-kamma*) prematurely shatters the vital formations.
+When a being is reborn, their past reproductive [kamma](/glossary/kamma/) (*janaka-[kamma](/glossary/kamma/)*) establishes an *āyusaṅkhāra*—a sort of biological and karmic "battery." Biological death (*maraṇa*) occurs when this karmic battery runs out, when the natural lifespan of the realm is reached, or when a sudden, destructive [kamma](/glossary/kamma/) (*upacchedaka-[kamma](/glossary/kamma/)*) prematurely shatters the vital formations.
 
 The term appears most famously in the *Mahāparinibbāna Sutta*. Three months before his passing, the Buddha formally relinquished his *āyusaṅkhāra* (vital formations), making the deliberate, supramundane decision to allow his physical body to expire, causing a massive earthquake.
 

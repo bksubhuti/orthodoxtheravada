@@ -19,5 +19,5 @@ The most common manifestation of this condition is physical matter supporting co
 The commentaries use the simile of the earth supporting trees, or a canvas supporting a painting. Just as the tree cannot grow without the earth beneath it, cognitive processes cannot operate without the physical sense bases providing a firm structural support.
 
 ### Textual References
-* **Abhidhamma**: *Paṭṭhāna* – "The eye base is related to eye-consciousness... by support condition."
-* **Commentary**: *Paṭṭhāna-aṭṭhakathā* – Providing the earth and canvas similes to demonstrate foundational reliance.
+* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – "The eye base is related to eye-consciousness... by support condition."
+* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – Providing the earth and canvas similes to demonstrate foundational reliance.

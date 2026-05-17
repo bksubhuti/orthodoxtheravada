@@ -16,7 +16,7 @@ commentaries: ["Samantapasadika"]
 
 The rules address situations where a monk accepts food from an unrelated nun in a village, or accepts food from a family that the Saṅgha has designated as "in training" (families whose faith is so strong they give away food even when they are impoverished, requiring the Saṅgha to protect them from their own generosity), or accepting food from dangerous forest dwellings without prior warning.
 
-The confession for these offenses requires a specific, unique formula, distinct from a standard *pācittiya* confession, acknowledging that the monk has done a "blameworthy and unsuitable thing."
+The confession for these offenses requires a specific, unique formula, distinct from a standard *[pācittiya](/glossary/pacittiya/)* confession, acknowledging that the monk has done a "blameworthy and unsuitable thing."
 
 ### Textual References
 * **Vinaya**: *Suttavibhaṅga* (Pāṭidesanīyakaṇḍa) – Highlighting the Buddha's deep concern for the economic well-being of lay supporters and the physical safety of monks.

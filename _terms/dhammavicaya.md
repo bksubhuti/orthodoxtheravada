@@ -12,7 +12,7 @@ commentaries: ["Sammohavinodani", "Visuddhimagga"]
 **Dhammavicaya**: [m.] investigation of phenomena; discernment of reality. Formed by *dhamma* (ultimate realities/phenomena) + *vicaya* (investigation, research, analytical scrutiny).
 
 ### Orthodox Definition
-*Dhammavicaya* is the second factor of enlightenment (*dhammavicaya-sambojjhaṅga*). Doctrinally, it is completely identical to the faculty of wisdom (*paññindriya*) and the unmooring root of non-delusion (*amoha-cetasika*). It represents the active, sharp, investigative component of insight meditation.
+*Dhammavicaya* is the second factor of enlightenment (*dhammavicaya-sambojjhaṅga*). Doctrinally, it is completely identical to the faculty of wisdom (*paññindriya*) and the unmooring root of non-delusion (*[amoha](/glossary/amoha/)-cetasika*). It represents the active, sharp, investigative component of insight meditation.
 
 The commentaries emphasize that dhammavicaya does not mean intellectualizing, speculative theorizing, or philosophical daydreaming about suttas. Rather, it is the direct, real-time microscopic dissection of currently arising mental and physical states (*nāma-rūpa*) to track their conditional origins and verify their intrinsic characteristics of impermanence, suffering, and non-self.
 

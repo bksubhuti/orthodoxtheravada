@@ -19,5 +19,5 @@ While the *word* itself is just a sound or concept, the *thing* it points to gen
 The Abhidhamma further combines these terms, such as a "concept of the non-existent based on the existent" (e.g., "a person possessing six senses"—where "person" is non-existent, but "six senses" are existent).
 
 ### Textual References
-* **Canonical**: *Puggalapaññatti* (Introduction) – Defining the classification of concepts.
+* **Canonical**: *[Puggalapaññatti](/glossary/puggalapannatti/)* (Introduction) – Defining the classification of concepts.
 * **Historical**: *Abhidhammatthasaṅgaha* (Chapter VIII) – Mapping how the mind utilizes both existent and non-existent concepts for communication.

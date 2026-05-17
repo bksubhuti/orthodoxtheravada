@@ -12,7 +12,7 @@ commentaries: ["Saratthappakasini"]
 **Saṃyuttanikāya**: [m.] The Collection of Connected Discourses. Formed by *saṃyutta* (joined together, connected, grouped) + *nikāya* (collection).
 
 ### Orthodox Definition
-The *Saṃyutta-nikāya* is the third collection in the Sutta-piṭaka, containing **nearly 3,000 short discourses** logically grouped by subject matter into 56 chapters (*saṃyuttas*).
+The *Saṃyutta-nikāya* is the third collection in the [Sutta-piṭaka](/glossary/sutta-pitaka/), containing **nearly 3,000 short discourses** logically grouped by subject matter into 56 chapters (*saṃyuttas*).
 
 This collection represents the most dense, philosophically unified articulation of the Dhamma. It is organized to facilitate thematic study. For example, if a practitioner wishes to study causality, they read the *Nidānasaṃyutta*; for the five aggregates, the *Khandhasaṃyutta*; for the sensory spheres, the *Saḷāyatanasaṃyutta*; and for the elements of the path, the *Mahāvagga*. 
 

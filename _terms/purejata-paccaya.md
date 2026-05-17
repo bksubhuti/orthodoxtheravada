@@ -19,5 +19,5 @@ In Abhidhamma physics, physical matter (*rūpa*) lasts 17 times longer than a si
 The commentaries use the simile of the sun and the moon. The sun and moon arise in the world long before human beings are born, yet their pre-existing light provides the condition for humans to see and live. 
 
 ### Textual References
-* **Abhidhamma**: *Paṭṭhāna* – "The eye base is related to eye-consciousness element... by pre-nascence condition."
-* **Commentary**: *Paṭṭhāna-aṭṭhakathā* – Providing the cosmic simile of the pre-existing sun and moon, and the musical simile of a lute (the strings must exist before the sound can be made).
+* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – "The eye base is related to eye-consciousness element... by pre-nascence condition."
+* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – Providing the cosmic simile of the pre-existing sun and moon, and the musical simile of a lute (the strings must exist before the sound can be made).

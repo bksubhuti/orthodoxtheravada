@@ -17,8 +17,8 @@ In the orthodox Theravāda framework, *kamma* refers specifically to volitional 
 As the Buddha stated: *"Cetanāhaṃ, bhikkhave, kammaṃ vadāmi"* (Intention, O monks, is what I call kamma). 
 
 Kamma is strictly categorized by its ethical quality and its resultant potential:
-1. *Kusala-kamma*: Wholesome or skillful actions rooted in non-greed (*alobha*), non-hatred (*adosa*), and non-delusion (*amoha*).
-2. *Akusala-kamma*: Unwholesome or unskillful actions rooted in greed (*lobha*), hatred (*dosa*), and delusion (*moha*).
+1. *[Kusala](/glossary/kusala/)-kamma*: Wholesome or skillful actions rooted in non-greed (*alobha*), non-hatred (*adosa*), and non-delusion (*amoha*).
+2. *[Akusala](/glossary/akusala/)-kamma*: Unwholesome or unskillful actions rooted in greed (*lobha*), hatred (*dosa*), and delusion (*moha*).
 
 Every intentional act deposits a seed of potential energy that, when conditions mature, inevitably produces its corresponding result (*vipāka*). It is the cosmic moral law operating without any divine arbiter or judge.
 

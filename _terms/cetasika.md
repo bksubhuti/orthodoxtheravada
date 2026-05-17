@@ -12,9 +12,9 @@ commentaries: ["Atthasalini", "Abhidhammatthasangaha"]
 **Cetasika**: [nt.; adj.] mental factor; mental concomitant; associated state. Formed from *cetas* (mind) + suffix *ika* (belonging to, connected with). Meaning: that which is inherently bound to and arises with consciousness.
 
 ### Orthodox Definition
-In the Abhidhamma, *Cetasikas* constitute one of the four ultimate realities (*paramattha*). They are the specific psychological factors that arise simultaneously with a moment of consciousness (*citta*), coloring it, assisting it, and executing specific functions regarding the object. 
+In the Abhidhamma, *Cetasikas* constitute one of the four ultimate realities (*paramattha*). They are the specific psychological factors that arise simultaneously with a moment of consciousness (*[citta](/glossary/citta/)*), coloring it, assisting it, and executing specific functions regarding the object. 
 
-Consciousness (*citta*) is merely the bare awareness of an object, like clear water. The *cetasikas* are the dyes, flavors, and energetic forces—like greed, wisdom, feeling, or intention—mixed into that water. 
+Consciousness (*[citta](/glossary/citta/)*) is merely the bare awareness of an object, like clear water. The *cetasikas* are the dyes, flavors, and energetic forces—like greed, wisdom, feeling, or intention—mixed into that water. 
 
 The orthodox tradition maps exactly **52 Cetasikas**, divided into three major categories:
 1. **Aññasamāna (13 Ethically Variable Factors):** 7 Universals (like contact, feeling, volition) and 6 Occasionals (like applied thought, energy, rapture). They adapt to the ethics of whatever mind they accompany.

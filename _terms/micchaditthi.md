@@ -9,15 +9,15 @@ canonical_texts: ["Digha Nikaya", "Majjhima Nikaya", "Dhammasangani"]
 commentaries: ["Atthasalini", "Sumangalavilasini"]
 ---
 ### Grammatical Analysis
-**Micchādiṭṭhi**: [f.] Wrong View; False Belief; Corrupt Perspective. Formed by *micchā* (falsely, wrongly, pervertedly) + *diṭṭhi* (view/perspective). Doctrinally identical to the unwholesome mental factor of wrong view (*diṭṭhi-cetasika*).
+**Micchādiṭṭhi**: [f.] Wrong View; False Belief; Corrupt Perspective. Formed by *micchā* (falsely, wrongly, pervertedly) + *[diṭṭhi](/glossary/ditthi/)* (view/perspective). Doctrinally identical to the unwholesome mental factor of wrong view (*[diṭṭhi](/glossary/ditthi/)-cetasika*).
 
 ### Orthodox Definition
-*Micchādiṭṭhi* is the exact psychological and ethical inverse of *Sammādiṭṭhi*. It represents the mind actively grasping an erroneous, inverted interpretation of reality, completely blinding the creature to the laws of morality and liberation.
+*Micchādiṭṭhi* is the exact psychological and ethical inverse of *[Sammādiṭṭhi](/glossary/sammaditthi/)*. It represents the mind actively grasping an erroneous, inverted interpretation of reality, completely blinding the creature to the laws of morality and liberation.
 
 The commentaries group the most dangerous expressions of wrong view into **three fixed, chronic materialist heresies** (*niyata-micchādiṭṭhi*):
-1. *Natthika-diṭṭhi* (Annihilationism/Nihilism): Asserting that there is no fruit to kamma, no next life, and that actions have zero moral repercussions.
-2. *Ahetuka-diṭṭhi* (No-Cause Theory): Asserting that the defilement or purification of beings happens completely by chance, without any distinct causes or conditions.
-3. *Akiriya-diṭṭhi* (The View of Inaction): Asserting that performing deeds like killing or stealing deposits zero demerit, and giving deposits zero merit—denying the physics of volition.
+1. *Natthika-[diṭṭhi](/glossary/ditthi/)* (Annihilationism/Nihilism): Asserting that there is no fruit to kamma, no next life, and that actions have zero moral repercussions.
+2. *Ahetuka-[diṭṭhi](/glossary/ditthi/)* (No-Cause Theory): Asserting that the defilement or purification of beings happens completely by chance, without any distinct causes or conditions.
+3. *Akiriya-[diṭṭhi](/glossary/ditthi/)* (The View of Inaction): Asserting that performing deeds like killing or stealing deposits zero demerit, and giving deposits zero merit—denying the physics of volition.
 
 Micchādiṭṭhi is the single most destructive unwholesome factor; if held firmly at the moment of death, it drives consciousness directly into the lowest hell realms.
 

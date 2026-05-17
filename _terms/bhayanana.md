@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Bhayañāṇa**: [nt.] Knowledge of fearfulness; knowledge of terror. Formed by *bhaya* (fear, terror, fright) + *ñāṇa* (knowledge).
 
 ### Orthodox Definition
-Following the direct vision of the continuous dissolution of reality (*bhaṅgañāṇa*), the meditator naturally experiences *Bhayañāṇa*. Having seen that all formations in the past have ceased, all present formations are ceasing, and all future formations will cease, the three realms of existence (sense-sphere, fine-material, and immaterial) appear intensely fearful. 
+Following the direct vision of the continuous dissolution of reality (*[bhaṅgañāṇa](/glossary/bhanganana/)*), the meditator naturally experiences *Bhayañāṇa*. Having seen that all formations in the past have ceased, all present formations are ceasing, and all future formations will cease, the three realms of existence (sense-sphere, fine-material, and immaterial) appear intensely fearful. 
 
 This is not a worldly, panicked emotion or clinical anxiety. It is a profound, serene, philosophical terror—an objective realization that there is absolutely no safety, security, or refuge to be found anywhere within the conditioned cycle of saṃsāra, as the entire structure is continuously crumbling.
 

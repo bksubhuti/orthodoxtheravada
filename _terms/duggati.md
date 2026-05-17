@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Duggati**: [f.] woeful destination; evil state; bad rebirth. Formed by prefix *du* (bad, difficult, painful) + *gati* (going, course, destination, rebirth).
 
 ### Orthodox Definition
-*Duggati* is the direct counterpart to *sugati*. It is the categorical term for any plane of existence characterized by intense suffering, oppression, and a lack of moral or spiritual opportunity. 
+*Duggati* is the direct counterpart to *[sugati](/glossary/sugati/)*. It is the categorical term for any plane of existence characterized by intense suffering, oppression, and a lack of moral or spiritual opportunity. 
 
 When the Buddha uses the phrase *"apāyaṃ duggatiṃ vinipātaṃ nirayaṃ"* (the plane of misery, the bad destination, the lower realm, hell), he is referring to the downward trajectories caused by unwholesome kamma. Beings fall into a *duggati* as the natural, mechanical consequence of engaging in the ten unwholesome courses of action—such as killing, stealing, sexual misconduct, lying, and holding wrong views.
 

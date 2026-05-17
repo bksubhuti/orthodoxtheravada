@@ -16,9 +16,9 @@ Visākhā was the chief female lay disciple (*aggaupāsikā*) of the Buddha and 
 
 Unlike many ascetics, Visākhā lived a full household life, married, and had many children and grandchildren. Her nickname "Migāra's Mother" came about when she skillfully converted her stubborn father-in-law, Migāra, away from naked ascetics and toward the Buddha; in gratitude, he declared her to be his spiritual mother.
 
-She built the massive Eastern Monastery (*Pubbārāma*) for the Buddha and secured eight lifelong boons from him, allowing her to provide bathing cloths, daily meals, and medicine for the Saṅgha. She is celebrated as the ultimate paradigm of female lay devotion, wisdom, and diplomatic skill.
+She built the massive Eastern Monastery (*[Pubbārāma](/glossary/pubbarama/)*) for the Buddha and secured eight lifelong boons from him, allowing her to provide bathing cloths, daily meals, and medicine for the Saṅgha. She is celebrated as the ultimate paradigm of female lay devotion, wisdom, and diplomatic skill.
 
 ### Textual References
 * **Vinaya**: *Mahāvagga* (Cīvarakkhandhaka) – The account of Visākhā requesting the eight boons to continuously supply the monks and nuns with requisites.
 * **Sutta**: *Visākhuposatha Sutta* (AN 8.43) – The Buddha teaching her the proper method of observing the Uposatha.
-* **Commentary**: *Dhammapadaṭṭhakathā* – The extensive, legendary biography of her marriage, her legendary "creeper parure" jewelry, and her construction of Pubbārāma.
+* **Commentary**: *Dhammapadaṭṭhakathā* – The extensive, legendary biography of her marriage, her legendary "creeper parure" jewelry, and her construction of [Pubbārāma](/glossary/pubbarama/).

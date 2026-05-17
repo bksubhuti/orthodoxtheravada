@@ -12,7 +12,7 @@ commentaries: ["Atthasalini", "Visuddhimagga"]
 **Kukkucca**: [nt.] remorse; worry; brooding; regret. Derived from *ku* (bad, evil) + *katam* (done), meaning "the state of having done badly." 
 
 ### Orthodox Definition
-*Kukkucca* is an unwholesome mental factor (*akusala-cetasika*) rooted entirely in aversion (*dosa*). While it is paired with restlessness (*uddhacca*) to form the fourth mental hindrance, *kukkucca* specifically refers to the biting, painful regret that arises after the fact. 
+*Kukkucca* is an unwholesome mental factor (*akusala-cetasika*) rooted entirely in aversion (*[dosa](/glossary/dosa/)*). While it is paired with restlessness (*uddhacca*) to form the fourth mental hindrance, *kukkucca* specifically refers to the biting, painful regret that arises after the fact. 
 
 The orthodox tradition defines it through two specific triggers:
 1. Grieving over unwholesome or evil actions one has already committed.

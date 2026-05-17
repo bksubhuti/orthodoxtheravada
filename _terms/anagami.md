@@ -12,14 +12,14 @@ commentaries: ["Visuddhimagga"]
 **Anāgāmī**: [m.; f.] Non-Returner. Formed by negative prefix *an* (not) + *āgāmī* (one who returns). Signifies an individual who will never again return to the sensual sphere of existence.
 
 ### Orthodox Definition
-The *Anāgāmī* is the third of the four noble disciples (*ariya-puggala*) in the Theravāda hierarchy. This sublime stage marks the definitive, absolute destruction of the five lower fetters (*orambhāgiya-saṃyojana*) that bind beings to the lower sensuous realms.
+The *Anāgāmī* is the third of the four noble disciples (*ariya-puggala*) in the Theravāda hierarchy. This sublime stage marks the definitive, absolute destruction of the five lower fetters (*orambhāgiya-[saṃyojana](/glossary/samyojana/)*) that bind beings to the lower sensuous realms.
 
 The Anāgāmī completely eradicates:
 1. *Sakkāya-diṭṭhi* (Identity view - broken at stream-entry)
 2. *Vicikicchā* (Skeptical doubt - broken at stream-entry)
 3. *Sīlabbataparāmāsa* (Clinging to rituals - broken at stream-entry)
-4. *Kāmarāga* (Sensual lust/craving) - **Eradicated completely here**
-5. *Paṭigha* (Aversion/Ill-will/Anger) - **Eradicated completely here**
+4. *[Kāmarāga](/glossary/kamaraga/)* (Sensual lust/craving) - **Eradicated completely here**
+5. *[Paṭigha](/glossary/patigha/)* (Aversion/Ill-will/Anger) - **Eradicated completely here**
 
 Because sensual lust and aversion are entirely uprooted, an Anāgāmī can never experience sexual desire, romantic attachment, physical attraction, fear, worry, irritation, or anger under any circumstance. 
 

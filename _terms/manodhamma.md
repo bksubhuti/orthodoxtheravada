@@ -17,7 +17,7 @@ commentaries: ["Papañcasudani", "Dhammapadatthakatha"]
 There are three unwholesome mental kammas:
 1. **Abhijjhā** (Covetousness: looking at another's property and intensely wishing "May this be mine").
 2. **Vyāpāda** (Ill-will: harboring the wish for others to be harmed or destroyed).
-3. **Micchādiṭṭhi** (Wrong View: adopting nihilistic views that deny karma, rebirth, or the possibility of enlightenment).
+3. **[Micchādiṭṭhi](/glossary/micchaditthi/)** (Wrong View: adopting nihilistic views that deny karma, rebirth, or the possibility of enlightenment).
 
 A person can sit perfectly still in absolute silence, breaking no physical or verbal rules, yet generate enough unwholesome mental karma to warrant rebirth in hell. 
 

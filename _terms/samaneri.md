@@ -9,12 +9,12 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
 ### Grammatical Analysis
-**Sāmaṇerī**: [f.] Novice nun. The feminine form of *sāmaṇera*.
+**Sāmaṇerī**: [f.] Novice nun. The feminine form of *[sāmaṇera](/glossary/samanera/)*.
 
 ### Orthodox Definition
 A *Sāmaṇerī* is a female monastic who has gone forth from the household life but has not yet taken higher ordination. Like her male counterpart, she shaves her head, wears the monastic robes, and is bound by the exact same **Ten Precepts** (*Dasa Sikkhāpada*).
 
-In the structural path to becoming a fully ordained Bhikkhunī, the *Sāmaṇerī* stage is the foundational step. Before a *sāmaṇerī* can receive higher ordination (*upasampadā*), she must transition into the status of a *Sikkhāmānā* (probationary nun) for exactly two years to thoroughly test her resolve and physical suitability for the ascetic life.
+In the structural path to becoming a fully ordained [Bhikkhunī](/glossary/bhikkhuni/), the *Sāmaṇerī* stage is the foundational step. Before a *sāmaṇerī* can receive higher ordination (*upasampadā*), she must transition into the status of a *[Sikkhāmānā](/glossary/sikkhamana/)* (probationary nun) for exactly two years to thoroughly test her resolve and physical suitability for the ascetic life.
 
 ### Textual References
 * **Vinaya**: *Cullavagga* (Bhikkhunīkhandhaka) – Laying out the specific legal procedures for the female monastic order.

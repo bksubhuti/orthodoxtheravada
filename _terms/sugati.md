@@ -12,9 +12,9 @@ commentaries: ["Sumangalavilasini"]
 **Sugati**: [f.] happy destination; blissful state; good rebirth. Formed by prefix *su* (good, happy, well) + *gati* (going, course, destination, rebirth). 
 
 ### Orthodox Definition
-*Sugati* serves as the broad cosmological classification encompassing all the favorable, pleasant planes of existence within saṃsāra. The Buddha specifically identifies the human realm (*manussa-loka*) and the various heavenly realms (*deva-loka* and *brahma-loka*) as *sugati*.
+*Sugati* serves as the broad cosmological classification encompassing all the favorable, pleasant planes of existence within saṃsāra. The Buddha specifically identifies the human realm (*manussa-loka*) and the various heavenly realms (*[deva](/glossary/deva/)-loka* and *[brahma](/glossary/brahma/)-loka*) as *sugati*.
 
-A rebirth into a happy destination is exclusively the result of accumulating wholesome kamma (*kusala-kamma*) and merit (*puñña*) through the practice of generosity (*dāna*), moral discipline (*sīla*), and mental cultivation (*bhāvanā*). 
+A rebirth into a happy destination is exclusively the result of accumulating wholesome kamma (*[kusala](/glossary/kusala/)-kamma*) and merit (*[puñña](/glossary/punna/)*) through the practice of generosity (*dāna*), moral discipline (*sīla*), and mental cultivation (*bhāvanā*). 
 
 While rebirth in a *sugati* provides comfort, longevity, and superior opportunities to practice the Dhamma, the orthodox teachings constantly warn that these states are fundamentally impermanent. Therefore, the ultimate goal of a Theravāda practitioner is not to secure a temporary *sugati*, but to realize *Nibbāna* and exit the cycle of destinations entirely.
 

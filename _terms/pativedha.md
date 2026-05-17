@@ -14,7 +14,7 @@ commentaries: ["Visuddhimagga"]
 ### Orthodox Definition
 *Paṭivedha* is the ultimate culmination of the Buddhist path, the third and final pillar of the True Dhamma. It is the experiential, supramundane penetration of the Four Noble Truths.
 
-While *Pariyatti* maps the path, and *Paṭipatti* walks the path, *Paṭivedha* is the moment of arrival. Psychologically, it refers strictly to the instantaneous flash of Path Knowledge (*maggañāṇa*) that pierces through the mass of ignorance (*avijjā*), takes Nibbāna as its object, and permanently eradicates the fetters. 
+While *[Pariyatti](/glossary/pariyatti/)* maps the path, and *[Paṭipatti](/glossary/patipatti/)* walks the path, *Paṭivedha* is the moment of arrival. Psychologically, it refers strictly to the instantaneous flash of Path Knowledge (*[maggañāṇa](/glossary/magganana/)*) that pierces through the mass of ignorance (*avijjā*), takes [Nibbāna](/glossary/nibbana/) as its object, and permanently eradicates the fetters. 
 
 The commentaries liken *paṭivedha* to an arrow piercing a target or a lightning bolt splitting a rock—it is an irreversible, profound paradigm shift where theoretical understanding transforms into absolute, unshakeable, experiential truth. 
 

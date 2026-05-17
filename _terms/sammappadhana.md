@@ -12,9 +12,9 @@ commentaries: ["Visuddhimagga"]
 **Sammappadhāna**: [nt.] Right Striving; Supreme Effort. Formed by *sammā* (perfectly, correctly) + *padhāna* (striving, exertion, effort). 
 
 ### Orthodox Definition
-The *Sammappadhānas* constitute the **Four Right Strivings**, which are completely identical to Right Effort (*Sammāvāyāma*) in the Noble Eightfold Path. They form the second major category within the 37 wings to awakening.
+The *Sammappadhānas* constitute the **Four Right Strivings**, which are completely identical to Right Effort (*[Sammāvāyāma](/glossary/sammavayama/)*) in the Noble Eightfold Path. They form the second major category within the 37 wings to awakening.
 
-Doctrinally, this represents the mental factor of energy (*viriya-cetasika*) split into four distinct tactical applications to manage the mind's ethical state:
+Doctrinally, this represents the mental factor of energy (*[viriya](/glossary/viriya/)-cetasika*) split into four distinct tactical applications to manage the mind's ethical state:
 1. The effort to **prevent** the arising of unarisen unwholesome states (guarding the sense doors).
 2. The effort to **abandon** unwholesome states that have already arisen (applying antidotes to defilements).
 3. The effort to **arouse** unarisen wholesome states (initiating mindfulness and concentration).

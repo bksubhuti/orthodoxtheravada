@@ -9,10 +9,10 @@ canonical_texts: ["Patisambhidamagga"]
 commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ---
 ### Grammatical Analysis
-**Uggahanimitta**: [nt.] learning sign; acquired sign; grasped image. Formed by prefix *ud* (up) + root *gah* (to grasp, seize, take) + *nimitta* (sign). Meaning: the sign that has been perfectly memorized and taken up by the mind.
+**Uggahanimitta**: [nt.] learning sign; acquired sign; grasped image. Formed by prefix *ud* (up) + root *gah* (to grasp, seize, take) + *[nimitta](/glossary/nimitta/)* (sign). Meaning: the sign that has been perfectly memorized and taken up by the mind.
 
 ### Orthodox Definition
-The *Uggahanimitta* is the second stage of the meditation object's evolution. It occurs when the practitioner has focused on the physical preparatory sign (*parikammanimitta*) for so long that an exact replica of it forms in the mind's eye.
+The *Uggahanimitta* is the second stage of the meditation object's evolution. It occurs when the practitioner has focused on the physical preparatory sign (*[parikammanimitta](/glossary/parikammanimitta/)*) for so long that an exact replica of it forms in the mind's eye.
 
 At this stage, the meditator can close their eyes, and the image of the clay disc (or the corpse, or the breath sensation) appears internally just as vividly as if their eyes were open. 
 

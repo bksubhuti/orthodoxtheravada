@@ -20,7 +20,7 @@ The Buddha formalized its architecture into **six distinct operational pathways*
 3. *Ghāna-viññāṇa* (Nose-consciousness)
 4. *Jivhā-viññāṇa* (Tongue-consciousness)
 5. *Kāya-viññāṇa* (Body-consciousness)
-6. *Mano-viññāṇa* (Mind-consciousness)
+6. *[Mano](/glossary/mano/)-viññāṇa* (Mind-consciousness)
 
 The orthodox tradition strictly rejects the heresy that viññāṇa is a permanent, transmigrating soul or unchanging self that drifts from life to life. Viññāṇa is completely conditioned, flashing into existence and dissolving away instantly based on the collision of a functioning sense organ and its respective external object.
 

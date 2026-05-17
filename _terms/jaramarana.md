@@ -12,13 +12,13 @@ commentaries: ["Visuddhimagga"]
 **Jarāmaraṇa**: [nt.] aging and death; decay and dissolution. Formed by *jarā* (old age, decay, decrepitude) + *maraṇa* (death, dying, passing away).
 
 ### Orthodox Definition
-*Jarāmaraṇa* constitutes the twelfth and final link within the chain of Dependent Origination, conditioned directly by birth (*jāti-paccayā jarāmaraṇaṃ*). It represents the inevitable existential collapse that awaits every single conditioned consciousness-stream initialized in saṃsāra.
+*Jarāmaraṇa* constitutes the twelfth and final link within the chain of Dependent Origination, conditioned directly by birth (*[jāti](/glossary/jati/)-paccayā jarāmaraṇaṃ*). It represents the inevitable existential collapse that awaits every single conditioned consciousness-stream initialized in [saṃsāra](/glossary/samsara/).
 
 The orthodox Abhidhamma clinically splits this compound to strip away sentimental or anthropomorphic definitions:
 1. *Jarā*: The gradual ripening, brokenness, teeth-greying, wrinkling, and structural cooling of the physical and mental aggregates (*khandhānaṃ paripāko*).
 2. *Maraṇa*: The actual cutting off of the physical life faculty (*jīvitindriya-upaccheda*), the cooling of mind-born heat, and the complete dissolution of the aggregates (*khandhānaṃ bhedo*) inside a single life-span.
 
-Within the First Noble Truth, jarāmaraṇa forms the absolute climax of *dukkha*. It is explicitly accompanied by the psychological derivatives of grief (*soka*), lamentation (*parideva*), physical pain (*dukkha*), mental misery (*domanassa*), and existential despair (*upāyāsa*).
+Within the First Noble Truth, jarāmaraṇa forms the absolute climax of *[dukkha](/glossary/dukkha/)*. It is explicitly accompanied by the psychological derivatives of grief (*soka*), lamentation (*parideva*), physical pain (*[dukkha](/glossary/dukkha/)*), mental misery (*domanassa*), and existential despair (*upāyāsa*).
 
 ### Textual References
 * **Sutta**: *Mahānidāna Sutta* (DN 15) – The foundational text tracing how birth serves as the inescapable cause that forces the manifestation of decay and death.

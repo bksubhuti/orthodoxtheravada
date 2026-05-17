@@ -12,7 +12,7 @@ commentaries: ["Sumangalavilasini"]
 **Upāsaka**: [m.] Lay follower; male devotee. Derived from prefix *upa* (close, near) + root *ās* (to sit). Literally "one who sits close by" or "attends upon" the Triple Gem.
 
 ### Orthodox Definition
-An *Upāsaka* is a male lay follower of the Buddha. To formally become an *upāsaka*, a person does not undergo a complex ritual; they simply take the Three Refuges (*Tisarana*)—in the Buddha, the Dhamma, and the Saṅgha—and commit to observing the Five Precepts (*Pañcasīla*). 
+An *Upāsaka* is a male lay follower of the Buddha. To formally become an *upāsaka*, a person does not undergo a complex ritual; they simply take the Three Refuges (*[Tisarana](/glossary/tisarana/)*)—in the Buddha, the Dhamma, and the Saṅgha—and commit to observing the Five Precepts (*[Pañcasīla](/glossary/pancasila/)*). 
 
 The Buddha described the ideal *upāsaka* as one who possesses unwavering faith, absolute moral purity, does not engage in superstitious fortune-telling, does not seek spiritual merit outside the Buddha's dispensation, and diligently supports the monastic community with the four requisites. While their primary practice is generosity (*dāna*) and morality (*sīla*), *upāsakas* are fully capable of practicing deep meditation and achieving the first three stages of awakening (Stream-entry, Once-Return, Non-Return) while remaining in lay life.
 

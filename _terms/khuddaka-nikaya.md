@@ -12,11 +12,11 @@ commentaries: ["Paramatthadipani", "Dhammapadatthakatha"]
 **Khuddakanikāya**: [m.] The Collection of Minor Texts. Formed by *khuddaka* (small, minor, lesser) + *nikāya* (collection). 
 
 ### Orthodox Definition
-Despite its name meaning "minor," the *Khuddaka-nikāya* is by far the largest, most diverse, and most voluminous collection in the entire Sutta-piṭaka. It acts as the repository for all texts that did not fit neatly into the structural parameters of the first four Nikāyas.
+Despite its name meaning "minor," the *Khuddaka-nikāya* is by far the largest, most diverse, and most voluminous collection in the entire [Sutta-piṭaka](/glossary/sutta-pitaka/). It acts as the repository for all texts that did not fit neatly into the structural parameters of the first four Nikāyas.
 
 In the Theravāda tradition, it consists of **15 to 18 distinct books** (depending on the regional edition, such as Sri Lankan, Thai, or Burmese). It contains entirely poetic works, highly archaic philosophical treatises, biographical legends of the disciples, and the Buddha's past life stories.
 
-The standard 15 books are: Khuddakapāṭha, Dhammapada, Udāna, Itivuttaka, Suttanipāta, Vimānavatthu, Petavatthu, Theragāthā, Therīgāthā, Jātaka, Niddesa, Paṭisambhidāmagga, Apadāna, Buddhavaṃsa, and Cariyāpiṭaka.
+The standard 15 books are: Khuddakapāṭha, [Dhammapada](/glossary/dhammapada/), Udāna, Itivuttaka, [Suttanipāta](/glossary/suttanipata/), Vimānavatthu, Petavatthu, Theragāthā, Therīgāthā, [Jātaka](/glossary/jataka/), Niddesa, Paṭisambhidāmagga, Apadāna, Buddhavaṃsa, and Cariyāpiṭaka.
 
 ### Textual References
 * **Historical**: At the First Buddhist Council, texts outside the four main Nikāyas were grouped together into this massive anthology to ensure no teaching of the Master was lost.

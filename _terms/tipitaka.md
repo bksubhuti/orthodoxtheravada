@@ -15,9 +15,9 @@ commentaries: ["Visuddhimagga"]
 The *Tipiṭaka* represents the entire, definitive textual canon of Theravāda Buddhism, preserved and transmitted in the Pāḷi language. It contains the preserved oral record of the Buddha's long ministry, structured formally during the First Buddhist Council (*Paṭhama-saṅgīti*) held at Rājagaha immediately following his passing.
 
 The compilation is systematically split into three massive programmatic "baskets":
-1. **Vinaya Piṭaka (The Basket of Discipline):** Five primary books managing the rules, procedures, legal acts, and ethical purification of the monastic order.
-2. **Sutta Piṭaka (The Basket of Discourses):** Five major *Nikāyas* containing thousands of targeted instructional sermons mapping out morality, concentration, and insight.
-3. **Abhidhamma Piṭaka (The Basket of Ultimate Doctrine):** Seven profound books mapping out the microscopic, philosophical, and conditional realities running experiential life.
+1. **[Vinaya](/glossary/vinaya/) Piṭaka (The Basket of Discipline):** Five primary books managing the rules, procedures, legal acts, and ethical purification of the monastic order.
+2. **[Sutta](/glossary/sutta/) Piṭaka (The Basket of Discourses):** Five major *Nikāyas* containing thousands of targeted instructional sermons mapping out morality, concentration, and insight.
+3. **[Abhidhamma](/glossary/abhidhamma/) Piṭaka (The Basket of Ultimate Doctrine):** Seven profound books mapping out the microscopic, philosophical, and conditional realities running experiential life.
 
 For orthodox *Mahāvihāra* practitioners, the Tipiṭaka serves as the supreme scriptural authority. It is completely closed, and any interpretation or practice must be rigorously checked against its text to ensure authenticity.
 

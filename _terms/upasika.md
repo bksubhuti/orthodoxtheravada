@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya", "Majjhima Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Grammatical Analysis
-**Upāsikā**: [f.] Female lay follower; female devotee. Feminine form of *upāsaka*.
+**Upāsikā**: [f.] Female lay follower; female devotee. Feminine form of *[upāsaka](/glossary/upasaka/)*.
 
 ### Orthodox Definition
 An *Upāsikā* is a female lay follower who has taken refuge in the Triple Gem and observes the Five Precepts. 

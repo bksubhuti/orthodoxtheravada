@@ -12,11 +12,11 @@ commentaries: ["Khuddakapatha-Atthakatha"]
 **Tisaraṇa**: [nt.] The Three Refuges; Triple Refuge. Formed by *ti* (three) + *saraṇa* (refuge, shelter, protection). From root *sṛ* (to crush, destroy), because taking refuge in these three structures crushes and destroys all fear, dangers, and the causes of lower rebirths.
 
 ### Orthodox Definition
-The *Tisaraṇa* forms the definitive threshold of entry into the Buddhist Dispensation, consisting of the formal commitment to the **Buddha** (the Teacher), the **Dhamma** (the Teaching), and the **Saṅgha** (the Community of Noble Disciples). 
+The *Tisaraṇa* forms the definitive threshold of entry into the Buddhist Dispensation, consisting of the formal commitment to the **Buddha** (the Teacher), the **[Dhamma](/glossary/dhamma/)** (the Teaching), and the **[Saṅgha](/glossary/sangha/)** (the Community of Noble Disciples). 
 
-The commentaries explain that taking refuge is an act of conscious mental volition (*cittuppāda*) driven by unshakeable confidence (*saddhā*) and reverence. It is formalized through the chanting of the ancient formula: *Buddhaṃ saraṇaṃ gacchāmi, Dhammaṃ saraṇaṃ gacchāmi, Saṅghaṃ saraṇaṃ gacchāmi*.
+The commentaries explain that taking refuge is an act of conscious mental volition (*cittuppāda*) driven by unshakeable confidence (*[saddhā](/glossary/saddha/)*) and reverence. It is formalized through the chanting of the ancient formula: *Buddhaṃ saraṇaṃ gacchāmi, Dhammaṃ saraṇaṃ gacchāmi, Saṅghaṃ saraṇaṃ gacchāmi*.
 
-Doctrinally, a refuge is broken (*saraṇabhedha*) if a person formally renounces the Triple Gem or transfers their ultimate spiritual allegiance to an unorthodox teacher, deity, or superstitious system. It is stained (*saraṇasaṅkilesa*) by ignorance, doubt, or lack of respectful practice. For both laypersons (*upāsaka*) and monastics, it serves as the ultimate moral anchor.
+Doctrinally, a refuge is broken (*saraṇabhedha*) if a person formally renounces the Triple Gem or transfers their ultimate spiritual allegiance to an unorthodox teacher, deity, or superstitious system. It is stained (*saraṇasaṅkilesa*) by ignorance, doubt, or lack of respectful practice. For both laypersons (*[upāsaka](/glossary/upasaka/)*) and monastics, it serves as the ultimate moral anchor.
 
 ### Textual References
 * **Vinaya**: *Mahāvaggapāḷi* (Mahākhandhaka) – Recording the very first instances of lay followers taking the refuges under the Buddha.

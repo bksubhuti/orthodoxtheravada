@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Paṭipatti**: [f.] Practice; conduct; the path of methodology. Derived from prefix *paṭi* (towards, back) + root *pad* (to go, walk, step). Meaning "stepping along the way."
 
 ### Orthodox Definition
-*Paṭipatti* is the second pillar of the True Dhamma. It is the active, lived implementation of what has been learned in the texts (*pariyatti*). 
+*Paṭipatti* is the second pillar of the True Dhamma. It is the active, lived implementation of what has been learned in the texts (*[pariyatti](/glossary/pariyatti/)*). 
 
 In orthodox terms, *Paṭipatti* refers specifically to the systematic development of the three trainings (*tisikkhā*): Higher Morality (*adhisīla*), Higher Concentration (*adhicitta*), and Higher Wisdom (*adhipaññā*). It encompasses the entirety of the Noble Eightfold Path, the strict adherence to the Vinaya rules, and the grueling hours spent in sitting and walking meditation.
 

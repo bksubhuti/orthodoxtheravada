@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 **Sammāvācā**: [f.] Right Speech; Correct Verbal Conduct. Formed by *sammā* (correctly) + *vācā* (speech, talk, word).
 
 ### Orthodox Definition
-*Sammāvācā* is the third limb of the Noble Eightfold Path and the first component of the moral discipline training division (*sīla-sikkhā*). Doctrinally, it represents the active manifestation of the mental factor of abstinence from wrong speech (*vacī-duccarita-virati*).
+*Sammāvācā* is the third limb of the Noble Eightfold Path and the first component of the moral discipline training division (*[sīla](/glossary/sila/)-sikkhā*). Doctrinally, it represents the active manifestation of the mental factor of abstinence from wrong speech (*vacī-duccarita-[virati](/glossary/virati/)*).
 
 The training requires a practitioner to systematically abstain from four distinct modes of harmful verbal action:
 1. *Musāvādā*: Abstaining from deliberate lying or deceitful statements.

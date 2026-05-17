@@ -12,7 +12,7 @@ commentaries: ["Sumangalavilasini", "Papancasudani"]
 **Suttapiṭaka**: [nt.] The Basket of Discourses. Formed by *sutta* (thread, discourse) + *piṭaka* (basket, collection). 
 
 ### Orthodox Definition
-The *Sutta-piṭaka* is the second of the three great divisions of the Pali Canon (*Tipiṭaka*). It contains over 10,000 discourses delivered by the Buddha and his chief disciples during his 45-year ministry. 
+The *Sutta-piṭaka* is the second of the three great divisions of the Pali Canon (*[Tipiṭaka](/glossary/tipitaka/)*). It contains over 10,000 discourses delivered by the Buddha and his chief disciples during his 45-year ministry. 
 
 In orthodox Theravāda hermeneutics, the Sutta-piṭaka is classified as **Vohāra-desanā** (conventional teaching). Because the Buddha was speaking to a vast array of individuals—from kings and philosophers to farmers and outcasts—he tailored his language to their specific temperaments (*cittācāra*). He freely used conventional terms like "I," "you," "man," "woman," "deva," and "self" to guide listeners toward the truth, even though such entities do not exist in the ultimate sense (*paramattha*).
 

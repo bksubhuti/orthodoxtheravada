@@ -12,7 +12,7 @@ commentaries: ["Samantapasadika"]
 **Kaṭhina**: [nt.] The wooden frame used for sewing robes; the special robe offering ceremony. Etymologically implies something hard, firm, or durable (referring to the privileges it grants).
 
 ### Orthodox Definition
-The *Kaṭhina* is the major annual robe-offering festival in the Theravāda tradition. It takes place during a strict one-month window immediately following the end of the Rains Retreat (*Vassa*). 
+The *Kaṭhina* is the major annual robe-offering festival in the Theravāda tradition. It takes place during a strict one-month window immediately following the end of the Rains Retreat (*[Vassa](/glossary/vassa/)*). 
 
 Laypeople offer raw cloth to the Saṅgha. The monks must then undergo a highly specific, time-sensitive legal procedure: they must cut, sew, and dye the cloth into a finished robe within a single day. The Saṅgha then formally bestows this "Kaṭhina robe" upon one specific monk who is deemed worthy (usually the most senior or the poorest in robes). 
 

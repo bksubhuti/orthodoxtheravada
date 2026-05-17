@@ -19,5 +19,5 @@ When a resultant consciousness arises (like the pain of being burned or the plea
 The commentaries use the simile of a cool breeze blowing through the shade of a large tree. Just as a person resting in that shade is completely free from the effort of walking in the hot sun, the mental states conditioned by *vipāka-paccaya* operate in a state of quiet, passive rest, devoid of karmic striving.
 
 ### Textual References
-* **Abhidhamma**: *Paṭṭhāna* – "Resultant indeterminate phenomena are related to [other] resultant indeterminate phenomena by result condition."
-* **Commentary**: *Paṭṭhāna-aṭṭhakathā* – Explaining that resultant states are uniquely peaceful (*santi*) because they lack the creative agitation of active volition.
+* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – "Resultant indeterminate phenomena are related to [other] resultant indeterminate phenomena by result condition."
+* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – Explaining that resultant states are uniquely peaceful (*santi*) because they lack the creative agitation of active volition.

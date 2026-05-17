@@ -12,14 +12,14 @@ commentaries: ["Sumangalavilasini", "Visuddhimagga"]
 **Nīvaraṇa**: [nt.] hindrance; obstacle; obstruction; barrier. From prefix *ni* (down, away) + root *var* (to shut, cover, obstruct, block). Literally means that which throws a screen or barrier across the mind.
 
 ### Orthodox Definition
-*Nīvaraṇas* are the **five primary mental hindrances** that block, paralyze, and obstruct the development of meditative concentration (*samādhi*) and liberating wisdom (*paññā*). They are the specific targets that must be temporarily suppressed via *samatha* to secure the absorption states of *jhāna*.
+*Nīvaraṇas* are the **five primary mental hindrances** that block, paralyze, and obstruct the development of meditative concentration (*samādhi*) and liberating wisdom (*paññā*). They are the specific targets that must be temporarily suppressed via *samatha* to secure the absorption states of *[jhāna](/glossary/jhana/)*.
 
 The five traditional hindrances are:
-1. *Kāmacchanda* (Sensual Desire)
-2. *Byāpāda* (Ill-will/Aversion)
-3. *Thīna-middha* (Sloth and Torpor)
-4. *Uddhacca-kukkucca* (Restlessness and Worry)
-5. *Vicikicchā* (Skeptical Doubt)
+1. *[Kāmacchanda](/glossary/kamachanda/)* (Sensual Desire)
+2. *[Byāpāda](/glossary/byapada/)* (Ill-will/Aversion)
+3. *[Thīna-middha](/glossary/thina-middha/)* (Sloth and Torpor)
+4. *[Uddhacca-kukkucca](/glossary/uddhacca-kukkucca/)* (Restlessness and Worry)
+5. *[Vicikicchā](/glossary/vicikiccha/)* (Skeptical Doubt)
 
 The commentaries compare the hindrances to a heavy psychological tax or debt that drains the mind's workable utility. The Buddha used five striking liquid analogies to describe them: a mind filled with sensory lust is like water mixed with colored dye; ill-will is like boiling water; sloth-torpor is like water choked with moss; restlessness-worry is like wind-whipped, turbulent water; and doubt is like muddy water placed in the dark. 
 

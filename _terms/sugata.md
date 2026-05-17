@@ -21,5 +21,5 @@ The Theravāda commentaries parse this title in three specific ways:
 
 ### Textual References
 * **Sutta**: *Dhajagga Sutta* (SN 11.3) – Listing Sugata among the unshakeable qualities of the Buddha.
-* **Sutta**: *Abhaya Sutta* (MN 58) – Demonstrating the Buddha's "well-gone" speech, explaining exactly what types of true and beneficial words the Tathāgata chooses to utter.
+* **Sutta**: *Abhaya Sutta* (MN 58) – Demonstrating the Buddha's "well-gone" speech, explaining exactly what types of true and beneficial words the [Tathāgata](/glossary/tathagata/) chooses to utter.
 * **Commentary**: *Visuddhimagga* (Chapter VII) – The analytical breakdown of the word *Sugata* as a meditation object.

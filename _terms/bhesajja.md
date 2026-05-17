@@ -12,7 +12,7 @@ commentaries: ["Samantapasadika"]
 **Bhesajja**: [nt.] Medicine; remedy. Derived from Sanskrit *bhaiṣajya*.
 
 ### Orthodox Definition
-*Bhesajja* refers specifically to the medicinal substances allowed for monks. While *piṇḍapāta* covers standard food consumed before noon, *Bhesajja* covers substances that can be consumed as medicine, often allowed outside the standard eating hours.
+*Bhesajja* refers specifically to the medicinal substances allowed for monks. While *[piṇḍapāta](/glossary/pindapata/)* covers standard food consumed before noon, *Bhesajja* covers substances that can be consumed as medicine, often allowed outside the standard eating hours.
 
 The Vinaya specifically identifies the **Five Standard Medicines** (*pañca bhesajjāni*):
 1. *Sappi* (Ghee)

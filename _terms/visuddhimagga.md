@@ -17,11 +17,11 @@ The *Visuddhimagga* is the absolute crown jewel of Theravāda non-canonical lite
 The book is structurally arranged around a single canonical stanza from the *Saṃyutta Nikāya*: *"Sīle patiṭṭhāya naro sappañño..."* (A man established in virtue, wise, developing concentration and wisdom...). 
 
 Based on this, it is split into **three massive programmatic sections spanning 23 chapters**:
-* **Part I: Virtue (*Sīla* - Chapters 1-2):** Dissecting monastic and lay moral codes and ascetic practices (*dhutaṅga*).
-* **Part II: Concentration (*Samādhi* - Chapters 3-11):** Delivering exhaustive instructions on the forty meditation objects to enter *jhāna*.
-* **Part III: Wisdom (*Paññā* - Chapters 12-23):** Providing the definitive technical mapping of the Abhidhamma aggregates, links, and the gradual stages of insight knowledge (*vipassanā-ñāṇa*).
+* **Part I: Virtue (*[Sīla](/glossary/sila/)* - Chapters 1-2):** Dissecting monastic and lay moral codes and ascetic practices (*dhutaṅga*).
+* **Part II: Concentration (*[Samādhi](/glossary/samadhi/)* - Chapters 3-11):** Delivering exhaustive instructions on the forty meditation objects to enter *jhāna*.
+* **Part III: Wisdom (*[Paññā](/glossary/panna/)* - Chapters 12-23):** Providing the definitive technical mapping of the Abhidhamma aggregates, links, and the gradual stages of insight knowledge (*vipassanā-ñāṇa*).
 
-For the orthodox tradition, the *Visuddhimagga* represents the ultimate interpretive standard for the Tipiṭaka.
+For the orthodox tradition, the *Visuddhimagga* represents the ultimate interpretive standard for the [Tipiṭaka](/glossary/tipitaka/).
 
 ### Textual References
 * **Historical Context**: The definitive text commissioned by the elders of the Mahāvihāra to test Ācariya Buddhaghosa’s competence before granting him access to the ancient Sinhalese commentaries.

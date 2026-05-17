@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Anicca**: [adj.] impermanent; inconstant; unstable; dynamic. Formed by the negative prefix *a* (not) + *nicca* (constant, continuous, permanent).
 
 ### Orthodox Definition
-*Anicca* is the first of the three universal characteristics of existence (*tilakkhana*). It refers to the fact that all conditioned phenomena (*saṅkhāra*), whether material (*rūpa*) or mental (*nāma*), are fundamentally impermanent.
+*Anicca* is the first of the three universal characteristics of existence (*[tilakkhana](/glossary/tilakkhana/)*). It refers to the fact that all conditioned phenomena (*[saṅkhāra](/glossary/sankhara/)*), whether material (*rūpa*) or mental (*nāma*), are fundamentally impermanent.
 
 The orthodox definition outlined in the commentaries explains that things are considered *anicca* for four reasons:
 1. Because they undergo rise and fall (*hutvā abhāvato* - having come to be, they cease).
@@ -23,6 +23,6 @@ The orthodox definition outlined in the commentaries explains that things are co
 Anicca is not merely a philosophical concept but the object of direct insight meditation (*vipassanā*). Witnessing the rapid dissolution (*bhaṅga*) of mental and physical states breaks the illusion of continuity and stability, weakening grasping.
 
 ### Textual References
-* **Sutta**: *Anattalakkhaṇa Sutta* (SN 22.59) – Where the Buddha demonstrates that what is impermanent is inevitably unsatisfactory (*dukkha*).
+* **Sutta**: *Anattalakkhaṇa Sutta* (SN 22.59) – Where the Buddha demonstrates that what is impermanent is inevitably unsatisfactory (*[dukkha](/glossary/dukkha/)*).
 * **Canonical**: *Dhammapada* (v. 277) – *"Sabbe saṅkhārā aniccā'ti..."* (All conditioned things are impermanent).
 * **Commentary**: *Visuddhimagga* (Chapter XXI) – Methodologies for contemplating impermanence to attain insight.

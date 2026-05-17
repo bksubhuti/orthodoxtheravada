@@ -9,16 +9,16 @@ canonical_texts: ["Samyutta Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Sammohavinodani"]
 ---
 ### Grammatical Analysis
-**Ariyasacca**: [nt.] Noble Truth; Truth of the Noble Ones. Formed by *ariya* (noble, holy, spiritually pure) + *sacca* (truth, reality). The commentaries explain it as "truths that are discovered and taught by the Supreme Noble One (the Buddha)," or "truths that ennoble anyone who penetrates them."
+**Ariyasacca**: [nt.] Noble Truth; Truth of the Noble Ones. Formed by *ariya* (noble, holy, spiritually pure) + *[sacca](/glossary/sacca/)* (truth, reality). The commentaries explain it as "truths that are discovered and taught by the Supreme Noble One (the Buddha)," or "truths that ennoble anyone who penetrates them."
 
 ### Orthodox Definition
 The *Ariyasaccas* are the **Four Noble Truths** that form the absolute structural blueprint of the entire Buddhist dispensation. They represent reality exactly as it is, serving as the definitive diagnostic matrix for diagnosing and curing the existential crisis of sentient life.
 
 The four pillars are:
-1. *Dukkha-ariyasacca* (The Noble Truth of Suffering): Conditioned existence is unstable, oppressive, and unsatisfactory. **Task: To be fully understood (*pariññeyya*)**.
-2. *Samudaya-ariyasacca* (The Noble Truth of the Origin of Suffering): Craving (*taṇhā*) driving the wheel of rebirth. **Task: To be completely abandoned (*pahātabba*)**.
-3. *Nirodha-ariyasacca* (The Noble Truth of the Cessation of Suffering): The unconditioned element of *Nibbāna*. **Task: To be personally realized (*sacchikātabba*)**.
-4. *Magga-ariyasacca* (The Noble Truth of the Path): The Noble Eightfold Path. **Task: To be systematically cultivated (*bhāvetabba*)**.
+1. *[Dukkha](/glossary/dukkha/)-ariyasacca* (The Noble Truth of Suffering): Conditioned existence is unstable, oppressive, and unsatisfactory. **Task: To be fully understood (*pariññeyya*)**.
+2. *[Samudaya](/glossary/samudaya/)-ariyasacca* (The Noble Truth of the Origin of Suffering): Craving (*taṇhā*) driving the wheel of rebirth. **Task: To be completely abandoned (*pahātabba*)**.
+3. *[Nirodha](/glossary/nirodha/)-ariyasacca* (The Noble Truth of the Cessation of Suffering): The unconditioned element of *Nibbāna*. **Task: To be personally realized (*sacchikātabba*)**.
+4. *[Magga](/glossary/magga/)-ariyasacca* (The Noble Truth of the Path): The Noble Eightfold Path. **Task: To be systematically cultivated (*bhāvetabba*)**.
 
 The commentaries note that these four truths form a perfect medical system: the symptom (suffering), the etiology (craving), the prognosis/cure (cessation), and the prescription (the path).
 

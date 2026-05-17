@@ -13,13 +13,13 @@ commentaries: ["Visuddhimagga", "Sammohavinodani"]
 
 ### Orthodox Definition
 *Indriya* is a structural term used to designate factors that completely control and govern their associated mental or physical states. The Theravāda system recognizes **22 total faculties**, but the most critical for meditation are the **Five Spiritual Faculties** (*pañcindriyāni*):
-1. *Saddhā* (Faith/Confidence)
-2. *Viriya* (Energy)
-3. *Sati* (Mindfulness)
-4. *Samādhi* (Concentration)
-5. *Paññā* (Wisdom)
+1. *[Saddhā](/glossary/saddha/)* (Faith/Confidence)
+2. *[Viriya](/glossary/viriya/)* (Energy)
+3. *[Sati](/glossary/sati/)* (Mindfulness)
+4. *[Samādhi](/glossary/samadhi/)* (Concentration)
+5. *[Paññā](/glossary/panna/)* (Wisdom)
 
-The *Visuddhimagga* stresses that these faculties must be perfectly balanced (*indriya-samatta*). If faith is too strong and wisdom is weak, it leads to blind devotion. If wisdom is too strong and faith is weak, it leads to cynical intellectualism. If energy outpaces concentration, the mind scatters (*uddhacca*). If concentration outpaces energy, the mind falls asleep (*thīna-middha*). *Sati* (mindfulness) is the only faculty that never needs balancing, as it serves as the absolute overseer that regulates the other four.
+The *Visuddhimagga* stresses that these faculties must be perfectly balanced (*indriya-samatta*). If faith is too strong and wisdom is weak, it leads to blind devotion. If wisdom is too strong and faith is weak, it leads to cynical intellectualism. If energy outpaces concentration, the mind scatters (*uddhacca*). If concentration outpaces energy, the mind falls asleep (*thīna-middha*). *[Sati](/glossary/sati/)* (mindfulness) is the only faculty that never needs balancing, as it serves as the absolute overseer that regulates the other four.
 
 ### Textual References
 * **Sutta**: *Indriya-saṃyutta* (SN 48) – A massive collection of discourses detailing the arising, balancing, and perfection of the controlling faculties.

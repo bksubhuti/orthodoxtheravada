@@ -14,7 +14,7 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 ### Orthodox Definition
 *Saṅkhāra* is one of the most complex, multi-layered terms in Pāḷi lexicography, demanding strict context tracking. The Mahāvihāra commentaries split its application into three primary doctrinal contexts:
 
-1. **As an Aggregate (*Saṅkhārakkhandha*):** The fourth of the five aggregates, encompassing 50 of the 52 mental factors (*cetasika*), with the exception of feeling (*vedanā*) and perception (*saññā*). It is dominated by volition (*cetanā*).
+1. **As an Aggregate (*Saṅkhārakkhandha*):** The fourth of the five aggregates, encompassing 50 of the 52 mental factors (*cetasika*), with the exception of feeling (*vedanā*) and perception (*saññā*). It is dominated by volition (*[cetanā](/glossary/cetana/)*).
 2. **In Dependent Origination (*Avijjā-paccayā saṅkhārā*):** The active karmic formations or volitions generated through body, speech, and mind that determine the trajectory of rebirth.
 3. **As a Universal Statement (*Sabbe saṅkhārā aniccā*):** Referring broadly to *all* conditioned things whatsoever—anything that has arisen out of a combination of prior causes and conditions. This includes everything in the physical and mental universe, excluding only *Nibbāna*.
 

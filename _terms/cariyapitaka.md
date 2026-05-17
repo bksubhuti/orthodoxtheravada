@@ -12,9 +12,9 @@ commentaries: ["Paramatthadipani"]
 **Cariyāpiṭaka**: [nt.] The Basket of Conduct; The Collection of Ways of Behavior. Formed by *cariyā* (conduct, behavior, practice) + *piṭaka* (basket, collection).
 
 ### Orthodox Definition
-The *Cariyāpiṭaka* is the fifteenth standard book of the Khuddaka Nikāya. It serves as a direct companion volume to both the *Jātaka* and the *Buddhavaṃsa*. 
+The *Cariyāpiṭaka* is the fifteenth standard book of the Khuddaka Nikāya. It serves as a direct companion volume to both the *[Jātaka](/glossary/jataka/)* and the *[Buddhavaṃsa](/glossary/buddhavamsa/)*. 
 
-While the *Jātaka* contains hundreds of Bodhisatta stories and the *Buddhavaṃsa* provides the lineage of previous Buddhas, the *Cariyāpiṭaka* takes 35 specific past-life stories and reframes them purely as structural demonstrations of the **Ten Perfections** (*Pāramī*). 
+While the *[Jātaka](/glossary/jataka/)* contains hundreds of Bodhisatta stories and the *[Buddhavaṃsa](/glossary/buddhavamsa/)* provides the lineage of previous Buddhas, the *Cariyāpiṭaka* takes 35 specific past-life stories and reframes them purely as structural demonstrations of the **Ten Perfections** (*[Pāramī](/glossary/parami/)*). 
 
 Narrated in verse, the text ignores narrative drama and instead focuses entirely on *how* the Bodhisatta fulfilled specific parameters of giving, virtue, renunciation, resolution, loving-kindness, and equanimity. It acts as a textbook proving that Gotama Buddha systematically mastered every psychological requirement for Omniscience.
 

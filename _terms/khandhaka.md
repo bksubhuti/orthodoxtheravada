@@ -16,8 +16,8 @@ The *Khandhaka* constitutes the second major division of the Vinaya Piṭaka. Wh
 
 It provides the precise legal frameworks for how the Saṅgha governs itself. It details how to perform an ordination (*upasampadā*), how to hold the fortnightly recitation of the rules (*uposatha*), how to manage the rains retreat (*vassa*) and the Kathina ceremony, how to distribute lodgings, how to deal with schisms, and how to enact formal disciplinary acts against rogue monks.
 
-The *Khandhaka* is famously divided into two massive volumes: the *Mahāvagga* (The Great Division) and the *Cullavagga* (The Minor Division).
+The *Khandhaka* is famously divided into two massive volumes: the *[Mahāvagga](/glossary/mahavagga/)* (The Great Division) and the *[Cullavagga](/glossary/cullavagga/)* (The Minor Division).
 
 ### Textual References
-* **Vinaya**: *Khandhaka* – Contains 22 distinct chapters (10 in the Mahāvagga, 12 in the Cullavagga).
+* **Vinaya**: *Khandhaka* – Contains 22 distinct chapters (10 in the [Mahāvagga](/glossary/mahavagga/), 12 in the [Cullavagga](/glossary/cullavagga/)).
 * **Commentary**: *Samantapāsādikā* – Essential for understanding the complex geometric and geographical requirements for establishing a valid monastic boundary (*sīmā*) mentioned in these chapters.

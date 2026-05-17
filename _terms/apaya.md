@@ -12,13 +12,13 @@ commentaries: ["Sammohavinodani", "Visuddhimagga"]
 **Apāya**: [m.] state of deprivation; plane of misery; lower realm. Formed by prefix *apa* (away from) + *aya* (goodness, merit, progression). Literally means "the state devoid of progression or happiness."
 
 ### Orthodox Definition
-The *Apāyas* constitute the bottom four tiers of the thirty-one planes of existence. They are the specific destinations mapped out under the category of *duggati*. 
+The *Apāyas* constitute the bottom four tiers of the thirty-one planes of existence. They are the specific destinations mapped out under the category of *[duggati](/glossary/duggati/)*. 
 
 The four planes of misery are:
-1. *Niraya*: The hell realms.
+1. *[Niraya](/glossary/niraya/)*: The hell realms.
 2. *Tiracchāna-yoni*: The animal kingdom (the only apāya visible to the human eye).
-3. *Peta-loka*: The realm of hungry ghosts.
-4. *Asura-kāya*: The realm of angry demons/titans.
+3. *[Peta](/glossary/peta/)-loka*: The realm of hungry ghosts.
+4. *[Asura](/glossary/asura/)-kāya*: The realm of angry demons/titans.
 
 The orthodox definition states that the apāyas are realms of sheer karmic exhaustion. Beings in these states are primarily passive recipients of their past bad kamma (*akusala-vipāka*). Because the suffering is so intense and the mental faculties are so clouded by delusion and fear, the opportunity to practice the Dhamma or generate new wholesome kamma is almost non-existent. A stream-enterer (*sotāpanna*) is absolutely guaranteed never to be reborn in the apāyas again.
 

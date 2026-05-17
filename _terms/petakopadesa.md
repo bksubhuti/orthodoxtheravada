@@ -9,7 +9,7 @@ canonical_texts: ["Petakopadesa"]
 commentaries: []
 ---
 ### Grammatical Analysis
-**Peṭakopadesa**: [m.] Instructions on the Piṭakas; Disclosure of the Baskets. Formed by *peṭaka* (basket, referring to the Tipiṭaka) + *upadesa* (instruction, advice, teaching).
+**Peṭakopadesa**: [m.] Instructions on the Piṭakas; Disclosure of the Baskets. Formed by *peṭaka* (basket, referring to the [Tipiṭaka](/glossary/tipitaka/)) + *upadesa* (instruction, advice, teaching).
 
 ### Orthodox Definition
 Like the *Netti*, the *Peṭakopadesa* is an ancient, highly technical manual of textual interpretation attributed to Venerable Mahākaccāna. It is recognized as canonical in the Burmese tradition but para-canonical elsewhere.

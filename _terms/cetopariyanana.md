@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Cetopariyañāṇa**: [nt.] knowledge encompassing the minds of others; telepathy. Formed by *ceto* (mind) + *pariya* (encompassing, penetrating, reading) + *ñāṇa* (knowledge). 
 
 ### Orthodox Definition
-*Cetopariyañāṇa* is the third of the six supernormal knowledges (*abhiññā*). It is the ability to directly perceive, read, and understand the mental states of other sentient beings.
+*Cetopariyañāṇa* is the third of the six supernormal knowledges (*[abhiññā](/glossary/abhinna/)*). It is the ability to directly perceive, read, and understand the mental states of other sentient beings.
 
 The canonical formula specifies exactly what the telepath tracks: they know a mind with lust as a mind with lust, a mind without lust as a mind without lust, a mind with hate as a mind with hate, a scattered mind as scattered, a concentrated mind as concentrated, and an unliberated mind as unliberated.
 

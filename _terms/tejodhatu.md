@@ -9,7 +9,7 @@ canonical_texts: ["Majjhima Nikaya", "Dhammasangani"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Tejodhātu**: [f.] fire element; element of heat; temperature. Formed by *tejo* (fire, heat, flame, thermal energy) + *dhātu* (element).
+**Tejodhātu**: [f.] fire element; element of heat; temperature. Formed by *tejo* (fire, heat, flame, thermal energy) + *[dhātu](/glossary/dhatu/)* (element).
 
 ### Orthodox Definition
 *Tejodhātu* is the third of the four great physical elements (*mahābhūta*). It represents the abstract material principle of **temperature, heat, cold, and maturation**. 

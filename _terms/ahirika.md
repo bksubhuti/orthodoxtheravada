@@ -9,10 +9,10 @@ canonical_texts: ["Dhammasangani", "Vibhanga"]
 commentaries: ["Atthasalini"]
 ---
 ### Grammatical Analysis
-**Ahirika**: [nt.] shamelessness; lack of moral conscience. Formed by negative prefix *a* (not/without) + *hiri* (moral shame).
+**Ahirika**: [nt.] shamelessness; lack of moral conscience. Formed by negative prefix *a* (not/without) + *[hiri](/glossary/hiri/)* (moral shame).
 
 ### Orthodox Definition
-*Ahirika* is a primary unwholesome mental factor (*akusala-cetasika*). Along with its twin *anottappa* (moral recklessness), it is classified as a universal unwholesome factor (*sabbākusalasādhāraṇa*), meaning it arises in absolutely every single unwholesome state of mind without exception.
+*Ahirika* is a primary unwholesome mental factor (*akusala-cetasika*). Along with its twin *[anottappa](/glossary/anottappa/)* (moral recklessness), it is classified as a universal unwholesome factor (*sabbākusalasādhāraṇa*), meaning it arises in absolutely every single unwholesome state of mind without exception.
 
 It represents the complete absence of internal self-respect. While a wise person shrinks away from evil out of dignity, a person afflicted by *ahirika* feels no internal disgust or hesitation when engaging in physical, verbal, or mental misconduct. 
 

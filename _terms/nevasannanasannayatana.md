@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Nevasaññānāsaññāyatana**: [nt.] the base of neither-perception-nor-non-perception. Formed by *neva* (neither) + *saññā* (perception) + *na* (nor) + *asaññā* (non-perception) + *āyatana* (base).
 
 ### Orthodox Definition
-*Nevasaññānāsaññāyatana* is the fourth immaterial absorption (*arūpajhāna*) and the absolute limit of worldly, conditioned mental development. It was the highest attainment of the Buddha's second teacher, Uddaka Rāmaputta.
+*Nevasaññānāsaññāyatana* is the fourth immaterial absorption (*[arūpajhāna](/glossary/arupajhana/)*) and the absolute limit of worldly, conditioned mental development. It was the highest attainment of the Buddha's second teacher, Uddaka Rāmaputta.
 
 In this state, the mind takes the previous state (the Base of Nothingness) as its object. The mental factors here are so incredibly subtle and refined that perception (*saññā*) can barely be said to exist, yet it is not completely extinct either. 
 

@@ -20,7 +20,7 @@ The *Atthasālinī* formalizes four strict criteria for determining if a state i
 3. *Kosalla-sambhūta*: It is generated through internal skill, wisdom, or intelligent attention.
 4. *Sukha-vipāka*: It leaves behind a positive, beneficial karmic potential that guarantees happy outcomes.
 
-Wholesome states are generated exclusively by the three wholesome roots (*kusala-mūla*): non-greed (*alobha*), non-hatred (*adosa*), and non-delusion (*amoha*). They span the sensual, fine-material, immaterial, and supramundane planes.
+Wholesome states are generated exclusively by the three wholesome roots (*[kusala-mūla](/glossary/kusala-mula/)*): non-greed (*alobha*), non-hatred (*adosa*), and non-delusion (*amoha*). They span the sensual, fine-material, immaterial, and supramundane planes.
 
 ### Textual References
 * **Sutta**: *Sammādiṭṭhi Sutta* (MN 9) – Where Venerable Sāriputta anchors right view by teaching that a noble disciple must explicitly distinguish the wholesome, its roots, the unwholesome, and its roots.

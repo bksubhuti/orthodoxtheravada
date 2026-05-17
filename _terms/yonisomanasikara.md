@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 **Yoniso manasikāra**: [m.] wise attention; appropriate attention; radical reflection; analytical attention. Formed by *yoniso* (from the womb, radically, down to the source/origin) + *manasikāra* (making in the mind, attention). Meaning: looking at things deeply down to their absolute causal roots.
 
 ### Orthodox Definition
-*Yoniso manasikāra* is one of the most critical operational gears in Theravāda spiritual development. It is the mental factor of attention (*manasikāra-cetasika*) running in perfect alignment with wisdom (*paññā*), directing the cognitive focus to see things exactly as they are under ultimate scrutiny.
+*Yoniso manasikāra* is one of the most critical operational gears in Theravāda spiritual development. It is the mental factor of attention (*manasikāra-cetasika*) running in perfect alignment with wisdom (*[paññā](/glossary/panna/)*), directing the cognitive focus to see things exactly as they are under ultimate scrutiny.
 
 The commentaries define its function through four structural parameters:
 1. Seeing the impermanent as impermanent (*anicca*).

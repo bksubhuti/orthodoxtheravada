@@ -14,9 +14,9 @@ commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ### Orthodox Definition
 In Theravāda meditation architecture, *Nimitta* is the critical technical term for the **meditation object** or the mental image that the mind locks onto to develop concentration (*samādhi*).
 
-While wandering in saṃsāra, the mind grabs onto the "signs of beauty" (*subha-nimitta*) or the "signs of irritation" (*paṭigha-nimitta*), which generate greed and hatred. In *samatha* practice, the meditator trains the mind to ignore those worldly signs and lock onto a pure, static meditation sign (like a colored disc or the breath).
+While wandering in saṃsāra, the mind grabs onto the "signs of beauty" (*subha-nimitta*) or the "signs of irritation" (*paṭigha-nimitta*), which generate greed and hatred. In *[samatha](/glossary/samatha/)* practice, the meditator trains the mind to ignore those worldly signs and lock onto a pure, static meditation sign (like a colored disc or the breath).
 
-As concentration deepens, the *nimitta* undergoes a profound psychological evolution, transforming from a physical object into a brilliantly clear, mind-generated image. This transformation is the exact metric used by orthodox meditation masters to gauge a practitioner's proximity to *jhāna*.
+As concentration deepens, the *nimitta* undergoes a profound psychological evolution, transforming from a physical object into a brilliantly clear, mind-generated image. This transformation is the exact metric used by orthodox meditation masters to gauge a practitioner's proximity to *[jhāna](/glossary/jhana/)*.
 
 ### Textual References
 * **Sutta**: *Mahāvedalla Sutta* (MN 43) – Discussing the "signless" (*animitta*) liberation of mind, achieved by actively paying no attention to all signs.

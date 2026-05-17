@@ -14,7 +14,7 @@ commentaries: ["Manorathapurani"]
 ### Orthodox Definition
 *Diṭṭhadhammika* is a temporal classification used to describe benefits, dangers, or karmic results (*vipāka*) that ripen and are experienced exclusively in this current lifetime. 
 
-When teaching laypeople, the Buddha often divided his advice into two categories: welfare for the present life (*diṭṭhadhammika-attha*) and welfare for the next life (*samparāyika-attha*). Present-life welfare involves practical economics and ethics, such as earning wealth through energetic effort (*uṭṭhāna-sampadā*), protecting that wealth (*ārakkha-sampadā*), associating with good friends, and living a balanced livelihood.
+When teaching laypeople, the Buddha often divided his advice into two categories: welfare for the present life (*diṭṭhadhammika-attha*) and welfare for the next life (*[samparāyika](/glossary/samparayika/)-attha*). Present-life welfare involves practical economics and ethics, such as earning wealth through energetic effort (*uṭṭhāna-sampadā*), protecting that wealth (*ārakkha-sampadā*), associating with good friends, and living a balanced livelihood.
 
 In karmic terms, *Diṭṭhadhammika-kamma* refers to a specific, highly potent volition (usually the very first javana-citta in a cognitive series) that ripes in the same lifetime it was committed. If it does not find the right conditions to ripen before death, it becomes defunct (*ahosi-kamma*).
 

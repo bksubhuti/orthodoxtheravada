@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Ākiñcaññāyatana**: [nt.] the base of nothingness; the sphere of voidness. Formed by *akiñcana* (having nothing, nothingness) + *āyatana* (base).
 
 ### Orthodox Definition
-*Ākiñcaññāyatana* is the third of the four immaterial absorptions (*arūpajhāna*). This is the specific attainment that the Buddha's first teacher, Āḷāra Kālāma, had mastered and mistook for ultimate liberation.
+*Ākiñcaññāyatana* is the third of the four immaterial absorptions (*[arūpajhāna](/glossary/arupajhana/)*). This is the specific attainment that the Buddha's first teacher, Āḷāra Kālāma, had mastered and mistook for ultimate liberation.
 
 To achieve it, the meditator emerges from the second formless state (Infinite Consciousness) and reflects that the presence of *any* consciousness as an object is a disturbance. They withdraw attention from the consciousness itself and instead lock onto its complete absence, focusing on the sheer non-existence of the previous state. The mind absorbs into this void, repeating "there is nothing, there is nothing" (*natthi kiñci*).
 

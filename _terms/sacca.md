@@ -12,9 +12,9 @@ commentaries: ["Visuddhimagga", "Cariyapitaka-Atthakatha"]
 **Sacca**: [nt.; adj.] truth; truthfulness; reality; authentic fact. Derived from *sat* (existing, real). Meaning: that which is in accordance with actual reality, or that which does not deceive.
 
 ### Orthodox Definition
-*Sacca* functions across two primary fields in Theravāda architecture: as an ethical perfection (*Sacca-pāramī*) and as a structural description of reality (*Ariya-sacca* / *Sacca-vibhaṅga*).
+*Sacca* functions across two primary fields in Theravāda architecture: as an ethical perfection (*Sacca-[pāramī](/glossary/parami/)*) and as a structural description of reality (*Ariya-sacca* / *Sacca-vibhaṅga*).
 
-As a perfection, it is the seventh *pāramī*, representing absolute verbal and intentional honesty. A Bodhisatta can break other minor regulations across his long journey, but he can **never tell a deliberate lie (*musāvāda*)**, because lying completely fractures the alignment of mind required to realize truth.
+As a perfection, it is the seventh *[pāramī](/glossary/parami/)*, representing absolute verbal and intentional honesty. A Bodhisatta can break other minor regulations across his long journey, but he can **never tell a deliberate lie (*musāvāda*)**, because lying completely fractures the alignment of mind required to realize truth.
 
 In terms of reality, the commentaries distinguish between two dimensions of truth:
 1. *Sammuti-sacca* (Conventional Truth): Truth by social agreement, using terms like "person," "animal," "table," and "monk." These are functionally real for worldly navigation but lack standalone ultimate ingredients.

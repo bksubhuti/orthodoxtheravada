@@ -9,10 +9,10 @@ canonical_texts: ["Majjhima Nikaya", "Dhammasangani"]
 commentaries: ["Visuddhimagga", "Atthasalini"]
 ---
 ### Grammatical Analysis
-**Ākāsadhātu**: [f.] space element; void; spatial extension. Formed by *ākāsa* (space, sky, open void) + *dhātu* (element). 
+**Ākāsadhātu**: [f.] space element; void; spatial extension. Formed by *ākāsa* (space, sky, open void) + *[dhātu](/glossary/dhatu/)* (element). 
 
 ### Orthodox Definition
-While often grouped with the four great elements in meditation instructions to form a six-element set, *Ākāsadhātu* is technically classified in the Abhidhamma as **derived materiality** (*upādā-rūpa*). It is not a fundamental building block of matter, but rather the delimiting boundary that separates material groups (*rūpa-kalāpa*) from one another.
+While often grouped with the four great elements in meditation instructions to form a six-element set, *Ākāsadhātu* is technically classified in the Abhidhamma as **derived materiality** (*upādā-[rūpa](/glossary/rupa/)*). It is not a fundamental building block of matter, but rather the delimiting boundary that separates material groups (*[rūpa](/glossary/rupa/)-kalāpa*) from one another.
 
 The commentaries define its characteristic as the bounding or establishing of borders for matter (*rūpapariccheda-lakkhaṇā*). Its function is to display the boundaries of physical objects (*rūpapariyanta-pakāsana-rasā*), providing the gaps and intra-atomic spaces that allow the other elements to move and vibrate.
 

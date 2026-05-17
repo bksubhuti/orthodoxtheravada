@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Magga**: [m.] path; road; way; track. Derived from root *magg* (to track, trace, seek out). Doctrinally, it implies the exact path of training that must be physically traversed to reach a specific destination.
 
 ### Orthodox Definition
-In the fundamental layout of the Four Noble Truths, *Magga* constitutes the Fourth Noble Truth: the path leading directly to the absolute cessation of suffering (*dukkha-nirodha-gāminī-paṭipadā*). This is universally defined as the Supramundane Noble Eightfold Path (*Ariya-aṭṭhaṅgika-magga*).
+In the fundamental layout of the Four Noble Truths, *Magga* constitutes the Fourth Noble Truth: the path leading directly to the absolute cessation of suffering (*dukkha-[nirodha](/glossary/nirodha/)-gāminī-paṭipadā*). This is universally defined as the Supramundane Noble Eightfold Path (*Ariya-aṭṭhaṅgika-magga*).
 
 The path is structured into eight operational limbs, grouped into three trainings:
 * **Paññā (Wisdom):** Right View (*sammā-diṭṭhi*), Right Intention (*sammā-saṅkappa*).

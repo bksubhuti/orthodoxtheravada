@@ -14,10 +14,10 @@ commentaries: ["Patthana-atthakatha"]
 ### Orthodox Definition
 The *Paṭṭhāna* is the seventh, final, and by far the most massive book of the Abhidhamma Piṭaka. It is traditionally referred to as the *Mahāpakaraṇa* (The Great Treatise). 
 
-While the *Dhammasaṅgaṇī* dissects the universe into ultimate realities, the *Paṭṭhāna* puts the universe back together by showing exactly how these realities condition one another. It establishes a complex system of **24 Conditions** (*paccaya*)—such as root condition, object condition, contiguity condition, kamma condition, and presence condition. 
+While the *Dhammasaṅgaṇī* dissects the universe into ultimate realities, the *Paṭṭhāna* puts the universe back together by showing exactly how these realities condition one another. It establishes a complex system of **24 Conditions** (*paccaya*)—such as root condition, object condition, contiguity condition, [kamma](/glossary/kamma/) condition, and presence condition. 
 
 It then cross-references these 24 conditions against every single reality in the Abhidhamma matrix. The Theravāda tradition holds that only the omniscient mind of a Buddha is vast enough to comprehend the *Paṭṭhāna* in its entirety. It is said that when the Buddha first contemplated this book during his fourth week after enlightenment, his mind finally found an object vast enough to match its power, causing six-colored rays of light to emit from his body.
 
 ### Textual References
 * **Canonical**: *Paṭṭhāna* – The 24 conditions (*paccayauddesa*) form the foundation of all advanced Theravāda causal analysis.
-* **Commentary**: *Paṭṭhāna-aṭṭhakathā* – Providing the classic similes for each condition (e.g., the object condition is like a walking stick for a blind man; the kamma condition is like a seed).
+* **Commentary**: *Paṭṭhāna-aṭṭhakathā* – Providing the classic similes for each condition (e.g., the object condition is like a walking stick for a blind man; the [kamma](/glossary/kamma/) condition is like a seed).

@@ -12,7 +12,7 @@ commentaries: []
 **Dhātugabbha**: [m.] Relic chamber; the inner room of a stupa. Formed by *dhātu* (element, physical relic) + *gabbha* (womb, inner chamber, interior). (Sanskrit: *Dhātugarbha*, from which the Sinhalese word *Dagoba* is derived).
 
 ### Orthodox Definition
-The *Dhātugabbha* is the hidden, central, and most sacred architectural core of a Buddhist *Thūpa*. 
+The *Dhātugabbha* is the hidden, central, and most sacred architectural core of a Buddhist *[Thūpa](/glossary/thupa/)*. 
 
 When a stupa is constructed, it is not solid all the way through. A secure, sealed inner chamber is built specifically to enshrine the corporeal relics (*dhātu*) of the Buddha or an Arahat. Surrounding the relics within this "womb" are typically massive hoards of precious gems, gold, silver, statues, and sacred texts offered by kings and devotees. 
 

@@ -10,8 +10,8 @@ commentaries: ["Sumangalavilasini", "Papancasudani"]
 ---
 ### Grammatical Analysis
 **Satipaṭṭhāna**: [nt.] foundation of mindfulness; establishment of awareness. Can be etymologically broken down into two distinct ways by the commentaries:
-1. *Sati* + *upaṭṭhāna*: The placing near, setting up, or establishing of mindfulness.
-2. *Sati* + *paṭṭhāna*: The foundational domain, starting point, or field of operation for mindfulness.
+1. *[Sati](/glossary/sati/)* + *upaṭṭhāna*: The placing near, setting up, or establishing of mindfulness.
+2. *[Sati](/glossary/sati/)* + *paṭṭhāna*: The foundational domain, starting point, or field of operation for mindfulness.
 
 ### Orthodox Definition
 *Satipaṭṭhāna* is the absolute structural framework for the practice of insight meditation. The Buddha famously declared it to be the *ekāyano maggo*—the direct, unique pathway for the purification of beings and the realization of *Nibbāna*.

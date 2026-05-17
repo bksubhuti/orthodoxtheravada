@@ -14,7 +14,7 @@ commentaries: ["Saddhammapajjotika"]
 ### Orthodox Definition
 The *Niddesa* is the eleventh book of the Khuddaka Nikāya. It is entirely unique within the Sutta-piṭaka because it is not a primary discourse by the Buddha, but rather a canonical, highly formal commentary on another canonical text.
 
-Orthodox tradition attributes the authorship of the *Niddesa* exclusively to Venerable Sāriputta, the Buddha's chief disciple foremost in wisdom. Sāriputta provides a word-by-word, exhaustive analytical breakdown of the two oldest and most difficult chapters of the *Suttanipāta* (The Aṭṭhakavagga and the Pārāyanavagga). 
+Orthodox tradition attributes the authorship of the *Niddesa* exclusively to Venerable Sāriputta, the Buddha's chief disciple foremost in wisdom. Sāriputta provides a word-by-word, exhaustive analytical breakdown of the two oldest and most difficult chapters of the *[Suttanipāta](/glossary/suttanipata/)* (The Aṭṭhakavagga and the Pārāyanavagga). 
 
 Because Sāriputta uses early Abhidhamma-style lists and exact synonyms to explain the Buddha's cryptic poetry, the *Niddesa* acts as the primary historical bridge between the conventional style of the Suttas and the ultimate structural analysis of the Abhidhamma.
 

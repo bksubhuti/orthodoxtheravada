@@ -9,10 +9,10 @@ canonical_texts: ["Majjhima Nikaya", "Digha Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Sammāsamādhi**: [m.] Right Concentration; Correct Meditative Integration. Formed by *sammā* (correctly) + *samādhi* (concentration/one-pointedness). Doctrinally identical to the mental factor of one-pointedness (*ekaggatā-cetasika*) when unified with beautiful states.
+**Sammāsamādhi**: [m.] Right Concentration; Correct Meditative Integration. Formed by *sammā* (correctly) + *[samādhi](/glossary/samadhi/)* (concentration/one-pointedness). Doctrinally identical to the mental factor of one-pointedness (*[ekaggatā](/glossary/ekaggata/)-cetasika*) when unified with beautiful states.
 
 ### Orthodox Definition
-*Sammāsamādhi* is the eighth and final limb of the Noble Eightfold Path, serving as the absolute climax of the concentration division (*samādhi-sikkhā*). It represents the mind brought into a state of flawless, unmoving unification, entirely anchored to a wholesome focus.
+*Sammāsamādhi* is the eighth and final limb of the Noble Eightfold Path, serving as the absolute climax of the concentration division (*[samādhi](/glossary/samadhi/)-sikkhā*). It represents the mind brought into a state of flawless, unmoving unification, entirely anchored to a wholesome focus.
 
 In the canonical suttas, the Buddha explicitly defines *Sammāsamādhi* as the attainment and mastery of the **four material-sphere absorptions**: the First, Second, Third, and Fourth *Jhānas*. 
 
@@ -20,5 +20,5 @@ The *Visuddhimagga* explains that concentration is crowned as "Right" when it is
 
 ### Textual References
 * **Sutta**: *Mahāsatipaṭṭhāna Sutta* (DN 22) – The definitive text providing the standard formulaic description of the four jhānas as Right Concentration.
-* **Abhidhamma**: *Vibhaṅga* (Magga-vibhaṅga clinical catalog).
+* **Abhidhamma**: *Vibhaṅga* ([Magga](/glossary/magga/)-vibhaṅga clinical catalog).
 * **Commentary**: *Visuddhimagga* (Chapters IV and V) – The exhaustive reference mapping out the manual requirements to fulfill Right Concentration.

@@ -16,7 +16,7 @@ commentaries: ["Visuddhimagga"]
 
 The meditator anchors their mind by systematically reciting and contemplating the standard canonical formula: *"Iti'pi so Bhagavā Arahaṃ Sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti."* 
 
-Because the virtues of a Buddha are so profound and multifaceted, the mind cannot lock onto a single static sign (*nimitta*). Therefore, the *Visuddhimagga* states that this practice cannot produce full absorption (*jhāna*); it culminates in extremely powerful Access Concentration (*upacāra-samādhi*). It serves as a master-antidote to fear, doubt, and sluggishness, flooding the practitioner's body with immense spiritual rapture (*pīti*).
+Because the virtues of a Buddha are so profound and multifaceted, the mind cannot lock onto a single static sign (*nimitta*). Therefore, the *Visuddhimagga* states that this practice cannot produce full absorption (*jhāna*); it culminates in extremely powerful Access Concentration (*upacāra-samādhi*). It serves as a master-antidote to fear, doubt, and sluggishness, flooding the practitioner's body with immense spiritual rapture (*[pīti](/glossary/piti/)*).
 
 ### Textual References
 * **Sutta**: *Dhajagga Sutta* (SN 11.3) – The famous "Crest of the Standard" discourse where the Buddha promises that recollecting his virtues will instantly destroy any panic, terror, or creeping of the flesh.

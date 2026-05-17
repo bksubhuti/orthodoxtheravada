@@ -18,11 +18,11 @@ The *Visuddhimagga* defines its specific characteristics as follows:
 * **Lakkhaṇa** (Characteristic): Non-floating, non-drifting away from the meditation object (*apilāpanalakkhaṇā*).
 * **Rasa** (Function): Unforgetfulness or clarity (*asammosarasā*).
 * **Paccupaṭṭhāna** (Manifestation): Guarding the doors of the senses, or confronting the objective field face-to-face (*ārakkhapaccupaṭṭhānā*).
-* **Padaṭṭhāna** (Proximate Cause): Firm perception (*thirasaññāpadaṭṭhānā*) or the four foundations of mindfulness (*satipaṭṭhāna*).
+* **Padaṭṭhāna** (Proximate Cause): Firm perception (*thirasaññāpadaṭṭhānā*) or the four foundations of mindfulness (*[satipaṭṭhāna](/glossary/satipatthana/)*).
 
-Sati operates as a spiritual faculty (*indriya*), a spiritual power (*bala*), and is the primary factor of enlightenment (*bojjhaṅga*). It must always be balanced carefully with wisdom (*paññā*).
+Sati operates as a spiritual faculty (*[indriya](/glossary/indriya/)*), a spiritual power (*[bala](/glossary/bala/)*), and is the primary factor of enlightenment (*[bojjhaṅga](/glossary/bojjhanga/)*). It must always be balanced carefully with wisdom (*paññā*).
 
 ### Textual References
-* **Sutta**: *Satipaṭṭhāna Sutta* (MN 10) – The foundational text mapping mindfulness into body, feelings, mind, and mental principles.
+* **Sutta**: *[Satipaṭṭhāna](/glossary/satipatthana/) Sutta* (MN 10) – The foundational text mapping mindfulness into body, feelings, mind, and mental principles.
 * **Abhidhamma**: *Vibhaṅga* (Satipaṭṭhānavibhaṅga section).
 * **Commentary**: *Papañcasūdanī* (Exposition on the mindfulness methods).

@@ -12,15 +12,15 @@ commentaries: ["Visuddhimagga"]
 **Bala**: [nt.] power; strength; unshakeable force. Derived from root *bal* (to live, be strong, nourish). 
 
 ### Orthodox Definition
-The *Balas* are the **Five Spiritual Powers**, consisting of the exact same five mental factors as the faculties (*indriya*): Faith, Energy, Mindfulness, Concentration, and Wisdom. 
+The *Balas* are the **Five Spiritual Powers**, consisting of the exact same five mental factors as the faculties (*[indriya](/glossary/indriya/)*): Faith, Energy, Mindfulness, Concentration, and Wisdom. 
 
-While the term *indriya* is used when these factors are actively exercising control over the mind and battling defilements, the term *bala* is applied when these factors have become so strong and stabilized that they are unshakeable (*akampiya*) by their opposites. 
+While the term *[indriya](/glossary/indriya/)* is used when these factors are actively exercising control over the mind and battling defilements, the term *bala* is applied when these factors have become so strong and stabilized that they are unshakeable (*akampiya*) by their opposites. 
 
 For example:
-* The power of Faith (*saddhā-bala*) cannot be shaken by faithlessness or doubt.
-* The power of Energy (*viriya-bala*) cannot be shaken by laziness.
-* The power of Concentration (*samādhi-bala*) cannot be shaken by distraction.
-* The power of Wisdom (*paññā-bala*) cannot be shaken by ignorance.
+* The power of Faith (*[saddhā](/glossary/saddha/)-bala*) cannot be shaken by faithlessness or doubt.
+* The power of Energy (*[viriya](/glossary/viriya/)-bala*) cannot be shaken by laziness.
+* The power of Concentration (*[samādhi](/glossary/samadhi/)-bala*) cannot be shaken by distraction.
+* The power of Wisdom (*[paññā](/glossary/panna/)-bala*) cannot be shaken by ignorance.
 
 When fully matured on the supramundane path, these powers render the noble disciple absolutely invincible against the forces of Māra.
 

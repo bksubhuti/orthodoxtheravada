@@ -12,7 +12,7 @@ commentaries: ["Samantapasadika"]
 **Sāmaṇera**: [m.] Novice monk. Derived from *samaṇa* (ascetic, striver) + suffix *era* (indicating a son or pupil). Literally translates to "son of an ascetic."
 
 ### Orthodox Definition
-A *Sāmaṇera* is a male monastic who has taken the lower ordination (*pabbajjā*) but has not yet received the higher ordination (*upasampadā*). 
+A *Sāmaṇera* is a male monastic who has taken the lower ordination (*[pabbajjā](/glossary/pabbajja/)*) but has not yet received the higher ordination (*[upasampadā](/glossary/upasampada/)*). 
 
 Unlike fully ordained Bhikkhus who must observe the 227 rules of the Pātimokkha, a *sāmaṇera* is legally bound by the **Ten Precepts** (*Dasa Sikkhāpada*), which include abstaining from killing, stealing, unchastity, lying, intoxicants, eating after noon, entertainment, adornments, high beds, and handling money. They are also subject to 75 training rules (*sekhiya*) regarding etiquette. 
 

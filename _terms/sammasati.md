@@ -9,12 +9,12 @@ canonical_texts: ["Majjhima Nikaya", "Digha Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Papancasudani"]
 ---
 ### Grammatical Analysis
-**Sammāsati**: [f.] Right Mindfulness; Correct Awareness; Perfect Attentiveness. Formed by *sammā* (correctly) + *sati* (mindfulness/presence of mind).
+**Sammāsati**: [f.] Right Mindfulness; Correct Awareness; Perfect Attentiveness. Formed by *sammā* (correctly) + *[sati](/glossary/sati/)* (mindfulness/presence of mind).
 
 ### Orthodox Definition
-*Sammāsati* is the seventh limb of the Noble Eightfold Path, serving as the essential stabilizer within the concentration training division (*samādhi-sikkhā*). Doctrinally, it is identical to the beautiful mental factor of mindfulness (*sati-cetasika*).
+*Sammāsati* is the seventh limb of the Noble Eightfold Path, serving as the essential stabilizer within the concentration training division (*[samādhi](/glossary/samadhi/)-sikkhā*). Doctrinally, it is identical to the beautiful mental factor of mindfulness (*[sati](/glossary/sati/)-cetasika*).
 
-The Buddha defined the operational field of *Sammāsati* explicitly through the **four foundations of mindfulness** (*satipaṭṭhāna*):
+The Buddha defined the operational field of *Sammāsati* explicitly through the **four foundations of mindfulness** (*[satipaṭṭhāna](/glossary/satipatthana/)*):
 1. Contemplating the body (*kāye kāyānupassī*).
 2. Contemplating feelings (*vedanāsu vedanānupassī*).
 3. Contemplating the mind (*citte cittānupassī*).
@@ -23,6 +23,6 @@ The Buddha defined the operational field of *Sammāsati* explicitly through the 
 The commentaries point out that mindfulness is "Right" when it is free from thoughts of self, ownership, or delusion, confronting the objective field face-to-face with objective clarity. It prevents the mind from drifting into unwholesome fantasy, providing the immediate, pristine platform necessary for entering absorption.
 
 ### Textual References
-* **Sutta**: *Satipaṭṭhāna Sutta* (MN 10) / *Mahāsatipaṭṭhāna Sutta* (DN 22) – The supreme canonical definitions detailing the mechanics of Right Mindfulness.
-* **Abhidhamma**: *Vibhaṅga* (Satipaṭṭhāna-vibhaṅga analysis).
+* **Sutta**: *[Satipaṭṭhāna](/glossary/satipatthana/) Sutta* (MN 10) / *Mahāsatipaṭṭhāna Sutta* (DN 22) – The supreme canonical definitions detailing the mechanics of Right Mindfulness.
+* **Abhidhamma**: *Vibhaṅga* ([Satipaṭṭhāna](/glossary/satipatthana/)-vibhaṅga analysis).
 * **Commentary**: *Papañcasūdanī* – Extensive manual managing the psychological tracking metrics of mindfulness.

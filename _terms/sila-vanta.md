@@ -9,7 +9,7 @@ canonical_texts: ["Dhammapada", "Samyutta Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Sīlavanta**: [adj./m.] Virtuous; possessing moral habit; a person of good character. Formed by *sīla* (morality, virtue) + possessive suffix *vanta* (possessing, endowed with).
+**Sīlavanta**: [adj./m.] Virtuous; possessing moral habit; a person of good character. Formed by *[sīla](/glossary/sila/)* (morality, virtue) + possessive suffix *vanta* (possessing, endowed with).
 
 ### Orthodox Definition
 *Sīlavanta* describes an individual who is completely grounded in ethical purity. In the Theravāda context, this is not a vague assessment of being a "good person," but refers to someone who strictly guards their bodily and verbal actions against unwholesome deeds.

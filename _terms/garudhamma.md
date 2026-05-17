@@ -12,7 +12,7 @@ commentaries: ["Samantapasadika"]
 **Garudhamma**: [m.] Heavy rule; strict principle; rule of respect. Formed by *garu* (heavy, serious, respectful) + *dhamma* (rule, principle, duty).
 
 ### Orthodox Definition
-The *Garudhammas* are the **Eight Heavy Rules** that the Buddha stipulated as the absolute prerequisite for the establishment of the Bhikkhunī Saṅgha. Mahāpajāpatī Gotamī's formal acceptance of these eight rules constituted her actual ordination.
+The *Garudhammas* are the **Eight Heavy Rules** that the Buddha stipulated as the absolute prerequisite for the establishment of the [Bhikkhunī](/glossary/bhikkhuni/) Saṅgha. Mahāpajāpatī Gotamī's formal acceptance of these eight rules constituted her actual ordination.
 
 These rules permanently define the administrative and social relationship between the monks and nuns. Among the most notable rules:
 1. A nun even 100 years in robes must pay homage to a monk ordained even that very day.

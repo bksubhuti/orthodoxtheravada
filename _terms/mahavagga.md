@@ -12,7 +12,7 @@ commentaries: ["Samantapasadika"]
 **Mahāvagga**: [m.] The Great Division; The Great Chapter. Formed by *mahā* (great, large) + *vagga* (chapter, section, division).
 
 ### Orthodox Definition
-The *Mahāvagga* is the first volume of the *Khandhaka* section within the Vinaya Piṭaka. It contains 10 massive chapters detailing the most fundamental institutional practices of the Saṅgha.
+The *Mahāvagga* is the first volume of the *[Khandhaka](/glossary/khandhaka/)* section within the Vinaya Piṭaka. It contains 10 massive chapters detailing the most fundamental institutional practices of the Saṅgha.
 
 Beyond its legal importance, the *Mahāvagga* is one of the most historically significant texts in Buddhism because its opening chapter (*Mahākhandhaka*) provides the continuous, chronological biography of the Buddha immediately following his enlightenment under the Bodhi tree. It narrates his hesitation to teach, the turning of the wheel of Dhamma for the five ascetics, the conversion of the fire-worshiping Kassapa brothers, and the establishment of the early ordination lineage.
 

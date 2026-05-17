@@ -12,7 +12,7 @@ commentaries: ["Samantapasadika"]
 **Saṅghādisesa**: [m.] An offense requiring the involvement of the Saṅgha in the beginning and the rest of the procedure. Formed by *Saṅgha* (the order) + *ādi* (beginning) + *sesa* (the rest). 
 
 ### Orthodox Definition
-*Saṅghādisesa* is the second most severe class of monastic offenses, consisting of **13 rules for monks** (and 17 for nuns). While a *Pārājika* results in permanent expulsion, a *Saṅghādisesa* offense is curable, but the rehabilitation process is extraordinarily rigorous and humiliating.
+*Saṅghādisesa* is the second most severe class of monastic offenses, consisting of **13 rules for monks** (and 17 for nuns). While a *[Pārājika](/glossary/parajika/)* results in permanent expulsion, a *Saṅghādisesa* offense is curable, but the rehabilitation process is extraordinarily rigorous and humiliating.
 
 Offenses in this category include intentional emission of semen, lustful touching of a woman, building a hut without permission, acting as a matchmaker, or attempting to cause a schism in the Saṅgha.
 

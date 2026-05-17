@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Samudaya**: [m.] origin; source; cause; arising; coming together. Formed by prefix *saṃ* (together) + *ud* (up) + root *i* (to go). Literally means "going or rising up together," implying a combination of factors that simultaneously produce a result.
 
 ### Orthodox Definition
-In the fundamental layout of the Four Noble Truths, *Samudaya* constitutes the Second Noble Truth: the origin or cause of suffering (*dukkha-samudaya*). The Buddha explicitly isolated craving (*taṇhā*) as the primary operational force within this truth.
+In the fundamental layout of the Four Noble Truths, *Samudaya* constitutes the Second Noble Truth: the origin or cause of suffering (*[dukkha](/glossary/dukkha/)-samudaya*). The Buddha explicitly isolated craving (*[taṇhā](/glossary/tanha/)*) as the primary operational force within this truth.
 
 The Mahāvihāra commentary explains that while craving is singled out due to its prominent role in pulling consciousness into renewed existence, *Samudaya* structurally encompasses all unwholesome volitions and mental defilements (*kilesa*) that sustain the wheel of Dependent Origination. 
 

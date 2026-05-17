@@ -14,9 +14,9 @@ commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ### Orthodox Definition
 In the microscopic architecture of Abhidhamma cognitive physics, *Paṭisandhi* specifically designates the **Rebirth-linking Consciousness** (*paṭisandhi-citta*). It is the very first single mind-moment of a new lifetime.
 
-The orthodox tradition is explicitly clear: no soul, entity, or consciousness "travels" or "flies" from the old body to the new womb. Instead, the final dying thought (*cuti-citta*) of the previous life acts as the direct proximate condition (*anantara-paccaya*) that sparks the arising of the *paṭisandhi-citta* in the new location. They are completely distinct moments of consciousness, yet bound by an unbroken causal continuum.
+The orthodox tradition is explicitly clear: no soul, entity, or consciousness "travels" or "flies" from the old body to the new womb. Instead, the final dying thought (*[cuti-citta](/glossary/cuti-citta/)*) of the previous life acts as the direct proximate condition (*anantara-paccaya*) that sparks the arising of the *paṭisandhi-citta* in the new location. They are completely distinct moments of consciousness, yet bound by an unbroken causal continuum.
 
-The *paṭisandhi-citta* is a resultant consciousness (*vipāka-citta*). Its ethical quality (and therefore the destination of the rebirth) is entirely determined by whichever heavy kamma or near-death kamma presented itself to the mind right before the previous death.
+The *paṭisandhi-citta* is a resultant consciousness (*vipāka-citta*). Its ethical quality (and therefore the destination of the rebirth) is entirely determined by whichever heavy [kamma](/glossary/kamma/) or near-death [kamma](/glossary/kamma/) presented itself to the mind right before the previous death.
 
 ### Textual References
 * **Abhidhamma**: *Paṭṭhāna* – Mapping the exact conditionality connecting the death moment to the rebirth moment.

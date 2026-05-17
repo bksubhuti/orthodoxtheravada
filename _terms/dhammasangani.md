@@ -16,7 +16,7 @@ The *Dhammasaṅgaṇī* is the first book of the Abhidhamma Piṭaka and serves
 
 Instead of teaching with stories or metaphors, the *Dhammasaṅgaṇī* opens with the *Mātikā*—a massive matrix of 122 categories that classifies absolutely everything in the universe. The most famous triad is: wholesome phenomena (*kusalā dhammā*), unwholesome phenomena (*akusalā dhammā*), and indeterminate phenomena (*abyākatā dhammā*).
 
-The book then exhaustively defines every single state of consciousness (*citta*) and its accompanying mental factors (*cetasika*) across the sensual, fine-material, immaterial, and supramundane spheres. It then systematically categorizes all material form (*rūpa*). It is essentially the periodic table of elements for the Buddhist mind.
+The book then exhaustively defines every single state of consciousness (*[citta](/glossary/citta/)*) and its accompanying mental factors (*[cetasika](/glossary/cetasika/)*) across the sensual, fine-material, immaterial, and supramundane spheres. It then systematically categorizes all material form (*[rūpa](/glossary/rupa/)*). It is essentially the periodic table of elements for the Buddhist mind.
 
 ### Textual References
 * **Canonical**: *Dhammasaṅgaṇī* (Cittuppādakaṇḍa) – The staggeringly precise analysis detailing the exact mental factors present during the very first wholesome mind-moment.

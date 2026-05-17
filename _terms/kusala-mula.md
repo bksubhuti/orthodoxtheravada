@@ -15,9 +15,9 @@ commentaries: ["Atthasalini"]
 In Theravāda psychology, the ethical quality of any action (karma) is entirely determined by the roots (*mūla*) operating in the mind at the moment of volition. The *Kusala-mūlas* are the three wholesome mental factors (*cetasikas*) that act like deep, healthy roots nourishing a tree, causing the mind and subsequent actions to be pure and karmically profitable. 
 
 The three wholesome roots are:
-1. **Alobha** (Non-greed): Ranging from basic unselfishness to total renunciation.
-2. **Adosa** (Non-hatred): Ranging from absence of anger to profound loving-kindness (*mettā*).
-3. **Amoha** (Non-delusion): Equivalent to wisdom (*paññā*), ranging from basic understanding of karma to the supreme insight into the Four Noble Truths.
+1. **[Alobha](/glossary/alobha/)** (Non-greed): Ranging from basic unselfishness to total renunciation.
+2. **[Adosa](/glossary/adosa/)** (Non-hatred): Ranging from absence of anger to profound loving-kindness (*mettā*).
+3. **[Amoha](/glossary/amoha/)** (Non-delusion): Equivalent to wisdom (*paññā*), ranging from basic understanding of karma to the supreme insight into the Four Noble Truths.
 
 Any thought, word, or deed motivated by one or more of these roots produces positive karmic results (*vipāka*) and leads toward liberation.
 

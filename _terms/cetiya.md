@@ -12,7 +12,7 @@ commentaries: ["Sumangalavilasini"]
 **Cetiya**: [nt.] Shrine; memorial; sacred place; object of veneration. Derived from root *ci* (to heap up, collect, build). 
 
 ### Orthodox Definition
-While *Thūpa* specifically refers to the architectural dome housing bone relics, *Cetiya* is a broader term encompassing any object or place worthy of religious veneration. All *thūpas* are *cetiyas*, but not all *cetiyas* are *thūpas*.
+While *[Thūpa](/glossary/thupa/)* specifically refers to the architectural dome housing bone relics, *Cetiya* is a broader term encompassing any object or place worthy of religious veneration. All *thūpas* are *cetiyas*, but not all *cetiyas* are *thūpas*.
 
 The Theravāda tradition formally classifies *Cetiyas* into three categories of sacredness:
 1. **Sārīrika-cetiya**: Shrines containing physical body relics of the Buddha (e.g., bone fragments, hair, the Sacred Tooth).

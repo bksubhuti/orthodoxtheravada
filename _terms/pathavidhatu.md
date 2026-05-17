@@ -9,10 +9,10 @@ canonical_texts: ["Majjhima Nikaya", "Dhammasangani"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Paṭhavīdhātu**: [f.] earth element; element of extension; solidity. Formed by *paṭhavī* (earth, ground, breadth) + *dhātu* (element). 
+**Paṭhavīdhātu**: [f.] earth element; element of extension; solidity. Formed by *paṭhavī* (earth, ground, breadth) + *[dhātu](/glossary/dhatu/)* (element). 
 
 ### Orthodox Definition
-*Paṭhavīdhātu* is the first of the four great physical elements (*mahābhūta*) constituting all material phenomena (*rūpa*). In Abhidhamma physics, "earth" does not refer to literal dirt, but to the abstract physical principle of **extension, solidity, and resistance**.
+*Paṭhavīdhātu* is the first of the four great physical elements (*mahābhūta*) constituting all material phenomena (*[rūpa](/glossary/rupa/)*). In Abhidhamma physics, "earth" does not refer to literal dirt, but to the abstract physical principle of **extension, solidity, and resistance**.
 
 The commentaries define its characteristic as hardness or softness (*kakkhaḷatta-mudduta-lakkhaṇā*). Its function is to act as a foundation or receiving platform (*patiṭṭhāna-rasā*) for the other three elements that arise simultaneously with it. 
 

@@ -18,7 +18,7 @@ According to the Mahāvihāra tradition and the commentarial definitions (such a
 3. *Guṇa* (moral qualities or virtues).
 4. *Nissatta-nijjīva* (the ultimate phenomenal realities devoid of a living soul, sentient Being, or ego-entity).
 
-In the context of ultimate reality (*paramattha*), dhammas are the basic, irreducible constituents of all experiential reality. They are not static substances but transient, conditioned events arising and passing away in accordance with conditions, with the sole exception of *Nibbāna*, which is the unconditioned (*asaṅkhata*) dhamma.
+In the context of ultimate reality (*paramattha*), dhammas are the basic, irreducible constituents of all experiential reality. They are not static substances but transient, conditioned events arising and passing away in accordance with conditions, with the sole exception of *[Nibbāna](/glossary/nibbana/)*, which is the unconditioned (*asaṅkhata*) dhamma.
 
 ### Textual References
 * **Sutta**: *Dhammacakkappavattana Sutta* (SN 56.11) – The setting in motion of the Wheel of Dhamma.

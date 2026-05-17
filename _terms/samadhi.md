@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Samādhi**: [m.] concentration; meditative unification; one-pointedness of mind. Derived from the prefix *saṃ* (together) + *ā* (towards) + root *dhā* (to place/put). Literally means "to place or collect firmly together," implying a state where the mind is gathered firmly and anchored to a single object.
 
 ### Orthodox Definition
-*Samādhi* is defined in the Abhidhamma as the mental factor of one-pointedness (*ekaggatā-cetasika*) when it accompanies a wholesome or beautiful consciousness (*sobhana-citta*). It functions to prevent mental scattering, bringing about an unperturbed, luminous, and workable state of mind.
+*Samādhi* is defined in the Abhidhamma as the mental factor of one-pointedness (*[ekaggatā](/glossary/ekaggata/)-cetasika*) when it accompanies a wholesome or beautiful consciousness (*sobhana-citta*). It functions to prevent mental scattering, bringing about an unperturbed, luminous, and workable state of mind.
 
 In the training of the Noble Eightfold Path, samādhi constitutes the third major division (*Samādhi-sikkhā*), encompassing Right Effort, Right Mindfulness, and Right Concentration. 
 

@@ -20,7 +20,7 @@ The four floods are:
 3. *Diṭṭhogha*: The flood of wrong views.
 4. *Avijjogha*: The flood of ignorance.
 
-The commentaries note that while *āsava* emphasizes the fermenting, deep-seated toxicity of defilements, *ogha* is used to emphasize their overwhelming, kinetic violence—showing how beings are violently swept away by lust, views, and blindness, entirely unable to reach the safe "further shore" (*pāraṃ*) of Nibbāna.
+The commentaries note that while *[āsava](/glossary/asava/)* emphasizes the fermenting, deep-seated toxicity of defilements, *ogha* is used to emphasize their overwhelming, kinetic violence—showing how beings are violently swept away by lust, views, and blindness, entirely unable to reach the safe "further shore" (*pāraṃ*) of Nibbāna.
 
 ### Textual References
 * **Sutta**: *Oghataraṇa Sutta* (SN 1.1) – The very first discourse of the Samyutta Nikaya, where a deva asks the Buddha how he crossed the flood. The Buddha replies: "By not halting, and by not straining, I crossed the flood."

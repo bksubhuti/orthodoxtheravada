@@ -12,7 +12,7 @@ commentaries: ["Papañcasudani"]
 **Gijjhakūṭa**: [m.] Vulture Peak. Formed by *gijjha* (vulture) + *kūṭa* (peak, mountain top, crag). 
 
 ### Orthodox Definition
-*Gijjhakūṭa* is a prominent mountain overlooking the city of Rājagaha. It was one of the Buddha's favorite secluded retreats. Unlike the structured monasteries of Jetavana or Veḷuvana, Vulture Peak was a rugged, natural environment containing small caves where the Buddha and his senior disciples would reside for intense meditation.
+*Gijjhakūṭa* is a prominent mountain overlooking the city of Rājagaha. It was one of the Buddha's favorite secluded retreats. Unlike the structured monasteries of Jetavana or [Veḷuvana](/glossary/velu-vana/), Vulture Peak was a rugged, natural environment containing small caves where the Buddha and his senior disciples would reside for intense meditation.
 
 In Theravāda history, Vulture Peak is famously associated with the assassination attempt by the Buddha's cousin, Devadatta, who hurled a massive boulder down the mountain slope in an effort to kill the Tathāgata. The rock struck a ledge, and a splinter struck the Buddha's foot, drawing blood—an act of immediate, heavy karmic consequence (*ānantarika-kamma*). 
 

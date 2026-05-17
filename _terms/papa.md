@@ -12,7 +12,7 @@ commentaries: ["Atthasalini", "Visuddhimagga"]
 **Pāpa**: [nt.; adj.] evil; demerit; sin; wicked deed; bad. Derived from root *pā* (to guard against, fall away), implying actions from which wise people guard themselves, or that which causes a person to fall into states of misery.
 
 ### Orthodox Definition
-*Pāpa* refers to demerit or evil deeds performed through body, speech, or mind that degrade the character and inevitably mature into painful karmic results (*akusala-vipāka*). It is the structural counterpart to *puñña*.
+*Pāpa* refers to demerit or evil deeds performed through body, speech, or mind that degrade the character and inevitably mature into painful karmic results (*[akusala](/glossary/akusala/)-vipāka*). It is the structural counterpart to *[puñña](/glossary/punna/)*.
 
 The commentaries explain that pāpa acts like a toxic sediment inside the mind-stream. Every time an unwholesome action is committed (such as killing, stealing, or lying), the underlying defilements grow thicker, paralyzing the capacity for deep concentration and wisdom.
 

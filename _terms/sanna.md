@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 **Saññā**: [f.] perception; recognition; labeling; sign; memory. Formed by prefix *saṃ* (together) + root *ñā* (to know). Literally means "co-knowing" or "knowing by association with past signs."
 
 ### Orthodox Definition
-*Saññā* is the third of the five aggregates (*saññākkhandha*) and a universal mental factor (*sabbacittasādhāraṇa-cetasika*). Its specific psychological function is the recognition and identification of an incoming sensory object by matching it against memory banks, placing a "label" or "tag" upon it.
+*Saññā* is the third of the five aggregates (*saññākkhandha*) and a universal mental factor (*sabbacittasādhāraṇa-[cetasika](/glossary/cetasika/)*). Its specific psychological function is the recognition and identification of an incoming sensory object by matching it against memory banks, placing a "label" or "tag" upon it.
 
 The *Visuddhimagga* explains that its characteristic is the noting of a sign (*sañjanana-lakkhaṇā*), acting like a carpenter who marks pieces of timber with chalk to recognize them later. 
 

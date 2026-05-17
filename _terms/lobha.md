@@ -12,7 +12,7 @@ commentaries: ["Atthasalini", "Visuddhimagga"]
 **Lobha**: [m.] greed; attachment; lust; covetousness. From root *lubh* (to covet, desire, cling to). Signifies the psychological drawing toward or grabbing of an object.
 
 ### Orthodox Definition
-*Lobha* is the first of the three unwholesome roots (*akusala-mūla*) that generate all unwholesome mental states, actions, and future karmic suffering. In the Abhidhamma, it is classified as a specific unwholesome mental factor (*akusala-cetasika*). While *taṇhā* describes the ongoing thirst or craving process, *lobha* is the underlying ethical root driving that process.
+*Lobha* is the first of the three unwholesome roots (*[akusala-mūla](/glossary/akusala-mula/)*) that generate all unwholesome mental states, actions, and future karmic suffering. In the Abhidhamma, it is classified as a specific unwholesome mental factor (*akusala-cetasika*). While *[taṇhā](/glossary/tanha/)* describes the ongoing thirst or craving process, *lobha* is the underlying ethical root driving that process.
 
 The *Atthasālinī* provides its specific structural criteria:
 * **Lakkhaṇa** (Characteristic): Grasping or sticking to an object (*upādāna-lakkhaṇo*), like meat catching onto a hot frying pan or glue sticking to wood.

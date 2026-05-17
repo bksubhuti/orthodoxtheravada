@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga"]
 **Appamaññā**: [f.] Illimitables; Boundless states; Immeasurables. Formed by negative prefix *a* (not) + *pamāṇa* (measure, limit) + *ya* (abstract suffix).
 
 ### Orthodox Definition
-*Appamaññā* is the Abhidhammic and structural synonym for the Four *Brahmavihāras* (Divine Abodes): Loving-kindness (*mettā*), Compassion (*karuṇā*), Sympathetic Joy (*muditā*), and Equanimity (*upekkhā*). 
+*Appamaññā* is the Abhidhammic and structural synonym for the Four *Brahmavihāras* (Divine Abodes): Loving-kindness (*[mettā](/glossary/metta/)*), Compassion (*[karuṇā](/glossary/karuna/)*), Sympathetic Joy (*[muditā](/glossary/mudita/)*), and Equanimity (*[upekkhā](/glossary/upekkha/)*). 
 
 These states are called "Illimitable" because, when properly developed in meditation, they must be extended to all living beings across the universe without any bias, boundary, or discrimination. If a meditator extends love to their family but feels anger toward an enemy, the state is limited, not *appamaññā*. 
 

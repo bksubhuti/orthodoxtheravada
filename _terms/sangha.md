@@ -15,7 +15,7 @@ commentaries: ["Sumangalavilasini", "Samantapasadika"]
 In the orthodox tradition, *Saṅgha* has two distinct definitions depending on whether it is referenced in a legal, conventional sense or a spiritual, devotional sense:
 
 1. *Sammuti-saṅgha* (The Conventional Order): The legal monastic community consisting of properly ordained *bhikkhus* and *bhikkhunīs*. To perform ecclesiastical acts (*saṅgha-kamma*), it requires a quorum of minimum four, five, ten, or twenty monks depending on the gravity of the Vinaya procedure.
-2. *Ariya-saṅgha* (The Noble Community): The community of the Buddha’s disciples who have directly realized the Dhamma. This is the Saṅgha invoked in the Three Refuges (*tisaraṇa*). It is strictly defined as the four pairs or eight classes of noble individuals: those who possess the path (*magga*) and fruition (*phala*) of *Sotāpanna*, *Sakadāgāmī*, *Anāgāmī*, and *Arahat*.
+2. *Ariya-saṅgha* (The Noble Community): The community of the Buddha’s disciples who have directly realized the [Dhamma](/glossary/dhamma/). This is the Saṅgha invoked in the Three Refuges (*[tisaraṇa](/glossary/tisarana/)*). It is strictly defined as the four pairs or eight classes of noble individuals: those who possess the path (*magga*) and fruition (*phala*) of *Sotāpanna*, *Sakadāgāmī*, *Anāgāmī*, and *Arahat*.
 
 The Saṅgha acts as the ultimate field of merit (*puññakkhetta*) for the world and the custodian of the textual transmission (*pariyatti*).
 

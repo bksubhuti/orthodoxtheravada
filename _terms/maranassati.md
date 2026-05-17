@@ -9,12 +9,12 @@ canonical_texts: ["Anguttara Nikaya", "Dhammapada"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Grammatical Analysis
-**Maraṇassati**: [f.] mindfulness of death; recollection of death. Formed by *maraṇa* (death) + *sati* (mindfulness).
+**Maraṇassati**: [f.] mindfulness of death; recollection of death. Formed by *maraṇa* (death) + *[sati](/glossary/sati/)* (mindfulness).
 
 ### Orthodox Definition
 *Maraṇassati* is one of the four "Protective Meditations" (*caturārakkha-bhāvanā*) universally recommended to all practitioners. It is the deliberate, systematic reflection on the absolute certainty of one's own biological death, combined with the extreme uncertainty of exactly when it will happen.
 
-The orthodox practice is not a morbid dwelling on sorrow (which would be aversion/dosa), but a sharp, awakening reflection designed to generate spiritual urgency (*saṃvega*) and heedfulness (*appamāda*). 
+The orthodox practice is not a morbid dwelling on sorrow (which would be aversion/dosa), but a sharp, awakening reflection designed to generate spiritual urgency (*saṃvega*) and heedfulness (*[appamāda](/glossary/appamada/)*). 
 
 The *Visuddhimagga* provides eight specific ways to contemplate death: as having the appearance of a murderer, by the ruin of success, by comparing oneself to great beings who also died, by the sharing of the body with countless worms and bacteria, by the fragility of life, by the fact it is without signs (unpredictable time/place), by the shortness of the lifespan, and by the fact that life truly only lasts for a single mind-moment.
 

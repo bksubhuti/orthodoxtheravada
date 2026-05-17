@@ -13,7 +13,7 @@ commentaries: ["Samantapasadika"]
 
 ### Orthodox Definition
 *Vihāra* has two primary meanings in orthodox Theravāda:
-1. **Physical**: It refers to a large monastic building, a monastery complex, or a permanent residence for the Saṅgha. Unlike a small *kuṭi*, a *vihāra* typically accommodates multiple monks, containing a hall, shrines, and individual rooms. Offering a *vihāra* to the Saṅgha of the four directions is praised by the Buddha as the highest material merit a layperson can make.
+1. **Physical**: It refers to a large monastic building, a monastery complex, or a permanent residence for the Saṅgha. Unlike a small *[kuṭi](/glossary/kuti/)*, a *vihāra* typically accommodates multiple monks, containing a hall, shrines, and individual rooms. Offering a *vihāra* to the Saṅgha of the four directions is praised by the Buddha as the highest material merit a layperson can make.
 2. **Mental/Spiritual**: It refers to an abiding or mode of living for the mind. For example, the *Brahmavihāras* (Divine Abodes) are the mental dwellings of loving-kindness, compassion, sympathetic joy, and equanimity. 
 
 ### Textual References

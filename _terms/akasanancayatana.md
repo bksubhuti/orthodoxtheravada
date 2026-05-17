@@ -12,9 +12,9 @@ commentaries: ["Visuddhimagga"]
 **Ākāsānañcāyatana**: [nt.] the base of infinite space; the sphere of boundless space. Formed by *ākāsa* (space) + *ananta* (infinite) + *āyatana* (base, sphere, realm).
 
 ### Orthodox Definition
-*Ākāsānañcāyatana* is the first of the four immaterial absorptions (*arūpajhāna*). It is achieved by completely overcoming the perception of physical form (*rūpa-saññā*) and ignoring the perception of sensory resistance (*paṭigha-saññā*).
+*Ākāsānañcāyatana* is the first of the four immaterial absorptions (*[arūpajhāna](/glossary/arupajhana/)*). It is achieved by completely overcoming the perception of physical form (*rūpa-saññā*) and ignoring the perception of sensory resistance (*paṭigha-saññā*).
 
-According to the *Visuddhimagga*, the meditator begins in the fourth fine-material jhāna using a kasiṇa (like an earth disc). They mentally extend the kasiṇa to the boundaries of the universe, and then abruptly remove the disk conceptually, leaving only the empty space where the disc used to be. The mind then locks onto this boundless void, repeating "infinite space, infinite space."
+According to the *Visuddhimagga*, the meditator begins in the fourth fine-material [jhāna](/glossary/jhana/) using a kasiṇa (like an earth disc). They mentally extend the kasiṇa to the boundaries of the universe, and then abruptly remove the disk conceptually, leaving only the empty space where the disc used to be. The mind then locks onto this boundless void, repeating "infinite space, infinite space."
 
 When the mind successfully absorbs into this concept, it transcends the physical universe. Rebirth resulting from this attainment leads to the Realm of Infinite Space, where beings exist with lifespans of 20,000 aeons, possessing only mental aggregates with zero physical matter.
 

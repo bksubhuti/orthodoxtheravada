@@ -16,8 +16,8 @@ In the Abhidhamma's strict linguistic analysis, an *Avijjamāna-paññatti* is a
 
 This includes almost every noun we use in daily life. Words like "person," "deva," "mountain," "house," or "chariot" are *avijjamāna-paññattis*. When you analyze a "house" microscopically, you cannot find a "house element"; you only find earth, water, fire, wind, and space. The "house" is purely a mental construct constructed out of non-existent wholes. The same applies to a "person"—there is no "person element," only the five aggregates.
 
-This category is crucial in the *Puggalapaññatti* to remind the scholar that while they are defining types of "people," they are dealing with concepts of things that do not ultimately exist.
+This category is crucial in the *[Puggalapaññatti](/glossary/puggalapannatti/)* to remind the scholar that while they are defining types of "people," they are dealing with concepts of things that do not ultimately exist.
 
 ### Textual References
-* **Canonical**: *Puggalapaññatti* (Introduction) – Outlining the six types of concepts to establish the ground rules for the text.
+* **Canonical**: *[Puggalapaññatti](/glossary/puggalapannatti/)* (Introduction) – Outlining the six types of concepts to establish the ground rules for the text.
 * **Historical**: *Abhidhammatthasaṅgaha* (Chapter VIII) – The definitive summary of the concept-making process of the mind.

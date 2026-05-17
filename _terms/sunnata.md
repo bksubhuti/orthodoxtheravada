@@ -14,10 +14,10 @@ commentaries: ["Visuddhimagga"]
 ### Orthodox Definition
 In orthodox Theravāda, *Suññatā* is not an absolute cosmic void or a mystical monistic essence. It has two highly specific applications:
 
-1. **Conditioned Emptiness**: Refers to the characteristic of non-self (*anattā-lakkhaṇa*). The five aggregates are "empty" (*suñña*) of a self, a soul, a resident entity, or anything belonging to a self. 
-2. **The Door to Liberation**: When a meditator achieves Path knowledge (*maggañāṇa*) specifically through the intense contemplation of non-self (*anattā*), the realization of Nibbāna is classified as the "Emptiness Liberation" (*suññatā-vimokkha*). 
+1. **Conditioned Emptiness**: Refers to the characteristic of non-self (*[anattā](/glossary/anatta/)-lakkhaṇa*). The five aggregates are "empty" (*suñña*) of a self, a soul, a resident entity, or anything belonging to a self. 
+2. **The Door to Liberation**: When a meditator achieves Path knowledge (*maggañāṇa*) specifically through the intense contemplation of non-self (*[anattā](/glossary/anatta/)*), the realization of [Nibbāna](/glossary/nibbana/) is classified as the "Emptiness Liberation" (*suññatā-vimokkha*). 
 
-Furthermore, Nibbāna itself is termed *suññatā* because it is utterly empty of all greed, hatred, delusion, and conditioned formations.
+Furthermore, [Nibbāna](/glossary/nibbana/) itself is termed *suññatā* because it is utterly empty of all greed, hatred, delusion, and conditioned formations.
 
 ### Textual References
 * **Sutta**: *Cūḷasuññatā Sutta* (MN 121) – The Buddha's step-by-step meditation on genuine emptiness, starting from the perception of the forest and ending in the signless concentration of mind.

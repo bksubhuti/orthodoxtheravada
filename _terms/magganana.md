@@ -14,7 +14,7 @@ commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ### Orthodox Definition
 *Maggañāṇa* is the actual moment of Awakening. It is a strictly supramundane (*lokuttara*) active consciousness (*kusalacitta*) that arises for exactly one single mind-moment in the cognitive series.
 
-Taking Nibbāna as its direct object, the Path consciousness simultaneously performs four functions in a single flash:
+Taking [Nibbāna](/glossary/nibbana/) as its direct object, the Path consciousness simultaneously performs four functions in a single flash:
 1. It fully comprehends Suffering (*pariññā*).
 2. It abandons Craving/Origin (*pahāna*).
 3. It realizes Cessation (*sacchikiriya*).

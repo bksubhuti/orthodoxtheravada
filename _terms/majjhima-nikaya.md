@@ -12,7 +12,7 @@ commentaries: ["Papancasudani"]
 **Majjhimanikāya**: [m.] The Collection of Middle-Length Discourses. Formed by *majjhima* (middle, medium) + *nikāya* (collection).
 
 ### Orthodox Definition
-The *Majjhima-nikāya* is the second collection of the Sutta-piṭaka, containing **152 discourses** of intermediate length. 
+The *Majjhima-nikāya* is the second collection of the [Sutta-piṭaka](/glossary/sutta-pitaka/), containing **152 discourses** of intermediate length. 
 
 For modern and ancient practitioners alike, the *Majjhima* is often considered the most accessible and comprehensive textbook of early Buddhism. While the *Dīgha* focuses heavily on grand debates and cosmology, the *Majjhima* is deeply focused on the practical, day-to-day mechanics of the path. It contains the most famous similes (the raft, the poisoned arrow, the saw) and the most precise instructions on managing thoughts, dealing with defilements, and developing insight. 
 

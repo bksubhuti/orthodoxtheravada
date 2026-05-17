@@ -9,10 +9,10 @@ canonical_texts: ["Majjhima Nikaya", "Anguttara Nikaya"]
 commentaries: ["Papañcasudani"]
 ---
 ### Grammatical Analysis
-**Kammapatha**: [m.] Course of action; pathway of karma. Formed by *kamma* (action, deed) + *patha* (path, course, road).
+**Kammapatha**: [m.] Course of action; pathway of karma. Formed by *[kamma](/glossary/kamma/)* (action, deed) + *patha* (path, course, road).
 
 ### Orthodox Definition
-A *Kamma-patha* represents a fully completed, volitional action that is strong enough to produce a rebirth-linking consciousness (*paṭisandhi*) in the next life. 
+A *[Kamma](/glossary/kamma/)-patha* represents a fully completed, volitional action that is strong enough to produce a rebirth-linking consciousness (*paṭisandhi*) in the next life. 
 
 The Buddha categorized these into ten unwholesome courses of action (*akusala-kammapatha*) and ten wholesome courses of action (*kusala-kammapatha*), operating through three "doors" (body, speech, and mind).
 
