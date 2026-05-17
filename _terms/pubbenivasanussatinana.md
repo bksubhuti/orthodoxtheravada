@@ -16,9 +16,9 @@ commentaries: ["Visuddhimagga"]
 
 The canonical text states the meditator recollects manifold past lives: one birth, two, a hundred, a hundred thousand, through many aeons of cosmic contraction and expansion, remembering exactly: "There I had such a name, belonged to such a clan, had such an appearance, such food, such experience of pleasure and pain, and such an end of life."
 
-The *Visuddhimagga* explains the method: The meditator enters the fourth [jhāna](/glossary/jhana/), emerges, and directs the mind to the most recent event (e.g., eating breakfast), then steps backward to yesterday, last week, birth, the rebirth-linking moment, and finally crosses the boundary of death into the preceding life, illuminating the unbroken chain of cause and effect.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* explains the method: The meditator enters the fourth [jhāna](/glossary/jhana/), emerges, and directs the mind to the most recent event (e.g., eating breakfast), then steps backward to yesterday, last week, birth, the rebirth-linking moment, and finally crosses the boundary of death into the preceding life, illuminating the unbroken chain of cause and effect.
 
 ### Textual References
-* **Sutta**: *Bhayabherava Sutta* (MN 4) – The Buddha recounting his own execution of this knowledge under the Bodhi tree.
+* **[Sutta](/glossary/sutta/)**: *Bhayabherava Sutta* (MN 4) – The Buddha recounting his own execution of this knowledge under the [Bodhi](/glossary/bodhi/) tree.
 * **Canonical**: *Sāmaññaphala Sutta* (DN 2) – Comparing the recollection of past lives to a traveler remembering the exact path and villages he walked through on a long journey.
 * **Commentary**: *Visuddhimagga* (Chapter XIII) – The exhaustive manual on how to train the mind to jump the cognitive gap between the current life and the past life.

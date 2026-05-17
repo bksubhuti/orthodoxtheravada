@@ -19,6 +19,6 @@ For modern and ancient practitioners alike, the *Majjhima* is often considered t
 It provides intimate portraits of the Buddha interacting with monks, kings, lepers, and serial killers (like Aṅgulimāla). It was traditionally preserved by the disciples of Venerable Sāriputta.
 
 ### Textual References
-* **Canonical**: *Sabbāsava Sutta* (MN 2) – The definitive guide on the seven methods for destroying the mental influxes.
-* **Canonical**: *Satipaṭṭhāna Sutta* (MN 10) – The core text on mindfulness meditation.
-* **Commentary**: *Papañcasūdanī* – The commentary composed by Buddhaghosa, vital for unlocking the profound psychological depths of these middle-length texts.
+* **Canonical**: *Sabbāsava [Sutta](/glossary/sutta/)* (MN 2) – The definitive guide on the seven methods for destroying the mental influxes.
+* **Canonical**: *[Satipaṭṭhāna](/glossary/satipatthana/) Sutta* (MN 10) – The core text on mindfulness meditation.
+* **Commentary**: *[Papañcasūdanī](/glossary/papancasudani/)* – The commentary composed by Buddhaghosa, vital for unlocking the profound psychological depths of these middle-length texts.

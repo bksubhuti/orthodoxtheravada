@@ -16,9 +16,9 @@ commentaries: ["Atthasalini", "Visuddhimagga"]
 
 The commentaries explain that pāpa acts like a toxic sediment inside the mind-stream. Every time an unwholesome action is committed (such as killing, stealing, or lying), the underlying defilements grow thicker, paralyzing the capacity for deep concentration and wisdom.
 
-The Buddha warned that practitioners must never treat minor moral lapses lightly, for just as a water jar is filled drop by drop, an unwise person fills themselves with pāpa little by little, ensuring an oppressive, painful journey through the lower realms of saṃsāra.
+The Buddha warned that practitioners must never treat minor moral lapses lightly, for just as a water jar is filled drop by drop, an unwise person fills themselves with pāpa little by little, ensuring an oppressive, painful journey through the lower realms of [saṃsāra](/glossary/samsara/).
 
 ### Textual References
-* **Sutta**: *Pāpavagga* (Dhammapada Chapter 9) – An entire chapter of canonical verses detailing the swift velocity of evil actions and the certainty of their karmic retribution.
-* **Canonical**: *Itivuttaka* (v. 34) – Where the Buddha contrasts the long-term torment of evil behavior against the peace of virtue.
-* **Commentary**: *Atthasālinī* – Analyzing how the choice to engage in pāpa structural pathways corrupts the subtle channels of cognitive volition (*cetanā*).
+* **[Sutta](/glossary/sutta/)**: *Pāpavagga* ([Dhammapada](/glossary/dhammapada/) Chapter 9) – An entire chapter of canonical verses detailing the swift velocity of evil actions and the certainty of their karmic retribution.
+* **Canonical**: *[Itivuttaka](/glossary/itivuttaka/)* (v. 34) – Where the Buddha contrasts the long-term torment of evil behavior against the peace of virtue.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Analyzing how the choice to engage in pāpa structural pathways corrupts the subtle channels of cognitive volition (*[cetanā](/glossary/cetana/)*).

@@ -16,7 +16,7 @@ commentaries: ["Samantapasadika"]
 
 Unlike the strictly conservative [Mahāvihāra](/glossary/maha-vihara/), the Abhayagiri fraternity adopted a liberal, syncretic approach. They openly studied and incorporated Mahāyāna sutras, Tantric practices, and Sanskrit texts alongside the traditional Theravāda canon. For several centuries, supported by various kings, they eclipsed the [Mahāvihāra](/glossary/maha-vihara/) in wealth, international influence, and sheer numbers.
 
-The sectarian rivalry lasted for over a millennium until the 12th century CE, when King Parākramabāhu I forcibly suppressed the Abhayagiri sect, defrocked its corrupted monks, and reunified the Sri Lankan Saṅgha strictly under the orthodox [Mahāvihāra](/glossary/maha-vihara/) standard, essentially erasing the Abhayagiri doctrinal tradition from history.
+The sectarian rivalry lasted for over a millennium until the 12th century CE, when King Parākramabāhu I forcibly suppressed the Abhayagiri sect, defrocked its corrupted monks, and reunified the Sri Lankan [Saṅgha](/glossary/sangha/) strictly under the orthodox [Mahāvihāra](/glossary/maha-vihara/) standard, essentially erasing the Abhayagiri doctrinal tradition from history.
 
 ### Textual References
 * **Historical**: *Mahāvaṃsa* – Documenting the initial schism, the political battles between the two monasteries, and the eventual triumph of the orthodox [Mahāvihāra](/glossary/maha-vihara/).

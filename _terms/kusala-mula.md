@@ -16,11 +16,11 @@ In Theravāda psychology, the ethical quality of any action (karma) is entirely 
 
 The three wholesome roots are:
 1. **[Alobha](/glossary/alobha/)** (Non-greed): Ranging from basic unselfishness to total renunciation.
-2. **[Adosa](/glossary/adosa/)** (Non-hatred): Ranging from absence of anger to profound loving-kindness (*mettā*).
-3. **[Amoha](/glossary/amoha/)** (Non-delusion): Equivalent to wisdom (*paññā*), ranging from basic understanding of karma to the supreme insight into the Four Noble Truths.
+2. **[Adosa](/glossary/adosa/)** (Non-hatred): Ranging from absence of anger to profound loving-kindness (*[mettā](/glossary/metta/)*).
+3. **[Amoha](/glossary/amoha/)** (Non-delusion): Equivalent to wisdom (*[paññā](/glossary/panna/)*), ranging from basic understanding of karma to the supreme insight into the Four Noble Truths.
 
 Any thought, word, or deed motivated by one or more of these roots produces positive karmic results (*vipāka*) and leads toward liberation.
 
 ### Textual References
-* **Sutta**: *Sammādiṭṭhi Sutta* (MN 9) – Venerable Sāriputta states that understanding the wholesome roots is the absolute foundation of Right View.
-* **Abhidhamma**: *Dhammasaṅgaṇī* – Defining the roots as the primary conditions for all wholesome consciousness.
+* **[Sutta](/glossary/sutta/)**: *[Sammādiṭṭhi](/glossary/sammaditthi/) Sutta* (MN 9) – Venerable Sāriputta states that understanding the wholesome roots is the absolute foundation of Right View.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Defining the roots as the primary conditions for all wholesome consciousness.

@@ -16,10 +16,10 @@ In the orthodox Theravāda cosmology, the *Asuras* constitute one of the distinc
 
 The commentarial tradition structures the Asura population into two distinct architectural groups:
 1. *[Deva](/glossary/deva/)-asuras*: The majestic, titan-like beings who live in a subterranean realm beneath Mount Sineru, perpetually engaged in warfare against the devas of the Tāvatiṃsa heaven due to ancient rivalries. Though powerful, they are bound to [saṃsāra](/glossary/samsara/) and driven by intense aversion.
-2. *[Peta](/glossary/peta/)-asuras*: The suffering, ghost-like demons who inhabit dark, desolate wildernesses, ravines, and ocean abysses on earth. They suffer from agonizing hunger, thirst, and physical deformities, driven down by past heavy *akusala* kamma rooted in envy and rage.
+2. *[Peta](/glossary/peta/)-asuras*: The suffering, ghost-like demons who inhabit dark, desolate wildernesses, ravines, and ocean abysses on earth. They suffer from agonizing hunger, thirst, and physical deformities, driven down by past heavy *[akusala](/glossary/akusala/)* [kamma](/glossary/kamma/) rooted in envy and rage.
 
 
 ### Textual References
-* **Sutta**: *Vepacitti Sutta* (SN 11.4) – Detailing the psychological capture and interactions between Sakka, lord of the devas, and Vepacitti, lord of the Asuras, emphasizing the superiority of patience over aggression.
+* **[Sutta](/glossary/sutta/)**: *Vepacitti Sutta* (SN 11.4) – Detailing the psychological capture and interactions between Sakka, lord of the devas, and Vepacitti, lord of the Asuras, emphasizing the superiority of patience over aggression.
 * **Canonical**: *Anguttara Nikaya* (Plane distributions).
-* **Commentary**: *Sumaṅgalavilāsinī* – Mapping the exact cosmic locations, origins, and structural sub-categories of the Asura lineages.
+* **Commentary**: *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* – Mapping the exact cosmic locations, origins, and structural sub-categories of the Asura lineages.

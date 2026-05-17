@@ -16,16 +16,16 @@ The *Anāgāmī* is the third of the four noble disciples (*ariya-puggala*) in t
 
 The Anāgāmī completely eradicates:
 1. *Sakkāya-diṭṭhi* (Identity view - broken at stream-entry)
-2. *Vicikicchā* (Skeptical doubt - broken at stream-entry)
-3. *Sīlabbataparāmāsa* (Clinging to rituals - broken at stream-entry)
+2. *[Vicikicchā](/glossary/vicikiccha/)* (Skeptical doubt - broken at stream-entry)
+3. *[Sīlabbataparāmāsa](/glossary/silabbataparamasa/)* (Clinging to rituals - broken at stream-entry)
 4. *[Kāmarāga](/glossary/kamaraga/)* (Sensual lust/craving) - **Eradicated completely here**
 5. *[Paṭigha](/glossary/patigha/)* (Aversion/Ill-will/Anger) - **Eradicated completely here**
 
 Because sensual lust and aversion are entirely uprooted, an Anāgāmī can never experience sexual desire, romantic attachment, physical attraction, fear, worry, irritation, or anger under any circumstance. 
 
-Upon passing away, an Anāgāmī is reborn exclusively in the highest Brahma realms known as the Pure Abodes (*Suddhāvāsa*). From there, they practice onward to attain Arahatship and final *parinibbāna*, without ever touching the human realm again.
+Upon passing away, an Anāgāmī is reborn exclusively in the highest [Brahma](/glossary/brahma/) realms known as the Pure Abodes (*Suddhāvāsa*). From there, they practice onward to attain Arahatship and final *[parinibbāna](/glossary/parinibbana/)*, without ever touching the human realm again.
 
 ### Textual References
-* **Sutta**: *Mahāvacchagotta Sutta* (MN 73) – Where the Buddha details the absolute freedom of the Non-Returner from sensual defilements.
-* **Abhidhamma**: *Puggalapaññatti* (Detailed profile of the classes of Non-Returners).
-* **Commentary**: *Visuddhimagga* (Chapter XXII) – Analysis of the precise supramundane path-consciousness that destroys hatred and lust.
+* **[Sutta](/glossary/sutta/)**: *Mahāvacchagotta Sutta* (MN 73) – Where the Buddha details the absolute freedom of the Non-Returner from sensual defilements.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Puggalapaññatti](/glossary/puggalapannatti/)* (Detailed profile of the classes of Non-Returners).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Analysis of the precise supramundane path-consciousness that destroys hatred and lust.

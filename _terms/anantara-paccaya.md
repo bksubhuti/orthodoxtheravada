@@ -19,5 +19,5 @@ Because two mind-moments cannot exist at the exact same time, cognition happens 
 The classic simile is a Universal Monarch passing away. His death (the preceding *[citta](/glossary/citta/)*) is the direct contiguity condition that allows his eldest son (the succeeding *[citta](/glossary/citta/)*) to immediately ascend the throne. Without the preceding moment dying, the next moment cannot arise.
 
 ### Textual References
-* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – "Preceding consciousness and mental factors are related to succeeding consciousness and mental factors by proximity condition."
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – "Preceding consciousness and mental factors are related to succeeding consciousness and mental factors by proximity condition."
 * **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – The royal succession simile, demonstrating how the cognitive series (*[citta](/glossary/citta/)-vīthi*) flows without interruption from birth to death, and from death to rebirth.

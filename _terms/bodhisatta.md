@@ -19,5 +19,5 @@ Once this prediction is received, the being is considered a "Confirmed Bodhisatt
 The Theravāda tradition recognizes the immense compassion of the Bodhisatta, but strictly maintains that the primary goal for all beings is Arahatship (following the current Buddha's path), not the Bodhisatta path, which is reserved for an exceedingly rare few.
 
 ### Textual References
-* **Canonical**: *Buddhavaṃsa* – The foundational text detailing the ascetic Sumedha's vow before Buddha Dīpaṅkara, establishing the Theravāda Bodhisatta paradigm.
-* **Canonical**: *Jātaka* – The 547 past-life stories of Gotama Buddha demonstrating his progressive perfection of virtues.
+* **Canonical**: *[Buddhavaṃsa](/glossary/buddhavamsa/)* – The foundational text detailing the ascetic Sumedha's vow before Buddha Dīpaṅkara, establishing the Theravāda Bodhisatta paradigm.
+* **Canonical**: *[Jātaka](/glossary/jataka/)* – The 547 past-life stories of Gotama Buddha demonstrating his progressive perfection of virtues.

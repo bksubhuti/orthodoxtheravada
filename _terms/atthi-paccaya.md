@@ -19,5 +19,5 @@ It encompasses many of the previous conditions (like co-nascence, support, and p
 The commentaries compare the Presence condition to the great earth. The earth does not "do" anything active to make the trees grow, but its simple, massive presence is the absolute prerequisite for the forest to exist.
 
 ### Textual References
-* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – "The four immaterial aggregates are related to one another by presence condition. The great elements are related to one another by presence condition."
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – "The four immaterial aggregates are related to one another by presence condition. The great elements are related to one another by presence condition."
 * **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – The earth simile, demonstrating passive but absolute existential support.

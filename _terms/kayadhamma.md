@@ -22,5 +22,5 @@ There are three unwholesome bodily kammas:
 Conversely, there are three wholesome bodily kammas, which are the deliberate, volitional abstentions from those three unwholesome acts. In Theravāda ethics, merely not killing because one is asleep does not generate wholesome bodily karma; the wholesome karma is generated at the moment the mind actively decides to refrain from harming when the opportunity arises.
 
 ### Textual References
-* **Sutta**: *Kukkuravatika Sutta* (MN 57) – The Buddha explains how bodily actions (like behaving like a dog or a cow) ripen into specific rebirth destinations.
+* **[Sutta](/glossary/sutta/)**: *Kukkuravatika Sutta* (MN 57) – The Buddha explains how bodily actions (like behaving like a dog or a cow) ripen into specific rebirth destinations.
 * **Sutta**: *Sāleyyaka Sutta* (MN 41) – Outlining the three bodily courses of action.

@@ -12,7 +12,7 @@ commentaries: ["Samantapasadika"]
 **Suttavibhaṅga**: [m.] The Analysis of the Rules. Formed by *sutta* (rule, thread, clause) + *vibhaṅga* (analysis, breakdown, explanation). In the Vinaya context, "sutta" refers specifically to the rules of the [Pātimokkha](/glossary/patimokkha/).
 
 ### Orthodox Definition
-The *Suttavibhaṅga* is the first major division of the Vinaya Piṭaka. It contains the exhaustive, legalistic analysis of every single rule in the monks' and nuns' disciplinary code (*[Pātimokkha](/glossary/patimokkha/)*).
+The *Suttavibhaṅga* is the first major division of the [Vinaya](/glossary/vinaya/) Piṭaka. It contains the exhaustive, legalistic analysis of every single rule in the monks' and nuns' disciplinary code (*[Pātimokkha](/glossary/patimokkha/)*).
 
 It is structured meticulously. For every rule, the text provides:
 1. **The Origin Story**: The specific historical event or scandalous behavior of a monk or nun that forced the Buddha to lay down the rule.
@@ -24,4 +24,4 @@ The *Suttavibhaṅga* forms the absolute backbone of Theravāda monastic jurispr
 
 ### Textual References
 * **Vinaya**: Divided into two parts: the *Bhikkhuvibhaṅga* (analysis of the 227 rules for monks) and the *Bhikkhunīvibhaṅga* (analysis of the rules unique to nuns).
-* **Commentary**: *Samantapāsādikā* – Buddhaghosa's masterful legal commentary providing subsequent case law.
+* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Buddhaghosa's masterful legal commentary providing subsequent case law.

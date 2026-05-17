@@ -19,5 +19,5 @@ Conditioned minds naturally lean towards, incline upon, and desire (*paṇidhi*)
 When the supramundane Path is attained via the contemplation of suffering, it is termed the "Desireless Liberation" (*appaṇihita-vimokkha*). The object of this realization, [Nibbāna](/glossary/nibbana/), is fundamentally *appaṇihita* because it is entirely free from the inclinations of craving.
 
 ### Textual References
-* **Canonical**: *Paṭisambhidāmagga* (Vimokkhakathā) – Systematically mapping the correlation between the mark of suffering and the desireless liberation.
-* **Commentary**: *Visuddhimagga* (Chapter XXI) – Explaining how understanding suffering destroys the inclination toward formations, leading to the desireless gateway.
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* (Vimokkhakathā) – Systematically mapping the correlation between the mark of suffering and the desireless liberation.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXI) – Explaining how understanding suffering destroys the inclination toward formations, leading to the desireless gateway.

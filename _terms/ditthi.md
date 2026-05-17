@@ -19,6 +19,6 @@ The commentaries state that its characteristic is unwise interpretation (*ayonis
 It forms the most dangerous type of clinging (*diṭṭhupādāna*) and acts as one of the deep latent tendencies (*diṭṭhānusaya*). Because wrong views (such as eternalism, annihilationism, or believing rituals purify the soul) fundamentally lock a practitioner out of the Noble Path, this mental factor must be absolutely shattered by the arising of the supramundane path of Stream-entry (*sotāpatti-magga*).
 
 ### Textual References
-* **Sutta**: *Brahmajāla Sutta* (DN 1) – The "Net of Views," capturing the 62 possible permutations of philosophical falsehood.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Classification of the view-associated mental states).
-* **Commentary**: *Atthasālinī* – Detailing how view differs from conceit; view analyzes the object falsely, while conceit inflates the subject.
+* **[Sutta](/glossary/sutta/)**: *Brahmajāla Sutta* (DN 1) – The "Net of Views," capturing the 62 possible permutations of philosophical falsehood.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Classification of the view-associated mental states).
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Detailing how view differs from conceit; view analyzes the object falsely, while conceit inflates the subject.

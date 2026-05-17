@@ -25,6 +25,6 @@ For example:
 When fully matured on the supramundane path, these powers render the noble disciple absolutely invincible against the forces of Māra.
 
 ### Textual References
-* **Sutta**: *Bala-saṃyutta* (SN 50) – Discourses demonstrating how the powers act like an island anchoring a practitioner amidst the floods of saṃsāra.
+* **[Sutta](/glossary/sutta/)**: *Bala-saṃyutta* (SN 50) – Discourses demonstrating how the powers act like an island anchoring a practitioner amidst the floods of [saṃsāra](/glossary/samsara/).
 * **Canonical**: *Aṅguttara Nikāya* (Book of the Fives) – Breaking down the difference in intensity between the faculties and powers.
-* **Commentary**: *Visuddhimagga* (Chapter XXII) – Clarifying the structural shift when a faculty matures into a power.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Clarifying the structural shift when a faculty matures into a power.

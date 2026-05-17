@@ -12,7 +12,7 @@ commentaries: ["Atthasalini"]
 **Dhammasaṅgaṇī**: [f.] Enumeration of Phenomena; Classification of Dhammas. Formed by *dhamma* (phenomenon, ultimate reality) + *saṅgaṇī* (grouping, enumeration, compilation).
 
 ### Orthodox Definition
-The *Dhammasaṅgaṇī* is the first book of the Abhidhamma Piṭaka and serves as the fountainhead of all Theravāda psychology. 
+The *Dhammasaṅgaṇī* is the first book of the [Abhidhamma](/glossary/abhidhamma/) Piṭaka and serves as the fountainhead of all Theravāda psychology. 
 
 Instead of teaching with stories or metaphors, the *Dhammasaṅgaṇī* opens with the *Mātikā*—a massive matrix of 122 categories that classifies absolutely everything in the universe. The most famous triad is: wholesome phenomena (*kusalā dhammā*), unwholesome phenomena (*akusalā dhammā*), and indeterminate phenomena (*abyākatā dhammā*).
 
@@ -20,4 +20,4 @@ The book then exhaustively defines every single state of consciousness (*[citta]
 
 ### Textual References
 * **Canonical**: *Dhammasaṅgaṇī* (Cittuppādakaṇḍa) – The staggeringly precise analysis detailing the exact mental factors present during the very first wholesome mind-moment.
-* **Commentary**: *Atthasālinī* – Buddhaghosa's masterful commentary that brings the dry lists of the canonical text to life, explaining the characteristic, function, manifestation, and proximate cause of every single mental factor.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Buddhaghosa's masterful commentary that brings the dry lists of the canonical text to life, explaining the characteristic, function, manifestation, and proximate cause of every single mental factor.

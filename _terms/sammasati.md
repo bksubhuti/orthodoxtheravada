@@ -23,6 +23,6 @@ The Buddha defined the operational field of *Sammāsati* explicitly through the 
 The commentaries point out that mindfulness is "Right" when it is free from thoughts of self, ownership, or delusion, confronting the objective field face-to-face with objective clarity. It prevents the mind from drifting into unwholesome fantasy, providing the immediate, pristine platform necessary for entering absorption.
 
 ### Textual References
-* **Sutta**: *[Satipaṭṭhāna](/glossary/satipatthana/) Sutta* (MN 10) / *Mahāsatipaṭṭhāna Sutta* (DN 22) – The supreme canonical definitions detailing the mechanics of Right Mindfulness.
-* **Abhidhamma**: *Vibhaṅga* ([Satipaṭṭhāna](/glossary/satipatthana/)-vibhaṅga analysis).
-* **Commentary**: *Papañcasūdanī* – Extensive manual managing the psychological tracking metrics of mindfulness.
+* **[Sutta](/glossary/sutta/)**: *[Satipaṭṭhāna](/glossary/satipatthana/) Sutta* (MN 10) / *Mahāsatipaṭṭhāna Sutta* (DN 22) – The supreme canonical definitions detailing the mechanics of Right Mindfulness.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* ([Satipaṭṭhāna](/glossary/satipatthana/)-vibhaṅga analysis).
+* **Commentary**: *[Papañcasūdanī](/glossary/papancasudani/)* – Extensive manual managing the psychological tracking metrics of mindfulness.

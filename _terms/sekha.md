@@ -26,6 +26,6 @@ The sekha taxonomy encompasses exactly **seven of the eight noble individuals** 
 A sekha possesses verified, experiential insight into the Four Noble Truths. While they still have remaining defilements to train out, they can never fall back into a common worldling status and are absolutely secure in their ultimate liberation.
 
 ### Textual References
-* **Sutta**: *Sekha Sutta* (MN 53) – Delivered by Venerable Ānanda, detailing the complete behavioral, meditative, and ethical curriculum of a noble trainee.
-* **Abhidhamma**: *Puggalapaññatti* (Classification of the seven classes of learners).
-* **Commentary**: *Visuddhimagga* (Chapter XXII) – Tracking how path-consciousness initializes and structures the learning process of a noble disciple.
+* **[Sutta](/glossary/sutta/)**: *Sekha Sutta* (MN 53) – Delivered by Venerable Ānanda, detailing the complete behavioral, meditative, and ethical curriculum of a noble trainee.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Puggalapaññatti](/glossary/puggalapannatti/)* (Classification of the seven classes of learners).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Tracking how path-consciousness initializes and structures the learning process of a noble disciple.

@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 **Vedanā**: [f.] feeling; sensation; affective tone. From root *vid* (to experience, feel, know). Doctrinally, it means the raw affective quality of an experience.
 
 ### Orthodox Definition
-*Vedanā* is the second of the five aggregates (*vedanākkhandha*) and is classified in the Abhidhamma as a universal mental factor (*sabbacittasādhāraṇa-[cetasika](/glossary/cetasika/)*). It is not "emotion" (which is a complex construct belonging to the formations aggregate), but rather the immediate affective tone of an experience.
+*Vedanā* is the second of the five aggregates (*vedanākkhandha*) and is classified in the [Abhidhamma](/glossary/abhidhamma/) as a universal mental factor (*sabbacittasādhāraṇa-[cetasika](/glossary/cetasika/)*). It is not "emotion" (which is a complex construct belonging to the formations aggregate), but rather the immediate affective tone of an experience.
 
 The commentaries note that the characteristic of vedanā is being felt (*anubhavana-lakkhaṇā*). It operates on three primary tracks:
 1. *Sukha-vedanā*: Pleasant or agreeable feeling.
@@ -22,6 +22,6 @@ The commentaries note that the characteristic of vedanā is being felt (*anubhav
 In Dependent Origination, vedanā is conditioned directly by contact (*phassa-paccayā vedanā*) and serves as the immediate trigger for craving (*vedanā-paccayā [taṇhā](/glossary/tanha/)*). Insight meditation targets this exact junction, training the mind to note vedanā objectively without reacting with attachment to pleasure or aversion to pain.
 
 ### Textual References
-* **Sutta**: *Salla Sutta* (SN 36.6) – Illustrating how an untutored worldling is struck by two arrows (physical pain followed by mental aversion), whereas an instructed noble disciple experiences only the first arrow.
+* **[Sutta](/glossary/sutta/)**: *Salla Sutta* (SN 36.6) – Illustrating how an untutored worldling is struck by two arrows (physical pain followed by mental aversion), whereas an instructed noble disciple experiences only the first arrow.
 * **Canonical**: *Samyutta Nikaya* (Vedanā-saṃyutta) – An entire collection of discourses clarifying the nature of feeling tones.
-* **Commentary**: *Atthasālinī* – Explaining how feeling experiences the flavor of an objective field like a king enjoying a banquet.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Explaining how feeling experiences the flavor of an objective field like a king enjoying a banquet.

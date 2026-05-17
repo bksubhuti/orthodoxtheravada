@@ -14,11 +14,11 @@ commentaries: ["Atthasalini", "Visuddhimagga"]
 ### Orthodox Definition
 *Ottappa* is the inseparable twin to *[hiri](/glossary/hiri/)*. It is a beautiful mental factor (*[sobhana-cetasika](/glossary/sobhana-cetasika/)*) present in all wholesome states, functioning as the external braking system against unwholesome actions.
 
-While *[hiri](/glossary/hiri/)* prevents evil out of internal self-respect, *ottappa* prevents evil out of a healthy, realistic dread of the consequences. A person possessing *ottappa* shrinks away from killing, stealing, or lying because they fear the karmic retribution (*apāya* rebirth), the legal punishment of society, the blame of the wise, and the loss of their good reputation. 
+While *[hiri](/glossary/hiri/)* prevents evil out of internal self-respect, *ottappa* prevents evil out of a healthy, realistic dread of the consequences. A person possessing *ottappa* shrinks away from killing, stealing, or lying because they fear the karmic retribution (*[apāya](/glossary/apaya/)* rebirth), the legal punishment of society, the blame of the wise, and the loss of their good reputation. 
 
-The *Atthasālinī* compares *ottappa* to a person hesitating to touch an iron ball glowing with fire. The fear here is not an unwholesome, paralyzing panic (which is *dosa*), but a wise, protective caution rooted in Right View (*sammādiṭṭhi*) regarding the laws of kamma.
+The *[Atthasālinī](/glossary/atthasalini/)* compares *ottappa* to a person hesitating to touch an iron ball glowing with fire. The fear here is not an unwholesome, paralyzing panic (which is *[dosa](/glossary/dosa/)*), but a wise, protective caution rooted in Right View (*[sammādiṭṭhi](/glossary/sammaditthi/)*) regarding the laws of [kamma](/glossary/kamma/).
 
 ### Textual References
-* **Sutta**: *Lokapāla Sutta* (AN 2.9) – The pairing of moral dread with moral shame as the guardians of civilization.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Defining the coordinates of wholesome restraint).
+* **[Sutta](/glossary/sutta/)**: *Lokapāla Sutta* (AN 2.9) – The pairing of moral dread with moral shame as the guardians of civilization.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Defining the coordinates of wholesome restraint).
 * **Commentary**: *Atthasālinī* – The classic similes clarifying the structural difference between internal shame and external dread.

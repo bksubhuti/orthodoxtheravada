@@ -19,9 +19,9 @@ The tradition formalizes the cultivation of merit into the **Puññakiriya-vatth
 2. *[Sīla](/glossary/sila/)*: Moral conduct, establishing external protection and non-remorse.
 3. *[Bhāvanā](/glossary/bhavana/)*: Meditation, elevating mental clarity.
 
-Later commentarial expansions unpack this into ten distinct bases (including respect, service, sharing merit, and straightening one's views). Merit is the foundational currency required to secure favorable human or heavenly rebirths, acting as an indispensable protective buffer that shields the practitioner while they navigate saṃsāra toward final *Nibbāna*.
+Later commentarial expansions unpack this into ten distinct bases (including respect, service, sharing merit, and straightening one's views). Merit is the foundational currency required to secure favorable human or heavenly rebirths, acting as an indispensable protective buffer that shields the practitioner while they navigate [saṃsāra](/glossary/samsara/) toward final *[Nibbāna](/glossary/nibbana/)*.
 
 ### Textual References
-* **Sutta**: *Puñña Sutta* (AN 8.36) – Detailed breakdown of the three primary bases of merit and their vast cosmic outcomes.
-* **Canonical**: *Dhammapada* (v. 118) – "If a man does what is good, let him do it again and again... joyful is the accumulation of merit."
+* **[Sutta](/glossary/sutta/)**: *Puñña Sutta* (AN 8.36) – Detailed breakdown of the three primary bases of merit and their vast cosmic outcomes.
+* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (v. 118) – "If a man does what is good, let him do it again and again... joyful is the accumulation of merit."
 * **Commentary**: *Khuddakapāṭha-Aṭṭhakathā* – Comprehensive operational analysis outlining how the performance of meritorious actions psychologically purges structural obstacles.

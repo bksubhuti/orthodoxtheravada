@@ -20,4 +20,4 @@ The text serves as a primary pedagogical tool to inspire faith and generosity am
 
 ### Textual References
 * **Canonical**: *Pīṭhavimāna* – A [deva](/glossary/deva/) explains she received a golden mansion simply because, as a poor woman, she offered a small stool for a monk to sit on.
-* **Commentary**: *Paramatthadīpanī* – Dhammapāla's commentary providing the earthly background story of the devas before they died.
+* **Commentary**: *[Paramatthadīpanī](/glossary/paramatthadipani/)* – Dhammapāla's commentary providing the earthly background story of the devas before they died.

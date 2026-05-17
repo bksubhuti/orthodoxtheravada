@@ -20,9 +20,9 @@ The 75 rules are divided into sections governing:
 1. How to wear the robes neatly.
 2. How to walk, sit, and look when entering a village (eyes downcast, not laughing loudly, not swaying the body).
 3. Etiquette for receiving and eating alms food (not stuffing the cheeks, not making smacking noises, not scattering rice).
-4. Rules for teaching Dhamma (not teaching someone holding a weapon, wearing shoes, or sitting on a higher seat).
+4. Rules for teaching [Dhamma](/glossary/dhamma/) (not teaching someone holding a weapon, wearing shoes, or sitting on a higher seat).
 5. Rules for urination and defecation (not in water or on green grass).
 
 ### Textual References
-* **Vinaya**: *Suttavibhaṅga* (Sekhiyakaṇḍa) – The final section of the rules for individuals, shaping the aesthetic of Theravāda monasticism.
-* **Commentary**: *Samantapāsādikā* – Clarifying exceptions, such as when a monk is sick.
+* **[Vinaya](/glossary/vinaya/)**: *[Suttavibhaṅga](/glossary/suttavibhanga/)* (Sekhiyakaṇḍa) – The final section of the rules for individuals, shaping the aesthetic of Theravāda monasticism.
+* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Clarifying exceptions, such as when a monk is sick.

@@ -19,5 +19,5 @@ When teaching laypeople, the Buddha often divided his advice into two categories
 In karmic terms, *Diṭṭhadhammika-kamma* refers to a specific, highly potent volition (usually the very first javana-citta in a cognitive series) that ripes in the same lifetime it was committed. If it does not find the right conditions to ripen before death, it becomes defunct (*ahosi-kamma*).
 
 ### Textual References
-* **Sutta**: *Dīghajāṇu Sutta* (AN 8.54) – The Buddha explicitly teaches the layman Vyagghapajja the four conditions that lead to happiness and benefit in the present life (*diṭṭhadhammika attha*).
-* **Commentary**: *Visuddhimagga* (Chapter XIX) – The technical Abhidhammic classification of immediately effective kamma.
+* **[Sutta](/glossary/sutta/)**: *Dīghajāṇu Sutta* (AN 8.54) – The Buddha explicitly teaches the layman Vyagghapajja the four conditions that lead to happiness and benefit in the present life (*diṭṭhadhammika attha*).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIX) – The technical Abhidhammic classification of immediately effective [kamma](/glossary/kamma/).

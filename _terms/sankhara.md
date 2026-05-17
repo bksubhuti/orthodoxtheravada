@@ -12,15 +12,15 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 **Saṅkhāra**: [m.] conditioned thing; formation; mental concoction; volitional construction. Formed by prefix *saṃ* (together) + root *kar* (to do, make). Literally means "that which is put together" or "making together."
 
 ### Orthodox Definition
-*Saṅkhāra* is one of the most complex, multi-layered terms in Pāḷi lexicography, demanding strict context tracking. The Mahāvihāra commentaries split its application into three primary doctrinal contexts:
+*Saṅkhāra* is one of the most complex, multi-layered terms in Pāḷi lexicography, demanding strict context tracking. The [Mahāvihāra](/glossary/maha-vihara/) commentaries split its application into three primary doctrinal contexts:
 
-1. **As an Aggregate (*Saṅkhārakkhandha*):** The fourth of the five aggregates, encompassing 50 of the 52 mental factors (*cetasika*), with the exception of feeling (*vedanā*) and perception (*saññā*). It is dominated by volition (*[cetanā](/glossary/cetana/)*).
+1. **As an Aggregate (*Saṅkhārakkhandha*):** The fourth of the five aggregates, encompassing 50 of the 52 mental factors (*[cetasika](/glossary/cetasika/)*), with the exception of feeling (*[vedanā](/glossary/vedana/)*) and perception (*[saññā](/glossary/sanna/)*). It is dominated by volition (*[cetanā](/glossary/cetana/)*).
 2. **In Dependent Origination (*Avijjā-paccayā saṅkhārā*):** The active karmic formations or volitions generated through body, speech, and mind that determine the trajectory of rebirth.
-3. **As a Universal Statement (*Sabbe saṅkhārā aniccā*):** Referring broadly to *all* conditioned things whatsoever—anything that has arisen out of a combination of prior causes and conditions. This includes everything in the physical and mental universe, excluding only *Nibbāna*.
+3. **As a Universal Statement (*Sabbe saṅkhārā aniccā*):** Referring broadly to *all* conditioned things whatsoever—anything that has arisen out of a combination of prior causes and conditions. This includes everything in the physical and mental universe, excluding only *[Nibbāna](/glossary/nibbana/)*.
 
-It represents the active force of synthesis and construction that keeps the illusion of saṃsāra rolling onward.
+It represents the active force of synthesis and construction that keeps the illusion of [saṃsāra](/glossary/samsara/) rolling onward.
 
 ### Textual References
-* **Sutta**: *Khajjhanīya Sutta* (SN 22.79) – Where the Buddha defines the fourth aggregate as that which constructs conditioned realities.
-* **Canonical**: *Dhammapada* (v. 277) – Explaining the universal impermanence of all formations.
-* **Commentary**: *Atthasālinī* (Exposition on the mental factors composing the saṅkhārakkhandha).
+* **[Sutta](/glossary/sutta/)**: *Khajjhanīya Sutta* (SN 22.79) – Where the Buddha defines the fourth aggregate as that which constructs conditioned realities.
+* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (v. 277) – Explaining the universal impermanence of all formations.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* (Exposition on the mental factors composing the saṅkhārakkhandha).

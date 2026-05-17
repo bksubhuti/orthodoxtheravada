@@ -14,7 +14,7 @@ commentaries: ["Sumangalavilasini-tika"]
 ### Orthodox Definition
 The *Sumaṅgalavilāsinī* is the definitive commentary on the *Dīgha Nikāya* (Collection of Long Discourses), compiled by Venerable Buddhaghosa at the request of a monk named Dāṭhanāga.
 
-Because the *Dīgha Nikāya* contains the Buddha's most expansive cosmological teachings and debates with other Indian philosophical systems, this commentary is essential for understanding early Indian history and non-Buddhist religions. It provides the orthodox Theravāda refutation of the 62 wrong views found in the *Brahmajāla Sutta* and offers the most detailed Abhidhammic analysis of the Buddha's final days as recorded in the *Mahāparinibbāna Sutta*.
+Because the *Dīgha Nikāya* contains the Buddha's most expansive cosmological teachings and debates with other Indian philosophical systems, this commentary is essential for understanding early Indian history and non-Buddhist religions. It provides the orthodox Theravāda refutation of the 62 wrong views found in the *Brahmajāla [Sutta](/glossary/sutta/)* and offers the most detailed Abhidhammic analysis of the Buddha's final days as recorded in the *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta*.
 
 ### Textual References
 * **Subject Matter**: Comments on the 34 discourses of the Dīgha Nikāya.

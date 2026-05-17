@@ -16,7 +16,7 @@ commentaries: ["Patthana-atthakatha"]
 
 It simply reiterates that phenomena condition other phenomena by remaining present and not fading away. The physical eye supports seeing because it has not yet disappeared; the earth supports the tree because it has not yet vanished. 
 
-By ending the colossal matrix of the *[Paṭṭhāna](/glossary/patthana/)* with Presence and Non-disappearance, the Abhidhamma beautifully concludes its microscopic dismantling of reality by reminding the practitioner that despite the terrifying speed of impermanence, the causal structures of reality reliably persist and hold the universe together.
+By ending the colossal matrix of the *[Paṭṭhāna](/glossary/patthana/)* with Presence and Non-disappearance, the [Abhidhamma](/glossary/abhidhamma/) beautifully concludes its microscopic dismantling of reality by reminding the practitioner that despite the terrifying speed of impermanence, the causal structures of reality reliably persist and hold the universe together.
 
 ### Textual References
 * **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – The canonical phrasing is verbatim identical to the Presence condition.

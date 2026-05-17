@@ -14,13 +14,13 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 ### Orthodox Definition
 *Rūpa* is the first of the five aggregates (*rūpakkhandha*) and one of the four ultimate realities (*paramattha*). It encompasses the entire physical, material universe—both internal (the biological body) and external (the environment).
 
-The orthodox Abhidhamma structures rūpa into **28 distinct material phenomena**, split into two architectural layers:
+The orthodox [Abhidhamma](/glossary/abhidhamma/) structures rūpa into **28 distinct material phenomena**, split into two architectural layers:
 1. *Mahābhūta-rūpa* (The Four Great Essentials): Earth/Solidity (*paṭhavī*), Water/Cohesion (*āpo*), Fire/Heat (*tejo*), and Wind/Motion (*vāyo*).
 2. *Upādā-rūpa* (Derived Materiality): 24 secondary material qualities dependent completely upon the four elements, including the five physical sense organs, the objects of those senses, gender faculties, nutritive essence (*ojā*), and life faculty (*rūpa-jīvitindriya*).
 
 Rūpa has no cognitive capacity of its own; it is entirely blind and does not cognize an object (*anārammaṇa*), separating it from the mental aggregates (*nāma*).
 
 ### Textual References
-* **Sutta**: *Piṇḍūpama Sutta* (SN 22.95) – Where the Buddha beautifully compares the material aggregate to a lump of foam floating down a river—hollow and completely devoid of essence.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (The entire second major division is dedicated to the comprehensive analysis of matter).
-* **Commentary**: *Visuddhimagga* (Chapter XIV) – Encyclopedic mapping of the generation of matter via kamma, mind, temperature, and nutriment.
+* **[Sutta](/glossary/sutta/)**: *Piṇḍūpama Sutta* (SN 22.95) – Where the Buddha beautifully compares the material aggregate to a lump of foam floating down a river—hollow and completely devoid of essence.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (The entire second major division is dedicated to the comprehensive analysis of matter).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Encyclopedic mapping of the generation of matter via [kamma](/glossary/kamma/), mind, temperature, and nutriment.

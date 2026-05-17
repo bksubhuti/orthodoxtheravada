@@ -16,11 +16,11 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 
 When arising as an ordinary sensation through the body (*kāyika-sukha*), it is a pleasant physical feeling. When arising within the mind (*cetasika-sukha*), it is technically termed *somanassa* (mental gladness/joy).
 
-As a *[jhāna](/glossary/jhana/)* factor running through the first, second, and third material absorptions, *sukha* is the deep, non-sensual spiritual bliss that emerges when the mind is fully sequestered from the five hindrances. The *Atthasālinī* defines its characteristic as gratifying or intensifying accompanying states (*upabrūhana-lakkhaṇa*). 
+As a *[jhāna](/glossary/jhana/)* factor running through the first, second, and third material absorptions, *sukha* is the deep, non-sensual spiritual bliss that emerges when the mind is fully sequestered from the five hindrances. The *[Atthasālinī](/glossary/atthasalini/)* defines its characteristic as gratifying or intensifying accompanying states (*upabrūhana-lakkhaṇa*). 
 
 While *[pīti](/glossary/piti/)* agitates the mind with active excitement, *sukha* settles the mind into a profound, tranquil ease, providing the immediate proximate cause (*padaṭṭhāna*) for the arising of unmoving concentration (*[samādhi](/glossary/samadhi/)*).
 
 ### Textual References
-* **Sutta**: *Sukhavagga* (AN 2) – Detailed taxonomies comparing worldly, household happiness against the vast superiority of monastic, non-sensual, and supramundane bliss.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Mapping feeling distributions across states of consciousness).
-* **Commentary**: *Visuddhimagga* (Chapter IV) – Providing the classic architectural distinctions separating rapture from ease.
+* **[Sutta](/glossary/sutta/)**: *Sukhavagga* (AN 2) – Detailed taxonomies comparing worldly, household happiness against the vast superiority of monastic, non-sensual, and supramundane bliss.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Mapping feeling distributions across states of consciousness).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter IV) – Providing the classic architectural distinctions separating rapture from ease.

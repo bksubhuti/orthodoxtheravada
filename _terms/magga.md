@@ -15,13 +15,13 @@ commentaries: ["Visuddhimagga"]
 In the fundamental layout of the Four Noble Truths, *Magga* constitutes the Fourth Noble Truth: the path leading directly to the absolute cessation of suffering (*dukkha-[nirodha](/glossary/nirodha/)-gāminī-paṭipadā*). This is universally defined as the Supramundane Noble Eightfold Path (*Ariya-aṭṭhaṅgika-magga*).
 
 The path is structured into eight operational limbs, grouped into three trainings:
-* **Paññā (Wisdom):** Right View (*sammā-diṭṭhi*), Right Intention (*sammā-saṅkappa*).
-* **Sīla (Virtue):** Right Speech (*sammā-vācā*), Right Action (*sammā-kammanta*), Right Livelihood (*sammā-ājīva*).
-* **Samādhi (Concentration):** Right Effort (*sammā-vāyāma*), Right Mindfulness (*sammā-sati*), Right Concentration (*sammā-samādhi*).
+* **[Paññā](/glossary/panna/) (Wisdom):** Right View (*sammā-diṭṭhi*), Right Intention (*sammā-saṅkappa*).
+* **[Sīla](/glossary/sila/) (Virtue):** Right Speech (*sammā-vācā*), Right Action (*sammā-kammanta*), Right Livelihood (*sammā-ājīva*).
+* **[Samādhi](/glossary/samadhi/) (Concentration):** Right Effort (*sammā-vāyāma*), Right Mindfulness (*sammā-sati*), Right Concentration (*sammā-samādhi*).
 
-The commentaries explain that while these factors are cultivated sequentially during the worldly stage (*lokiya*), they arise **simultaneously and in perfect unison** within a single mind-moment when entering the supramundane path (*lokuttara-magga*), cutting down the underlying fetters and registering *Nibbāna*.
+The commentaries explain that while these factors are cultivated sequentially during the worldly stage (*lokiya*), they arise **simultaneously and in perfect unison** within a single mind-moment when entering the supramundane path (*lokuttara-magga*), cutting down the underlying fetters and registering *[Nibbāna](/glossary/nibbana/)*.
 
 ### Textual References
-* **Sutta**: *Dhammacakkappavattana Sutta* (SN 56.11) – The initial declaration of the Middle Way avoiding the extremes of sensuality and self-mortification.
-* **Abhidhamma**: *Vibhaṅga* (Magga-vibhaṅga chapter).
-* **Commentary**: *Visuddhimagga* (Chapter XVI) – In-depth structural exegesis detailing the individual functions of each path factor.
+* **[Sutta](/glossary/sutta/)**: *Dhammacakkappavattana Sutta* (SN 56.11) – The initial declaration of the Middle Way avoiding the extremes of sensuality and self-mortification.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Magga-vibhaṅga chapter).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVI) – In-depth structural exegesis detailing the individual functions of each path factor.

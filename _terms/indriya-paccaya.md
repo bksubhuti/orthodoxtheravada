@@ -14,7 +14,7 @@ commentaries: ["Patthana-atthakatha"]
 ### Orthodox Definition
 *[Indriya](/glossary/indriya/)-paccaya* is the sixteenth of the 24 Conditions. It describes a relationship where a specific phenomenon acts as a highly specialized controller or sovereign over its specific domain, forcing associated states to comply with its function.
 
-There are 22 faculties in Abhidhamma, ranging from physical faculties (the eye, ear, vitality) to mental/spiritual faculties (faith, energy, mindfulness, concentration, wisdom). When the eye faculty operates, it completely controls the domain of seeing; hearing cannot interfere. When the faculty of Wisdom (*paññindriya*) is active, it completely controls the domain of analyzing reality, forcing all associated mental factors to align with clarity and non-delusion.
+There are 22 faculties in [Abhidhamma](/glossary/abhidhamma/), ranging from physical faculties (the eye, ear, vitality) to mental/spiritual faculties (faith, energy, mindfulness, concentration, wisdom). When the eye faculty operates, it completely controls the domain of seeing; hearing cannot interfere. When the faculty of Wisdom (*paññindriya*) is active, it completely controls the domain of analyzing reality, forcing all associated mental factors to align with clarity and non-delusion.
 
 The commentaries compare the faculties to government ministers. The Minister of Finance controls only the treasury, and the Minister of Defense controls only the army. They are sovereign masters exclusively within their own specialized domains.
 

@@ -19,6 +19,6 @@ To achieve it, the meditator emerges from the second formless state (Infinite Co
 This state is profoundly peaceful, as it takes "nothingness" as its concept. Rebirth here results in a lifespan of 60,000 aeons.
 
 ### Textual References
-* **Sutta**: *Ariyapariyesanā Sutta* (MN 26) – The Buddha detailing his study under Āḷāra Kālāma, quickly mastering this sphere of nothingness, and leaving because it did not lead to Nibbāna.
-* **Abhidhamma**: *Vibhaṅga* (Defining the boundaries of nothingness).
-* **Commentary**: *Visuddhimagga* (Chapter X) – Providing the simile of a man looking at an empty gathering hall; he focuses not on the people who left, but purely on their absence.
+* **[Sutta](/glossary/sutta/)**: *Ariyapariyesanā Sutta* (MN 26) – The Buddha detailing his study under Āḷāra Kālāma, quickly mastering this sphere of nothingness, and leaving because it did not lead to [Nibbāna](/glossary/nibbana/).
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Defining the boundaries of nothingness).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter X) – Providing the simile of a man looking at an empty gathering hall; he focuses not on the people who left, but purely on their absence.

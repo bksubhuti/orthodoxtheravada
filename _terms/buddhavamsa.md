@@ -20,4 +20,4 @@ This text solidifies the Theravāda doctrine that Buddhahood is not a spontaneou
 
 ### Textual References
 * **Canonical**: *Buddhavaṃsa* – The primary source text for the Theravāda [Bodhisatta](/glossary/bodhisatta/) ideal.
-* **Commentary**: *Madhuratthavilāsinī* – Written by Buddhadatta, this commentary heavily expands upon the extremely brief verses of the canonical text, filling in the biographical details of the past Buddhas.
+* **Commentary**: *[Madhuratthavilāsinī](/glossary/madhuratthavilasini/)* – Written by Buddhadatta, this commentary heavily expands upon the extremely brief verses of the canonical text, filling in the biographical details of the past Buddhas.

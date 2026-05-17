@@ -19,6 +19,6 @@ It begins with the "Book of the Ones" (lists of single items), proceeds to the "
 Because it deals heavily with lists, the *Aṅguttara* is incredibly broad. It contains the majority of the Buddha's teachings directed specifically to laypeople regarding wealth, marriage, ethics, and civic duties, while also containing profound numbered lists on meditation (like the five hindrances or seven factors of enlightenment). It was preserved by the lineage of Venerable Anuruddha.
 
 ### Textual References
-* **Canonical**: *Kālāma Sutta* (AN 3.65) – The famous discourse in the Book of the Threes regarding the criteria for accepting a spiritual teaching.
-* **Canonical**: *Metta Sutta* (AN 11.15) – The eleven benefits of practicing loving-kindness.
-* **Commentary**: *Manorathapūraṇī* – Buddhaghosa's commentary, famous for its *Etadaggavagga* section which details the biographies of the foremost disciples.
+* **Canonical**: *Kālāma [Sutta](/glossary/sutta/)* (AN 3.65) – The famous discourse in the Book of the Threes regarding the criteria for accepting a spiritual teaching.
+* **Canonical**: *[Metta](/glossary/metta/) Sutta* (AN 11.15) – The eleven benefits of practicing loving-kindness.
+* **Commentary**: *[Manorathapūraṇī](/glossary/manorathapurani/)* – Buddhaghosa's commentary, famous for its *Etadaggavagga* section which details the biographies of the foremost disciples.

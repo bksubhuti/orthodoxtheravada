@@ -14,10 +14,10 @@ commentaries: ["Manorathapurani", "Visuddhimagga"]
 ### Orthodox Definition
 *Samparāyika* refers to the welfare, dangers, or karmic results that will be experienced in subsequent rebirths following the death of the current physical body.
 
-While the Buddha valued present-life welfare, he emphasized that *Samparāyika-attha* (welfare for the future) was vastly more important, as the cycle of saṃsāra is immeasurably long. To secure happiness in the next life, a layperson must develop four specific qualities: accomplishment in faith (*saddhā*), virtue (*sīla*), generosity (*cāga*), and wisdom (*paññā*).
+While the Buddha valued present-life welfare, he emphasized that *Samparāyika-attha* (welfare for the future) was vastly more important, as the cycle of [saṃsāra](/glossary/samsara/) is immeasurably long. To secure happiness in the next life, a layperson must develop four specific qualities: accomplishment in faith (*[saddhā](/glossary/saddha/)*), virtue (*[sīla](/glossary/sila/)*), generosity (*cāga*), and wisdom (*[paññā](/glossary/panna/)*).
 
-In Abhidhamma karma theory, *Samparāyika-kamma* (or *Upapajja-vedanīya-kamma*) refers specifically to the heavy volitional action (the seventh javana-citta in a cognitive series) that will explicitly dictate the destination of the very next rebirth.
+In [Abhidhamma](/glossary/abhidhamma/) karma theory, *Samparāyika-kamma* (or *Upapajja-vedanīya-kamma*) refers specifically to the heavy volitional action (the seventh javana-citta in a cognitive series) that will explicitly dictate the destination of the very next rebirth.
 
 ### Textual References
-* **Sutta**: *Dīghajāṇu Sutta* (AN 8.54) – The four conditions leading to happiness in the future life.
-* **Commentary**: *Visuddhimagga* (Chapter XIX) – Classifying the sequence of karmic ripening across future lives.
+* **[Sutta](/glossary/sutta/)**: *Dīghajāṇu Sutta* (AN 8.54) – The four conditions leading to happiness in the future life.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIX) – Classifying the sequence of karmic ripening across future lives.

@@ -12,13 +12,13 @@ commentaries: ["Visuddhimagga"]
 **Paṭipatti**: [f.] Practice; conduct; the path of methodology. Derived from prefix *paṭi* (towards, back) + root *pad* (to go, walk, step). Meaning "stepping along the way."
 
 ### Orthodox Definition
-*Paṭipatti* is the second pillar of the True Dhamma. It is the active, lived implementation of what has been learned in the texts (*[pariyatti](/glossary/pariyatti/)*). 
+*Paṭipatti* is the second pillar of the True [Dhamma](/glossary/dhamma/). It is the active, lived implementation of what has been learned in the texts (*[pariyatti](/glossary/pariyatti/)*). 
 
-In orthodox terms, *Paṭipatti* refers specifically to the systematic development of the three trainings (*tisikkhā*): Higher Morality (*adhisīla*), Higher Concentration (*adhicitta*), and Higher Wisdom (*adhipaññā*). It encompasses the entirety of the Noble Eightfold Path, the strict adherence to the Vinaya rules, and the grueling hours spent in sitting and walking meditation.
+In orthodox terms, *Paṭipatti* refers specifically to the systematic development of the three trainings (*tisikkhā*): Higher Morality (*adhisīla*), Higher Concentration (*adhicitta*), and Higher Wisdom (*adhipaññā*). It encompasses the entirety of the Noble Eightfold Path, the strict adherence to the [Vinaya](/glossary/vinaya/) rules, and the grueling hours spent in sitting and walking meditation.
 
-The *Visuddhimagga* serves as the ultimate manual of *Paṭipatti*. It takes the vast theoretical maps of the Abhidhamma and converts them into step-by-step instructions for the practitioner attempting to purify their mind and walk toward realization.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* serves as the ultimate manual of *Paṭipatti*. It takes the vast theoretical maps of the [Abhidhamma](/glossary/abhidhamma/) and converts them into step-by-step instructions for the practitioner attempting to purify their mind and walk toward realization.
 
 ### Textual References
-* **Sutta**: *Mahācattārīsaka Sutta* (MN 117) – The practical mechanics of integrating right view, right effort, and right mindfulness into a unified practice.
+* **[Sutta](/glossary/sutta/)**: *Mahācattārīsaka Sutta* (MN 117) – The practical mechanics of integrating right view, right effort, and right mindfulness into a unified practice.
 * **Canonical**: *Aṅguttara Nikāya* (Catukka Nipāta) – Emphasizing that practice is the only way to realize the fruits; theoretical knowledge alone is like a cowherd counting others' cows.
 * **Commentary**: *Visuddhimagga* – The definitive exegesis of the path of practice.

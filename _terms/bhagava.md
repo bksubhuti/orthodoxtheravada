@@ -14,12 +14,12 @@ commentaries: ["Visuddhimagga"]
 ### Orthodox Definition
 *Bhagavā* is the most frequently used epithet for the Buddha throughout the Pali Canon, often used by the narrator of the suttas (e.g., "Thus have I heard. At one time the *Bhagavā* was staying at..."). 
 
-In the orthodox commentarial tradition, the title is considered supreme and unassigned by human beings, devas, or Brahmas; it is a natural acquisition resulting directly from final enlightenment at the root of the Bodhi tree. The *Visuddhimagga* provides six profound etymological definitions to use as a meditation object. Among them:
+In the orthodox commentarial tradition, the title is considered supreme and unassigned by human beings, devas, or Brahmas; it is a natural acquisition resulting directly from final enlightenment at the root of the [Bodhi](/glossary/bodhi/) tree. The *[Visuddhimagga](/glossary/visuddhimagga/)* provides six profound etymological definitions to use as a meditation object. Among them:
 1. **Bhaggavā**: He who has broken (*bhagga*) all defilements.
 2. **Bhattavā**: He who has associated with (*bhatta*) supreme worldly and supramundane qualities.
-3. He who has analyzed and classified (*vibhajja*) the Dhamma into aggregates, elements, and truths.
+3. He who has analyzed and classified (*vibhajja*) the [Dhamma](/glossary/dhamma/) into aggregates, elements, and truths.
 
 ### Textual References
-* **Sutta**: *Dhajagga Sutta* (SN 11.3) – The final quality listed in the standard recollection of the Buddha (Iti pi so Bhagavā...).
+* **[Sutta](/glossary/sutta/)**: *Dhajagga Sutta* (SN 11.3) – The final quality listed in the standard recollection of the Buddha (Iti pi so Bhagavā...).
 * **Canonical**: *Mahāniddesa* – Explaining that the title is not a given name by parents, but a designation of ultimate liberation.
-* **Commentary**: *Visuddhimagga* (Chapter VII) – Dedicating a massive section to deconstructing the grammar and meaning of Bhagavā for the practice of *Buddhānussati*.
+* **Commentary**: *Visuddhimagga* (Chapter VII) – Dedicating a massive section to deconstructing the grammar and meaning of Bhagavā for the practice of *[Buddhānussati](/glossary/buddhanussati/)*.

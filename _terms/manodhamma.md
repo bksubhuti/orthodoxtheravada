@@ -22,5 +22,5 @@ There are three unwholesome mental kammas:
 A person can sit perfectly still in absolute silence, breaking no physical or verbal rules, yet generate enough unwholesome mental karma to warrant rebirth in hell. 
 
 ### Textual References
-* **Sutta**: *Upāli Sutta* (MN 56) – The dramatic debate where the Buddha proves to the Jain follower Upāli that mental action is vastly more blameworthy and potent than bodily or verbal action.
-* **Canonical**: *Dhammapada* (Verse 1 & 2) – "Mind precedes all mental states... If one speaks or acts with a wicked mind, suffering follows them..."
+* **[Sutta](/glossary/sutta/)**: *Upāli Sutta* (MN 56) – The dramatic debate where the Buddha proves to the Jain follower Upāli that mental action is vastly more blameworthy and potent than bodily or verbal action.
+* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (Verse 1 & 2) – "Mind precedes all mental states... If one speaks or acts with a wicked mind, suffering follows them..."

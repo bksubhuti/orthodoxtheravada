@@ -14,7 +14,7 @@ commentaries: []
 ### Orthodox Definition
 *Cetiyagiri* is a revered mountainous peak located near Anuradhapura, Sri Lanka. It holds immense historical significance as the exact geographical location where Buddhism was formally introduced to the island. 
 
-According to the chronicles, it was on this mountain on a Poson full-moon day that the Arahat Mahinda (Emperor Ashoka's son) miraculously appeared and encountered King Devānampiya Tissa, who was out hunting. Mahinda tested the king's intelligence with a riddle, and finding him wise, preached the *Cūḷahatthipadopama Sutta*, resulting in the king's conversion.
+According to the chronicles, it was on this mountain on a Poson full-moon day that the [Arahat](/glossary/arahat/) Mahinda (Emperor Ashoka's son) miraculously appeared and encountered King Devānampiya Tissa, who was out hunting. Mahinda tested the king's intelligence with a riddle, and finding him wise, preached the *Cūḷahatthipadopama [Sutta](/glossary/sutta/)*, resulting in the king's conversion.
 
 Because Mahinda spent his rainy seasons here, and because it housed numerous reliquary stupas, the mountain came to be known as Cetiyagiri, serving as a massive monastic complex and a primary pilgrimage site second only to the [Mahāvihāra](/glossary/maha-vihara/).
 

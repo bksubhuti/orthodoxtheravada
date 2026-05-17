@@ -12,9 +12,9 @@ commentaries: []
 **Saddhammappakāsinī**: [f.] The Clarifier of the True Dhamma. Formed by *saddhamma* (true doctrine) + *pakāsinī* (clarifying, making known).
 
 ### Orthodox Definition
-The *Saddhammappakāsinī* is the commentary on the highly technical *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)*. It was authored by **Venerable Mahānāma**, a monk of the Mahāvihāra lineage in Sri Lanka, likely in the 6th century CE.
+The *Saddhammappakāsinī* is the commentary on the highly technical *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)*. It was authored by **Venerable Mahānāma**, a monk of the [Mahāvihāra](/glossary/maha-vihara/) lineage in Sri Lanka, likely in the 6th century CE.
 
-The *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* is the supreme canonical manual on meditation mechanics and insight knowledge. Because it is written in a dense, Abhidhamma-style format, it requires significant unpacking. Mahānāma's commentary acts as the essential bridge between Sāriputta's ancient map of insight and Buddhaghosa's *Visuddhimagga*. It clarifies the complex terminology regarding the 73 types of knowledge and the practical mechanics of mindfulness of breathing (*ānāpānasati*).
+The *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* is the supreme canonical manual on meditation mechanics and insight knowledge. Because it is written in a dense, Abhidhamma-style format, it requires significant unpacking. Mahānāma's commentary acts as the essential bridge between Sāriputta's ancient map of insight and Buddhaghosa's *[Visuddhimagga](/glossary/visuddhimagga/)*. It clarifies the complex terminology regarding the 73 types of knowledge and the practical mechanics of mindfulness of breathing (*[ānāpānasati](/glossary/anapanasati/)*).
 
 ### Textual References
 * **Subject Matter**: Commentary on the [Paṭisambhidāmagga](/glossary/patisambhidamagga/).

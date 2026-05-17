@@ -19,6 +19,6 @@ The commentaries define its characteristic as the non-relaxing of attention towa
 The profound weight of this term is cemented by the fact that it was the core of the Buddha’s final instructions before his passing: *"Vayadhammā saṅkhārā, appamādena sampādetha"* (Conditioned things are subject to decay; strive on with heedfulness). The Buddha also stated that just as the footprints of all animals fit within the footprint of the elephant, all wholesome mental states are encompassed by *appamāda*.
 
 ### Textual References
-* **Sutta**: *Mahāparinibbāna Sutta* (DN 16) – The final words of the Tathāgata emphasizing diligence.
-* **Canonical**: *Dhammapada* (Appamāda Vagga - Chapter 2) – "Heedfulness is the path to the Deathless; heedlessness is the path to death."
+* **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – The final words of the [Tathāgata](/glossary/tathagata/) emphasizing diligence.
+* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (Appamāda Vagga - Chapter 2) – "Heedfulness is the path to the Deathless; heedlessness is the path to death."
 * **Commentary**: *Dhammapada-Aṭṭhakathā* – Analyzing diligence as the foundational root of all spiritual success.

@@ -14,17 +14,17 @@ commentaries: ["Visuddhimagga", "Sumangalavilasini"]
 ### Orthodox Definition
 *Byāpāda* is the second of the five mental hindrances (*[nīvaraṇa](/glossary/nivarana/)*). Doctrinally rooted in the unwholesome root of hatred (*[dosa](/glossary/dosa/)-cetasika*), it manifests during meditation as irritation with the practice, anger toward noises or disturbances, resentment toward past enemies, or deep-seated anxiety and ill-will.
 
-The *Sumaṅgalavilāsinī* outlines six direct methods to completely counteract and quiet this hindrance:
+The *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* outlines six direct methods to completely counteract and quiet this hindrance:
 1. Learning how to properly grasp the sign of loving-kindness (*mettā-nimitta*).
 2. Applying oneself directly to the meditation of loving-kindness (*mettābhāvanā*).
-3. Reflecting deeply on the fact that all beings are owners of their own kamma (*kammassakatā*).
+3. Reflecting deeply on the fact that all beings are owners of their own [kamma](/glossary/kamma/) (*kammassakatā*).
 4. Frequent wise reflection (*paṭisaṅkhāna-bahulitā*).
 5. Cultivating noble friendship with peaceful companions.
 6. Engaging in supportive, non-aggressive conversation.
 
-Byāpāda is temporarily suppressed by the first [jhāna](/glossary/jhana/) factor of rapture (*pīti*) and permanently uprooted by the path-consciousness of a Non-Returner (*Anāgāmī*).
+Byāpāda is temporarily suppressed by the first [jhāna](/glossary/jhana/) factor of rapture (*[pīti](/glossary/piti/)*) and permanently uprooted by the path-consciousness of a Non-Returner (*[Anāgāmī](/glossary/anagami/)*).
 
 ### Textual References
-* **Sutta**: *Mahāgopālaka Sutta* (MN 33) – Illustrating how a monk who allows ill-will to fester cannot grow in the discipline.
-* **Canonical**: *Vibhaṅga* (Hindrances division).
-* **Commentary**: *Visuddhimagga* (Chapter IX) – Methodical manual for neutralizing anger through specific psychological adjustments.
+* **[Sutta](/glossary/sutta/)**: *Mahāgopālaka Sutta* (MN 33) – Illustrating how a monk who allows ill-will to fester cannot grow in the discipline.
+* **Canonical**: *[Vibhaṅga](/glossary/vibhanga/)* (Hindrances division).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter IX) – Methodical manual for neutralizing anger through specific psychological adjustments.

@@ -18,4 +18,4 @@ The title reflects its purpose: the *Majjhima Nikāya* is uniquely focused on th
 
 ### Textual References
 * **Subject Matter**: Comments on the 152 discourses of the Majjhima Nikāya.
-* **Key Features**: Provides the indispensable background story for the serial killer Aṅgulimāla and deep analysis of the *Mūlapariyāya Sutta*.
+* **Key Features**: Provides the indispensable background story for the serial killer Aṅgulimāla and deep analysis of the *Mūlapariyāya [Sutta](/glossary/sutta/)*.

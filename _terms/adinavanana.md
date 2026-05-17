@@ -14,9 +14,9 @@ commentaries: ["Visuddhimagga"]
 ### Orthodox Definition
 Flowing directly from the knowledge of fearfulness, *Ādīnavañāṇa* is the realization that because all conditioned things are continuously collapsing, they are fundamentally dangerous, utterly devoid of satisfaction, and deeply flawed. 
 
-The meditator sees all of saṃsāra as a burning house. There is no longer any allure or deception in sensual pleasures, celestial rebirths, or deep meditative absorptions, because their inherent vulnerability is entirely exposed. Only the unconditioned state, Nibbāna—where there is no arising, passing, or formation—is seen as peaceful and secure.
+The meditator sees all of [saṃsāra](/glossary/samsara/) as a burning house. There is no longer any allure or deception in sensual pleasures, celestial rebirths, or deep meditative absorptions, because their inherent vulnerability is entirely exposed. Only the unconditioned state, [Nibbāna](/glossary/nibbana/)—where there is no arising, passing, or formation—is seen as peaceful and secure.
 
 ### Textual References
-* **Sutta**: *Āditta Sutta* / Fire Sermon (SN 35.28) – The classic discourse highlighting that the entire sensory apparatus is burning, establishing the foundation for this knowledge.
-* **Canonical**: *Paṭisambhidāmagga* – Establishing the exact cognitive shift from fear to analyzing the faults of existence.
-* **Commentary**: *Visuddhimagga* (Chapter XXI) – Compares this knowledge to realizing one has unknowingly sought shelter in a forest full of vicious beasts.
+* **[Sutta](/glossary/sutta/)**: *Āditta Sutta* / Fire Sermon (SN 35.28) – The classic discourse highlighting that the entire sensory apparatus is burning, establishing the foundation for this knowledge.
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* – Establishing the exact cognitive shift from fear to analyzing the faults of existence.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXI) – Compares this knowledge to realizing one has unknowingly sought shelter in a forest full of vicious beasts.

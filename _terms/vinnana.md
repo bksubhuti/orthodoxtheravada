@@ -25,6 +25,6 @@ The Buddha formalized its architecture into **six distinct operational pathways*
 The orthodox tradition strictly rejects the heresy that viññāṇa is a permanent, transmigrating soul or unchanging self that drifts from life to life. Viññāṇa is completely conditioned, flashing into existence and dissolving away instantly based on the collision of a functioning sense organ and its respective external object.
 
 ### Textual References
-* **Sutta**: *Mahātaṇhāsaṅkhaya Sutta* (MN 38) – The critical discourse where the Buddha severely rebukes the monk Sāti for holding the heretical view that consciousness transmigrates without change.
+* **[Sutta](/glossary/sutta/)**: *Mahātaṇhāsaṅkhaya Sutta* (MN 38) – The critical discourse where the Buddha severely rebukes the monk Sāti for holding the heretical view that consciousness transmigrates without change.
 * **Canonical**: *Samyutta Nikaya* (Viññāṇa-saṃyutta).
-* **Commentary**: *Visuddhimagga* (Chapter XIV) – Thorough systemic classification of the modes of consciousness.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Thorough systemic classification of the modes of consciousness.

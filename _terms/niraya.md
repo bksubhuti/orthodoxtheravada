@@ -16,9 +16,9 @@ commentaries: ["Papañcasudani", "Visuddhimagga"]
 
 The Theravāda texts are highly specific about the nature of Niraya: it is not a place of eternal damnation managed by an evil deity, but a temporary (though immensely long) karmic purgatory. The suffering generated there is a direct mechanical result (*vipāka*) of the being's own past volitions. 
 
-The canonical texts describe various levels of these hells, such as the *Avīci* hell (the lowest realm of uninterrupted torment, reserved for those who commit the five heinous crimes, like killing a parent or shedding a Buddha's blood). Once the specific bad [kamma](/glossary/kamma/) that caused the rebirth is exhausted, the being passes away and is reborn elsewhere in saṃsāra.
+The canonical texts describe various levels of these hells, such as the *Avīci* hell (the lowest realm of uninterrupted torment, reserved for those who commit the five heinous crimes, like killing a parent or shedding a Buddha's blood). Once the specific bad [kamma](/glossary/kamma/) that caused the rebirth is exhausted, the being passes away and is reborn elsewhere in [saṃsāra](/glossary/samsara/).
 
 ### Textual References
-* **Sutta**: *Bālapaṇḍita Sutta* (MN 129) – The Buddha providing terrifyingly vivid descriptions of the physical torments of the hell realms, emphasizing the absolute necessity of moral restraint.
+* **[Sutta](/glossary/sutta/)**: *Bālapaṇḍita Sutta* (MN 129) – The Buddha providing terrifyingly vivid descriptions of the physical torments of the hell realms, emphasizing the absolute necessity of moral restraint.
 * **Canonical**: *Devadūta Sutta* (MN 130) – Detailing the interrogation by King Yama, the lord of the underworld, regarding the divine messengers of aging, sickness, and death.
-* **Commentary**: *Papañcasūdanī* – Analytical mapping of the various hell sectors and their corresponding karmic causes.
+* **Commentary**: *[Papañcasūdanī](/glossary/papancasudani/)* – Analytical mapping of the various hell sectors and their corresponding karmic causes.

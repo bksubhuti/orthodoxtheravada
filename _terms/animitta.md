@@ -16,9 +16,9 @@ commentaries: ["Visuddhimagga"]
 
 When an unawakened mind perceives reality, it naturally seizes upon the "signs" of permanence, beauty, or solidity (*nimitta-gāhī*). Through deep insight into impermanence, the meditator sees the constant dissolution of phenomena and removes the "sign" of continuity and stability. 
 
-When the supramundane Path (*maggañāṇa*) is reached specifically through the contemplation of impermanence, the realization is called the "Signless Liberation" (*animitta-vimokkha*). The mind breaks through into [Nibbāna](/glossary/nibbana/), which is itself the ultimate *Animitta-dhātu*—an unconditioned reality entirely devoid of the signs of formations.
+When the supramundane Path (*[maggañāṇa](/glossary/magganana/)*) is reached specifically through the contemplation of impermanence, the realization is called the "Signless Liberation" (*animitta-vimokkha*). The mind breaks through into [Nibbāna](/glossary/nibbana/), which is itself the ultimate *Animitta-dhātu*—an unconditioned reality entirely devoid of the signs of formations.
 
 ### Textual References
-* **Sutta**: *Animitta Sutta* (SN 40.9) – Describing the signless concentration of mind (*animitta-cetosamādhi*).
-* **Canonical**: *Paṭisambhidāmagga* – Structural definitions of the three liberations.
-* **Commentary**: *Visuddhimagga* (Chapter XXI) – Explaining how the perception of impermanence leads to the signless gateway.
+* **[Sutta](/glossary/sutta/)**: *Animitta Sutta* (SN 40.9) – Describing the signless concentration of mind (*animitta-cetosamādhi*).
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* – Structural definitions of the three liberations.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXI) – Explaining how the perception of impermanence leads to the signless gateway.

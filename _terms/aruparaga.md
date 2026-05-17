@@ -17,5 +17,5 @@ commentaries: ["Visuddhimagga"]
 Because these formless states are characterized by unimaginably vast lifespans (up to 84,000 aeons) and absolute stillness, the mind naturally craves them as a false sanctuary. The Buddha identified this subtle craving as a trap, noting that even the highest formless beings eventually die and return to lower realms if they are not liberated. Like *[rūparāga](/glossary/ruparaga/)*, it is permanently destroyed only by the Path of Arahatship.
 
 ### Textual References
-* **Sutta**: *Nava Sutta* (SN 45.180) – Listing the five higher fetters that must be abandoned through the Noble Eightfold Path.
-* **Abhidhamma**: *Vibhaṅga* – Structural mapping of the immaterial realms and the psychic drives that lead there.
+* **[Sutta](/glossary/sutta/)**: *Nava Sutta* (SN 45.180) – Listing the five higher fetters that must be abandoned through the Noble Eightfold Path.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* – Structural mapping of the immaterial realms and the psychic drives that lead there.

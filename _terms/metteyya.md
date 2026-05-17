@@ -17,6 +17,6 @@ commentaries: ["Anagatavamsa"]
 Currently, the [Bodhisatta](/glossary/bodhisatta/) Metteyya is said to reside in the Tusita heaven, waiting for the proper time to take his final human rebirth. This will occur in the distant future, only after the complete disappearance of Gotama Buddha's teachings, when human lifespan and morality have drastically declined and then subsequently recovered to a golden age. During Metteyya's era, the world will be a place of extreme prosperity and peace, making his primary teaching focus on the subtler forms of suffering rather than gross physical misery.
 
 ### Textual References
-* **Sutta**: *Cakkavatti-Sīhanāda Sutta* (DN 26) – The single most explicit canonical reference where Gotama Buddha prophesies the arising of Metteyya, describing him as a leader of a massive Saṅgha of thousands.
-* **Canonical**: *Buddhavaṃsa* – Listing Metteyya in the lineage of Buddhas.
+* **[Sutta](/glossary/sutta/)**: *Cakkavatti-Sīhanāda Sutta* (DN 26) – The single most explicit canonical reference where Gotama Buddha prophesies the arising of Metteyya, describing him as a leader of a massive [Saṅgha](/glossary/sangha/) of thousands.
+* **Canonical**: *[Buddhavaṃsa](/glossary/buddhavamsa/)* – Listing Metteyya in the lineage of Buddhas.
 * **Commentary**: *Anāgatavaṃsa* – A post-canonical text providing elaborate details on Metteyya's future life, family, and the utopia of his era.

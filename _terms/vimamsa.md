@@ -19,6 +19,6 @@ When operating as a base of power, *vīmaṃsā* represents the supreme ingenuit
 The commentaries note that a practitioner driven by *vīmaṃsā* achieves success through deep reflection on the causes and conditions of phenomena. It is the power of supreme problem-solving applied to liberation.
 
 ### Textual References
-* **Sutta**: *Vīmaṃsaka Sutta* (MN 47) – Using critical investigation even to examine the Buddha himself to ensure his enlightenment is authentic.
-* **Abhidhamma**: *Vibhaṅga* (Analysis of the fourth base of power).
-* **Commentary**: *Visuddhimagga* (Chapter XXII) – Detailing how analytical ingenuity cuts through the thickest delusions blocking the path.
+* **[Sutta](/glossary/sutta/)**: *Vīmaṃsaka Sutta* (MN 47) – Using critical investigation even to examine the Buddha himself to ensure his enlightenment is authentic.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Analysis of the fourth base of power).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Detailing how analytical ingenuity cuts through the thickest delusions blocking the path.

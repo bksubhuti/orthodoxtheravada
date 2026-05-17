@@ -21,6 +21,6 @@ The Buddha formalized Right Effort into **four distinct structural strivings** (
 4. *Anurakkhana-ppadhāna* (Effort to Maintain): Striving to guard, preserve, and multiply wholesome factors that have already arisen, bringing them to fulfillment.
 
 ### Textual References
-* **Sutta**: *Padhāna Sutta* (AN 4.14) – Foundational mapping of the four distinct functional methods of correct spiritual striving.
-* **Abhidhamma**: *Vibhaṅga* ([Magga](/glossary/magga/)-vibhaṅga exposition).
-* **Commentary**: *Visuddhimagga* (Chapter XXII) – Detailing how energy transforms from a fluctuating, unstable element into an unmoving supramundane path factor.
+* **[Sutta](/glossary/sutta/)**: *Padhāna Sutta* (AN 4.14) – Foundational mapping of the four distinct functional methods of correct spiritual striving.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* ([Magga](/glossary/magga/)-vibhaṅga exposition).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Detailing how energy transforms from a fluctuating, unstable element into an unmoving supramundane path factor.

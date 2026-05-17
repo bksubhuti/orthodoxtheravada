@@ -14,11 +14,11 @@ commentaries: ["Visuddhimagga"]
 ### Orthodox Definition
 *Muditā* is the third of the four divine abodes (*[brahmavihāra](/glossary/brahmavihara/)*). It is the psychological capacity to sincerely rejoice in the success, prosperity, health, and virtuous achievements of other sentient beings. It functions as the direct, specific internal antidote to envy, jealousy (*[issā](/glossary/issa/)*), and competitive resentment.
 
-The *Visuddhimagga* points out that the characteristic of muditā is gladness over another's success. Its "near enemy" is worldly, giddy exhilaration or personal amusement (*pahāsa*), which is rooted in sensory attachment and self-referential greed. Its "far enemy" is active aversion, envy, or malicious dissatisfaction with another's welfare.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* points out that the characteristic of muditā is gladness over another's success. Its "near enemy" is worldly, giddy exhilaration or personal amusement (*pahāsa*), which is rooted in sensory attachment and self-referential greed. Its "far enemy" is active aversion, envy, or malicious dissatisfaction with another's welfare.
 
-Cultivating muditā provides an exceptional pathway for calming the mind, capable of elevating the practitioner to enter the first three material-sphere absorptions (*jhāna*).
+Cultivating muditā provides an exceptional pathway for calming the mind, capable of elevating the practitioner to enter the first three material-sphere absorptions (*[jhāna](/glossary/jhana/)*).
 
 ### Textual References
-* **Sutta**: *Saṅgīti Sutta* (DN 33) – Codified as an essential boundless state for communal harmony.
-* **Abhidhamma**: *Vibhaṅga* (Appamaññāvibhaṅga chapter).
+* **[Sutta](/glossary/sutta/)**: *Saṅgīti Sutta* (DN 33) – Codified as an essential boundless state for communal harmony.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Appamaññāvibhaṅga chapter).
 * **Commentary**: *Visuddhimagga* (Chapter IX) – Detailed methods for breaking down the barrier (*sīmāsambheda*) between friends and enemies using altruistic joy.

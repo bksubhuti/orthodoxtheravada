@@ -19,6 +19,6 @@ The commentaries place absolute emphasis on securing a kalyāṇamitta when comm
 According to the *Aṅguttara Nikāya*, a true kalyāṇamitta possesses seven structural qualities: he is endearing (*piyo*), venerable (*garu*), admirable (*bhāvanīyo*), a speaker of deep counsel, a patient listener, capable of explaining profound topics, and never urges one toward unwholesome actions.
 
 ### Textual References
-* **Sutta**: *Upaddha Sutta* (SN 45.2) – The historic interaction where Venerable Ānanda suggests that noble friendship is half of the holy life, and the Buddha directly corrects him: "Noble friendship, Ānanda, is the *entirety* of the holy life."
+* **[Sutta](/glossary/sutta/)**: *Upaddha Sutta* (SN 45.2) – The historic interaction where Venerable Ānanda suggests that noble friendship is half of the holy life, and the Buddha directly corrects him: "Noble friendship, Ānanda, is the *entirety* of the holy life."
 * **Canonical**: *Meghiya Sutta* (AN 9.3) – Identifying noble friendship as the very first prerequisite for ripening mental liberation.
-* **Commentary**: *Visuddhimagga* (Chapter III) – Detailing the precise protocols for approaching and choosing an authentic meditation master.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter III) – Detailing the precise protocols for approaching and choosing an authentic meditation master.

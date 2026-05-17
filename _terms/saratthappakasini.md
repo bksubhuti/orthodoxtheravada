@@ -18,4 +18,4 @@ Because the *Saṃyutta Nikāya* is strictly organized by profound doctrinal sub
 
 ### Textual References
 * **Subject Matter**: Comments on the nearly 3,000 discourses of the Saṃyutta Nikāya.
-* **Key Features**: Deep exposition on the *Dhammacakkappavattana Sutta* (The First Sermon).
+* **Key Features**: Deep exposition on the *Dhammacakkappavattana [Sutta](/glossary/sutta/)* (The First Sermon).

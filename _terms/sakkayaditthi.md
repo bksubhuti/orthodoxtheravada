@@ -19,6 +19,6 @@ The Buddha analyzed this fetter into 20 specific variations (viewing each of the
 It is permanently eradicated at the very first stage of awakening, Stream-entry (*Sotāpatti*), through the direct penetration of the Three Characteristics. 
 
 ### Textual References
-* **Sutta**: *Cūḷavedalla Sutta* (MN 44) – Dhammadinnā brilliantly explains to Visākha exactly how identity view arises and how it ceases.
+* **[Sutta](/glossary/sutta/)**: *Cūḷavedalla Sutta* (MN 44) – Dhammadinnā brilliantly explains to Visākha exactly how identity view arises and how it ceases.
 * **Canonical**: *Sakkāya Sutta* (SN 22.105) – The Buddha defines *sakkāya* strictly as the five clinging-aggregates.
-* **Commentary**: *Visuddhimagga* (Chapter XIV) – Providing the analytical breakdown of the 20 types of personality belief.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Providing the analytical breakdown of the 20 types of personality belief.

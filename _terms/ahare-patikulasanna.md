@@ -29,6 +29,6 @@ The practitioner deliberately alters their perception of a meal by analyzing it 
 By meditating on this, the monk eats purely for the maintenance of the body, completely devoid of lust or pride. It produces Access Concentration (*upacāra-samādhi*).
 
 ### Textual References
-* **Sutta**: *Bojjhaṅga-saṃyutta* (SN 46.71) – Listed as a primary perception to be developed for the abandonment of sensual lust.
+* **[Sutta](/glossary/sutta/)**: *Bojjhaṅga-saṃyutta* (SN 46.71) – Listed as a primary perception to be developed for the abandonment of sensual lust.
 * **Canonical**: *Aṅguttara Nikāya* (Sattaka Nipāta) – Grouped with the perception of death and foulness.
-* **Commentary**: *Visuddhimagga* (Chapter XI) – The brilliantly graphic, step-by-step manual on how to strip the glamour away from fine dining to reveal its biological reality.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XI) – The brilliantly graphic, step-by-step manual on how to strip the glamour away from fine dining to reveal its biological reality.

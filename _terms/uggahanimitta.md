@@ -16,7 +16,7 @@ The *Uggahanimitta* is the second stage of the meditation object's evolution. It
 
 At this stage, the meditator can close their eyes, and the image of the clay disc (or the corpse, or the breath sensation) appears internally just as vividly as if their eyes were open. 
 
-The *Visuddhimagga* notes a critical diagnostic feature of the learning sign: it retains all the flaws of the original physical object. If the clay disc had a thumbprint, a crack, or a piece of grass stuck in it, the *uggahanimitta* will display that exact same thumbprint, crack, and grass. It proves that the mind has achieved a high degree of stability, but it has not yet reached the luminous purity required to suppress the hindrances fully.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* notes a critical diagnostic feature of the learning sign: it retains all the flaws of the original physical object. If the clay disc had a thumbprint, a crack, or a piece of grass stuck in it, the *uggahanimitta* will display that exact same thumbprint, crack, and grass. It proves that the mind has achieved a high degree of stability, but it has not yet reached the luminous purity required to suppress the hindrances fully.
 
 ### Textual References
 * **Textual**: *Abhidhammattha-saṅgaha* (Chapter IX) – Identifying the learning sign as the midpoint of meditative progress.

@@ -18,4 +18,4 @@ Without this commentary, the verses of the [Dhammapada](/glossary/dhammapada/) a
 
 ### Textual References
 * **Subject Matter**: Commentary on the [Dhammapada](/glossary/dhammapada/).
-* **Key Features**: The massive, sweeping biographies of Visākhā (the chief laywoman) and King Udena.
+* **Key Features**: The massive, sweeping biographies of [Visākhā](/glossary/visakha/) (the chief laywoman) and King Udena.

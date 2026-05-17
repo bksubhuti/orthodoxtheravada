@@ -16,9 +16,9 @@ commentaries: ["Papancasudani"]
 
 While *[Māyā](/glossary/maya/)* involves hiding faults that one actually possesses, *Sāṭheyya* is the active, fraudulent claiming of virtues, attainments, or qualities that one does *not* possess. It is driven by greed (*[lobha](/glossary/lobha/)*) for respect, requisites, or fame. 
 
-In the monastic context, *sāṭheyya* is incredibly dangerous. If a monk fraudulently claims to possess supramundane states (*jhāna* or *magga-phala*) that he has not actually attained, driven by this defilement, he commits a *Pārājika* offense and is instantly defeated and expelled from the Saṅgha for life.
+In the monastic context, *sāṭheyya* is incredibly dangerous. If a monk fraudulently claims to possess supramundane states (*[jhāna](/glossary/jhana/)* or *magga-phala*) that he has not actually attained, driven by this defilement, he commits a *[Pārājika](/glossary/parajika/)* offense and is instantly defeated and expelled from the [Saṅgha](/glossary/sangha/) for life.
 
 ### Textual References
-* **Sutta**: *Vatthūpama Sutta* (MN 7) – Included in the core list of impurities of the heart.
-* **Vinaya**: *Pārājikapāḷi* (The Fourth Defeat) – The legal boundary concerning fraudulent claims of human perfection.
-* **Commentary**: *Papañcasūdanī* – Distinguishing the exact boundaries between hiding faults and faking virtues.
+* **[Sutta](/glossary/sutta/)**: *Vatthūpama Sutta* (MN 7) – Included in the core list of impurities of the heart.
+* **[Vinaya](/glossary/vinaya/)**: *Pārājikapāḷi* (The Fourth Defeat) – The legal boundary concerning fraudulent claims of human perfection.
+* **Commentary**: *[Papañcasūdanī](/glossary/papancasudani/)* – Distinguishing the exact boundaries between hiding faults and faking virtues.

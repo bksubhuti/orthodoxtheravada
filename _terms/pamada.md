@@ -19,6 +19,6 @@ A person afflicted by *pamāda* allows their mind to drift aimlessly among the f
 The Buddha equated heedlessness directly with death. A person who is heedless is practically a walking corpse, as they are completely vulnerable to the forces of Māra and have surrendered all agency over their future karmic destination.
 
 ### Textual References
-* **Canonical**: *Dhammapada* ([Appamāda](/glossary/appamada/) Vagga, v. 21) – "Heedlessness is the path to death; the heedless are as if already dead."
-* **Sutta**: *Samaññaphala Sutta* (DN 2) – Contrasting the heedless life of a worldly person with the hyper-vigilance of a monastic.
+* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* ([Appamāda](/glossary/appamada/) Vagga, v. 21) – "Heedlessness is the path to death; the heedless are as if already dead."
+* **[Sutta](/glossary/sutta/)**: *Samaññaphala Sutta* (DN 2) – Contrasting the heedless life of a worldly person with the hyper-vigilance of a monastic.
 * **Commentary**: *Dhammapada-Aṭṭhakathā* – Extensive narrative examples showing the disastrous consequences of sliding into spiritual negligence.

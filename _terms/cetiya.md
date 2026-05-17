@@ -16,11 +16,11 @@ While *[Thūpa](/glossary/thupa/)* specifically refers to the architectural dome
 
 The Theravāda tradition formally classifies *Cetiyas* into three categories of sacredness:
 1. **Sārīrika-cetiya**: Shrines containing physical body relics of the Buddha (e.g., bone fragments, hair, the Sacred Tooth).
-2. **Pāribhogika-cetiya**: Shrines or objects used by the Buddha during his lifetime (e.g., his alms bowl, his robes, and most importantly, the Bodhi Tree).
+2. **Pāribhogika-cetiya**: Shrines or objects used by the Buddha during his lifetime (e.g., his alms bowl, his robes, and most importantly, the [Bodhi](/glossary/bodhi/) Tree).
 3. **Uddesika-cetiya**: Shrines of indication or representation (e.g., Buddha statues, footprints, or painted images).
 
 These shrines provide the laity and monastics with physical anchors to develop faith and concentrate the mind on the virtues of the Triple Gem.
 
 ### Textual References
-* **Canonical**: *Jātaka* (Kāliṅgabodhi Jātaka, No. 479) – The narrative where Venerable Ānanda asks the Buddha about the proper objects of veneration, leading to the formal classification of the three types of cetiyas.
-* **Sutta**: *Mahāparinibbāna Sutta* (DN 16) – Mentioning various pre-Buddhist tree shrines (*cetiyas*) that the Buddha rested at, which were later repurposed for Buddhist veneration.
+* **Canonical**: *[Jātaka](/glossary/jataka/)* (Kāliṅgabodhi Jātaka, No. 479) – The narrative where Venerable Ānanda asks the Buddha about the proper objects of veneration, leading to the formal classification of the three types of cetiyas.
+* **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – Mentioning various pre-Buddhist tree shrines (*cetiyas*) that the Buddha rested at, which were later repurposed for Buddhist veneration.

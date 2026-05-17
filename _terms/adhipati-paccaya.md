@@ -16,10 +16,10 @@ commentaries: ["Patthana-atthakatha"]
 
 This condition manifests in two distinct ways:
 1. **Object Predominance** (*Ārammaṇādhipati*): When the mind takes an object that is so exceptionally desirable or powerful that the mind becomes utterly captivated and dominated by it.
-2. **Co-nascent Predominance** (*Sahajātādhipati*): This relates to the four Bases of Spiritual Power (*Iddhipādas*): Desire (*[chanda](/glossary/chanda/)*), Energy (*[viriya](/glossary/viriya/)*), Consciousness (*citta*), and Investigation (*vīmaṃsā*). Only one of these four can act as the sovereign lord during a specific cognitive process, forcing all other mental factors to align with its powerful forward momentum toward a goal.
+2. **Co-nascent Predominance** (*Sahajātādhipati*): This relates to the four Bases of Spiritual Power (*Iddhipādas*): Desire (*[chanda](/glossary/chanda/)*), Energy (*[viriya](/glossary/viriya/)*), Consciousness (*[citta](/glossary/citta-base/)*), and Investigation (*[vīmaṃsā](/glossary/vimamsa/)*). Only one of these four can act as the sovereign lord during a specific cognitive process, forcing all other mental factors to align with its powerful forward momentum toward a goal.
 
 The commentaries compare the predominant factor to a universal monarch (*Cakkavatti*) leading his ministers; wherever the king goes, the entire royal retinue must follow.
 
 ### Textual References
-* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – Mapping the exact conditions under which desire, energy, mind, or investigation take the role of predominance.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – Mapping the exact conditions under which desire, energy, mind, or investigation take the role of predominance.
 * **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – The universal monarch simile illustrating absolute sovereign control within a mind-moment.

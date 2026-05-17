@@ -19,6 +19,6 @@ The commentaries state that its characteristic is trickling or oozing (*pagghara
 Unlike the other three great elements, the water element cannot be directly felt by the body-sense (*kāyāyatana*); one can feel the pressure (wind), the temperature (fire), or the hardness (earth) of literal water, but the pure cohesive element itself is known only through mental inference (*mano-viññāṇa*). Internally, it manifests predominantly as bodily fluids: bile, phlegm, pus, blood, sweat, fat, tears, saliva, and urine.
 
 ### Textual References
-* **Sutta**: *Rāhulovāda Sutta* (MN 62) – The Buddha instructing Rāhula to meditate like water, which receives both clean and foul things without aversion.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Rūpakaṇḍa).
-* **Commentary**: *Visuddhimagga* (Chapter XI) – Defining the abstract cohesive properties of matter.
+* **[Sutta](/glossary/sutta/)**: *Rāhulovāda Sutta* (MN 62) – The Buddha instructing Rāhula to meditate like water, which receives both clean and foul things without aversion.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Rūpakaṇḍa).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XI) – Defining the abstract cohesive properties of matter.

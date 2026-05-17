@@ -21,16 +21,16 @@ The Theravāda tradition recognizes **ten distinct perfections**:
 2. *[Sīla](/glossary/sila/)* (Virtue/Morality)
 3. *[Nekkhamma](/glossary/nekkhamma/)* (Renunciation)
 4. *[Paññā](/glossary/panna/)* (Wisdom)
-5. *Viriya* (Energy/Effort)
-6. *Khanti* (Patience/Forbearance)
-7. *Sacca* (Truthfulness)
-8. *Adhiṭṭhāna* (Determination/Resolve)
-9. *Mettā* (Loving-kindness)
-10. *Upekkhā* (Equanimity)
+5. *[Viriya](/glossary/viriya/)* (Energy/Effort)
+6. *[Khanti](/glossary/khanti/)* (Patience/Forbearance)
+7. *[Sacca](/glossary/sacca/)* (Truthfulness)
+8. *[Adhiṭṭhāna](/glossary/adhitthana/)* (Determination/Resolve)
+9. *[Mettā](/glossary/metta/)* (Loving-kindness)
+10. *[Upekkhā](/glossary/upekkha/)* (Equanimity)
 
 Each perfection is practiced at three progressive intensities: *Pāramī* (ordinary, sacrificing external property), *Upapāramī* (higher, sacrificing bodily parts), and *Paramatthapāramī* (ultimate, sacrificing one's own life), culminating in a total of thirty perfections (*tiṃsa-pāramī*).
 
 ### Textual References
-* **Canonical**: *Cariyāpiṭaka* and *Apadāna* (Khuddaka Nikāya) – Narrating the past lives of the Buddha demonstrating the execution of these virtues.
-* **Textual**: *Buddhavaṃsa* – Detailing the explicit declaration of the perfections under the feet of past Buddhas.
+* **Canonical**: *[Cariyāpiṭaka](/glossary/cariyapitaka/)* and *[Apadāna](/glossary/apadana/)* (Khuddaka Nikāya) – Narrating the past lives of the Buddha demonstrating the execution of these virtues.
+* **Textual**: *[Buddhavaṃsa](/glossary/buddhavamsa/)* – Detailing the explicit declaration of the perfections under the feet of past Buddhas.
 * **Commentary**: *Cariyāpiṭaka-Aṭṭhakathā* (specifically the *Cariyāpiṭaka-Nidāna-kathā*) – The definitive, exhaustive handbook detailing the definitions, conditions, and mixtures of the perfections.

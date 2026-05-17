@@ -12,11 +12,11 @@ commentaries: ["Patthana-atthakatha"]
 **Maggapaccaya**: [m.] Path condition. Formed by *[magga](/glossary/magga/)* (path, way, road) + *paccaya* (condition).
 
 ### Orthodox Definition
-*[Magga](/glossary/magga/)-paccaya* is the eighteenth of the 24 Conditions. Similar to the Jhāna condition, the Path condition in Abhidhamma applies to both wholesome and unwholesome states. It refers to the power of specific mental factors to act as a vehicle, transporting the mind toward a definitive destination (either liberation or the lower realms).
+*[Magga](/glossary/magga/)-paccaya* is the eighteenth of the 24 Conditions. Similar to the [Jhāna](/glossary/jhana/) condition, the Path condition in [Abhidhamma](/glossary/abhidhamma/) applies to both wholesome and unwholesome states. It refers to the power of specific mental factors to act as a vehicle, transporting the mind toward a definitive destination (either liberation or the lower realms).
 
 There are twelve Path factors: eight wholesome (Right View, Right Effort, etc.) and four unwholesome (Wrong View, Wrong Effort, Wrong Mindfulness, Wrong Concentration). 
 
-When these factors arise, they do not just concentrate the mind; they establish an irreversible trajectory. Wrong View acts as a Path condition driving the mind straight to the hell realms. Right View acts as a Path condition driving the mind toward Nibbāna. The commentaries compare this condition to a ferryman carrying passengers directly to the opposite shore.
+When these factors arise, they do not just concentrate the mind; they establish an irreversible trajectory. Wrong View acts as a Path condition driving the mind straight to the hell realms. Right View acts as a Path condition driving the mind toward [Nibbāna](/glossary/nibbana/). The commentaries compare this condition to a ferryman carrying passengers directly to the opposite shore.
 
 ### Textual References
 * **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – "Path factors are related to the phenomena associated with the path... by path condition."

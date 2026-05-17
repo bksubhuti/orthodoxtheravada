@@ -19,6 +19,6 @@ The canonical formula for this contemplation is: "It is a gain for me, it is wel
 This practice explicitly strengthens the wholesome root of non-greed (*[alobha](/glossary/alobha/)*). By reflecting on the joy of giving, the mind becomes luminous and free from the restrictive, defensive posture of avarice. As with the other virtue-based recollections, it brings the mind to Access Concentration (*upacāra-samādhi*).
 
 ### Textual References
-* **Sutta**: *Mahānāma Sutta* (AN 11.12) – Included in the Buddha's meditation prescription for a busy layperson who wishes to reach the same mental purity as a forest monk.
+* **[Sutta](/glossary/sutta/)**: *Mahānāma Sutta* (AN 11.12) – Included in the Buddha's meditation prescription for a busy layperson who wishes to reach the same mental purity as a forest monk.
 * **Canonical**: *Aṅguttara Nikāya* (Chakka Nipāta) – Showing how this practice establishes a noble disciple in the worldly life without being corrupted by it.
-* **Commentary**: *Visuddhimagga* (Chapter VII) – Instructions on how to properly isolate the pure volition (*cetanā*) of giving as the object of focus.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter VII) – Instructions on how to properly isolate the pure volition (*[cetanā](/glossary/cetana/)*) of giving as the object of focus.

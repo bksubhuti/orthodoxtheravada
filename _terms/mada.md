@@ -19,9 +19,9 @@ The Buddha frequently isolated **three specific types of intoxication**:
 2. *Ārogya-mada*: Intoxication with health (forgetting that the body is entirely vulnerable to sickness).
 3. *Jīvita-mada*: Intoxication with life (forgetting that death can strike at any moment).
 
-When the mind is swollen with *mada*, it abandons urgency (*saṃvega*) and slides directly into heedlessness (*[pamāda](/glossary/pamada/)*), completely neglecting the practice of the Dhamma until disaster strikes.
+When the mind is swollen with *mada*, it abandons urgency (*saṃvega*) and slides directly into heedlessness (*[pamāda](/glossary/pamada/)*), completely neglecting the practice of the [Dhamma](/glossary/dhamma/) until disaster strikes.
 
 ### Textual References
-* **Sutta**: *Mada Sutta* (AN 3.39) – The Buddha reflecting on his own life as a prince, demonstrating how he shattered these three specific intoxications by contemplating old age, sickness, and death.
-* **Abhidhamma**: *Vibhaṅga* (Analysis of defilements).
-* **Commentary**: *Papañcasūdanī* – Tracking how vanity blinds the practitioner to the universal characteristic of suffering.
+* **[Sutta](/glossary/sutta/)**: *Mada Sutta* (AN 3.39) – The Buddha reflecting on his own life as a prince, demonstrating how he shattered these three specific intoxications by contemplating old age, sickness, and death.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Analysis of defilements).
+* **Commentary**: *[Papañcasūdanī](/glossary/papancasudani/)* – Tracking how vanity blinds the practitioner to the universal characteristic of suffering.

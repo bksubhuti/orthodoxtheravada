@@ -19,8 +19,8 @@ The compilation is systematically split into three massive programmatic "baskets
 2. **[Sutta](/glossary/sutta/) Piṭaka (The Basket of Discourses):** Five major *Nikāyas* containing thousands of targeted instructional sermons mapping out morality, concentration, and insight.
 3. **[Abhidhamma](/glossary/abhidhamma/) Piṭaka (The Basket of Ultimate Doctrine):** Seven profound books mapping out the microscopic, philosophical, and conditional realities running experiential life.
 
-For orthodox *Mahāvihāra* practitioners, the Tipiṭaka serves as the supreme scriptural authority. It is completely closed, and any interpretation or practice must be rigorously checked against its text to ensure authenticity.
+For orthodox *[Mahāvihāra](/glossary/maha-vihara/)* practitioners, the Tipiṭaka serves as the supreme scriptural authority. It is completely closed, and any interpretation or practice must be rigorously checked against its text to ensure authenticity.
 
 ### Textual References
 * **Historical**: *Cullavaggapāḷi* (Chapters XI and XII) – The ancient canonical recording of how the Tipiṭaka was chanted, verified, and sealed by the Arahats at the first councils.
-* **Textual**: *Milindapañha* – Demonstrating the unified authority of all three baskets during the post-canonical era.
+* **Textual**: *[Milindapañha](/glossary/milindapanha/)* – Demonstrating the unified authority of all three baskets during the post-canonical era.

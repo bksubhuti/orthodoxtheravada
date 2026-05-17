@@ -16,7 +16,7 @@ commentaries: ["Patthana-atthakatha"]
 
 Both conditions describe the exact same phenomenon: a preceding mind-moment ceasing and causing the immediate arising of the next mind-moment. The only difference is linguistic emphasis. While *anantara* emphasizes that there is no temporal or spatial interval between the two states, *samanantara* emphasizes the smooth, orderly, and thorough continuity of the process. 
 
-The Abhidhamma uses both terms to categorically refute any heretical views that suggest a "soul" or "pause" exists between thoughts. The transition is both gapless (*anantara*) and perfectly sequential (*samanantara*).
+The [Abhidhamma](/glossary/abhidhamma/) uses both terms to categorically refute any heretical views that suggest a "soul" or "pause" exists between thoughts. The transition is both gapless (*anantara*) and perfectly sequential (*samanantara*).
 
 ### Textual References
 * **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – The canonical phrasing for this condition mirrors the phrasing for *[Anantara-paccaya](/glossary/anantara-paccaya/)* exactly.

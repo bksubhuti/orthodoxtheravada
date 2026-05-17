@@ -23,9 +23,9 @@ The tradition identifies **seven latent tendencies**:
 6. Craving for existence (*bhavarāgānusaya*)
 7. Ignorance (*avijjānusaya*)
 
-Because they are dormant, they cannot be destroyed by morality (*sīla*) or even by deep concentration (*samādhi*). They are only permanently uprooted when struck by the lightning flash of supramundane path-wisdom (*[magga](/glossary/magga/)-ñāṇa*).
+Because they are dormant, they cannot be destroyed by morality (*[sīla](/glossary/sila/)*) or even by deep concentration (*[samādhi](/glossary/samadhi/)*). They are only permanently uprooted when struck by the lightning flash of supramundane path-wisdom (*[magga](/glossary/magga/)-ñāṇa*).
 
 ### Textual References
-* **Sutta**: *Anusaya Sutta* (SN 45.175) – Brief discourse instructing monks to cultivate the Noble Eightfold Path specifically for the uprooting of the seven latent tendencies.
-* **Abhidhamma**: *Vibhaṅga* (Anusaya-vibhaṅga).
-* **Commentary**: *Visuddhimagga* (Chapter XXII) – Detailing which specific path-moments kill which specific dormant tendencies.
+* **[Sutta](/glossary/sutta/)**: *Anusaya Sutta* (SN 45.175) – Brief discourse instructing monks to cultivate the Noble Eightfold Path specifically for the uprooting of the seven latent tendencies.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Anusaya-vibhaṅga).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Detailing which specific path-moments kill which specific dormant tendencies.

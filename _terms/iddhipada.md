@@ -12,7 +12,7 @@ commentaries: ["Visuddhimagga", "Papancasudani"]
 **Iddhipāda**: [m.] base of spiritual power; pathway to success. Formed by *iddhi* (success, psychic power, spiritual accomplishment) + *pāda* (foot, base, foundation). 
 
 ### Orthodox Definition
-The *Iddhipādas* are the **Four Bases of Spiritual Power**, constituting a core quadrant of the 37 wings to awakening. They are the primary psychological foundations required to achieve absolute success in meditation, whether one is aiming for deep absorption (*jhāna*), psychic powers (*abhiññā*), or supreme liberation (*Nibbāna*).
+The *Iddhipādas* are the **Four Bases of Spiritual Power**, constituting a core quadrant of the 37 wings to awakening. They are the primary psychological foundations required to achieve absolute success in meditation, whether one is aiming for deep absorption (*[jhāna](/glossary/jhana/)*), psychic powers (*[abhiññā](/glossary/abhinna/)*), or supreme liberation (*[Nibbāna](/glossary/nibbana/)*).
 
 The four bases are:
 1. *Chandasamādhi-padhānasaṅkhārasamannāgataṃ iddhipādaṃ*: The base of power endowed with concentration founded on **Desire/Zeal** and the formations of striving.
@@ -23,6 +23,6 @@ The four bases are:
 The commentaries note that any supreme worldly or spiritual success requires one of these four factors acting as the dominant, driving force (*adhipati*). 
 
 ### Textual References
-* **Sutta**: *Mahāparinibbāna Sutta* (DN 16) – Where the Buddha states that anyone who has perfectly developed the four iddhipādas could, if they wished, live for an entire aeon.
+* **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – Where the Buddha states that anyone who has perfectly developed the four iddhipādas could, if they wished, live for an entire aeon.
 * **Canonical**: *Samyutta Nikaya* (Iddhipāda-saṃyutta).
-* **Commentary**: *Visuddhimagga* (Chapter XII) – Detailing how these bases are utilized to generate the supernormal psychic powers.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XII) – Detailing how these bases are utilized to generate the supernormal psychic powers.

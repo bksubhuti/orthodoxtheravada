@@ -16,9 +16,9 @@ In the orthodox Theravāda tradition, *vipassanā* is the specific meditative cu
 
 It is distinct from, yet functionally paired with, *[samatha](/glossary/samatha/)* (tranquility). While *[samatha](/glossary/samatha/)* calms the mind and temporarily suppresses the five hindrances by concentrating on a single concept or sign, *vipassanā* uses that stable, purified mind to dissect ultimate mental and physical phenomena (*nāma-rūpa*) as they arise and pass away in real time. 
 
-According to the *Visuddhimagga*, its operational foundation is established by systematically progressing through the Seven Purifications (*satta-visuddhi*) and developing the successive stages of insight knowledge (*vipassanā-ñāṇa*). It is this precise mental insight—and this alone—that permanently roots out the latent defilements (*anusaya-kilesa*) and realizes *Nibbāna*.
+According to the *[Visuddhimagga](/glossary/visuddhimagga/)*, its operational foundation is established by systematically progressing through the Seven Purifications (*satta-visuddhi*) and developing the successive stages of insight knowledge (*vipassanā-ñāṇa*). It is this precise mental insight—and this alone—that permanently roots out the latent defilements (*anusaya-kilesa*) and realizes *[Nibbāna](/glossary/nibbana/)*.
 
 ### Textual References
-* **Sutta**: *Yuganaddha Sutta* (AN 4.170) – Discussing how tranquility and insight are cultivated either sequentially or in tandem to bring about liberation.
-* **Canonical**: *Paṭisambhidāmagga* (Treatise on Insight) – Exhaustive analytical mapping of the insight methods.
+* **[Sutta](/glossary/sutta/)**: *Yuganaddha Sutta* (AN 4.170) – Discussing how tranquility and insight are cultivated either sequentially or in tandem to bring about liberation.
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* (Treatise on Insight) – Exhaustive analytical mapping of the insight methods.
 * **Commentary**: *Visuddhimagga* (Part III - Wisdom, Chapters XIV to XXIII) – The definitive scriptural guide on the practice of vipassanā.

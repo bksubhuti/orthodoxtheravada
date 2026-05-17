@@ -18,10 +18,10 @@ There are four unwholesome verbal kammas:
 1. **Musāvādā** (False speech / lying).
 2. **Pisuṇāya vācāya** (Divisive/slanderous speech intended to break friendships).
 3. **Pharusāya vācāya** (Harsh, abusive, or angry speech).
-4. **Samphappalāpā** (Idle, frivolous chatter that wastes time and distracts from the Dhamma).
+4. **Samphappalāpā** (Idle, frivolous chatter that wastes time and distracts from the [Dhamma](/glossary/dhamma/)).
 
 The four wholesome verbal kammas are the active abstentions from these acts, resulting in speech that is truthful, harmonizing, gentle, and spoken at the proper time with meaning.
 
 ### Textual References
-* **Sutta**: *Abhaya Sutta* (MN 58) – The Buddha outlines the precise parameters of right speech: it must be true, beneficial, and timely, regardless of whether it is pleasant or unpleasant to hear.
+* **[Sutta](/glossary/sutta/)**: *Abhaya Sutta* (MN 58) – The Buddha outlines the precise parameters of right speech: it must be true, beneficial, and timely, regardless of whether it is pleasant or unpleasant to hear.
 * **Sutta**: *Sāleyyaka Sutta* (MN 41) – Listing the four verbal courses of action.

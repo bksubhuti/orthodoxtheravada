@@ -16,9 +16,9 @@ commentaries: ["Sammohavinodani", "Visuddhimagga"]
 
 The commentaries emphasize that dhammavicaya does not mean intellectualizing, speculative theorizing, or philosophical daydreaming about suttas. Rather, it is the direct, real-time microscopic dissection of currently arising mental and physical states (*nāma-rūpa*) to track their conditional origins and verify their intrinsic characteristics of impermanence, suffering, and non-self.
 
-The *Sammohavinodanī* outlines seven practical requirements to mature this factor, including clean physical conditions, balancing the spiritual faculties, avoiding unwise individuals, and continuously reflecting on ultimate frameworks like the aggregates and sense bases.
+The *[Sammohavinodanī](/glossary/sammohavinodani/)* outlines seven practical requirements to mature this factor, including clean physical conditions, balancing the spiritual faculties, avoiding unwise individuals, and continuously reflecting on ultimate frameworks like the aggregates and sense bases.
 
 ### Textual References
-* **Sutta**: *Āhāra Sutta* (SN 46.51) – Where the Buddha identifies wise attention (*yoniso manasikāra*) directed toward wholesome and unwholesome states as the primary fuel for feeding this enlightenment factor.
-* **Abhidhamma**: *Vibhaṅga* (Bojjhaṅgavibhaṅga section).
+* **[Sutta](/glossary/sutta/)**: *Āhāra Sutta* (SN 46.51) – Where the Buddha identifies wise attention (*[yoniso manasikāra](/glossary/yonisomanasikara/)*) directed toward wholesome and unwholesome states as the primary fuel for feeding this enlightenment factor.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Bojjhaṅgavibhaṅga section).
 * **Commentary**: *Sammohavinodanī* – Exhaustive technical mapping detailing the specific triggers that awaken the investigative faculty.

@@ -12,7 +12,7 @@ commentaries: ["Mulatika"]
 **Sammohavinodanī**: [f.] The Dispeller of Delusion. Formed by *sammoha* (delusion, bewilderment, ignorance) + *vinodanī* (dispelling, driving away).
 
 ### Orthodox Definition
-The *Sammohavinodanī* is Buddhaghosa's commentary on the *[Vibhaṅga](/glossary/vibhanga/)* (The Book of Analysis), the second book of the Abhidhamma.
+The *Sammohavinodanī* is Buddhaghosa's commentary on the *[Vibhaṅga](/glossary/vibhanga/)* (The Book of Analysis), the second book of the [Abhidhamma](/glossary/abhidhamma/).
 
 True to its name, it aims to dispel the profound delusion that causes beings to mistake the aggregates for a "self." Because the canonical *[Vibhaṅga](/glossary/vibhanga/)* provides massive structural analyses of the aggregates, sense bases, elements, Truths, and Dependent Origination, this commentary serves as the essential navigational guide. 
 

@@ -12,10 +12,10 @@ commentaries: ["Visuddhimagga"]
 **Aniccatā**: [f.] Impermanence; the state of being impermanent; dissolution. Formed by negative prefix *a* (not) + *nicca* (permanent, constant) + *tā* (suffix, -ness).
 
 ### Orthodox Definition
-*Aniccatā* is the final characteristic material phenomenon (*lakkhaṇa-rūpa*) in the Abhidhamma sequence. It refers specifically to the terminal boundary of matter: the absolute dissolution, breaking up, and vanishing of a physical phenomenon.
+*Aniccatā* is the final characteristic material phenomenon (*lakkhaṇa-rūpa*) in the [Abhidhamma](/glossary/abhidhamma/) sequence. It refers specifically to the terminal boundary of matter: the absolute dissolution, breaking up, and vanishing of a physical phenomenon.
 
-If *[Upacaya](/glossary/upacaya/)* is the birth of matter, and *[Jaratā](/glossary/jarata/)* is its aging, *Aniccatā* is its microscopic death. It is the realization that phenomena do not transition into something else; they cease entirely. The *Visuddhimagga* clarifies that *Aniccatā* is not the phenomenon itself, but the *characteristic* of its destruction. Watching this constant dissolution is the trigger for the higher stages of insight meditation, causing the mind to recoil from the terrifying instability of all formed things.
+If *[Upacaya](/glossary/upacaya/)* is the birth of matter, and *[Jaratā](/glossary/jarata/)* is its aging, *Aniccatā* is its microscopic death. It is the realization that phenomena do not transition into something else; they cease entirely. The *[Visuddhimagga](/glossary/visuddhimagga/)* clarifies that *Aniccatā* is not the phenomenon itself, but the *characteristic* of its destruction. Watching this constant dissolution is the trigger for the higher stages of insight meditation, causing the mind to recoil from the terrifying instability of all formed things.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* – Defining impermanence as the destruction and vanishing of the material aggregate.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Defining impermanence as the destruction and vanishing of the material aggregate.
 * **Commentary**: *Visuddhimagga* (Chapter XIV & XXI) – Distinguishing between the impermanent thing (*[anicca](/glossary/anicca/)-dhamma*) and the characteristic of its impermanence (*[anicca](/glossary/anicca/)-lakkhaṇa*).

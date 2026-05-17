@@ -14,10 +14,10 @@ commentaries: ["Samantapasadika"]
 ### Orthodox Definition
 The *Kaṭhina* is the major annual robe-offering festival in the Theravāda tradition. It takes place during a strict one-month window immediately following the end of the Rains Retreat (*[Vassa](/glossary/vassa/)*). 
 
-Laypeople offer raw cloth to the Saṅgha. The monks must then undergo a highly specific, time-sensitive legal procedure: they must cut, sew, and dye the cloth into a finished robe within a single day. The Saṅgha then formally bestows this "Kaṭhina robe" upon one specific monk who is deemed worthy (usually the most senior or the poorest in robes). 
+Laypeople offer raw cloth to the [Saṅgha](/glossary/sangha/). The monks must then undergo a highly specific, time-sensitive legal procedure: they must cut, sew, and dye the cloth into a finished robe within a single day. The Saṅgha then formally bestows this "Kaṭhina robe" upon one specific monk who is deemed worthy (usually the most senior or the poorest in robes). 
 
-When the Kaṭhina is successfully spread (*kaṭhina-tthāra*), it grants all the monks who spent the rains in that monastery a five-month suspension of several strict Vinaya rules regarding travel, eating, and keeping extra robes. It is considered one of the most meritorious acts a layperson can perform.
+When the Kaṭhina is successfully spread (*kaṭhina-tthāra*), it grants all the monks who spent the rains in that monastery a five-month suspension of several strict [Vinaya](/glossary/vinaya/) rules regarding travel, eating, and keeping extra robes. It is considered one of the most meritorious acts a layperson can perform.
 
 ### Textual References
-* **Vinaya**: *Mahāvagga* (Kaṭhinakkhandhaka) – The Buddha allows the Kaṭhina privileges after seeing thirty ascetic monks arriving in Sāvatthī soaked by the rain in worn-out robes.
-* **Commentary**: *Samantapāsādikā* – The extraordinarily complex legal requirements to ensure the cloth is cut, sewn, and offered without invalidating the procedure.
+* **Vinaya**: *[Mahāvagga](/glossary/mahavagga/)* (Kaṭhinakkhandhaka) – The Buddha allows the Kaṭhina privileges after seeing thirty ascetic monks arriving in Sāvatthī soaked by the rain in worn-out robes.
+* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – The extraordinarily complex legal requirements to ensure the cloth is cut, sewn, and offered without invalidating the procedure.

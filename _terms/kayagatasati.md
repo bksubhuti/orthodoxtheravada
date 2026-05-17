@@ -12,11 +12,11 @@ commentaries: ["Visuddhimagga", "Papancasudani"]
 **Kāyagatāsati**: [f.] mindfulness directed to the body. Formed by *kāya* (body) + *gata* (gone to, directed toward) + *[sati](/glossary/sati/)* (mindfulness). 
 
 ### Orthodox Definition
-*Kāyagatāsati* is an exceptionally powerful meditation subject (*kammaṭṭhāna*). While it can broadly refer to any of the bodily contemplations in the *[Satipaṭṭhāna](/glossary/satipatthana/) Sutta* (like posture or breathing), in the strict commentarial tradition of the *Visuddhimagga*, it refers specifically to the **meditation on the 32 parts of the body** (hair, nails, teeth, skin, flesh, bones, organs, etc.).
+*Kāyagatāsati* is an exceptionally powerful meditation subject (*kammaṭṭhāna*). While it can broadly refer to any of the bodily contemplations in the *[Satipaṭṭhāna](/glossary/satipatthana/) [Sutta](/glossary/sutta/)* (like posture or breathing), in the strict commentarial tradition of the *[Visuddhimagga](/glossary/visuddhimagga/)*, it refers specifically to the **meditation on the 32 parts of the body** (hair, nails, teeth, skin, flesh, bones, organs, etc.).
 
 The practitioner mentally dissects the biological frame into these repulsive, impersonal components to shatter the illusion of bodily beauty (*subha-saññā*) and physical compactness (*ghana-saññā*). 
 
-This meditation serves a dual purpose. For tranquility (*samatha*), focusing on the repulsive aspects of the parts can lead to the First [Jhāna](/glossary/jhana/). For insight (*vipassanā*), recognizing these parts as mere physical matter (*rūpa*) devoid of a soul leads to the realization of non-self (*anattā*).
+This meditation serves a dual purpose. For tranquility (*[samatha](/glossary/samatha/)*), focusing on the repulsive aspects of the parts can lead to the First [Jhāna](/glossary/jhana/). For insight (*[vipassanā](/glossary/vipassana/)*), recognizing these parts as mere physical matter (*[rūpa](/glossary/rupa/)*) devoid of a soul leads to the realization of non-self (*[anattā](/glossary/anatta/)*).
 
 ### Textual References
 * **Sutta**: *Kāyagatāsati Sutta* (MN 119) – The definitive discourse outlining the various methods of bodily mindfulness and the massive list of benefits it yields, including immunity to fear and mastery over temperature.

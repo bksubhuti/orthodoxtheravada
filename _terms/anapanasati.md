@@ -16,13 +16,13 @@ commentaries: ["Visuddhimagga", "Papancasudani"]
 
 The canonical execution is structured strictly into **four tetrads (sixteen total steps)**:
 * **The First Tetrad (Body):** Experiencing long breaths, short breaths, the entire breath body, and calming the bodily formation.
-* **The Second Tetrad (Feeling):** Experiencing rapture (*pīti*), pleasure (*sukha*), mental formations, and calming the mental formation.
+* **The Second Tetrad (Feeling):** Experiencing rapture (*[pīti](/glossary/piti/)*), pleasure (*[sukha](/glossary/sukha/)*), mental formations, and calming the mental formation.
 * **The Third Tetrad (Mind):** Experiencing the mind, gladdening the mind, concentrating the mind, and liberating the mind.
-* **The Fourth Tetrad (Dhamma):** Contemplating impermanence (*anicca*), fading away (*virāga*), cessation (*nirodha*), and relinquishment (*paṭinissagga*).
+* **The Fourth Tetrad ([Dhamma](/glossary/dhamma/)):** Contemplating impermanence (*[anicca](/glossary/anicca/)*), fading away (*virāga*), cessation (*[nirodha](/glossary/nirodha/)*), and relinquishment (*paṭinissagga*).
 
-The *Visuddhimagga* details the exact technical stages of development at the physical touchpoint (*nasikagga* or *oṭṭhabedha*): counting (*gaṇanā*), following (*anubandhanā*), touching (*phusanā*), fixing (*ṭhapana*), and moving into the counterpart sign (*paṭibhāganimitta*).
+The *[Visuddhimagga](/glossary/visuddhimagga/)* details the exact technical stages of development at the physical touchpoint (*nasikagga* or *oṭṭhabedha*): counting (*gaṇanā*), following (*anubandhanā*), touching (*phusanā*), fixing (*ṭhapana*), and moving into the counterpart sign (*[paṭibhāganimitta](/glossary/patibhaganimitta/)*).
 
 ### Textual References
-* **Sutta**: *Ānāpānasati Sutta* (MN 118) – The definitive structural discourse detailing the sixteen progressive steps of the meditation.
+* **[Sutta](/glossary/sutta/)**: *Ānāpānasati Sutta* (MN 118) – The definitive structural discourse detailing the sixteen progressive steps of the meditation.
 * **Canonical**: *Samyutta Nikaya* (Ānāpāna-saṃyutta) – Doctrinal framework for practicing breathing awareness.
 * **Commentary**: *Visuddhimagga* (Chapter VIII) – The immense, highly specific manual managing the technical execution of breath focus.

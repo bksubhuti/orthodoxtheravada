@@ -19,5 +19,5 @@ Because the mind can only process one cognitive event at a time, a preceding min
 The commentaries use the simile of a flame passing from one candle to another, or light replacing darkness. The darkness conditions the manifestation of the light precisely by becoming absent. The absence of the old is the absolute requirement for the arising of the new.
 
 ### Textual References
-* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – "Consciousness and mental factors that have just ceased are related to the present consciousness and mental factors by absence condition."
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – "Consciousness and mental factors that have just ceased are related to the present consciousness and mental factors by absence condition."
 * **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – Explaining that absence is not a "nothingness," but a highly active causal opening.

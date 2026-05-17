@@ -17,5 +17,5 @@ Having formed the intense desire for deliverance (*[muñcitukāmyatāñāṇa](/
 In this stage, the practitioner returns to contemplating the formations with exceptional rigor, applying the Three Characteristics (impermanence, suffering, non-self) with sharper, more microscopic intensity. This re-observation acts as the final polishing of the insight process, systematically unfastening the remaining subtle grips the mind has on reality. It is the tactical effort required to propel the mind toward total equanimity.
 
 ### Textual References
-* **Canonical**: *Paṭisambhidāmagga* – The detailed methodology of reflecting on phenomena as alien, void, empty, and ownerless.
-* **Commentary**: *Visuddhimagga* (Chapter XXI) – Using the simile of a man who accidentally grabs a poisonous snake thinking it is a fish, realizes his error, and methodically loosens his grip to throw it away.
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* – The detailed methodology of reflecting on phenomena as alien, void, empty, and ownerless.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXI) – Using the simile of a man who accidentally grabs a poisonous snake thinking it is a fish, realizes his error, and methodically loosens his grip to throw it away.

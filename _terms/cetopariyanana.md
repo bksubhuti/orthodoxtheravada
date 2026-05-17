@@ -16,9 +16,9 @@ commentaries: ["Visuddhimagga"]
 
 The canonical formula specifies exactly what the telepath tracks: they know a mind with lust as a mind with lust, a mind without lust as a mind without lust, a mind with hate as a mind with hate, a scattered mind as scattered, a concentrated mind as concentrated, and an unliberated mind as unliberated.
 
-To develop this, the *Visuddhimagga* instructs the master to first develop the Divine Eye (*dibbacakkhu*) to observe the physical color of the blood in another person's heart. By tracking how the heart-blood changes color based on emotion (e.g., turning black with anger, or clear like a gem with joy), the meditator trains their mind to bypass the physical medium and directly read the mental formations (*saṅkhāra*) of the other being.
+To develop this, the *[Visuddhimagga](/glossary/visuddhimagga/)* instructs the master to first develop the Divine Eye (*[dibbacakkhu](/glossary/dibbacakkhu/)*) to observe the physical color of the blood in another person's heart. By tracking how the heart-blood changes color based on emotion (e.g., turning black with anger, or clear like a gem with joy), the meditator trains their mind to bypass the physical medium and directly read the mental formations (*[saṅkhāra](/glossary/sankhara/)*) of the other being.
 
 ### Textual References
-* **Sutta**: *Satipaṭṭhāna Sutta* (MN 10) – The foundational mapping of mental states that is identical to the objects tracked by telepathy.
+* **[Sutta](/glossary/sutta/)**: *[Satipaṭṭhāna](/glossary/satipatthana/) Sutta* (MN 10) – The foundational mapping of mental states that is identical to the objects tracked by telepathy.
 * **Canonical**: *Sāmaññaphala Sutta* (DN 2) – The standard description of reading another's mind just as one recognizes their own face in a clear mirror.
 * **Commentary**: *Visuddhimagga* (Chapter XIII) – The biological and psychological mechanics of linking heart-blood coloration to emotional states.

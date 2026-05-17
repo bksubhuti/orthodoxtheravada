@@ -16,9 +16,9 @@ commentaries: ["Papancasudani"]
 
 The commentaries describe *kodha* as acting like a flash fire. It instantly destroys mental composure, causes the blood to boil, and triggers harsh speech or physical violence. The Buddha taught that a person afflicted by *kodha* destroys their own beauty, ruins their wealth, loses their friends, and grants their enemies exactly what they desire—the practitioner's own misery.
 
-It is remedied by the immediate application of patience (*khanti*) and the systematic cultivation of loving-kindness (*mettā*).
+It is remedied by the immediate application of patience (*[khanti](/glossary/khanti/)*) and the systematic cultivation of loving-kindness (*[mettā](/glossary/metta/)*).
 
 ### Textual References
-* **Sutta**: *Kodhana Sutta* (AN 7.60) – The definitive discourse detailing the seven devastating things that anger does to a person, pleasing their enemies.
-* **Canonical**: *Dhammapada* (Kodha Vagga - Chapter 17) – "Let one conquer anger by non-anger..."
-* **Commentary**: *Papañcasūdanī* – Differentiating the initial flare of *kodha* from the sustained burning of *[upanāha](/glossary/upanaha/)*.
+* **[Sutta](/glossary/sutta/)**: *Kodhana Sutta* (AN 7.60) – The definitive discourse detailing the seven devastating things that anger does to a person, pleasing their enemies.
+* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (Kodha Vagga - Chapter 17) – "Let one conquer anger by non-anger..."
+* **Commentary**: *[Papañcasūdanī](/glossary/papancasudani/)* – Differentiating the initial flare of *kodha* from the sustained burning of *[upanāha](/glossary/upanaha/)*.

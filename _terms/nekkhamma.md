@@ -19,6 +19,6 @@ Doctrinally, nekkhamma is not merely the physical act of shaving the head and do
 The commentaries explain that the mind naturally seeks the containment of sensory pleasures; *nekkhamma* is the mature recognition of the inherent danger (*ādīnava*) in pleasures and the corresponding beauty of escape and mental solitude (*paviveka*).
 
 ### Textual References
-* **Sutta**: *Nekkhamma Sutta* (Itivuttaka 74) – Praising the sequence of moving from sensual forms to immaterial states, culminating in the complete cessation of formations.
-* **Canonical**: *Cariyāpiṭaka* (Nekkhamma-[pāramī](/glossary/parami/) narratives).
-* **Commentary**: *Atthasālinī* – Analyzing renunciation as the direct psychological antidote that dissolves the hindrance of sensual desire (*[kāmacchanda](/glossary/kamachanda/)*).
+* **[Sutta](/glossary/sutta/)**: *Nekkhamma Sutta* ([Itivuttaka](/glossary/itivuttaka/) 74) – Praising the sequence of moving from sensual forms to immaterial states, culminating in the complete cessation of formations.
+* **Canonical**: *[Cariyāpiṭaka](/glossary/cariyapitaka/)* (Nekkhamma-[pāramī](/glossary/parami/) narratives).
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Analyzing renunciation as the direct psychological antidote that dissolves the hindrance of sensual desire (*[kāmacchanda](/glossary/kamachanda/)*).

@@ -19,5 +19,5 @@ Before a female monastic can receive higher ordination, she must undergo a stric
 If she breaks even one of these six rules during the two years, her probation is entirely voided, and she must begin the two-year training period all over again. Historically, this rigorous period was instituted partly to ensure that a candidate was not unknowingly pregnant prior to receiving higher ordination.
 
 ### Textual References
-* **Vinaya**: *[Bhikkhunī](/glossary/bhikkhuni/)-vibhaṅga* (Pācittiya rules regarding ordination) – The formal legal decrees establishing the two-year training requirement.
-* **Commentary**: *Samantapāsādikā* – Explaining the strict continuity required for the training and how the Saṅgha grants the status.
+* **[Vinaya](/glossary/vinaya/)**: *[Bhikkhunī](/glossary/bhikkhuni/)-vibhaṅga* ([Pācittiya](/glossary/pacittiya/) rules regarding ordination) – The formal legal decrees establishing the two-year training requirement.
+* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Explaining the strict continuity required for the training and how the [Saṅgha](/glossary/sangha/) grants the status.

@@ -20,9 +20,9 @@ The four yokes are:
 3. *Diṭṭhiyoga*: The yoke of views.
 4. *Avijjāyoga*: The yoke of ignorance.
 
-While the "flood" (*[ogha](/glossary/ogha/)*) sweeps a person away violently, the "yoke" (*yoga*) is what harnesses a creature to the heavy wheel of saṃsāra, forcing them to drag the burden of the five aggregates through life after life. A person who completely shatters these four harnesses through insight is given the supreme epithet *Yogakkhema* (One who has reached absolute security from bondage).
+While the "flood" (*[ogha](/glossary/ogha/)*) sweeps a person away violently, the "yoke" (*yoga*) is what harnesses a creature to the heavy wheel of [saṃsāra](/glossary/samsara/), forcing them to drag the burden of the five aggregates through life after life. A person who completely shatters these four harnesses through insight is given the supreme epithet *Yogakkhema* (One who has reached absolute security from bondage).
 
 ### Textual References
-* **Sutta**: *Yoga Sutta* (AN 4.10) – Detailing how the uninstructed worldling is bound by these four yokes, while the noble disciple dismantles them to attain supreme security.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Yoga-gocchaka section).
-* **Commentary**: *Atthasālinī* – Explaining the semantic distinction between floods (sweeping) and yokes (harnessing).
+* **[Sutta](/glossary/sutta/)**: *Yoga Sutta* (AN 4.10) – Detailing how the uninstructed worldling is bound by these four yokes, while the noble disciple dismantles them to attain supreme security.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Yoga-gocchaka section).
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Explaining the semantic distinction between floods (sweeping) and yokes (harnessing).

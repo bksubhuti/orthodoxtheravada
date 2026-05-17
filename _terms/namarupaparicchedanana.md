@@ -15,11 +15,11 @@ commentaries: ["Visuddhimagga"]
 *Nāmarūpaparicchedañāṇa* is the absolute foundational step in the sequence of insight knowledges (*[vipassanāñāṇa](/glossary/vipassananana/)*). It constitutes the "Purification of View" (*[diṭṭhi](/glossary/ditthi/)-visuddhi*).
 
 Before a practitioner can observe impermanence, they must first identify exactly what is changing. This knowledge marks the moment the meditator successfully slices their experience into two distinct, impersonal streams: 
-1. Physical matter (*Rūpa*), which is completely blind and simply functions as the object or base.
+1. Physical matter (*[Rūpa](/glossary/rupa/)*), which is completely blind and simply functions as the object or base.
 2. Mentality (*Nāma*), which is the active cognitive process that bends toward and knows the object.
 
-The *Visuddhimagga* uses the simile of a blind man (Matter) who carries a crippled man (Mind) on his shoulders. The crippled man can see but cannot walk; the blind man can walk but cannot see. Only together do they move. By seeing human existence as just these two impersonal elements supporting each other, the practitioner temporarily shatters Identity View (*sakkāya-[diṭṭhi](/glossary/ditthi/)*)—the illusion of a "person," "man," or "soul"—establishing the proper baseline for true insight.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* uses the simile of a blind man (Matter) who carries a crippled man (Mind) on his shoulders. The crippled man can see but cannot walk; the blind man can walk but cannot see. Only together do they move. By seeing human existence as just these two impersonal elements supporting each other, the practitioner temporarily shatters Identity View (*sakkāya-[diṭṭhi](/glossary/ditthi/)*)—the illusion of a "person," "man," or "soul"—establishing the proper baseline for true insight.
 
 ### Textual References
-* **Canonical**: *Paṭisambhidāmagga* – The technical dissection of separating the object from the consciousness knowing it.
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* – The technical dissection of separating the object from the consciousness knowing it.
 * **Commentary**: *Visuddhimagga* (Chapter XVIII: *Diṭṭhivisuddhi-niddesa*) – The definitive meditation manual on systematically defining the boundaries between mental factors and physical elements to cure the hallucination of a self.

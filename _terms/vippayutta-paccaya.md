@@ -19,5 +19,5 @@ Consciousness cannot "mix" with the physical heart-base or the physical eye in t
 The commentaries compare this to mixing water and oil, or a blind man carrying a crippled man. The blind man (the body) and the crippled man with eyes (the mind) work together to travel the road, but they never merge into a single entity.
 
 ### Textual References
-* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – "Material phenomena are related to immaterial phenomena by dissociation condition. Immaterial phenomena are related to material phenomena by dissociation condition."
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – "Material phenomena are related to immaterial phenomena by dissociation condition. Immaterial phenomena are related to material phenomena by dissociation condition."
 * **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – The brilliant simile of water and oil remaining distinct despite occupying the same vessel.

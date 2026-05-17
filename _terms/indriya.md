@@ -19,9 +19,9 @@ commentaries: ["Visuddhimagga", "Sammohavinodani"]
 4. *[Samādhi](/glossary/samadhi/)* (Concentration)
 5. *[Paññā](/glossary/panna/)* (Wisdom)
 
-The *Visuddhimagga* stresses that these faculties must be perfectly balanced (*indriya-samatta*). If faith is too strong and wisdom is weak, it leads to blind devotion. If wisdom is too strong and faith is weak, it leads to cynical intellectualism. If energy outpaces concentration, the mind scatters (*uddhacca*). If concentration outpaces energy, the mind falls asleep (*thīna-middha*). *[Sati](/glossary/sati/)* (mindfulness) is the only faculty that never needs balancing, as it serves as the absolute overseer that regulates the other four.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* stresses that these faculties must be perfectly balanced (*indriya-samatta*). If faith is too strong and wisdom is weak, it leads to blind devotion. If wisdom is too strong and faith is weak, it leads to cynical intellectualism. If energy outpaces concentration, the mind scatters (*[uddhacca](/glossary/uddhacca/)*). If concentration outpaces energy, the mind falls asleep (*[thīna-middha](/glossary/thina-middha/)*). *[Sati](/glossary/sati/)* (mindfulness) is the only faculty that never needs balancing, as it serves as the absolute overseer that regulates the other four.
 
 ### Textual References
-* **Sutta**: *Indriya-saṃyutta* (SN 48) – A massive collection of discourses detailing the arising, balancing, and perfection of the controlling faculties.
-* **Abhidhamma**: *Vibhaṅga* (Indriyavibhaṅga chapter).
+* **[Sutta](/glossary/sutta/)**: *Indriya-saṃyutta* (SN 48) – A massive collection of discourses detailing the arising, balancing, and perfection of the controlling faculties.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Indriyavibhaṅga chapter).
 * **Commentary**: *Visuddhimagga* (Chapter IV) – The definitive practical guide on how to balance the faculties during concentration meditation.

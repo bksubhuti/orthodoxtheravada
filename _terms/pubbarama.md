@@ -19,6 +19,6 @@ commentaries: ["Dhammapadatthakatha"]
 The Buddha alternated his time between [Jetavana](/glossary/jeta-vana/) and Pubbārāma. He spent six rainy seasons here. The texts often note the Buddha residing at Pubbārāma when delivering teachings specifically focused on the duties of lay followers or advanced practices for nuns.
 
 ### Textual References
-* **Sutta**: *Aggañña Sutta* (DN 27) – Delivered at the mansion of Migāra's mother in the Eastern Park, dealing with the origins of caste and society.
-* **Sutta**: *Uposatha Sutta* (AN 3.70) – Delivered to [Visākhā](/glossary/visakha/) herself while she was residing at her donated monastery.
-* **Commentary**: *Dhammapadaṭṭhakathā* – The story of the sale of [Visākhā](/glossary/visakha/)'s jewelry to finance the construction of the grand mansion.
+* **[Sutta](/glossary/sutta/)**: *Aggañña Sutta* (DN 27) – Delivered at the mansion of Migāra's mother in the Eastern Park, dealing with the origins of caste and society.
+* **Sutta**: *[Uposatha](/glossary/uposatha/) Sutta* (AN 3.70) – Delivered to [Visākhā](/glossary/visakha/) herself while she was residing at her donated monastery.
+* **Commentary**: *[Dhammapadaṭṭhakathā](/glossary/dhammapadatthakatha/)* – The story of the sale of [Visākhā](/glossary/visakha/)'s jewelry to finance the construction of the grand mansion.

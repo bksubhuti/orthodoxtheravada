@@ -15,14 +15,14 @@ commentaries: ["Visuddhimagga", "Sammohavinodani"]
 *Avijjā* is the absolute structural cornerstone of unwholesome reality. It is the first link in the twelve-fold chain of Dependent Origination (*avijjā-paccayā saṅkhārā*) and is doctrinally identical to the unwholesome mental factor of delusion (*[moha](/glossary/moha/)-cetasika*).
 
 The orthodox tradition defines avijjā not as mere general ignorance of worldly facts or academic data, but specifically as non-knowledge regarding four structural axes:
-1. Non-knowledge of suffering (*dukkha*).
-2. Non-knowledge of its origin (*samudaya*).
-3. Non-knowledge of its cessation (*nirodha*).
-4. Non-knowledge of the path (*magga*).
+1. Non-knowledge of suffering (*[dukkha](/glossary/dukkha/)*).
+2. Non-knowledge of its origin (*[samudaya](/glossary/samudaya/)*).
+3. Non-knowledge of its cessation (*[nirodha](/glossary/nirodha/)*).
+4. Non-knowledge of the path (*[magga](/glossary/magga/)*).
 
-The commentaries explain that avijjā acts like a thick psychological cataract, masking the true characteristics of impermanence, suffering, and non-self, while projecting false illusions of permanence, pleasure, and substantial identity. It is the ultimate root of all karmic drifting in saṃsāra.
+The commentaries explain that avijjā acts like a thick psychological cataract, masking the true characteristics of impermanence, suffering, and non-self, while projecting false illusions of permanence, pleasure, and substantial identity. It is the ultimate root of all karmic drifting in [saṃsāra](/glossary/samsara/).
 
 ### Textual References
-* **Sutta**: *Avijjā Sutta* (SN 45.1) – Identifying ignorance as the forerunner of all unwholesome states, accompanied by shamelessness and recklessness.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Definition of [Moha](/glossary/moha/)).
-* **Commentary**: *Sammohavinodanī* (Commentary on the Vibhaṅga) – Exhaustive analysis of how ignorance structures wrong perspectives.
+* **[Sutta](/glossary/sutta/)**: *Avijjā Sutta* (SN 45.1) – Identifying ignorance as the forerunner of all unwholesome states, accompanied by shamelessness and recklessness.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Definition of [Moha](/glossary/moha/)).
+* **Commentary**: *[Sammohavinodanī](/glossary/sammohavinodani/)* (Commentary on the [Vibhaṅga](/glossary/vibhanga/)) – Exhaustive analysis of how ignorance structures wrong perspectives.

@@ -14,9 +14,9 @@ commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ### Orthodox Definition
 *Anulomañāṇa* is the final fleeting phase of mundane insight. As equanimity towards formations (*[saṅkhārupekkhāñāṇa](/glossary/sankharupekkhanana/)*) peaks, the cognitive process (*citta-vīthi*) shifts into a rapid, hyper-focused sequence that directly precedes awakening. 
 
-This knowledge consists of two or three mind-moments (termed preparation, access, and conformity) that "conform" perfectly in two directions: they conform to the previous eight insight knowledges that analyzed the conditioned characteristics, and they conform (adapt) to the imminent realization of the unconditioned (Nibbāna). It is the psychological bridge where the mind aligns its mundane truth-finding machinery perfectly with the supramundane reality it is about to strike.
+This knowledge consists of two or three mind-moments (termed preparation, access, and conformity) that "conform" perfectly in two directions: they conform to the previous eight insight knowledges that analyzed the conditioned characteristics, and they conform (adapt) to the imminent realization of the unconditioned ([Nibbāna](/glossary/nibbana/)). It is the psychological bridge where the mind aligns its mundane truth-finding machinery perfectly with the supramundane reality it is about to strike.
 
 ### Textual References
-* **Abhidhamma**: *Paṭṭhāna* – Mapping the exact conditionality of this rapid cognitive sequence.
-* **Canonical**: *Paṭisambhidāmagga* – Detailing how conformity acts as the gateway to the change-of-lineage.
-* **Commentary**: *Visuddhimagga* (Chapter XXI & XXII) – The culmination of the "Purification by Knowledge and Vision of the Way."
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – Mapping the exact conditionality of this rapid cognitive sequence.
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* – Detailing how conformity acts as the gateway to the change-of-lineage.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXI & XXII) – The culmination of the "Purification by Knowledge and Vision of the Way."

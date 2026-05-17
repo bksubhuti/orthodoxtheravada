@@ -17,12 +17,12 @@ commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 Taking [Nibbāna](/glossary/nibbana/) as its direct object, the Path consciousness simultaneously performs four functions in a single flash:
 1. It fully comprehends Suffering (*pariññā*).
 2. It abandons Craving/Origin (*pahāna*).
-3. It realizes Cessation (*sacchikiriya*).
-4. It develops the Noble Eightfold Path (*bhāvanā*).
+3. It realizes Cessation (*[sacchikiriya](/glossary/sacchikiriya/)*).
+4. It develops the Noble Eightfold Path (*[bhāvanā](/glossary/bhavana/)*).
 
-Crucially, it acts like a thunderbolt that permanently destroys specific fetters (*saṃyojana*) relative to the stage of awakening (Stream-entry, Once-Return, Non-Return, or Arahatship). Those defilements can never arise again in the mind stream.
+Crucially, it acts like a thunderbolt that permanently destroys specific fetters (*[saṃyojana](/glossary/samyojana/)*) relative to the stage of awakening (Stream-entry, Once-Return, Non-Return, or Arahatship). Those defilements can never arise again in the mind stream.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* – The precise classification of the supramundane path states and their associated mental factors.
-* **Canonical**: *Paṭisambhidāmagga* – The structural proof of the simultaneous realization of the Four Noble Truths.
-* **Commentary**: *Visuddhimagga* (Chapter XXII) – Detailing the "Purification by Knowledge and Vision," the ultimate goal of the meditation system.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – The precise classification of the supramundane path states and their associated mental factors.
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* – The structural proof of the simultaneous realization of the Four Noble Truths.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Detailing the "Purification by Knowledge and Vision," the ultimate goal of the meditation system.

@@ -23,6 +23,6 @@ Internally, the Buddha identified four primary manifestations of the fire elemen
 4. The digestive fire that burns up, consumes, and metabolizes food and drink.
 
 ### Textual References
-* **Sutta**: *Dhātuvibhaṅga Sutta* (MN 140) – Explicitly defining the internal fire element primarily through the mechanism of biological digestion and bodily warmth.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Classification of the tangible base).
-* **Commentary**: *Visuddhimagga* (Chapter XI) – Clarifying that both physical heat and physical cold are expressions of this single thermal element.
+* **[Sutta](/glossary/sutta/)**: *Dhātuvibhaṅga Sutta* (MN 140) – Explicitly defining the internal fire element primarily through the mechanism of biological digestion and bodily warmth.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Classification of the tangible base).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XI) – Clarifying that both physical heat and physical cold are expressions of this single thermal element.

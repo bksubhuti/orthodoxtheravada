@@ -16,9 +16,9 @@ commentaries: ["Papancasudani"]
 
 While *[kodha](/glossary/kodha/)* is the initial explosion of wrath, *upanāha* is the deliberate tying of that anger into a permanent knot. A person afflicted by this defilement constantly replays past wrongs in their mind: "He insulted me, he hit me, he defeated me, he robbed me." By holding onto these grudges, the practitioner ensures their own continuous suffering and locks themselves in karmic feuds that span across multiple lifetimes.
 
-The *Dhammapada* states explicitly that those who harbor *upanāha* can never pacify their hatred. It is abandoned through wise reflection on the law of kamma and the cultivation of forgiveness.
+The *[Dhammapada](/glossary/dhammapada/)* states explicitly that those who harbor *upanāha* can never pacify their hatred. It is abandoned through wise reflection on the law of [kamma](/glossary/kamma/) and the cultivation of forgiveness.
 
 ### Textual References
-* **Canonical**: *Dhammapada* (Yamaka Vagga, v. 3-4) – "He abused me, he struck me... in those who harbor such thoughts, hatred is never appeased."
-* **Sutta**: *Vatthūpama Sutta* (MN 7) – Listed immediately after anger as a stain requiring deep purification.
-* **Commentary**: *Papañcasūdanī* – Analyzing the semantic "knotting" mechanism that turns a momentary flash of rage into a chronic psychological poison.
+* **Canonical**: *Dhammapada* ([Yamaka](/glossary/yamaka/) Vagga, v. 3-4) – "He abused me, he struck me... in those who harbor such thoughts, hatred is never appeased."
+* **[Sutta](/glossary/sutta/)**: *Vatthūpama Sutta* (MN 7) – Listed immediately after anger as a stain requiring deep purification.
+* **Commentary**: *[Papañcasūdanī](/glossary/papancasudani/)* – Analyzing the semantic "knotting" mechanism that turns a momentary flash of rage into a chronic psychological poison.

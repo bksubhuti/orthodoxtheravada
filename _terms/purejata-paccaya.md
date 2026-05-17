@@ -14,7 +14,7 @@ commentaries: ["Patthana-atthakatha"]
 ### Orthodox Definition
 *Purejāta-paccaya* is the tenth of the 24 Conditions. It describes a situation where a material phenomenon arises *before* a mental phenomenon, and by persisting in existence, conditions that subsequent mental phenomenon.
 
-In Abhidhamma physics, physical matter (*rūpa*) lasts 17 times longer than a single mind-moment (*citta*). Therefore, the physical eye-base and the physical visible object must arise *before* the eye-consciousness can strike them. Because the eye and the object are already born and waiting, they serve as the *Purejāta-paccaya* for the seeing consciousness that arises slightly later.
+In [Abhidhamma](/glossary/abhidhamma/) physics, physical matter (*[rūpa](/glossary/rupa/)*) lasts 17 times longer than a single mind-moment (*[citta](/glossary/citta-base/)*). Therefore, the physical eye-base and the physical visible object must arise *before* the eye-consciousness can strike them. Because the eye and the object are already born and waiting, they serve as the *Purejāta-paccaya* for the seeing consciousness that arises slightly later.
 
 The commentaries use the simile of the sun and the moon. The sun and moon arise in the world long before human beings are born, yet their pre-existing light provides the condition for humans to see and live. 
 

@@ -14,11 +14,11 @@ commentaries: ["Visuddhimagga"]
 ### Orthodox Definition
 *Dibbacakkhu* is the fifth of the six supernormal knowledges (*[abhiññā](/glossary/abhinna/)*). It was the second ultimate knowledge (*tevijjā*) attained by the Buddha during the middle watch of the night of his enlightenment.
 
-With this purified vision, the master observes other living beings passing away and being reborn according to their [kamma](/glossary/kamma/). The standard formula states: "He understands how beings pass on according to their actions... seeing the inferior and superior, the beautiful and ugly, the fortunate and unfortunate." He sees beings who engaged in evil conduct falling into hell (*niraya*), and beings who engaged in good conduct rising into heavenly worlds (*[sugati](/glossary/sugati/)*).
+With this purified vision, the master observes other living beings passing away and being reborn according to their [kamma](/glossary/kamma/). The standard formula states: "He understands how beings pass on according to their actions... seeing the inferior and superior, the beautiful and ugly, the fortunate and unfortunate." He sees beings who engaged in evil conduct falling into hell (*[niraya](/glossary/niraya/)*), and beings who engaged in good conduct rising into heavenly worlds (*[sugati](/glossary/sugati/)*).
 
-The *Visuddhimagga* notes that this power is developed specifically by mastering the Light Kasiṇa (*āloka-kasiṇa*). The meditator uses the fourth jhāna to generate a psychic light that illuminates realms invisible to the biological eye, directly validating the moral physics of the universe.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* notes that this power is developed specifically by mastering the Light Kasiṇa (*āloka-kasiṇa*). The meditator uses the fourth [jhāna](/glossary/jhana/) to generate a psychic light that illuminates realms invisible to the biological eye, directly validating the moral physics of the universe.
 
 ### Textual References
-* **Sutta**: *Bhayabherava Sutta* (MN 4) – The Buddha observing the karmic mechanisms of the cosmos on the night of awakening.
+* **[Sutta](/glossary/sutta/)**: *Bhayabherava Sutta* (MN 4) – The Buddha observing the karmic mechanisms of the cosmos on the night of awakening.
 * **Canonical**: *Sāmaññaphala Sutta* (DN 2) – Comparing the divine eye to a man standing on a balcony watching people exit houses and walk down the street.
 * **Commentary**: *Visuddhimagga* (Chapter XIII) – Technical instructions on manipulating the Light Kasiṇa to piece through solid matter and observe lower and higher planes.

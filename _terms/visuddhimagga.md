@@ -12,14 +12,14 @@ commentaries: ["Visuddhimagga-Mahatika"]
 **Visuddhimagga**: [m.] The Path of Purification. Formed by *visuddhi* (purification/Nibbāna) + *magga* (path/way). Signifies the comprehensive blueprint detailing how to systematically purify the mind to achieve liberation.
 
 ### Orthodox Definition
-The *Visuddhimagga* is the absolute crown jewel of Theravāda non-canonical literature. Authored in the 5th century CE by the supreme commentator **Ācariya Buddhaghosa** at the *Mahāvihāra* in Anuradhapura, Sri Lanka, it serves as an encyclopedic, systematic manual of doctrine and meditation practice.
+The *Visuddhimagga* is the absolute crown jewel of Theravāda non-canonical literature. Authored in the 5th century CE by the supreme commentator **Ācariya Buddhaghosa** at the *[Mahāvihāra](/glossary/maha-vihara/)* in Anuradhapura, Sri Lanka, it serves as an encyclopedic, systematic manual of doctrine and meditation practice.
 
 The book is structurally arranged around a single canonical stanza from the *Saṃyutta Nikāya*: *"Sīle patiṭṭhāya naro sappañño..."* (A man established in virtue, wise, developing concentration and wisdom...). 
 
 Based on this, it is split into **three massive programmatic sections spanning 23 chapters**:
 * **Part I: Virtue (*[Sīla](/glossary/sila/)* - Chapters 1-2):** Dissecting monastic and lay moral codes and ascetic practices (*dhutaṅga*).
-* **Part II: Concentration (*[Samādhi](/glossary/samadhi/)* - Chapters 3-11):** Delivering exhaustive instructions on the forty meditation objects to enter *jhāna*.
-* **Part III: Wisdom (*[Paññā](/glossary/panna/)* - Chapters 12-23):** Providing the definitive technical mapping of the Abhidhamma aggregates, links, and the gradual stages of insight knowledge (*vipassanā-ñāṇa*).
+* **Part II: Concentration (*[Samādhi](/glossary/samadhi/)* - Chapters 3-11):** Delivering exhaustive instructions on the forty meditation objects to enter *[jhāna](/glossary/jhana/)*.
+* **Part III: Wisdom (*[Paññā](/glossary/panna/)* - Chapters 12-23):** Providing the definitive technical mapping of the [Abhidhamma](/glossary/abhidhamma/) aggregates, links, and the gradual stages of insight knowledge (*vipassanā-ñāṇa*).
 
 For the orthodox tradition, the *Visuddhimagga* represents the ultimate interpretive standard for the [Tipiṭaka](/glossary/tipitaka/).
 

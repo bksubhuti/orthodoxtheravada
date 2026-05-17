@@ -14,7 +14,7 @@ commentaries: []
 ### Orthodox Definition
 The *Dhātugabbha* is the hidden, central, and most sacred architectural core of a Buddhist *[Thūpa](/glossary/thupa/)*. 
 
-When a stupa is constructed, it is not solid all the way through. A secure, sealed inner chamber is built specifically to enshrine the corporeal relics (*dhātu*) of the Buddha or an Arahat. Surrounding the relics within this "womb" are typically massive hoards of precious gems, gold, silver, statues, and sacred texts offered by kings and devotees. 
+When a stupa is constructed, it is not solid all the way through. A secure, sealed inner chamber is built specifically to enshrine the corporeal relics (*[dhātu](/glossary/dhatu/)*) of the Buddha or an [Arahat](/glossary/arahat/). Surrounding the relics within this "womb" are typically massive hoards of precious gems, gold, silver, statues, and sacred texts offered by kings and devotees. 
 
 Once the relics are enshrined and the stupa is completed, the *Dhātugabbha* is permanently sealed, never meant to be opened or viewed by human eyes again. Its unseen presence acts as the spiritual battery powering the sanctity of the monument above ground.
 

@@ -23,6 +23,6 @@ The commentaries explain this term in several profound ways:
 When unenlightened people argued about what happens to a "Tathāgata" after death (does he exist, not exist, etc.), the Buddha explained that the term cannot be pinned down even in life, because a Buddha is untraceable, deep, and immeasurable like the ocean, having completely abandoned the aggregates that define conventional existence.
 
 ### Textual References
-* **Sutta**: *Anurādha Sutta* (SN 44.2) – The Buddha deconstructs the concept of a "Tathāgata" existing or not existing after death, pointing out that even in the present life, the Tathāgata cannot be identified as the aggregates.
-* **Sutta**: *Pāsādika Sutta* (DN 29) – The Buddha declares that whatever he speaks between his enlightenment and his parinibbāna is entirely true, hence he is the Tathāgata.
-* **Commentary**: *Sumaṅgalavilāsinī* – Providing eight distinct etymological definitions for the supreme title.
+* **[Sutta](/glossary/sutta/)**: *Anurādha Sutta* (SN 44.2) – The Buddha deconstructs the concept of a "Tathāgata" existing or not existing after death, pointing out that even in the present life, the Tathāgata cannot be identified as the aggregates.
+* **Sutta**: *Pāsādika Sutta* (DN 29) – The Buddha declares that whatever he speaks between his enlightenment and his [parinibbāna](/glossary/parinibbana/) is entirely true, hence he is the Tathāgata.
+* **Commentary**: *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* – Providing eight distinct etymological definitions for the supreme title.

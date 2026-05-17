@@ -12,16 +12,16 @@ commentaries: ["Visuddhimagga"]
 **Sīla**: [nt.] virtue; morality; ethical conduct; discipline. Derived either from root *sīl* (to hold, coordinate, stabilize) or from *sītala* (coolness), because pure moral conduct cools down the burning fires of bodily and verbal defilements.
 
 ### Orthodox Definition
-*Sīla* represents the foundational baseline of the entire Theravāda Buddhist path. It consists of the deliberate volitional restraint (*cetana*) that prevents unwholesome states from manifesting as harmful bodily actions or verbal speech. Doctrinally, it encompasses the mental factors of abstinence (*virati-cetasika*): Right Speech, Right Action, and Right Livelihood.
+*Sīla* represents the foundational baseline of the entire Theravāda Buddhist path. It consists of the deliberate volitional restraint (*[cetana](/glossary/cetana/)*) that prevents unwholesome states from manifesting as harmful bodily actions or verbal speech. Doctrinally, it encompasses the mental factors of abstinence (*virati-cetasika*): Right Speech, Right Action, and Right Livelihood.
 
-The *Visuddhimagga* notes that the characteristic of sīla is the establishing of order, coordination, and harmony (*sīlana-lakkhaṇa*), which provides a foundation free of remorse, allowing concentration (*samādhi*) to develop.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* notes that the characteristic of sīla is the establishing of order, coordination, and harmony (*sīlana-lakkhaṇa*), which provides a foundation free of remorse, allowing concentration (*[samādhi](/glossary/samadhi/)*) to develop.
 
 For different segments of the community, sīla is structured into distinct tiers of training rules:
-* For lay devotees: The permanent observation of the **[Pañcasīla](/glossary/pancasila/)** (Five Precepts) and the periodic training of the **Aṭṭhaṅgasīla** (Eight Precepts) on Uposatha days.
-* For novices (*sāmaṇera*): The **Dasasīla** (Ten Precepts).
-* For fully ordained monks (*bhikkhu*): The exhaustive **Catu-pārisuddhi-sīla** (Fourfold Purification Virtue), which includes [Patimokkha](/glossary/patimokkha/) restraint, sense faculty restraint, livelihood purification, and the proper reflection on monastical requisites.
+* For lay devotees: The permanent observation of the **[Pañcasīla](/glossary/pancasila/)** (Five Precepts) and the periodic training of the **Aṭṭhaṅgasīla** (Eight Precepts) on [Uposatha](/glossary/uposatha/) days.
+* For novices (*[sāmaṇera](/glossary/samanera/)*): The **Dasasīla** (Ten Precepts).
+* For fully ordained monks (*[bhikkhu](/glossary/bhikkhu/)*): The exhaustive **Catu-pārisuddhi-sīla** (Fourfold Purification Virtue), which includes [Patimokkha](/glossary/patimokkha/) restraint, sense faculty restraint, livelihood purification, and the proper reflection on monastical requisites.
 
 ### Textual References
-* **Sutta**: *Sāmaññaphala Sutta* (DN 2) – Section detailing the gradual training in moral discipline.
+* **[Sutta](/glossary/sutta/)**: *Sāmaññaphala Sutta* (DN 2) – Section detailing the gradual training in moral discipline.
 * **[Vinaya](/glossary/vinaya/)**: *Bhikkhupātimokkham* – Code of disciplinary restraint.
 * **Commentary**: *Visuddhimagga* (Part I, Chapters I and II) – Detailed mapping of the varieties, benefits, and purification of moral virtue.

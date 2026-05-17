@@ -16,9 +16,9 @@ commentaries: ["Sumangalavilasini"]
 
 When a being is reborn, their past reproductive [kamma](/glossary/kamma/) (*janaka-[kamma](/glossary/kamma/)*) establishes an *āyusaṅkhāra*—a sort of biological and karmic "battery." Biological death (*maraṇa*) occurs when this karmic battery runs out, when the natural lifespan of the realm is reached, or when a sudden, destructive [kamma](/glossary/kamma/) (*upacchedaka-[kamma](/glossary/kamma/)*) prematurely shatters the vital formations.
 
-The term appears most famously in the *Mahāparinibbāna Sutta*. Three months before his passing, the Buddha formally relinquished his *āyusaṅkhāra* (vital formations), making the deliberate, supramundane decision to allow his physical body to expire, causing a massive earthquake.
+The term appears most famously in the *[Mahāparinibbāna](/glossary/mahaparinibbana/) [Sutta](/glossary/sutta/)*. Three months before his passing, the Buddha formally relinquished his *āyusaṅkhāra* (vital formations), making the deliberate, supramundane decision to allow his physical body to expire, causing a massive earthquake.
 
 ### Textual References
-* **Sutta**: *Mahāparinibbāna Sutta* (DN 16) – The dramatic turning point of the text where the Tathāgata suppresses the life-sustaining forces and accepts his impending Parinibbāna.
+* **Sutta**: *Mahāparinibbāna Sutta* (DN 16) – The dramatic turning point of the text where the [Tathāgata](/glossary/tathagata/) suppresses the life-sustaining forces and accepts his impending [Parinibbāna](/glossary/parinibbana/).
 * **Canonical**: *Samyutta Nikaya* (Āyu Sutta - SN 15.20) – Reflecting on the brevity and fragility of the human lifespan.
-* **Commentary**: *Sumaṅgalavilāsinī* – Detailed exegesis explaining how a Buddha uses concentration (*samādhi*) to temporarily extend or permanently relinquish his vital formations.
+* **Commentary**: *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* – Detailed exegesis explaining how a Buddha uses concentration (*[samādhi](/glossary/samadhi/)*) to temporarily extend or permanently relinquish his vital formations.

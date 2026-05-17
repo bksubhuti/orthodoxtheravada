@@ -19,6 +19,6 @@ The commentaries explain that taking refuge is an act of conscious mental voliti
 Doctrinally, a refuge is broken (*saraṇabhedha*) if a person formally renounces the Triple Gem or transfers their ultimate spiritual allegiance to an unorthodox teacher, deity, or superstitious system. It is stained (*saraṇasaṅkilesa*) by ignorance, doubt, or lack of respectful practice. For both laypersons (*[upāsaka](/glossary/upasaka/)*) and monastics, it serves as the ultimate moral anchor.
 
 ### Textual References
-* **Vinaya**: *Mahāvaggapāḷi* (Mahākhandhaka) – Recording the very first instances of lay followers taking the refuges under the Buddha.
-* **Canonical**: *Khuddakapāṭha* (Saranattayam) – The standardized canonical layout of the formulas.
-* **Commentary**: *Khuddakapāṭha-Aṭṭhakathā* (Paramatthajotikā I) – Providing an incredibly rich, deep philosophical exposition on the literal, ultimate, and conventional meanings of *saraṇa*.
+* **[Vinaya](/glossary/vinaya/)**: *Mahāvaggapāḷi* (Mahākhandhaka) – Recording the very first instances of lay followers taking the refuges under the Buddha.
+* **Canonical**: *[Khuddakapāṭha](/glossary/khuddakapatha/)* (Saranattayam) – The standardized canonical layout of the formulas.
+* **Commentary**: *Khuddakapāṭha-Aṭṭhakathā* ([Paramatthajotikā](/glossary/paramatthajotika/) I) – Providing an incredibly rich, deep philosophical exposition on the literal, ultimate, and conventional meanings of *saraṇa*.

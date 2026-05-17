@@ -12,7 +12,7 @@ commentaries: ["Yamaka-atthakatha"]
 **Yamaka**: [nt.] The Book of Pairs. Derived from *yama* (twin, pair, double).
 
 ### Orthodox Definition
-The *Yamaka* is the sixth book of the Abhidhamma Piṭaka. Widely considered one of the most difficult and linguistically exhausting texts in human history, its primary purpose is to completely eradicate ambiguity and sloppy thinking regarding Abhidhamma terminology.
+The *Yamaka* is the sixth book of the [Abhidhamma](/glossary/abhidhamma/) Piṭaka. Widely considered one of the most difficult and linguistically exhausting texts in human history, its primary purpose is to completely eradicate ambiguity and sloppy thinking regarding Abhidhamma terminology.
 
 It accomplishes this by using "pairs" of questions involving complex permutations of logic (specifically the conversion of propositions). For example: "Is all form the aggregate of form? And conversely, is all the aggregate of form, form?" Or: "Does whoever understand the truth of suffering also abandon the truth of origin? And does whoever abandon the truth of origin also understand the truth of suffering?"
 

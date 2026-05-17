@@ -14,7 +14,7 @@ commentaries: ["Patthana-atthakatha"]
 ### Orthodox Definition
 *Vigata-paccaya* is the twenty-third of the 24 Conditions. Functionally and doctrinally, it is absolutely identical to the Absence condition (*[Natthi-paccaya](/glossary/natthi-paccaya/)*). 
 
-Both conditions describe a preceding mind-moment dying to make room for the next. The Abhidhamma uses two different terms purely for linguistic thoroughness and rhetorical emphasis. While *Natthi* emphasizes that the preceding moment "is not" anymore, *Vigata* emphasizes that the preceding moment has entirely "departed" or "vanished" without leaving a trace. It reinforces the absolute impermanence (*anicca*) of the cognitive process.
+Both conditions describe a preceding mind-moment dying to make room for the next. The [Abhidhamma](/glossary/abhidhamma/) uses two different terms purely for linguistic thoroughness and rhetorical emphasis. While *Natthi* emphasizes that the preceding moment "is not" anymore, *Vigata* emphasizes that the preceding moment has entirely "departed" or "vanished" without leaving a trace. It reinforces the absolute impermanence (*[anicca](/glossary/anicca/)*) of the cognitive process.
 
 The commentaries equate the disappearance condition to the fading of the morning mist, which allows the sunlight to strike the earth.
 

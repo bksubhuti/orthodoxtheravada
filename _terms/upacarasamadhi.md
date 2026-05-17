@@ -18,9 +18,9 @@ This state is characterized by two defining markers:
 1. The absolute, simultaneous suppression of the five mental hindrances (*[nīvaraṇa](/glossary/nivarana/)*).
 2. The arising of the luminous counterpart sign (*[paṭibhāganimitta](/glossary/patibhaganimitta/)*).
 
-In access concentration, the mind is radiantly clear, filled with intense rapture (*pīti*) and happiness (*sukha*). However, the *[jhāna](/glossary/jhana/)* factors are not yet fully hardened. The *Visuddhimagga* compares it to a toddler learning to walk: the child stands up, takes a few steps, and falls down again. The mind locks onto the luminous sign, but occasionally dips back into the subconscious life-continuum (*bhavaṅga*). 
+In access concentration, the mind is radiantly clear, filled with intense rapture (*[pīti](/glossary/piti/)*) and happiness (*[sukha](/glossary/sukha/)*). However, the *[jhāna](/glossary/jhana/)* factors are not yet fully hardened. The *[Visuddhimagga](/glossary/visuddhimagga/)* compares it to a toddler learning to walk: the child stands up, takes a few steps, and falls down again. The mind locks onto the luminous sign, but occasionally dips back into the subconscious life-continuum (*[bhavaṅga](/glossary/bhavanga/)*). 
 
-For many meditation subjects (like the recollection of the Buddha or loving-kindness toward specific individuals), this is the highest possible state achievable, serving as an incredibly pure platform from which to launch insight (*vipassanā*) practice.
+For many meditation subjects (like the recollection of the Buddha or loving-kindness toward specific individuals), this is the highest possible state achievable, serving as an incredibly pure platform from which to launch insight (*[vipassanā](/glossary/vipassana/)*) practice.
 
 ### Textual References
 * **Textual**: *Abhidhammattha-saṅgaha* (Chapter IX) – Categorizing access concentration as the necessary threshold for entering the material absorptions.

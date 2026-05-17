@@ -23,6 +23,6 @@ The system classifies the universe into **four ultimate realities** (*paramattha
 The Abhidhamma provides a highly clinical, microscopic map of the mind’s operation, detailing how consciousness arises and falls in precise cognitive series (*[citta](/glossary/citta/)-vīthi*). The orthodox tradition holds that the Abhidhamma reflects the complete, unrestricted omniscience (*sabbaññuta-ñāṇa*) of the Buddha, providing the ultimate structural breakdown required to collapse identity view.
 
 ### Textual References
-* **Canonical**: The seven core books: *Dhammasaṅgaṇī*, *Vibhaṅga*, *Dhātukathā*, *Puggalapaññatti*, *Kathāvatthu*, *Yamaka*, and *[Paṭṭhāna](/glossary/patthana/)*.
+* **Canonical**: The seven core books: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)*, *[Vibhaṅga](/glossary/vibhanga/)*, *[Dhātukathā](/glossary/dhatukatha/)*, *[Puggalapaññatti](/glossary/puggalapannatti/)*, *[Kathāvatthu](/glossary/kathavatthu/)*, *[Yamaka](/glossary/yamaka/)*, and *[Paṭṭhāna](/glossary/patthana/)*.
 * **Textual**: *Abhidhammattha-saṅgaha* – Ācariya Anuruddha’s later manual summarizing the entire Abhidhamma matrix.
-* **Commentary**: *Atthasālinī* and *Sammohavinodanī* – Foundational analytical commentaries.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* and *[Sammohavinodanī](/glossary/sammohavinodani/)* – Foundational analytical commentaries.

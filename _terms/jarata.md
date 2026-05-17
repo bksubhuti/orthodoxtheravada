@@ -21,5 +21,5 @@ Theravāda distinguishes between two types of aging:
 The realization that one's body is decaying on a microscopic level billions of times per second shatters attachment to youth and physical beauty.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* – Isolating decay as a specific material reality to be comprehended.
-* **Commentary**: *Atthasālinī* – Comparing momentary decay to the imperceptible wearing away of a stone hit by water drops.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Isolating decay as a specific material reality to be comprehended.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Comparing momentary decay to the imperceptible wearing away of a stone hit by water drops.

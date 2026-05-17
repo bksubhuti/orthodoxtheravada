@@ -17,11 +17,11 @@ commentaries: ["Cariyapitaka-Atthakatha", "Visuddhimagga"]
 The orthodox commentaries split the application of khanti into three clear functional fields:
 1. *Adhivāsana-khanti* (Endurance of physical discomfort): Patiently bearing cold, heat, hunger, thirst, insect bites, and intense bodily pain without mental grief or whining.
 2. *Tikhā-khanti* (Forbearance of interpersonal abuse): Enduring insults, dynamic slander, false accusations, and physical assault from others without generating an intention to retaliate or strike back.
-3. *Diṭṭhinijjhānakkhanti* (Intellectual patience in insight): The patient, meticulous testing and intellectual processing of deep, counter-intuitive Dhamma principles (like non-self) until they are experienced via meditation.
+3. *Diṭṭhinijjhānakkhanti* (Intellectual patience in insight): The patient, meticulous testing and intellectual processing of deep, counter-intuitive [Dhamma](/glossary/dhamma/) principles (like non-self) until they are experienced via meditation.
 
 The Buddha declared khanti to be the absolute highest ascetic training tool (*khantī paramaṃ tapo titikkhā*).
 
 ### Textual References
-* **Sutta**: *Kakacūpama Sutta* (MN 21) – The famous "Simile of the Saw," where the Buddha commands that even if bandits were to savagely saw one’s limbs off joint by joint, a monk who generates a single flash of anger toward them is not executing his teaching.
-* **Canonical**: *Dhammapada* (v. 184) – Chanted by all Buddhas as the foundational code of monastic behavior.
+* **[Sutta](/glossary/sutta/)**: *Kakacūpama Sutta* (MN 21) – The famous "Simile of the Saw," where the Buddha commands that even if bandits were to savagely saw one’s limbs off joint by joint, a monk who generates a single flash of anger toward them is not executing his teaching.
+* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (v. 184) – Chanted by all Buddhas as the foundational code of monastic behavior.
 * **Commentary**: *Cariyāpiṭaka-Aṭṭhakathā* – Comprehensive breakdown of how patience is weaponized to protect the other perfections from being burned up by anger.

@@ -15,12 +15,12 @@ commentaries: ["Visuddhimagga", "Paramatthadipani"]
 In orthodox Theravāda doctrine, *Nibbāna* is the supreme, unconditioned ultimate reality (*asaṅkhata-[dhamma](/glossary/dhamma/)*). It is neither a state of mind, a mystical void, nor a celestial plane of existence. It is completely independent of time, space, and causality. 
 
 The texts define it through two primary aspects:
-1. *Saupādisesa-nibbāna*: The extinction of defilements (*kilesa-parinibbāna*) achieved while the physical body and mental aggregates (*khandha*) remaining from past kamma are still alive (the attainment of an [Arahat](/glossary/arahat/) during life).
-2. *Anupādisesa-nibbāna*: The complete cessation of all conditioned aggregates (*khandha-parinibbāna*) at the death of an [Arahat](/glossary/arahat/), leading to no further rebirth in saṃsāra.
+1. *Saupādisesa-nibbāna*: The extinction of defilements (*kilesa-parinibbāna*) achieved while the physical body and mental aggregates (*[khandha](/glossary/khandha/)*) remaining from past [kamma](/glossary/kamma/) are still alive (the attainment of an [Arahat](/glossary/arahat/) during life).
+2. *Anupādisesa-nibbāna*: The complete cessation of all conditioned aggregates (*khandha-parinibbāna*) at the death of an [Arahat](/glossary/arahat/), leading to no further rebirth in [saṃsāra](/glossary/samsara/).
 
-It is characterized as *suññata* (void of self/defilements), *animitta* (signless), and *appaṇihita* (desireless). It is the absolute cessation of *[dukkha](/glossary/dukkha/)*.
+It is characterized as *suññata* (void of self/defilements), *[animitta](/glossary/animitta/)* (signless), and *[appaṇihita](/glossary/appanihita/)* (desireless). It is the absolute cessation of *[dukkha](/glossary/dukkha/)*.
 
 ### Textual References
-* **Sutta**: *Nibbāna Sutta* (Ud 8.1) – "There is, monks, that dimension where there is neither earth, nor water, nor fire, nor wind..."
-* **Abhidhamma**: *Abhidhammattha-saṅgaha* (Chapter VI) – Structured as one of the four ultimate realities (*paramattha*).
-* **Commentary**: *Visuddhimagga* (Chapter XVI) – Comprehensive refutation of unorthodox views regarding Nibbāna.
+* **[Sutta](/glossary/sutta/)**: *Nibbāna Sutta* (Ud 8.1) – "There is, monks, that dimension where there is neither earth, nor water, nor fire, nor wind..."
+* **[Abhidhamma](/glossary/abhidhamma/)**: *Abhidhammattha-saṅgaha* (Chapter VI) – Structured as one of the four ultimate realities (*paramattha*).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVI) – Comprehensive refutation of unorthodox views regarding Nibbāna.

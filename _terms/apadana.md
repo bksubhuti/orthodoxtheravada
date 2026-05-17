@@ -21,4 +21,4 @@ The text emphasizes the vast cosmic scale of karma and the necessity of making m
 ### Textual References
 * **Canonical**: *Therāpadāna* – Contains the past life histories of 547 senior monks, including Sāriputta, Moggallāna, and Ānanda.
 * **Canonical**: *Therīpadāna* – Contains the life histories of 40 senior nuns.
-* **Commentary**: *Visuddhajanavilāsinī* – The commentary providing context to the ancient, mythological settings of the previous Buddhas' eras.
+* **Commentary**: *[Visuddhajanavilāsinī](/glossary/visuddhajanavilasini/)* – The commentary providing context to the ancient, mythological settings of the previous Buddhas' eras.

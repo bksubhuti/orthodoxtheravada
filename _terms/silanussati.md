@@ -16,9 +16,9 @@ commentaries: ["Visuddhimagga"]
 
 The practitioner recollects their virtue as being "unbroken, untorn, unblotched, unmottled, liberating, praised by the wise, not grasped at (by wrong views), and conducive to concentration." 
 
-For this meditation to succeed, the practitioner must actually possess immaculate *[sīla](/glossary/sila/)*. If their precepts are broken, looking at them causes remorse (*kukkucca*), which destroys concentration. When the precepts are perfectly clean, contemplating them produces immense, blameless joy (*somanassa*), completely pacifying the hindrances and leading directly to Access Concentration (*upacāra-samādhi*).
+For this meditation to succeed, the practitioner must actually possess immaculate *[sīla](/glossary/sila/)*. If their precepts are broken, looking at them causes remorse (*[kukkucca](/glossary/kukkucca/)*), which destroys concentration. When the precepts are perfectly clean, contemplating them produces immense, blameless joy (*somanassa*), completely pacifying the hindrances and leading directly to Access Concentration (*upacāra-samādhi*).
 
 ### Textual References
-* **Sutta**: *Mahānāma Sutta* (AN 11.12) – The Buddha instructing the householder Mahānāma to find joy in his own spotless lay precepts as a foundation for higher meditation.
-* **Canonical**: *Sāmaññaphala Sutta* (DN 2) – Describing the "blameless joy" a monk feels upon reflecting on his purified Patimokkha restraint.
-* **Commentary**: *Visuddhimagga* (Chapter VII) – Explaining the specific metaphors of virtue being "unblotched" like a flawless gem.
+* **[Sutta](/glossary/sutta/)**: *Mahānāma Sutta* (AN 11.12) – The Buddha instructing the householder Mahānāma to find joy in his own spotless lay precepts as a foundation for higher meditation.
+* **Canonical**: *Sāmaññaphala Sutta* (DN 2) – Describing the "blameless joy" a monk feels upon reflecting on his purified [Patimokkha](/glossary/patimokkha/) restraint.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter VII) – Explaining the specific metaphors of virtue being "unblotched" like a flawless gem.

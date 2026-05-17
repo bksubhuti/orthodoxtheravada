@@ -14,11 +14,11 @@ commentaries: ["Visuddhimagga"]
 ### Orthodox Definition
 *Nevasaññānāsaññāyatana* is the fourth immaterial absorption (*[arūpajhāna](/glossary/arupajhana/)*) and the absolute limit of worldly, conditioned mental development. It was the highest attainment of the Buddha's second teacher, Uddaka Rāmaputta.
 
-In this state, the mind takes the previous state (the Base of Nothingness) as its object. The mental factors here are so incredibly subtle and refined that perception (*saññā*) can barely be said to exist, yet it is not completely extinct either. 
+In this state, the mind takes the previous state (the Base of Nothingness) as its object. The mental factors here are so incredibly subtle and refined that perception (*[saññā](/glossary/sanna/)*) can barely be said to exist, yet it is not completely extinct either. 
 
-The *Visuddhimagga* compares it to a bowl smeared with oil; there is enough oil to make the bowl shiny, but not enough to pour out. Because the mind is operating at the absolute minimum threshold of conscious activity, it is a state of near-total suspension. Rebirth in this plane carries a lifespan of 84,000 aeons—the longest possible duration in saṃsāra.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* compares it to a bowl smeared with oil; there is enough oil to make the bowl shiny, but not enough to pour out. Because the mind is operating at the absolute minimum threshold of conscious activity, it is a state of near-total suspension. Rebirth in this plane carries a lifespan of 84,000 aeons—the longest possible duration in [saṃsāra](/glossary/samsara/).
 
 ### Textual References
-* **Sutta**: *Ariyapariyesanā Sutta* (MN 26) – The Buddha’s mastery of this ultimate worldly state, and his subsequent rejection of it to seek the unconditioned.
-* **Abhidhamma**: *Vibhaṅga* (The peak of the Arūpāvacara realms).
+* **[Sutta](/glossary/sutta/)**: *Ariyapariyesanā Sutta* (MN 26) – The Buddha’s mastery of this ultimate worldly state, and his subsequent rejection of it to seek the unconditioned.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (The peak of the Arūpāvacara realms).
 * **Commentary**: *Visuddhimagga* (Chapter X) – Detailed analysis proving that feeling, volition, and consciousness are also in a state of "neither-nor" here, not just perception.

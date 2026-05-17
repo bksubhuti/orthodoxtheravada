@@ -14,11 +14,11 @@ commentaries: ["Visuddhimagga"]
 ### Orthodox Definition
 In the fundamental layout of the Four Noble Truths, *Samudaya* constitutes the Second Noble Truth: the origin or cause of suffering (*[dukkha](/glossary/dukkha/)-samudaya*). The Buddha explicitly isolated craving (*[taṇhā](/glossary/tanha/)*) as the primary operational force within this truth.
 
-The Mahāvihāra commentary explains that while craving is singled out due to its prominent role in pulling consciousness into renewed existence, *Samudaya* structurally encompasses all unwholesome volitions and mental defilements (*kilesa*) that sustain the wheel of Dependent Origination. 
+The [Mahāvihāra](/glossary/maha-vihara/) commentary explains that while craving is singled out due to its prominent role in pulling consciousness into renewed existence, *Samudaya* structurally encompasses all unwholesome volitions and mental defilements (*[kilesa](/glossary/kilesa/)*) that sustain the wheel of Dependent Origination. 
 
 As a functional requirement of the path, the Truth of Origin must be completely abandoned (*pahātabba*). One does not suppress the results (suffering); one cuts the specific, active causal root (craving).
 
 ### Textual References
-* **Sutta**: *Dhammacakkappavattana Sutta* (SN 56.11) – The definitive scriptural identification of craving as the generator of rebirth.
-* **Abhidhamma**: *Vibhaṅga* (Saccavibhaṅga chapter) – Explicit technical dissection of the varieties of causal loops.
-* **Commentary**: *Visuddhimagga* (Chapter XVI) – In-depth analysis of the word *samudaya* and its multi-causal mechanics.
+* **[Sutta](/glossary/sutta/)**: *Dhammacakkappavattana Sutta* (SN 56.11) – The definitive scriptural identification of craving as the generator of rebirth.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Saccavibhaṅga chapter) – Explicit technical dissection of the varieties of causal loops.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVI) – In-depth analysis of the word *samudaya* and its multi-causal mechanics.

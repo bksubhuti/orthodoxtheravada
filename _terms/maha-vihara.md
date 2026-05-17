@@ -19,5 +19,5 @@ The monks of the Mahāvihāra—the *Mahāvihāravāsins*—are responsible for 
 When modern practitioners refer to "orthodox Theravāda," they are explicitly referring to the unadulterated doctrinal positions preserved by the Mahāvihāra lineage.
 
 ### Textual References
-* **Historical**: *Mahāvaṃsa* – The Great Chronicle of Sri Lanka, detailing the founding of the Mahāvihāra and the planting of the Sri Maha Bodhi tree within its grounds.
-* **Commentary**: *Visuddhimagga* (Nidāna) – Buddhaghosa's opening verses state that he is composing the text relying entirely on the pristine tradition of the residents of the Mahāvihāra.
+* **Historical**: *Mahāvaṃsa* – The Great Chronicle of Sri Lanka, detailing the founding of the Mahāvihāra and the planting of the Sri Maha [Bodhi](/glossary/bodhi/) tree within its grounds.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Nidāna) – Buddhaghosa's opening verses state that he is composing the text relying entirely on the pristine tradition of the residents of the Mahāvihāra.

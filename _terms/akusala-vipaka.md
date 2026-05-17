@@ -15,11 +15,11 @@ commentaries: ["Abhidhammatthasangaha"]
 *Akusala-vipāka* designates the painful, unpleasant psychological and biological results that ripen from past actions rooted in greed, hatred, and delusion.
 
 Like its counterpart, it operates in two ways:
-1. **Rebirth Result**: A heavy unwholesome act generates the rebirth-linking consciousness that drags a being into one of the four lower realms (*apāya*): hell, the animal kingdom, the ghost realm, or the asura realm.
-2. **Lifespan Result**: If a person is reborn as a human (due to past good kamma), their past unwholesome kamma can still catch up to them during their life, manifesting as *akusala-vipāka*—such as experiencing physical disease, seeing horrifying sights, hearing insults, or suffering financial ruin.
+1. **Rebirth Result**: A heavy unwholesome act generates the rebirth-linking consciousness that drags a being into one of the four lower realms (*[apāya](/glossary/apaya/)*): hell, the animal kingdom, the ghost realm, or the [asura](/glossary/asura/) realm.
+2. **Lifespan Result**: If a person is reborn as a human (due to past good [kamma](/glossary/kamma/)), their past unwholesome kamma can still catch up to them during their life, manifesting as *akusala-vipāka*—such as experiencing physical disease, seeing horrifying sights, hearing insults, or suffering financial ruin.
 
-Because *vipāka* is the passive experiencing of a past debt, the orthodox response to painful *akusala-vipāka* is patient endurance (*khanti*), ensuring one does not generate new hatred (new kamma) in response to the pain.
+Because *vipāka* is the passive experiencing of a past debt, the orthodox response to painful *akusala-vipāka* is patient endurance (*[khanti](/glossary/khanti/)*), ensuring one does not generate new hatred (new kamma) in response to the pain.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* – Defining the exactly seven types of unwholesome resultant consciousness (which are always rootless/ahetuka).
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Defining the exactly seven types of unwholesome resultant consciousness (which are always rootless/ahetuka).
 * **Historical**: *Abhidhammatthasaṅgaha* (Chapter V) – The grim mapping of specific unwholesome actions to specific torments in the lower realms.

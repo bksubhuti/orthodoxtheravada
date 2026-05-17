@@ -25,6 +25,6 @@ Internally, it manifests as six distinct biological winds:
 6. In-breaths and out-breaths (*assāsa-passāsa*).
 
 ### Textual References
-* **Sutta**: *Mahāhatthipadopama Sutta* (MN 28) – Contrasting the internal biological winds with the massive external cyclones that uproot trees, proving both are mere impersonal elements.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Analysis of kinetic matter).
-* **Commentary**: *Visuddhimagga* (Chapter XI) – Technical description of how wind element provides physical support and locomotion.
+* **[Sutta](/glossary/sutta/)**: *Mahāhatthipadopama Sutta* (MN 28) – Contrasting the internal biological winds with the massive external cyclones that uproot trees, proving both are mere impersonal elements.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Analysis of kinetic matter).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XI) – Technical description of how wind element provides physical support and locomotion.

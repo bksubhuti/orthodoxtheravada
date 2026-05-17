@@ -22,6 +22,6 @@ Doctrinally, it is driven by the wholesome mental factor of non-greed (*[alobha]
 The Buddha famously declared that "contentment is the greatest wealth" (*santuṭṭhī paramaṃ dhanaṃ*), as it instantly cuts off the frantic, endless searching fueled by craving.
 
 ### Textual References
-* **Sutta**: *Ariyavaṃsa Sutta* (AN 4.28) – The foundational text on the "Lineages of the Noble Ones," defining the true monk as one who is content with any robe, food, or lodging, and delights in meditation.
-* **Canonical**: *Dhammapada* (v. 204) – Declaring health the greatest gain and contentment the greatest wealth.
-* **Commentary**: *Visuddhimagga* (Chapter II) – Detailing how contentment forms the psychological foundation for the strict ascetic practices (*dhutaṅga*).
+* **[Sutta](/glossary/sutta/)**: *Ariyavaṃsa Sutta* (AN 4.28) – The foundational text on the "Lineages of the Noble Ones," defining the true monk as one who is content with any robe, food, or lodging, and delights in meditation.
+* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (v. 204) – Declaring health the greatest gain and contentment the greatest wealth.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter II) – Detailing how contentment forms the psychological foundation for the strict ascetic practices (*dhutaṅga*).

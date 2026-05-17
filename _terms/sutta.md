@@ -16,8 +16,8 @@ A *Sutta* refers to any formal verbal discourse, dialogic interaction, or instru
 
 Methodologically, suttas are classified as *Vohāra-desanā* (conventional teaching). Unlike the starkly technical [Abhidhamma](/glossary/abhidhamma/), suttas are customized dynamically to fit the psychological background, capacity, and current temperament of the specific listeners inside the narrative. 
 
-They make extensive use of conventional terms like "person," "being," "soul," "deva," and "king" to anchor moral and meditative lessons. In terms of interpretation, suttas are generally regarded as *Neyyattha* (teachings whose meaning must be drawn out or interpreted through context), rather than flat literal statements.
+They make extensive use of conventional terms like "person," "being," "soul," "[deva](/glossary/deva/)," and "king" to anchor moral and meditative lessons. In terms of interpretation, suttas are generally regarded as *Neyyattha* (teachings whose meaning must be drawn out or interpreted through context), rather than flat literal statements.
 
 ### Textual References
 * **Canonical**: The five great collections: *Dīgha Nikāya*, *Majjhima Nikāya*, *Saṃyutta Nikāya*, *Aṅguttara Nikāya*, and *Khuddaka Nikāya*.
-* **Commentary**: The individual *Aṭṭhakathās* authored by Ācariya Buddhaghosa (e.g., *Papañcasūdanī* for the Majjhima Nikāya).
+* **Commentary**: The individual *Aṭṭhakathās* authored by Ācariya Buddhaghosa (e.g., *[Papañcasūdanī](/glossary/papancasudani/)* for the Majjhima Nikāya).

@@ -16,9 +16,9 @@ commentaries: ["Visuddhimagga"]
 
 In the canonical suttas, the Buddha explicitly defines *Sammāsamādhi* as the attainment and mastery of the **four material-sphere absorptions**: the First, Second, Third, and Fourth *Jhānas*. 
 
-The *Visuddhimagga* explains that concentration is crowned as "Right" when it is supported by the previous seven path factors. It transforms the mind into a luminous, workable laser of attention. At the supramundane level (*lokuttara*), this one-pointedness fixes the attention onto *Nibbāna* with such immense intensity that the underlying defilements are permanently incinerated by the co-arising wisdom factor.
+The *[Visuddhimagga](/glossary/visuddhimagga/)* explains that concentration is crowned as "Right" when it is supported by the previous seven path factors. It transforms the mind into a luminous, workable laser of attention. At the supramundane level (*lokuttara*), this one-pointedness fixes the attention onto *[Nibbāna](/glossary/nibbana/)* with such immense intensity that the underlying defilements are permanently incinerated by the co-arising wisdom factor.
 
 ### Textual References
-* **Sutta**: *Mahāsatipaṭṭhāna Sutta* (DN 22) – The definitive text providing the standard formulaic description of the four jhānas as Right Concentration.
-* **Abhidhamma**: *Vibhaṅga* ([Magga](/glossary/magga/)-vibhaṅga clinical catalog).
+* **[Sutta](/glossary/sutta/)**: *Mahāsatipaṭṭhāna Sutta* (DN 22) – The definitive text providing the standard formulaic description of the four jhānas as Right Concentration.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* ([Magga](/glossary/magga/)-vibhaṅga clinical catalog).
 * **Commentary**: *Visuddhimagga* (Chapters IV and V) – The exhaustive reference mapping out the manual requirements to fulfill Right Concentration.

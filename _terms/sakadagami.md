@@ -21,6 +21,6 @@ Unlike the first, third, and fourth stages of awakening, the attainment of a Onc
 The mind of a Sakadāgāmī is exceptionally pure; while subtle attachments and passing moments of irritation may still arise, they lack the strength to trigger unwholesome actions. If a Once-Returner dies without attaining higher stages in that life, they are reborn exactly once more in the human world or a heavenly sensuous realm (*kāmaloka*), where they are guaranteed to bring the path to its absolute conclusion.
 
 ### Textual References
-* **Sutta**: *Mahāli Sutta* (DN 6) – Where the Buddha defines the stages of Once-Returner and their spiritual parameters.
-* **Abhidhamma**: *Puggalapaññatti* (Exposition on Types of Persons).
-* **Commentary**: *Visuddhimagga* (Chapter XXII) – Detailed tracking of how insight knowledge weakens the coarser defilements.
+* **[Sutta](/glossary/sutta/)**: *Mahāli Sutta* (DN 6) – Where the Buddha defines the stages of Once-Returner and their spiritual parameters.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Puggalapaññatti](/glossary/puggalapannatti/)* (Exposition on Types of Persons).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Detailed tracking of how insight knowledge weakens the coarser defilements.

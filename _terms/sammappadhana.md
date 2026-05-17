@@ -18,11 +18,11 @@ Doctrinally, this represents the mental factor of energy (*[viriya](/glossary/vi
 1. The effort to **prevent** the arising of unarisen unwholesome states (guarding the sense doors).
 2. The effort to **abandon** unwholesome states that have already arisen (applying antidotes to defilements).
 3. The effort to **arouse** unarisen wholesome states (initiating mindfulness and concentration).
-4. The effort to **maintain** and perfect wholesome states that have already arisen (sustaining jhāna and insight).
+4. The effort to **maintain** and perfect wholesome states that have already arisen (sustaining [jhāna](/glossary/jhana/) and insight).
 
 The commentaries compare this to a king's fourfold strategy: preventing new enemies from invading, destroying enemies already in the kingdom, raising new loyal citizens, and protecting the citizens already flourishing.
 
 ### Textual References
-* **Sutta**: *Padhāna Sutta* (AN 4.14) – The formal canonical layout of the four exertions.
-* **Abhidhamma**: *Vibhaṅga* (Sammappadhānavibhaṅga).
-* **Commentary**: *Visuddhimagga* (Chapter XXII) – Demonstrating how these four functions operate simultaneously during the supramundane path-moment.
+* **[Sutta](/glossary/sutta/)**: *Padhāna Sutta* (AN 4.14) – The formal canonical layout of the four exertions.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Sammappadhānavibhaṅga).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Demonstrating how these four functions operate simultaneously during the supramundane path-moment.

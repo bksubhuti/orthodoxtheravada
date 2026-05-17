@@ -20,9 +20,9 @@ The four planes of misery are:
 3. *[Peta](/glossary/peta/)-loka*: The realm of hungry ghosts.
 4. *[Asura](/glossary/asura/)-kāya*: The realm of angry demons/titans.
 
-The orthodox definition states that the apāyas are realms of sheer karmic exhaustion. Beings in these states are primarily passive recipients of their past bad kamma (*akusala-vipāka*). Because the suffering is so intense and the mental faculties are so clouded by delusion and fear, the opportunity to practice the Dhamma or generate new wholesome kamma is almost non-existent. A stream-enterer (*sotāpanna*) is absolutely guaranteed never to be reborn in the apāyas again.
+The orthodox definition states that the apāyas are realms of sheer karmic exhaustion. Beings in these states are primarily passive recipients of their past bad [kamma](/glossary/kamma/) (*[akusala-vipāka](/glossary/akusala-vipaka/)*). Because the suffering is so intense and the mental faculties are so clouded by delusion and fear, the opportunity to practice the [Dhamma](/glossary/dhamma/) or generate new wholesome kamma is almost non-existent. A stream-enterer (*[sotāpanna](/glossary/sotapanna/)*) is absolutely guaranteed never to be reborn in the apāyas again.
 
 ### Textual References
-* **Sutta**: *Sarakāni Sutta* (SN 55.24) – Assuring that one possessing confirmed confidence in the Triple Gem has closed the door to the apāyas forever.
-* **Abhidhamma**: *Vibhaṅga* (Cosmological mapping).
-* **Commentary**: *Sammohavinodanī* – Detailed structural definitions tracking the specific defilements that pull consciousness down into these four specific states.
+* **[Sutta](/glossary/sutta/)**: *Sarakāni Sutta* (SN 55.24) – Assuring that one possessing confirmed confidence in the Triple Gem has closed the door to the apāyas forever.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Cosmological mapping).
+* **Commentary**: *[Sammohavinodanī](/glossary/sammohavinodani/)* – Detailed structural definitions tracking the specific defilements that pull consciousness down into these four specific states.

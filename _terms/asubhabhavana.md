@@ -21,6 +21,6 @@ The orthodox practice is divided into two operational fields:
 In the charnel ground meditations, the monk observes corpses in ten progressive stages of decay: bloated, livid, festering, cut up, gnawed by animals, scattered, bleeding, worm-infested, and reduced to a skeleton. By visually capturing this sign (*[nimitta](/glossary/nimitta/)*) and projecting it onto their own body and the bodies of objects of desire, the obsession with physical beauty is completely broken. Mastering this meditation secures the First [Jhāna](/glossary/jhana/).
 
 ### Textual References
-* **Sutta**: *Satipaṭṭhāna Sutta* (MN 10) – The "Nine Charnel Ground Contemplations" segment, commanding the monk to compare his own living body to the corpse: "This body too is of the same nature, it will be like that, it is not exempt from that fate."
+* **[Sutta](/glossary/sutta/)**: *[Satipaṭṭhāna](/glossary/satipatthana/) Sutta* (MN 10) – The "Nine Charnel Ground Contemplations" segment, commanding the monk to compare his own living body to the corpse: "This body too is of the same nature, it will be like that, it is not exempt from that fate."
 * **Canonical**: *Aṅguttara Nikāya* (Aṭṭhaka Nipāta) – Identifying foulness as the direct remedy for lust.
-* **Commentary**: *Visuddhimagga* (Chapter VI) – The intense, detailed manual on how to safely navigate graveyards, acquire the corpse sign, and manage the psychological terror that may arise.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter VI) – The intense, detailed manual on how to safely navigate graveyards, acquire the corpse sign, and manage the psychological terror that may arise.

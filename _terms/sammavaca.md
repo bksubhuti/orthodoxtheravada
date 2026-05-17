@@ -23,6 +23,6 @@ The training requires a practitioner to systematically abstain from four distinc
 On the mundane path, it is practiced as a localized, conscious restraint when faced with a temptation to speak falsely. On the supramundane path, it functions as an absolute, permanent purification of the mental stream, preventing any future generation of corrupt speech.
 
 ### Textual References
-* **Sutta**: *Abhayarājakumāra Sutta* (MN 58) – The classic masterclass where the Buddha lays out the exact structural criteria for speech: it must be true, factual, beneficial, and spoken with an understanding of the appropriate time, regardless of whether it pleases or displeases the listener.
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Analysis of the abstinence factors).
-* **Commentary**: *Visuddhimagga* (Chapter I) – Detailed evaluation tracking how verbal purity shields the mind from remorse.
+* **[Sutta](/glossary/sutta/)**: *Abhayarājakumāra Sutta* (MN 58) – The classic masterclass where the Buddha lays out the exact structural criteria for speech: it must be true, factual, beneficial, and spoken with an understanding of the appropriate time, regardless of whether it pleases or displeases the listener.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Analysis of the abstinence factors).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter I) – Detailed evaluation tracking how verbal purity shields the mind from remorse.

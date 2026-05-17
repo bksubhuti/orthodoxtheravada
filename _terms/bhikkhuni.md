@@ -14,11 +14,11 @@ commentaries: ["Samantapasadika"]
 ### Orthodox Definition
 A *Bhikkhunī* is a fully ordained female monastic in the Buddhist tradition. To achieve this status, a woman must undergo a rigorous dual-ordination process (*ubhatosaṅgha-upasampadā*): first receiving ordination from a quorum of Bhikkhunīs, and then receiving it again from a quorum of Bhikkhus.
 
-A Theravāda Bhikkhunī is bound by **311 [Pātimokkha](/glossary/patimokkha/) rules**, compared to the 227 rules for monks. Furthermore, at the inception of the order, Mahāpajāpatī Gotamī (the Buddha's foster mother) had to accept the Eight Heavy Rules (*[Garudhamma](/glossary/garudhamma/)*) to establish the order, structurally placing the Bhikkhunī Saṅgha in a position of respect toward the [Bhikkhu](/glossary/bhikkhu/) Saṅgha, regardless of seniority. 
+A Theravāda Bhikkhunī is bound by **311 [Pātimokkha](/glossary/patimokkha/) rules**, compared to the 227 rules for monks. Furthermore, at the inception of the order, Mahāpajāpatī Gotamī (the Buddha's foster mother) had to accept the Eight Heavy Rules (*[Garudhamma](/glossary/garudhamma/)*) to establish the order, structurally placing the Bhikkhunī [Saṅgha](/glossary/sangha/) in a position of respect toward the [Bhikkhu](/glossary/bhikkhu/) Saṅgha, regardless of seniority. 
 
-Despite these structural differences in Vinaya, doctrinally, the capacity of a Bhikkhunī to attain Arahatship and full liberation is absolutely identical to that of a [Bhikkhu](/glossary/bhikkhu/).
+Despite these structural differences in [Vinaya](/glossary/vinaya/), doctrinally, the capacity of a Bhikkhunī to attain Arahatship and full liberation is absolutely identical to that of a [Bhikkhu](/glossary/bhikkhu/).
 
 ### Textual References
-* **Vinaya**: *Cullavagga* (Bhikkhunīkhandhaka) – The historical account of Ānanda's intercession and the founding of the nun's order.
-* **Canonical**: *Therīgāthā* – The verses of the elder nuns, testifying to their supreme spiritual attainments.
-* **Commentary**: *Samantapāsādikā* – The detailed legal framework governing the dual-ordination process.
+* **Vinaya**: *[Cullavagga](/glossary/cullavagga/)* (Bhikkhunīkhandhaka) – The historical account of Ānanda's intercession and the founding of the nun's order.
+* **Canonical**: *[Therīgāthā](/glossary/therigatha/)* – The verses of the elder nuns, testifying to their supreme spiritual attainments.
+* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – The detailed legal framework governing the dual-ordination process.

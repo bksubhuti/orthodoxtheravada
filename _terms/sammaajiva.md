@@ -21,9 +21,9 @@ For lay disciples, the Buddha isolated **five specific toxic trades** that must 
 4. Trading in intoxicants (*majja-vaṇijjā*).
 5. Trading in poisons (*visa-vaṇijjā*).
 
-For monastics (*bhikkhus*), Right Livelihood is defined through the strict parameters of the Vinaya code, prohibiting wrong ways of acquiring requisites—such as hypocrisy, flattery, hinting, hinting for gifts, or practicing low arts like astrology or fortune-telling for gain. It is driven by the abstinence factor *sammā-ājīva-[virati](/glossary/virati/)*.
+For monastics (*bhikkhus*), Right Livelihood is defined through the strict parameters of the [Vinaya](/glossary/vinaya/) code, prohibiting wrong ways of acquiring requisites—such as hypocrisy, flattery, hinting, hinting for gifts, or practicing low arts like astrology or fortune-telling for gain. It is driven by the abstinence factor *sammā-ājīva-[virati](/glossary/virati/)*.
 
 ### Textual References
-* **Sutta**: *Vanijja Sutta* (AN 5.177) – The concise canonical source listing the five illegal trades for lay practitioners.
+* **[Sutta](/glossary/sutta/)**: *Vanijja Sutta* (AN 5.177) – The concise canonical source listing the five illegal trades for lay practitioners.
 * **Sutta**: *Mahācattārīsaka Sutta* (MN 117) – Showing how right view, right effort, and right mindfulness run circles around right livelihood to maintain its purity.
-* **Commentary**: *Sammohavinodanī* – Detailed evaluation charting the borders of blameless vocational tracking.
+* **Commentary**: *[Sammohavinodanī](/glossary/sammohavinodani/)* – Detailed evaluation charting the borders of blameless vocational tracking.
