@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "The 4 Unwholesome Universal Mental Factors"
 pali_title: "Sabbakusalasādhāraṇa Cetasikā"
 category: "numerical_dhamma"
