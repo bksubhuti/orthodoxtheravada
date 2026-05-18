@@ -5,6 +5,8 @@ main:
     url: /articles/
   - title: "Glossary"
     url: /glossary/
+  - title: "Lists"
+    url: /lists/
   - title: "Resources"
     url: /resources/
   - title: "Forum"
