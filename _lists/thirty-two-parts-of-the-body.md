@@ -9,7 +9,7 @@ canonical_texts: ["Khuddakapatha", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-This is the fundamental meditation subject for *Kāyagatāsati* (Mindfulness of the Body). To cure the mind of its infatuation with physical beauty and sexual lust, the meditator mentally dissects their own body into 32 distinct biological components, realizing it is just a sack of impure substances. *(Note: Suttas list 31; the commentaries add the brain to make 32).*
+This is the fundamental meditation subject for *[Kāyagatāsati](/glossary/kayagatasati/)* (Mindfulness of the Body). To cure the mind of its infatuation with physical beauty and sexual lust, the meditator mentally dissects their own body into 32 distinct biological components, realizing it is just a sack of impure substances. *(Note: Suttas list 31; the commentaries add the brain to make 32).*
 
 ### The List
 **The Skin Pentad:**
@@ -27,4 +27,4 @@ This is the fundamental meditation subject for *Kāyagatāsati* (Mindfulness of 
 
 ### Textual References
 * **Canonical**: *Dvattiṃsākāra* (Khp 3) – The standard list recited by all monastics.
-* **Canonical**: *Satipaṭṭhāna Sutta* (MN 10) – The Buddha gives the simile of opening a bag of mixed grains to describe inspecting these parts.
+* **Canonical**: *[Satipaṭṭhāna](/glossary/satipatthana/) [Sutta](/glossary/sutta/)* (MN 10) – The Buddha gives the simile of opening a bag of mixed grains to describe inspecting these parts.

@@ -9,7 +9,7 @@ canonical_texts: ["Digha Nikaya", "Anguttara Nikaya"]
 commentaries: ["Sumangalavilasini"]
 ---
 ### Overview
-Just as he outlined the benefits of giving, the Buddha explicitly detailed the rewards of maintaining strict moral discipline (*sīla*). He delivered this teaching to the laypeople of Pāṭaligāma shortly before his Parinibbāna, highlighting the practical, worldly advantages of a pure life.
+Just as he outlined the benefits of giving, the Buddha explicitly detailed the rewards of maintaining strict moral discipline (*[sīla](/glossary/sila/)*). He delivered this teaching to the laypeople of Pāṭaligāma shortly before his [Parinibbāna](/glossary/parinibbana/), highlighting the practical, worldly advantages of a pure life.
 
 ### The List
 1. **Bhogakkhandhaṃ adhigacchati** - One acquires great wealth through diligence: A virtuous person is trustworthy, focused, and free from the financial drains of intoxication and gambling, allowing them to accumulate wealth lawfully.
@@ -19,4 +19,4 @@ Just as he outlined the benefits of giving, the Buddha explicitly detailed the r
 5. **Saggaṃ lokaṃ upapajjati** - Rebirth in a heavenly realm: After death, the kammic power of virtue propels the mind into a fortunate existence.
 
 ### Textual References
-* **Canonical**: *Mahāparinibbāna Sutta* (DN 16) – The Buddha lists these exact five benefits to the lay followers of Magadha.
+* **Canonical**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) [Sutta](/glossary/sutta/)* (DN 16) – The Buddha lists these exact five benefits to the lay followers of Magadha.

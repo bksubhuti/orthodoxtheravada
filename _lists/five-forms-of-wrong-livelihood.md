@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-Right Livelihood (*Sammā-ājīva*) is a core component of the Noble Eightfold Path. While monastics have strict rules regarding livelihood, the Buddha also provided clear boundaries for laypeople. A lay follower (*upāsaka/upāsikā*) must absolutely avoid these five trades, as they intrinsically cause harm to others and generate immense unwholesome kamma.
+Right Livelihood (*Sammā-ājīva*) is a core component of the Noble Eightfold Path. While monastics have strict rules regarding livelihood, the Buddha also provided clear boundaries for laypeople. A lay follower (*[upāsaka](/glossary/upasaka/)/[upāsikā](/glossary/upasika/)*) must absolutely avoid these five trades, as they intrinsically cause harm to others and generate immense unwholesome [kamma](/glossary/kamma/).
 
 ### The List
 1. **Satthavāṇijjā** - Business in Weapons: Manufacturing, trading, or selling instruments designed for killing or harming beings.
@@ -19,4 +19,4 @@ Right Livelihood (*Sammā-ājīva*) is a core component of the Noble Eightfold P
 5. **Visavāṇijjā** - Business in Poisons: Manufacturing or selling lethal toxins designed to kill beings.
 
 ### Textual References
-* **Canonical**: *Vaṇijjā Sutta* (AN 5.177) – The Buddha categorically states that a lay follower should not engage in these five specific trades.
+* **Canonical**: *Vaṇijjā [Sutta](/glossary/sutta/)* (AN 5.177) – The Buddha categorically states that a lay follower should not engage in these five specific trades.

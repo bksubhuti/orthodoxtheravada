@@ -9,7 +9,7 @@ canonical_texts: ["Digha Nikaya", "Khuddaka Nikaya"]
 commentaries: ["Jataka Nidanakatha", "Sumangalavilasini"]
 ---
 ### Overview
-To prevent him from renouncing the world, King Suddhodana insulated Prince Siddhattha inside luxury palaces, hiding all evidence of human frailty. However, driven by his impending destiny, the Prince ordered his charioteer Channa to drive him out into the city gardens. Over successive journeys, he encountered four "divine signs" (*nimittāni*) that shattered his complacency and birthed the resolve to seek Nibbāna.
+To prevent him from renouncing the world, King Suddhodana insulated Prince Siddhattha inside luxury palaces, hiding all evidence of human frailty. However, driven by his impending destiny, the Prince ordered his charioteer Channa to drive him out into the city gardens. Over successive journeys, he encountered four "divine signs" (*nimittāni*) that shattered his complacency and birthed the resolve to seek [Nibbāna](/glossary/nibbana/).
 
 ### The List
 1. **Jiṇṇa** - An Old Man: A decrepit, toothless, gray-haired man bent over a staff, shaking with age. *(Awakened the Prince to the inescapable reality of physical decay).*
@@ -18,5 +18,5 @@ To prevent him from renouncing the world, King Suddhodana insulated Prince Siddh
 4. **Pabbajita** - An Ascetic / Monk: A calm, shaven-headed wanderer wearing clean orange rags, walking with continuous mindfulness and serene eyes. *(Showed the Prince the existence of a practical path to escape the first three sights).*
 
 ### Textual References
-* **Canonical**: *Mahāpadāna Sutta* (DN 14) – The Buddha details how these exact four sights shattered the comfort of the past Buddha Vipassī, establishing the universal pattern for all Bodhisattas.
-* **Commentary**: *Jātaka Nidānakathā* – Chronicles the historical execution of these drives in Kapilavatthu.
+* **Canonical**: *Mahāpadāna [Sutta](/glossary/sutta/)* (DN 14) – The Buddha details how these exact four sights shattered the comfort of the past Buddha Vipassī, establishing the universal pattern for all Bodhisattas.
+* **Commentary**: *[Jātaka](/glossary/jataka/) Nidānakathā* – Chronicles the historical execution of these drives in Kapilavatthu.

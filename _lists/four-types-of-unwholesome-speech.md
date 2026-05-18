@@ -18,4 +18,4 @@ Verbal action carries immense kammic weight in Theravāda. The Buddha was intens
 4. **Samphappalāpa** - Frivolous Chatter: Idle, useless gossip. Speaking without purpose, at the wrong time, about worldly entertainments that do not lead to truth, discipline, or peace.
 
 ### Textual References
-* **Canonical**: *Sāleyyaka Sutta* (MN 41) – The Buddha lists these four as the primary forms of bad verbal conduct that lead beings to rebirth in the lower realms.
+* **Canonical**: *Sāleyyaka [Sutta](/glossary/sutta/)* (MN 41) – The Buddha lists these four as the primary forms of bad verbal conduct that lead beings to rebirth in the lower realms.

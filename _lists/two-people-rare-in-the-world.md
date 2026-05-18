@@ -16,4 +16,4 @@ The Buddha frequently emphasized the importance of gratitude as a core virtue. I
 2. **Kataññūkatavedī** - The grateful and reciprocating one: A person who recognizes the help they have received (*kataññū*) and makes a deliberate effort to repay that debt of gratitude (*katavedī*).
 
 ### Textual References
-* **Canonical**: *Dullabha Sutta* (AN 2.119) – The Buddha explicitly states that these two persons are rare in the world.
+* **Canonical**: *Dullabha [Sutta](/glossary/sutta/)* (AN 2.119) – The Buddha explicitly states that these two persons are rare in the world.

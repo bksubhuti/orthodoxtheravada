@@ -17,5 +17,5 @@ These three wholesome thoughts constitute "Right Intention" (*Sammā-saṅkappa*
 3. **Avihiṃsāvitakka** - Thoughts of non-cruelty (Compassion): Mental application focused on harmlessness and a desire to alleviate the suffering of others. It directly counters thoughts of cruelty.
 
 ### Textual References
-* **Canonical**: *Dvedhāvitakka Sutta* (MN 19) – The Buddha explains how cultivating these three thoughts leads to wisdom, peace, and Nibbāna.
+* **Canonical**: *Dvedhāvitakka [Sutta](/glossary/sutta/)* (MN 19) – The Buddha explains how cultivating these three thoughts leads to wisdom, peace, and [Nibbāna](/glossary/nibbana/).
 * **Canonical**: *Saccavibhaṅga Sutta* (MN 141) – Ven. Sāriputta formally defines Right Intention as these exact three thoughts.

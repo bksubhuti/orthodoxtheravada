@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-The Buddha occasionally provided direct counseling to lay families experiencing domestic trouble. In the household of the wealthy benefactor Anāthapiṇḍika, the daughter-in-law Sujātā was acting arrogantly and disrupting the home. The Buddha calmly taught her a framework categorizing all wives into seven types—three leading to hell, and four leading to heaven. 
+The Buddha occasionally provided direct counseling to lay families experiencing domestic trouble. In the household of the wealthy benefactor [Anāthapiṇḍika](/glossary/anathapindika/), the daughter-in-law Sujātā was acting arrogantly and disrupting the home. The Buddha calmly taught her a framework categorizing all wives into seven types—three leading to hell, and four leading to heaven. 
 
 ### The List
 **The Unwholesome Wives (Bound for Hell):**
@@ -24,4 +24,4 @@ The Buddha occasionally provided direct counseling to lay families experiencing 
 7. **Dāsī-bhariyā** - The Handmaid-wife: A wife who is calm, unbothered by anger, compliant, and endures even harsh words without retaliation.
 
 ### Textual References
-* **Canonical**: *Bhariyā Sutta* (AN 7.63) – After hearing this discourse, Sujātā is deeply humbled and chooses to become a "Handmaid-wife."
+* **Canonical**: *Bhariyā [Sutta](/glossary/sutta/)* (AN 7.63) – After hearing this discourse, Sujātā is deeply humbled and chooses to become a "Handmaid-wife."

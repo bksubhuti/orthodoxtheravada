@@ -19,7 +19,7 @@ The Eight Liberations (*Vimokkha*) represent the absolute pinnacle of meditative
 5. **The Base of Infinite Consciousness:** By transcending infinite space, one attains the second formless absorption.
 6. **The Base of Nothingness:** By transcending infinite consciousness, one attains the third formless absorption.
 7. **The Base of Neither-Perception-Nor-Non-Perception:** By transcending nothingness, one attains the fourth formless absorption.
-8. **The Cessation of Perception and Feeling (Nirodha-samāpatti):** The ultimate meditative attainment. Only an Anāgāmī or an Arahat who has mastered all previous eight states can enter this trance, where all mental activity completely stops.
+8. **The Cessation of Perception and Feeling (Nirodha-samāpatti):** The ultimate meditative attainment. Only an [Anāgāmī](/glossary/anagami/) or an [Arahat](/glossary/arahat/) who has mastered all previous eight states can enter this trance, where all mental activity completely stops.
 
 ### Textual References
-* **Canonical**: *Mahānidāna Sutta* (DN 15) – The Buddha explains that a monk who can enter and emerge from these eight liberations at will, and has destroyed the taints, is called "liberated both ways" (Ubhatobhāgavimutta).
+* **Canonical**: *Mahānidāna [Sutta](/glossary/sutta/)* (DN 15) – The Buddha explains that a monk who can enter and emerge from these eight liberations at will, and has destroyed the taints, is called "liberated both ways" (Ubhatobhāgavimutta).

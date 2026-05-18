@@ -9,7 +9,7 @@ canonical_texts: ["Digha Nikaya", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-The Kasinas ("Totalities") are the most famous objects of *Samatha* (tranquility) meditation. By focusing on a single, pure physical element or color until a mental replica (the *nimitta*) arises in the mind, the meditator can achieve all four fine-material jhānas and lay the foundation for psychic powers.
+The Kasinas ("Totalities") are the most famous objects of *[Samatha](/glossary/samatha/)* (tranquility) meditation. By focusing on a single, pure physical element or color until a mental replica (the *[nimitta](/glossary/nimitta/)*) arises in the mind, the meditator can achieve all four fine-material jhānas and lay the foundation for psychic powers.
 
 ### The List
 1. **Pathavī-kasiṇa** - The Earth Kasina: Gazing at a disk of pure, neutral-colored clay or earth.
@@ -24,5 +24,5 @@ The Kasinas ("Totalities") are the most famous objects of *Samatha* (tranquility
 10. **Paricchinnākāsa-kasiṇa** - The Limited Space Kasina: Gazing at a patch of sky seen through a small opening.
 
 ### Textual References
-* **Canonical**: *Mahāsakuludāyi Sutta* (MN 77) – The Buddha lists the ten kasinas.
-* **Commentary**: *Visuddhimagga* (Chapters IV & V) – Provides the definitive, step-by-step instructions on how to construct and meditate on every kasina.
+* **Canonical**: *Mahāsakuludāyi [Sutta](/glossary/sutta/)* (MN 77) – The Buddha lists the ten kasinas.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapters IV & V) – Provides the definitive, step-by-step instructions on how to construct and meditate on every kasina.

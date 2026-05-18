@@ -9,7 +9,7 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Atthasalini"]
 ---
 ### Overview
-The ninth triad of the Abhidhamma Mātikā builds directly on the eighth, but instead of classifying the general mental states, it specifically categorizes the underlying *roots* (*hetu*—greed, hatred, delusion) driving those states, tracking exactly when these roots are permanently severed by the supramundane paths.
+The ninth triad of the [Abhidhamma](/glossary/abhidhamma/) Mātikā builds directly on the eighth, but instead of classifying the general mental states, it specifically categorizes the underlying *roots* (*hetu*—greed, hatred, delusion) driving those states, tracking exactly when these roots are permanently severed by the supramundane paths.
 
 ### The List
 1. **Dassanena pahātabbahetukā dhammā** - States having roots to be abandoned by vision: The roots of greed, hatred, and delusion that accompany wrong view and doubt. These specific roots are permanently severed at Stream-entry.
@@ -17,4 +17,4 @@ The ninth triad of the Abhidhamma Mātikā builds directly on the eighth, but in
 3. **Nevadassanena nabhāvanāya pahātabbahetukā dhammā** - States having roots to be abandoned by neither vision nor cultivation: The wholesome roots (non-greed, non-hatred, non-delusion), the indeterminate roots, and rootless states. Because they are not unwholesome, the paths do not need to destroy them.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Mātikā 9) – Refines the Abhidhammic understanding of how defilements are structured and uprooted.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Mātikā 9) – Refines the Abhidhammic understanding of how defilements are structured and uprooted.

@@ -9,7 +9,7 @@ canonical_texts: ["Majjhima Nikaya", "Itivuttaka"]
 commentaries: ["Papancasudani"]
 ---
 ### Overview
-Before he attained enlightenment, the Bodhisatta realized that the mind is shaped by what it frequently ponders. He divided all thoughts into two categories. These three unwholesome thoughts (*vitakka*) constitute "Wrong Intention" and lead to affliction for oneself and others.
+Before he attained enlightenment, the [Bodhisatta](/glossary/bodhisatta/) realized that the mind is shaped by what it frequently ponders. He divided all thoughts into two categories. These three unwholesome thoughts (*[vitakka](/glossary/vitakka/)*) constitute "Wrong Intention" and lead to affliction for oneself and others.
 
 ### The List
 1. **Kāmavitakka** - Thoughts of sensuality: Mental application focused on the pursuit of sensual pleasure, lust, and worldly acquisition.
@@ -17,4 +17,4 @@ Before he attained enlightenment, the Bodhisatta realized that the mind is shape
 3. **Vihiṃsāvitakka** - Thoughts of cruelty / harmlessness: Mental application focused on violence, aggression, and a lack of compassion for the suffering of other living beings.
 
 ### Textual References
-* **Canonical**: *Dvedhāvitakka Sutta* (MN 19) – The Buddha recounts how, prior to awakening, he learned to identify and banish these three unwholesome thoughts to keep his mind safe.
+* **Canonical**: *Dvedhāvitakka [Sutta](/glossary/sutta/)* (MN 19) – The Buddha recounts how, prior to awakening, he learned to identify and banish these three unwholesome thoughts to keep his mind safe.

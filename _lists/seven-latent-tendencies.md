@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya", "Majjhima Nikaya"]
 commentaries: ["Papancasudani"]
 ---
 ### Overview
-The Latent Tendencies (*Anusaya*) are the most insidious and deeply buried forms of defilement. While active defilements (*kilesa*) bubble up to the surface during conscious thought, the latent tendencies sleep silently in the mental continuum, waiting for the right sensory trigger to strike. They are completely eradicated only by the supramundane paths.
+The Latent Tendencies (*[Anusaya](/glossary/anusaya/)*) are the most insidious and deeply buried forms of defilement. While active defilements (*[kilesa](/glossary/kilesa/)*) bubble up to the surface during conscious thought, the latent tendencies sleep silently in the mental continuum, waiting for the right sensory trigger to strike. They are completely eradicated only by the supramundane paths.
 
 ### The List
 1. **Kāmarāgānusaya** - The latent tendency of sensual lust: The dormant inclination toward seeking pleasure through the five physical senses.
@@ -21,4 +21,4 @@ The Latent Tendencies (*Anusaya*) are the most insidious and deeply buried forms
 7. **Avijjānusaya** - The latent tendency of ignorance: The deepest root. The dormant blindness to the Four Noble Truths.
 
 ### Textual References
-* **Canonical**: *Anusaya Sutta* (AN 7.11) – The Buddha lists these seven and states that the holy life is lived exclusively for the abandoning and uprooting of these tendencies.
+* **Canonical**: *Anusaya [Sutta](/glossary/sutta/)* (AN 7.11) – The Buddha lists these seven and states that the holy life is lived exclusively for the abandoning and uprooting of these tendencies.

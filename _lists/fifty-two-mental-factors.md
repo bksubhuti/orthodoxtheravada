@@ -9,7 +9,7 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Abhidhammatthasangaha"]
 ---
 ### Overview
-In Theravāda Abhidhamma, consciousness (*citta*) never arises alone; it is always colored and shaped by associated Mental Factors (*Cetasikas*). These factors are the actual workers of the mind, representing feeling, perception, and all volitional formations. The Abhidhammattha Saṅgaha standardizes these into 52 distinct elements.
+In Theravāda [Abhidhamma](/glossary/abhidhamma/), consciousness (*[citta](/glossary/citta-base/)*) never arises alone; it is always colored and shaped by associated Mental Factors (*Cetasikas*). These factors are the actual workers of the mind, representing feeling, perception, and all volitional formations. The Abhidhammattha Saṅgaha standardizes these into 52 distinct elements.
 
 ### The List
 **The 13 Ethically Variable Factors (Aññasamānā):**

@@ -9,7 +9,7 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Abhidhammatthasangaha"]
 ---
 ### Overview
-This is the complete, master list of all physical matter (*Rūpa*) in the Theravāda universe. Everything physical, from the human body to a distant star, is composed entirely of combinations of these 28 irreducible elements. Insight meditators memorize this list to accurately dissect and dismantle the illusion of the physical body.
+This is the complete, master list of all physical matter (*[Rūpa](/glossary/rupa/)*) in the Theravāda universe. Everything physical, from the human body to a distant star, is composed entirely of combinations of these 28 irreducible elements. Insight meditators memorize this list to accurately dissect and dismantle the illusion of the physical body.
 
 ### The List
 **The 4 Primary Elements (Mahābhūta):**

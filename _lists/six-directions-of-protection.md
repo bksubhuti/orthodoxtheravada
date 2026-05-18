@@ -9,7 +9,7 @@ canonical_texts: ["Digha Nikaya"]
 commentaries: ["Sumangalavilasini"]
 ---
 ### Overview
-The *Sigālovāda Sutta* is often called the "Vinaya of the Householder." The Buddha encountered a young man bowing to the six compass directions in a Brahmanical ritual. The Buddha redefined these directions as the six fundamental social relationships. True "protection" comes from fulfilling one's reciprocal duties to these six groups of people.
+The *Sigālovāda [Sutta](/glossary/sutta/)* is often called the "[Vinaya](/glossary/vinaya/) of the Householder." The Buddha encountered a young man bowing to the six compass directions in a Brahmanical ritual. The Buddha redefined these directions as the six fundamental social relationships. True "protection" comes from fulfilling one's reciprocal duties to these six groups of people.
 
 ### The List
 1. **Puratthimā disā (East) - Parents:** Worshipped by supporting them in old age, performing duties for them, maintaining family traditions, and being worthy of inheritance.

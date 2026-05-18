@@ -17,8 +17,8 @@ In Theravāda, spiritual friendship (*Kalyāṇamittatā*) is not considered mer
 3. **Bhāvanīyo** - Inspiring: Their conduct and wisdom actively inspire one to practice harder and develop the mind.
 4. **Vattā** - A Counselor: They are capable of speaking effectively, offering admonition, guidance, and correction when necessary.
 5. **Vacanakkhamo** - A Patient Listener: They are willing to listen patiently to one's problems, questions, and even criticisms without getting angry.
-6. **Gambhīraṃ kathaṃ kattā** - A Speaker on deep subjects: They are capable of discussing profound Dhamma topics (dependent origination, insight, Nibbāna) accurately.
+6. **Gambhīraṃ kathaṃ kattā** - A Speaker on deep subjects: They are capable of discussing profound [Dhamma](/glossary/dhamma/) topics (dependent origination, insight, [Nibbāna](/glossary/nibbana/)) accurately.
 7. **No ca aṭṭhāne niyojaye** - Never leads to ruin: They never encourage one to do anything unwholesome, illegal, or detrimental to spiritual progress.
 
 ### Textual References
-* **Canonical**: *Mitta Sutta* (AN 7.36) – The Buddha states that a monk should associate with a friend possessing these seven qualities, even if that friend tries to send him away.
+* **Canonical**: *Mitta [Sutta](/glossary/sutta/)* (AN 7.36) – The Buddha states that a monk should associate with a friend possessing these seven qualities, even if that friend tries to send him away.

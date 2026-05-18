@@ -22,5 +22,5 @@ The Stations of Mastery (*Abhibhāyatana*) are advanced meditative attainments w
 8. **Not perceiving form internally, one sees forms externally as white (odāta):** One attains mastery over the white kasina.
 
 ### Textual References
-* **Canonical**: *Mahāparinibbāna Sutta* (DN 16) – The Buddha explains these stations to Ānanda shortly before his passing.
-* **Commentary**: *Visuddhimagga* (Chapter V) – Explains how these eight stations relate directly to the mastery of the color and element kasinas.
+* **Canonical**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) [Sutta](/glossary/sutta/)* (DN 16) – The Buddha explains these stations to Ānanda shortly before his passing.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter V) – Explains how these eight stations relate directly to the mastery of the color and element kasinas.

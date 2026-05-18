@@ -22,4 +22,4 @@ The holy life requires continuous vigilance. The Buddha identified eight specifi
 8. **Pāpamittatā** - Evil Friendship: Letting down one's guard and being led astray by corrupt, lazy, or worldly companions.
 
 ### Textual References
-* **Canonical**: *Pariyyādāna Sutta* (AN 8.7) – The Buddha explains that these eight things endlessly spin around the world, completely consuming those who lack mindfulness.
+* **Canonical**: *Pariyyādāna [Sutta](/glossary/sutta/)* (AN 8.7) – The Buddha explains that these eight things endlessly spin around the world, completely consuming those who lack mindfulness.

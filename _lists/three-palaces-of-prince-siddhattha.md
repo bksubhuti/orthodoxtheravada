@@ -17,4 +17,4 @@ Prior to his renunciation, Prince Siddhattha lived a life of ultimate sensory in
 3. **Subha:** The highly fortified palace engineered to handle the torrential downpours and humidity of the rainy season (*Vassāna*), where the Prince remained sequestered for four months surrounded by female musicians.
 
 ### Textual References
-* **Canonical**: *Sukhumāla Sutta* (AN 3.39) – The Buddha describes his extreme luxury as a young prince inside these three palaces, explaining how deep reflection on aging, sickness, and death caused his intoxication with life to completely evaporate.
+* **Canonical**: *Sukhumāla [Sutta](/glossary/sutta/)* (AN 3.39) – The Buddha describes his extreme luxury as a young prince inside these three palaces, explaining how deep reflection on aging, sickness, and death caused his intoxication with life to completely evaporate.

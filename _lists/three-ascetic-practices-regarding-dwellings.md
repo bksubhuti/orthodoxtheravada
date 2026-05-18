@@ -17,4 +17,4 @@ The final structural section of the 13 *dhutaṅgas* focuses on the environment 
 3. **Yathāsanthatik'aṅga** - Whatever-lodging User's Practice: Perfect contentment regarding accommodation. Acceptingly sleeping in whatever specific cell, cave, or corner is assigned by the monastery administrator, completely suppressing criticism or preference.
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapter II) – The final section of the ascetic matrix, explaining how these continuous dwelling disciplines permanently flatten worldly luxury and secure access concentration.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter II) – The final section of the ascetic matrix, explaining how these continuous dwelling disciplines permanently flatten worldly luxury and secure access concentration.

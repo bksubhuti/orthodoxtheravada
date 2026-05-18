@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya", "Samyutta Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-In ancient Buddhist geography and cosmology, northern India is referred to as *Jambudīpa* (The Rose-Apple Continent). The Buddha frequently utilized the geography of this landscape for similes, specifically using the five massive rivers that flowed from the Himalayas to describe the irreversible, flowing nature of the path toward Nibbāna.
+In ancient Buddhist geography and cosmology, northern India is referred to as *Jambudīpa* (The Rose-Apple Continent). The Buddha frequently utilized the geography of this landscape for similes, specifically using the five massive rivers that flowed from the Himalayas to describe the irreversible, flowing nature of the path toward [Nibbāna](/glossary/nibbana/).
 
 ### The List
 1. **Gaṅgā** - The Ganges River: The primary, most sacred river system, flowing eastward.

@@ -20,10 +20,10 @@ In ancient Indian cosmology, a being who has accumulated unimaginable kammic mer
 14. **Suvaṇṇavaṇṇo** - His complexion is like gold.
 18. **Sattussado** - His body is filled out in seven places (hands, feet, shoulders, trunk).
 27. **Pahūtajivho** - He has a large, long tongue.
-28. **Brahmassaro** - He has a voice like the Brahma god, clear and resonant like a karavīka bird.
+28. **Brahmassaro** - He has a voice like the [Brahma](/glossary/brahma/) god, clear and resonant like a karavīka bird.
 31. **Uṇṇā bhamukantare jātā** - He has a tuft of hair between his eyebrows, white like cotton.
 32. **Uṇhīsasīso** - His head is shaped like a royal turban (the uṇhīsa).
 *(See canonical texts for the complete anatomical list).*
 
 ### Textual References
-* **Canonical**: *Lakkhaṇa Sutta* (DN 30) – The Buddha details all 32 marks and explicitly explains the specific wholesome kamma from past lives that produced each individual mark.
+* **Canonical**: *Lakkhaṇa [Sutta](/glossary/sutta/)* (DN 30) – The Buddha details all 32 marks and explicitly explains the specific wholesome [kamma](/glossary/kamma/) from past lives that produced each individual mark.

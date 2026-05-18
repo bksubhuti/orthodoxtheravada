@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-Teaching the Dhamma effectively requires both internal technical mastery and external rhetorical skill. The Buddha evaluated those who preach the doctrine by organizing them into a distinct fourfold matrix based on whether they speak briefly or extensively, and whether their audience can actually comprehend the meaning.
+Teaching the [Dhamma](/glossary/dhamma/) effectively requires both internal technical mastery and external rhetorical skill. The Buddha evaluated those who preach the doctrine by organizing them into a distinct fourfold matrix based on whether they speak briefly or extensively, and whether their audience can actually comprehend the meaning.
 
 ### The List
 1. The preacher who speaks briefly, but whose audience fails to understand or absorb the spiritual meaning.
@@ -18,4 +18,4 @@ Teaching the Dhamma effectively requires both internal technical mastery and ext
 4. The preacher who speaks extensively with rich detail, and whose audience completely understands, absorbs, and applies the profound meaning. He is the master teacher.
 
 ### Textual References
-* **Canonical**: *Dhammakathika Sutta* (AN 4.139) – The Buddha outlines these four combinations to guide monks in tailoring their teaching style to match the capacity of their listeners.
+* **Canonical**: *Dhammakathika [Sutta](/glossary/sutta/)* (AN 4.139) – The Buddha outlines these four combinations to guide monks in tailoring their teaching style to match the capacity of their listeners.

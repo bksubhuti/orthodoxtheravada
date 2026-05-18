@@ -9,7 +9,7 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Sumangalavilasini"]
 ---
 ### Overview
-The Sutta Piṭaka contains the conventional teachings and sermons of the Buddha. At the First Buddhist Council in Rājagaha, the senior Arahats organized this vast collection of discourses into five distinct structural repositories, known as *Nikāyas* (Collections), primarily grouped according to the length and content style of the texts.
+The [Sutta](/glossary/sutta/) Piṭaka contains the conventional teachings and sermons of the Buddha. At the First Buddhist Council in Rājagaha, the senior Arahats organized this vast collection of discourses into five distinct structural repositories, known as *Nikāyas* (Collections), primarily grouped according to the length and content style of the texts.
 
 ### The List
 1. **Dīgha Nikāya** - The Long Collection: Consisting of 34 major, expansive discourses dealing with philosophy, cosmic origins, and debates with other religious leaders.
@@ -19,4 +19,4 @@ The Sutta Piṭaka contains the conventional teachings and sermons of the Buddha
 5. **Khuddaka Nikāya** - The Minor Collection: A diverse anthology of 15 independent books (in the Sri Lankan tradition) containing verses, history, and highly ancient poetic treatises.
 
 ### Textual References
-* **Canonical**: *Cullavagga* (Vinaya Piṭaka) – Records the First Buddhist Council where Ven. Mahākassapa interrogated Ven. Ānanda to compile and classify the discourses.
+* **Canonical**: *[Cullavagga](/glossary/cullavagga/)* ([Vinaya](/glossary/vinaya/) Piṭaka) – Records the First Buddhist Council where Ven. Mahākassapa interrogated Ven. Ānanda to compile and classify the discourses.

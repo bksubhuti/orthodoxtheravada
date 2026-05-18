@@ -9,7 +9,7 @@ canonical_texts: ["Digha Nikaya"]
 commentaries: ["Sumangalavilasini"]
 ---
 ### Overview
-The 32 Marks of a Great Man (*Mahāpurisalakkhaṇa*) are not exclusive to the Buddha. A Bodhisatta's immense kammic merit dictates that if he chooses to remain a householder, he will inevitably become a *Cakkavatti* (a Wheel-Turning Monarch). He bears the exact same 32 physical marks as a Buddha, but utilizes them to rule the world righteously rather than to teach liberation.
+The 32 Marks of a Great Man (*Mahāpurisalakkhaṇa*) are not exclusive to the Buddha. A [Bodhisatta](/glossary/bodhisatta/)'s immense kammic merit dictates that if he chooses to remain a householder, he will inevitably become a *Cakkavatti* (a Wheel-Turning Monarch). He bears the exact same 32 physical marks as a Buddha, but utilizes them to rule the world righteously rather than to teach liberation.
 
 ### The List
 *(A Cakkavatti shares the identical 32 marks as the Buddha, including:)*
@@ -23,7 +23,7 @@ The 32 Marks of a Great Man (*Mahāpurisalakkhaṇa*) are not exclusive to the B
 32. The turban-like protrusion on the head (*uṇhīsa*).
 
 **The Difference:**
-While the Buddha is attended by monks and realizes Nibbāna, the Cakkavatti is attended by the Seven Royal Treasures (The Wheel, the Elephant, the Horse, the Jewel, the Woman, the Treasurer, the Advisor) and conquers the four continents without using a single weapon, ruling strictly by the Dhamma.
+While the Buddha is attended by monks and realizes [Nibbāna](/glossary/nibbana/), the Cakkavatti is attended by the Seven Royal Treasures (The Wheel, the Elephant, the Horse, the Jewel, the Woman, the Treasurer, the Advisor) and conquers the four continents without using a single weapon, ruling strictly by the [Dhamma](/glossary/dhamma/).
 
 ### Textual References
-* **Canonical**: *Cakkavattisīhanāda Sutta* (DN 26) – Details the righteous rule and destiny of the Wheel-Turning Monarch.
+* **Canonical**: *Cakkavattisīhanāda [Sutta](/glossary/sutta/)* (DN 26) – Details the righteous rule and destiny of the Wheel-Turning Monarch.

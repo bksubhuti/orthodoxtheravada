@@ -9,7 +9,7 @@ canonical_texts: ["Samyutta Nikaya"]
 commentaries: ["Papancasudani"]
 ---
 ### Overview
-Feeling (*vedanā*) is the affective tone or "flavor" of every conscious experience. It is a critical link in Dependent Origination, as the unenlightened mind habitually reacts to these three feelings with craving or aversion. Mindfulness of feeling (*vedanānupassanā*) is essential to breaking the cycle.
+Feeling (*[vedanā](/glossary/vedana/)*) is the affective tone or "flavor" of every conscious experience. It is a critical link in Dependent Origination, as the unenlightened mind habitually reacts to these three feelings with craving or aversion. Mindfulness of feeling (*vedanānupassanā*) is essential to breaking the cycle.
 
 ### The List
 1. **Sukhā vedanā** - Pleasant feeling: A physical or mental sensation that is agreeable and comfortable. The untrained mind reacts to this with greed and attachment.

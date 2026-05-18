@@ -9,7 +9,7 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-In the Abhidhamma, an "Indriya" (Faculty) is a controlling principle—a phenomenon that exercises supreme dominance over its specific domain. The ancient masters categorized all of physical biology, mental affective states, and supramundane spiritual attainments into a master list of 22 controlling faculties.
+In the [Abhidhamma](/glossary/abhidhamma/), an "[Indriya](/glossary/indriya/)" (Faculty) is a controlling principle—a phenomenon that exercises supreme dominance over its specific domain. The ancient masters categorized all of physical biology, mental affective states, and supramundane spiritual attainments into a master list of 22 controlling faculties.
 
 ### The List
 **The 6 Sensory Faculties:**
@@ -32,4 +32,4 @@ In the Abhidhamma, an "Indriya" (Faculty) is a controlling principle—a phenome
 22. "He who knows" faculty (possessed exclusively by Arahats).
 
 ### Textual References
-* **Abhidhamma**: *Vibhaṅga* (Indriyavibhaṅga) – The canonical analysis of how these 22 control the existence and liberation of beings.
+* **Abhidhamma**: *[Vibhaṅga](/glossary/vibhanga/)* (Indriyavibhaṅga) – The canonical analysis of how these 22 control the existence and liberation of beings.

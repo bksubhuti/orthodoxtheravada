@@ -19,4 +19,4 @@ Directly related to the mental barrennesses, the "bondages" or "shackles" of the
 5. **Practicing for heavenly rebirth:** Living the holy life merely with the aspiration to be reborn in a specific realm of devas (gods), rather than for final liberation.
 
 ### Textual References
-* **Canonical**: *Cetokhila Sutta* (MN 16) – The Buddha pairs these five bondages with the five barrennesses as the primary reasons a monk's effort fails.
+* **Canonical**: *Cetokhila [Sutta](/glossary/sutta/)* (MN 16) – The Buddha pairs these five bondages with the five barrennesses as the primary reasons a monk's effort fails.

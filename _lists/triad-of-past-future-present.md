@@ -9,7 +9,7 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Atthasalini"]
 ---
 ### Overview
-The eighteenth triad of the Abhidhamma Mātikā classifies all conditioned phenomena strictly according to time. In Theravāda Abhidhamma, time is not an absolute container, but merely a concept derived from the arising and ceasing of the elements (*dhammā*) themselves. Nibbāna is completely excluded from this triad because it is timeless.
+The eighteenth triad of the [Abhidhamma](/glossary/abhidhamma/) Mātikā classifies all conditioned phenomena strictly according to time. In Theravāda Abhidhamma, time is not an absolute container, but merely a concept derived from the arising and ceasing of the elements (*dhammā*) themselves. [Nibbāna](/glossary/nibbana/) is completely excluded from this triad because it is timeless.
 
 ### The List
 1. **Atītā dhammā** - Past states: Conditioned phenomena (mind and matter) that have arisen, passed through their brief moment of presence, and have completely dissolved and ceased.
@@ -17,4 +17,4 @@ The eighteenth triad of the Abhidhamma Mātikā classifies all conditioned pheno
 3. **Paccuppannā dhammā** - Present states: Conditioned phenomena that are currently existing in the fleeting phase between their arising and their dissolution.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Mātikā 18) – Formalizes the temporal categorization of the five aggregates. Nibbāna is unclassified here because it has no arising or ceasing.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Mātikā 18) – Formalizes the temporal categorization of the five aggregates. Nibbāna is unclassified here because it has no arising or ceasing.

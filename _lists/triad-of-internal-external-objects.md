@@ -9,7 +9,7 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Atthasalini"]
 ---
 ### Overview
-The twenty-first triad of the Abhidhamma Mātikā classifies consciousness based on whether the object it is currently focused upon belongs to one's own continuum or to the continuum of another (or inanimate matter). 
+The twenty-first triad of the [Abhidhamma](/glossary/abhidhamma/) Mātikā classifies consciousness based on whether the object it is currently focused upon belongs to one's own continuum or to the continuum of another (or inanimate matter). 
 
 ### The List
 1. **Ajjhattārammaṇā dhammā** - States with internal objects: Consciousness that is cognizing one's own mental states, feelings, or one's own physical body.
@@ -17,4 +17,4 @@ The twenty-first triad of the Abhidhamma Mātikā classifies consciousness based
 3. **Ajjhattabahiddhārammaṇā dhammā** - States with internal and external objects: Consciousness that shifts its focus alternately between one's own phenomena and external phenomena.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Mātikā 21) – Explains the cognitive mechanism behind empathy, telepathy, and external physical perception.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Mātikā 21) – Explains the cognitive mechanism behind empathy, telepathy, and external physical perception.

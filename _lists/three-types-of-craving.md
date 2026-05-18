@@ -9,7 +9,7 @@ canonical_texts: ["Samyutta Nikaya"]
 commentaries: ["Sammohavinodani"]
 ---
 ### Overview
-Craving (*taṇhā*) is identified in the Second Noble Truth as the origin of suffering. It is a relentless thirst that can never be fully satisfied. The Buddha categorized this craving into three distinct operational modes, covering the entirety of human ambition and existential desire.
+Craving (*[taṇhā](/glossary/tanha/)*) is identified in the Second Noble Truth as the origin of suffering. It is a relentless thirst that can never be fully satisfied. The Buddha categorized this craving into three distinct operational modes, covering the entirety of human ambition and existential desire.
 
 ### The List
 1. **Kāmataṇhā** - Craving for sensual pleasures: The thirst for the enjoyment of the five physical senses—desiring beautiful sights, sweet sounds, fragrant smells, delicious tastes, and pleasant bodily touches.
@@ -17,4 +17,4 @@ Craving (*taṇhā*) is identified in the Second Noble Truth as the origin of su
 3. **Vibhavataṇhā** - Craving for non-existence: The desire for annihilation, escaping from pain by ceasing to exist. It is driven by aversion and often accompanied by the annihilationist view (*ucchedadiṭṭhi*).
 
 ### Textual References
-* **Canonical**: *Dhammacakkappavattana Sutta* (SN 56.11) – The Buddha explicitly defines the origin of suffering as these three specific forms of craving.
+* **Canonical**: *Dhammacakkappavattana [Sutta](/glossary/sutta/)* (SN 56.11) – The Buddha explicitly defines the origin of suffering as these three specific forms of craving.

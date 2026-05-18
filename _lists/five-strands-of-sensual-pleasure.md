@@ -19,4 +19,4 @@ The "world" that the Buddha teaches us to transcend is not the physical planet, 
 5. **Phoṭṭhabbā** - Tactile sensations: Tangible objects cognizable by the body that are desirable, agreeable, and sensually enticing (especially sexual contact).
 
 ### Textual References
-* **Canonical**: *Mahādukkhakkhandha Sutta* (MN 13) – The Buddha explains the gratification, the immense danger, and the ultimate escape from these five strands.
+* **Canonical**: *Mahādukkhakkhandha [Sutta](/glossary/sutta/)* (MN 13) – The Buddha explains the gratification, the immense danger, and the ultimate escape from these five strands.

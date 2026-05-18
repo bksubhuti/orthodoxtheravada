@@ -9,7 +9,7 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
 ### Overview
-Theravāda monks are strictly forbidden from consuming any food or nutritive substances after solar noon. However, to sustain the body during illness or exhaustion, the Buddha designated five specific fat and sugar substances as "Medicines" (*Bhesajja*). These five items are unique because they can be stored for up to seven days and consumed in the afternoon without breaking the monastic fasting rule.
+Theravāda monks are strictly forbidden from consuming any food or nutritive substances after solar noon. However, to sustain the body during illness or exhaustion, the Buddha designated five specific fat and sugar substances as "Medicines" (*[Bhesajja](/glossary/bhesajja/)*). These five items are unique because they can be stored for up to seven days and consumed in the afternoon without breaking the monastic fasting rule.
 
 ### The List
 1. **Sappi** - Ghee: Clarified butter made from the milk of cows, buffaloes, or goats, providing heavy physical sustenance and therapeutic heat.
@@ -19,4 +19,4 @@ Theravāda monks are strictly forbidden from consuming any food or nutritive sub
 5. **Phaṇita** - Molasses / Sugar: Boiling juice extracted from sugar cane or palm trees, boiled down into a thick syrup or solid blocks to relieve fatigue.
 
 ### Textual References
-* **Canonical**: *Bhesajja Khandhaka* (Mahāvagga, Vinaya) – The Buddha formally permits these five tonics after noticing that monks traveling during the hot season were becoming dangerously emaciated and weak.
+* **Canonical**: *Bhesajja [Khandhaka](/glossary/khandhaka/)* ([Mahāvagga](/glossary/mahavagga/), [Vinaya](/glossary/vinaya/)) – The Buddha formally permits these five tonics after noticing that monks traveling during the hot season were becoming dangerously emaciated and weak.

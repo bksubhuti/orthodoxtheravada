@@ -18,4 +18,4 @@ In the same discourse where he taught wealth management, the Buddha immediately 
 4. **Paññāsampadā** - Accomplishment in wisdom: Possessing the insight that sees the arising and passing away of phenomena, which is noble, penetrative, and leads directly to the complete destruction of suffering.
 
 ### Textual References
-* **Canonical**: *Dīghajāṇu Sutta* (AN 8.54) – The Buddha states that these four qualities lead to happiness and welfare in future lives.
+* **Canonical**: *Dīghajāṇu [Sutta](/glossary/sutta/)* (AN 8.54) – The Buddha states that these four qualities lead to happiness and welfare in future lives.

@@ -18,5 +18,5 @@ The Buddha highly praised forest dwelling (*āraññik'aṅga*) as the ideal lif
 4. **Amanussabhaya** - Fear of Non-human Entities: The intense psychological terror caused by malevolent spirits, yakkhas, or invisible non-physical beings that haunt desolate wilderness areas.
 
 ### Textual References
-* **Canonical**: *Abhaya Sutta* (AN 4.184) – The Buddha lists various categories of physical and spiritual panic.
+* **Canonical**: *Abhaya [Sutta](/glossary/sutta/)* (AN 4.184) – The Buddha lists various categories of physical and spiritual panic.
 * **Canonical**: *Bhayabherava Sutta* (MN 4) – The Buddha recounts his own early struggles with extreme forest terror before his awakening and how he conquered it.

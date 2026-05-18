@@ -19,4 +19,4 @@ Within the 13 strict Ascetic Practices (*Dhutaṅga*) outlined in the Theravāda
 5. **Khalupacchābhattik'aṅga** - The Later-food Refuser's Practice: Declining any secondary helpings or additional food items brought forward once the monk has formally signaled that his meal has commenced.
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapter II) – Outlines the rules, the structural boundaries, and the precise methods for maintaining these five nutritional austerities.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter II) – Outlines the rules, the structural boundaries, and the precise methods for maintaining these five nutritional austerities.

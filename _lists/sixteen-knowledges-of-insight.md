@@ -9,7 +9,7 @@ canonical_texts: ["Patisambhidamagga"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-As a meditator engages in strict *vipassanā* (insight) meditation, their realization does not happen all at once. According to the Mahāvihāra tradition, the mind passes through a highly predictable, standardized sequence of sixteen distinct experiential knowledges (*ñāṇa*), charting the exact psychological journey from mundane observation to the supramundane realization of Nibbāna.
+As a meditator engages in strict *[vipassanā](/glossary/vipassana/)* (insight) meditation, their realization does not happen all at once. According to the [Mahāvihāra](/glossary/maha-vihara/) tradition, the mind passes through a highly predictable, standardized sequence of sixteen distinct experiential knowledges (*ñāṇa*), charting the exact psychological journey from mundane observation to the supramundane realization of [Nibbāna](/glossary/nibbana/).
 
 ### The List
 1. **Nāmarūpapariccheda-ñāṇa:** Knowledge defining mentality-materiality.
@@ -30,4 +30,4 @@ As a meditator engages in strict *vipassanā* (insight) meditation, their realiz
 16. **Paccavekkhaṇa-ñāṇa:** Reviewing knowledge (the subsequent intellectual review of what was just attained and the defilements abandoned).
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapters XVIII–XXII) – Buddhaghosa's magnus opus details the exact emotional and cognitive markers of every single step on this list.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapters XVIII–XXII) – Buddhaghosa's magnus opus details the exact emotional and cognitive markers of every single step on this list.

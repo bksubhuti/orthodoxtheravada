@@ -9,7 +9,7 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
 ### Overview
-The *Pārājikā* (Defeats) are the four most severe rules in the monastic code (Pāṭimokkha). If a fully ordained bhikkhu breaks even one of these rules, he is instantly "defeated," loses his status as a monk, and is permanently expelled from the Saṅgha for the rest of his life. 
+The *Pārājikā* (Defeats) are the four most severe rules in the monastic code (Pāṭimokkha). If a fully ordained [bhikkhu](/glossary/bhikkhu/) breaks even one of these rules, he is instantly "defeated," loses his status as a monk, and is permanently expelled from the [Saṅgha](/glossary/sangha/) for the rest of his life. 
 
 ### The List
 1. **Methunadhamma** - Sexual Intercourse: Engaging in any form of sexual intercourse, even with an animal. A monk must maintain absolute celibacy.
@@ -18,4 +18,4 @@ The *Pārājikā* (Defeats) are the four most severe rules in the monastic code 
 4. **Uttarimanussadhamma** - Falsely claiming superior states: Telling a deliberate lie that one has attained jhānas, psychic powers, or supramundane paths and fruits (Arahatship), knowing one has not attained them.
 
 ### Textual References
-* **Canonical**: *Suttavibhaṅga* (Vinaya Piṭaka) – The very first section of the Vinaya details the origin stories and exact legal definitions for each of these four defeats.
+* **Canonical**: *[Suttavibhaṅga](/glossary/suttavibhanga/)* ([Vinaya](/glossary/vinaya/) Piṭaka) – The very first section of the Vinaya details the origin stories and exact legal definitions for each of these four defeats.

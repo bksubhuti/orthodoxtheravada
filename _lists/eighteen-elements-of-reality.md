@@ -9,7 +9,7 @@ canonical_texts: ["Samyutta Nikaya", "Abhidhamma"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-To completely shatter the illusion of a unified "self" or "soul," the Buddha broke down the entirety of existence—both physical and mental, internal and external—into eighteen ultimate Elements (*Dhātu*). Everything that can possibly be experienced in the universe is simply the interaction of these eighteen irreducible, conditioned realities.
+To completely shatter the illusion of a unified "self" or "soul," the Buddha broke down the entirety of existence—both physical and mental, internal and external—into eighteen ultimate Elements (*[Dhātu](/glossary/dhatu/)*). Everything that can possibly be experienced in the universe is simply the interaction of these eighteen irreducible, conditioned realities.
 
 ### The List
 **The 6 Sense Organs (Internal):**
@@ -38,4 +38,4 @@ To completely shatter the illusion of a unified "self" or "soul," the Buddha bro
 
 ### Textual References
 * **Canonical**: *Dhātu Saṃyutta* (SN 14) – The Buddha explains how these elements interact based on causes and conditions, proving they are devoid of a self.
-* **Abhidhamma**: *Vibhaṅga* – Extensively analyzes the precise nature of these 18 elements.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* – Extensively analyzes the precise nature of these 18 elements.

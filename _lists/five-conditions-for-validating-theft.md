@@ -9,7 +9,7 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
 ### Overview
-The legal hermeneutics of the Vinaya are intensely precise. For a monk to break the 2nd Pārājika rule (resulting in permanent expulsion) or for a layperson to fully break the 2nd precept, the act of stealing must pass a stringent five-part test. If even one of these five legal elements is missing, the crime is technically incomplete or drops to a lesser category of offense.
+The legal hermeneutics of the [Vinaya](/glossary/vinaya/) are intensely precise. For a monk to break the 2nd [Pārājika](/glossary/parajika/) rule (resulting in permanent expulsion) or for a layperson to fully break the 2nd precept, the act of stealing must pass a stringent five-part test. If even one of these five legal elements is missing, the crime is technically incomplete or drops to a lesser category of offense.
 
 ### The List
 1. **Paraparigghitaṃ** - Belonging to Another: The physical object must genuinely be owned or legally protected by another living human being or entity.
@@ -19,4 +19,4 @@ The legal hermeneutics of the Vinaya are intensely precise. For a monk to break 
 5. **Avahāro** - Physical Displacement: The ultimate legal trigger. The object must be physically moved, shifted, or removed from its original position due to that action.
 
 ### Textual References
-* **Commentary**: *Samantapāsādikā* (Commentary on the 2nd Pārājika) – Provides the exhaustive case-law breakdown utilized by monastic councils to judge cases of theft.
+* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* (Commentary on the 2nd Pārājika) – Provides the exhaustive case-law breakdown utilized by monastic councils to judge cases of theft.

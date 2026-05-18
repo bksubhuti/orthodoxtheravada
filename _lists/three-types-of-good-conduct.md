@@ -17,5 +17,5 @@ When driven by wholesome roots (non-greed, non-hatred, non-delusion), the three 
 3. **Manosucarita** - Good mental conduct: Being free from covetousness, free from ill-will, and holding right view.
 
 ### Textual References
-* **Canonical**: *Sucarita Sutta* (AN 3.3) – The Buddha lists these three as the primary modes of wholesome kamma.
+* **Canonical**: *Sucarita [Sutta](/glossary/sutta/)* (AN 3.3) – The Buddha lists these three as the primary modes of wholesome [kamma](/glossary/kamma/).
 * **Canonical**: *Sāleyyaka Sutta* (MN 41) – Explains how these modes of conduct lead to rebirth in the heavenly realms.

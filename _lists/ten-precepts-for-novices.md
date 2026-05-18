@@ -9,7 +9,7 @@ canonical_texts: ["Vinaya Pitaka", "Khuddakapatha"]
 commentaries: ["Paramatthajotika"]
 ---
 ### Overview
-When a person goes forth from the household life but is not yet fully ordained as a Bhikkhu (often because they are under 20 years old), they become a *Sāmaṇera* (novice monk). The foundational moral code for a novice consists of these ten strict precepts (*Dasasīla*), which they must maintain flawlessly. 
+When a person goes forth from the household life but is not yet fully ordained as a [Bhikkhu](/glossary/bhikkhu/) (often because they are under 20 years old), they become a *[Sāmaṇera](/glossary/samanera/)* (novice monk). The foundational moral code for a novice consists of these ten strict precepts (*Dasasīla*), which they must maintain flawlessly. 
 
 ### The List
 1. **Pāṇātipātā...** - Abstaining from killing.
@@ -18,11 +18,11 @@ When a person goes forth from the household life but is not yet fully ordained a
 4. **Musāvādā...** - Abstaining from false speech.
 5. **Surāmeraya...** - Abstaining from intoxicants.
 6. **Vikālabhojanā...** - Abstaining from eating after noon.
-7. **Nacca-gīta-vādita-visūkadassanā veramaṇī...** - Abstaining from dancing, singing, instrumental music, and watching worldly entertainments. *(Note: This splits the 7th Uposatha precept).*
+7. **Nacca-gīta-vādita-visūkadassanā veramaṇī...** - Abstaining from dancing, singing, instrumental music, and watching worldly entertainments. *(Note: This splits the 7th [Uposatha](/glossary/uposatha/) precept).*
 8. **Mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇī...** - Abstaining from wearing garlands, perfumes, cosmetics, and bodily adornments.
 9. **Uccāsayana-mahāsayanā...** - Abstaining from high and luxurious beds.
 10. **Jātarūpa-rajata-paṭiggahaṇā veramaṇī sikkhāpadaṃ samādiyāmi** - I undertake the training rule to abstain from accepting gold and silver (money): A novice cannot handle, request, or consent to money being held for them.
 
 ### Textual References
 * **Canonical**: *Dasasikkhāpada* (Khp 2) – The formal recitation of the ten novice precepts.
-* **Canonical**: *Mahāvagga* (Vinaya) – The Buddha lays down these ten rules for Rāhula and all future novices.
+* **Canonical**: *[Mahāvagga](/glossary/mahavagga/)* ([Vinaya](/glossary/vinaya/)) – The Buddha lays down these ten rules for Rāhula and all future novices.

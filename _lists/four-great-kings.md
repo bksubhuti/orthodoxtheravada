@@ -9,7 +9,7 @@ canonical_texts: ["Digha Nikaya", "Anguttara Nikaya"]
 commentaries: ["Sumangalavilasini"]
 ---
 ### Overview
-The *Cātummahārājika* plane is the lowest heavenly realm, situated on the slopes of Mount Sineru. This celestial quadrant is ruled over by four mighty Deva Kings (*Mahārājāno*). They are the traditional guardians of the human world, tasked with monitoring human morality and defending the terrestrial spheres from dark, chaotic forces.
+The *Cātummahārājika* plane is the lowest heavenly realm, situated on the slopes of Mount Sineru. This celestial quadrant is ruled over by four mighty [Deva](/glossary/deva/) Kings (*Mahārājāno*). They are the traditional guardians of the human world, tasked with monitoring human morality and defending the terrestrial spheres from dark, chaotic forces.
 
 ### The List
 1. **Dhataraṭṭha:** The Great King of the **East**. He rules over the celestial musicians (*Gandhabbas*) and his color is traditionally radiant white.
@@ -18,4 +18,4 @@ The *Cātummahārājika* plane is the lowest heavenly realm, situated on the slo
 4. **Vessavaṇa (Kuvera):** The Great King of the **North**. He rules over the powerful nature-spirits and guardians (*Yakkhas*). He is the supreme leader of the four, possessing immense wealth and unshakeable devotion to the Buddha.
 
 ### Textual References
-* **Canonical**: *Āṭānāṭiya Sutta* (DN 32) – The four kings arrive with their celestial armies to present the Buddha with a protective chant for the safety of monks meditating in remote forests.
+* **Canonical**: *Āṭānāṭiya [Sutta](/glossary/sutta/)* (DN 32) – The four kings arrive with their celestial armies to present the Buddha with a protective chant for the safety of monks meditating in remote forests.

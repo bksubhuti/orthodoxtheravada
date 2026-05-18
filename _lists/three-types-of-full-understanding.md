@@ -9,7 +9,7 @@ canonical_texts: ["Majjhima Nikaya", "Niddesa"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-In Theravāda insight meditation, one does not simply "understand" reality in a single flash. The process of comprehending the nature of the aggregates (*khandha*) unfolds in three distinct, sequential stages of mastery, known as the Full Understandings (*Pariññā*).
+In Theravāda insight meditation, one does not simply "understand" reality in a single flash. The process of comprehending the nature of the aggregates (*[khandha](/glossary/khandha/)*) unfolds in three distinct, sequential stages of mastery, known as the Full Understandings (*Pariññā*).
 
 ### The List
 1. **Ñāta-pariññā** - Full Understanding as the Known: The intellectual and direct observational knowledge that precisely defines the specific characteristics of mentality and materiality (e.g., distinguishing feeling from perception).
@@ -17,4 +17,4 @@ In Theravāda insight meditation, one does not simply "understand" reality in a 
 3. **Pahāna-pariññā** - Full Understanding as Abandoning: The supreme level of insight (culminating in the supramundane paths) that completely relinquishes all craving and clinging to the investigated phenomena.
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapter XX) – Buddhaghosa maps these three understandings directly onto the Seven Stages of Purification, charting the exact progress of the meditator.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XX) – Buddhaghosa maps these three understandings directly onto the Seven Stages of Purification, charting the exact progress of the meditator.

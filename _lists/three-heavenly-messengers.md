@@ -14,7 +14,7 @@ The "Heavenly Messengers" are not literal angels, but profound, inescapable real
 ### The List
 1. **An old, decrepit person:** A reminder that youth is fleeting and that one is subject to aging and physical decay.
 2. **A severely sick, suffering person:** A reminder that health is fragile and that one is subject to illness and severe pain.
-3. **A dead corpse:** A reminder that life is finite and that one is subject to inevitable death, after which only kamma remains.
+3. **A dead corpse:** A reminder that life is finite and that one is subject to inevitable death, after which only [kamma](/glossary/kamma/) remains.
 
 ### Textual References
-* **Canonical**: *Devadūta Sutta* (AN 3.36) – King Yama questions a being in hell on whether they saw these three messengers among humans and failed to act wholesomely.
+* **Canonical**: *Devadūta [Sutta](/glossary/sutta/)* (AN 3.36) – King Yama questions a being in hell on whether they saw these three messengers among humans and failed to act wholesomely.

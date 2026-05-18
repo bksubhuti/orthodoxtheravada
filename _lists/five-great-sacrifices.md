@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-While ordinary giving (*dāna*) involves material objects, the Buddha redefined the "Great Sacrifices" by equating them with the Five Precepts. When a person observes the precepts flawlessly, they are granting the greatest possible gift to the entire world: the gift of safety.
+While ordinary giving (*[dāna](/glossary/dana/)*) involves material objects, the Buddha redefined the "Great Sacrifices" by equating them with the Five Precepts. When a person observes the precepts flawlessly, they are granting the greatest possible gift to the entire world: the gift of safety.
 
 ### The List
 1. **Abstaining from killing:** Gives the gift of fearlessness and safety from violence to immeasurable beings.
@@ -19,4 +19,4 @@ While ordinary giving (*dāna*) involves material objects, the Buddha redefined 
 5. **Abstaining from intoxicants:** Gives the gift of safety from the reckless, heedless behavior caused by drunkenness to immeasurable beings.
 
 ### Textual References
-* **Canonical**: *Abhisanda Sutta* (AN 8.39) – The Buddha declares that maintaining the five precepts is an original, long-standing, traditional "Great Gift" (*mahādāna*) that leads to heavenly rebirth.
+* **Canonical**: *Abhisanda [Sutta](/glossary/sutta/)* (AN 8.39) – The Buddha declares that maintaining the five precepts is an original, long-standing, traditional "Great Gift" (*mahādāna*) that leads to heavenly rebirth.

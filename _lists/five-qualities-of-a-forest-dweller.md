@@ -19,4 +19,4 @@ Living in the wilderness is only spiritually fruitful if driven by the right int
 5. **Idamatthito hoti** - Endowed with the Ultimate Goal: He dwells in the forest strictly because it supports the immediate development of concentration and insight, prioritizing liberation.
 
 ### Textual References
-* **Canonical**: *Āraññika Sutta* (AN 5.181) – The Buddha evaluates the varying motivations of forest dwellers, exalting only the one driven by this fifth quality.
+* **Canonical**: *Āraññika [Sutta](/glossary/sutta/)* (AN 5.181) – The Buddha evaluates the varying motivations of forest dwellers, exalting only the one driven by this fifth quality.

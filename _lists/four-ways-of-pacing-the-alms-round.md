@@ -9,7 +9,7 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-Gathering almsfood is a primary meditative practice for a Theravāda monk. It must be conducted with absolute composure and physical restraint. The Vinaya and its commentaries define four distinct operational styles or pacing configurations that a monk utilizes when executing his walk through a village.
+Gathering almsfood is a primary meditative practice for a Theravāda monk. It must be conducted with absolute composure and physical restraint. The [Vinaya](/glossary/vinaya/) and its commentaries define four distinct operational styles or pacing configurations that a monk utilizes when executing his walk through a village.
 
 ### The List
 1. **Sapadānacārī** - Continuous Pacing: Walking systematically down a street from house to house in exact linear succession, without skipping any house based on the poverty or wealth of the inhabitants. This is the standard, most praised method.
@@ -18,4 +18,4 @@ Gathering almsfood is a primary meditative practice for a Theravāda monk. It mu
 4. **Taruṇacārī** - Guarded Pacing: The highly formal, ultra-slow, heavily restrained pacing mandatory for newly ordained novices and junior monks, designed to instill somatic discipline and prevent reckless wandering of the eyes.
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapter II) – Integrates these pacing methods into the execution of the strict alms-gathering ascetic practice (*piṇḍapātik'aṅga*).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter II) – Integrates these pacing methods into the execution of the strict alms-gathering ascetic practice (*piṇḍapātik'aṅga*).

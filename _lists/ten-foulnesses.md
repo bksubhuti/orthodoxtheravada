@@ -9,7 +9,7 @@ canonical_texts: ["Digha Nikaya", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-*Asubha* (foulness or unattractiveness) meditation is the ultimate, direct antidote to sensual lust. In ancient India, monks would visit charnel grounds to observe corpses in various states of decay. By intensely visualizing these ten stages of decomposition, the meditator shatters the illusion of bodily beauty and attains the first jhāna.
+*Asubha* (foulness or unattractiveness) meditation is the ultimate, direct antidote to sensual lust. In ancient India, monks would visit charnel grounds to observe corpses in various states of decay. By intensely visualizing these ten stages of decomposition, the meditator shatters the illusion of bodily beauty and attains the first [jhāna](/glossary/jhana/).
 
 ### The List
 1. **Uddhumātaka** - The Bloated Corpse: Contemplating a body swollen like a balloon.
@@ -24,5 +24,5 @@ commentaries: ["Visuddhimagga"]
 10. **Aṭṭhika** - The Skeleton: Contemplating a skeleton (ranging from bloody bones to bleached white bones).
 
 ### Textual References
-* **Canonical**: *Mahāsatipaṭṭhāna Sutta* (DN 22) – The Buddha details the cemetery contemplations as a primary method for observing the nature of the body.
-* **Commentary**: *Visuddhimagga* (Chapter VI) – Explains exactly which corpse is suitable for which type of lustful temperament (e.g., the bloated corpse cures lust for body shape; the bleeding corpse cures lust for jewelry/adornment).
+* **Canonical**: *Mahāsatipaṭṭhāna [Sutta](/glossary/sutta/)* (DN 22) – The Buddha details the cemetery contemplations as a primary method for observing the nature of the body.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter VI) – Explains exactly which corpse is suitable for which type of lustful temperament (e.g., the bloated corpse cures lust for body shape; the bleeding corpse cures lust for jewelry/adornment).

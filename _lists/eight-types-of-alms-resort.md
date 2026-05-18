@@ -9,7 +9,7 @@ canonical_texts: ["Khuddaka Nikaya", "Vinaya Pitaka"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-The word *Gocara* (Alms Resort) literally means "the pasture of an ox," but refers metaphorically to the village territory a monk enters to gather his daily almsfood. In the Mahāvihāra commentarial tradition, a monk's safety and concentration depend on choosing the right resort. The texts contrast proper, safe territories with specific forbidden locations (*agocara*) that present high spiritual dangers.
+The word *Gocara* (Alms Resort) literally means "the pasture of an ox," but refers metaphorically to the village territory a monk enters to gather his daily almsfood. In the [Mahāvihāra](/glossary/maha-vihara/) commentarial tradition, a monk's safety and concentration depend on choosing the right resort. The texts contrast proper, safe territories with specific forbidden locations (*agocara*) that present high spiritual dangers.
 
 ### The List
 1. **Sapadānagocara** - Consecutive Resort: The ideal village where houses are visited strictly in order, allowing for an uninterrupted, non-discriminatory alms round.
@@ -22,4 +22,4 @@ The word *Gocara* (Alms Resort) literally means "the pasture of an ox," but refe
 8. **Pānāgāra-agocara** - Forbidden Resort of Taverns: Avoiding bars, breweries, or taverns where intoxicated people congregate, ensuring the monk is safe from volatile behavior and blame.
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapter I) – Buddhaghosa details how guarding one's *gocara* is a fundamental element of the "Purification of Virtue connected to Sense Restraint."
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter I) – Buddhaghosa details how guarding one's *gocara* is a fundamental element of the "Purification of Virtue connected to Sense Restraint."

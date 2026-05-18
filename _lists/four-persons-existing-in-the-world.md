@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya", "Puggalapannatti"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-The Buddha assessed human beings based not on their current wealth or social status, but on their moral trajectory. Using the metaphors of darkness (poverty, low birth, suffering) and light (wealth, high birth, happiness), he mapped out four possible destinies based on an individual's current kamma.
+The Buddha assessed human beings based not on their current wealth or social status, but on their moral trajectory. Using the metaphors of darkness (poverty, low birth, suffering) and light (wealth, high birth, happiness), he mapped out four possible destinies based on an individual's current [kamma](/glossary/kamma/).
 
 ### The List
 1. **Tamotamaparāyaṇo** - One in darkness bound for darkness: A person born into poverty, ugliness, or severe hardship who reacts with bitterness, commits bad kamma (killing, stealing), and will be reborn in an even lower hell realm.
@@ -18,4 +18,4 @@ The Buddha assessed human beings based not on their current wealth or social sta
 4. **Jotijotiparāyaṇo** - One in light bound for light: A person born into wealth and privilege who uses their advantages to practice vast generosity and strict morality. Their good kamma will propel them to even higher heavenly realms.
 
 ### Textual References
-* **Canonical**: *Tamo Sutta* (AN 4.85) – The Buddha uses this framework to show that current circumstances do not determine future destiny; moral choices do.
+* **Canonical**: *Tamo [Sutta](/glossary/sutta/)* (AN 4.85) – The Buddha uses this framework to show that current circumstances do not determine future destiny; moral choices do.

@@ -9,7 +9,7 @@ canonical_texts: ["Samyutta Nikaya"]
 commentaries: ["Papancasudani"]
 ---
 ### Overview
-Volition (*Cetanā*) is the primary engine of Kamma. It is the active, intentional response of the mind toward an object. Representing the Aggregate of Formations (*Saṅkhārakkhandha*), volition is triggered by sensory experience, leading the being to act (wholesomely or unwholesomely) toward the six fields of objects.
+Volition (*[Cetanā](/glossary/cetana/)*) is the primary engine of [Kamma](/glossary/kamma/). It is the active, intentional response of the mind toward an object. Representing the Aggregate of Formations (*Saṅkhārakkhandha*), volition is triggered by sensory experience, leading the being to act (wholesomely or unwholesomely) toward the six fields of objects.
 
 ### The List
 1. **Rūpasañcetanā** - Volition regarding forms: The intentional mental action directed toward visual objects.
@@ -20,4 +20,4 @@ Volition (*Cetanā*) is the primary engine of Kamma. It is the active, intention
 6. **Dhammasañcetanā** - Volition regarding mental objects: The intentional mental action directed toward ideas and thoughts.
 
 ### Textual References
-* **Canonical**: *Upādānaparipatta Sutta* (SN 22.56) – The Buddha explicitly defines the aggregate of volitional formations (*saṅkhāra*) as these six classes of volition.
+* **Canonical**: *Upādānaparipatta [Sutta](/glossary/sutta/)* (SN 22.56) – The Buddha explicitly defines the aggregate of volitional formations (*[saṅkhāra](/glossary/sankhara/)*) as these six classes of volition.

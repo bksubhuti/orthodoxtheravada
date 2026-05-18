@@ -9,15 +9,15 @@ canonical_texts: ["Patisambhidamagga"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-While ordinary Arahats possess profound wisdom, a Fully Awakened Buddha possesses an intellect of unparalleled scope. The *Paṭisambhidāmagga* outlines fourteen specific analytical knowledges. Eight of these are shared with his great disciples, but six are exclusive to the Buddha alone, constituting his absolute omniscience.
+While ordinary Arahats possess profound wisdom, a Fully Awakened Buddha possesses an intellect of unparalleled scope. The *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* outlines fourteen specific analytical knowledges. Eight of these are shared with his great disciples, but six are exclusive to the Buddha alone, constituting his absolute omniscience.
 
 ### The List
 **The 8 Shared Knowledges:**
 1. Knowledge of the meaning (Truths).
-2. Knowledge of the Dhamma (Causality).
+2. Knowledge of the [Dhamma](/glossary/dhamma/) (Causality).
 3. Knowledge of language (Nirutti).
 4. Knowledge of perspicuity (Paṭibhāna).
-5. Knowledge of the ways of insight (Vipassanā).
+5. Knowledge of the ways of insight ([Vipassanā](/glossary/vipassana/)).
 6. Knowledge of the psychic powers (Iddhi).
 7. Knowledge of the Divine Ear.
 8. Knowledge of reading minds.
@@ -31,4 +31,4 @@ While ordinary Arahats possess profound wisdom, a Fully Awakened Buddha possesse
 14. **Anāvaraṇa-ñāṇa:** Unobstructed knowledge; nothing can block his vision.
 
 ### Textual References
-* **Abhidhamma**: *Paṭisambhidāmagga* (Ñāṇakathā) – The extensive canonical analysis of the Buddha's intellect.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *Paṭisambhidāmagga* (Ñāṇakathā) – The extensive canonical analysis of the Buddha's intellect.

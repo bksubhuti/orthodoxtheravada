@@ -13,12 +13,12 @@ The Twenty-Five Beautiful Mental Factors (*Sobhana Cetasikā*) are the ultimate 
 
 ### The List
 **The 19 Beautiful Universals (Sobhaṇasādhāraṇa):**
-1. **Saddhā** - Faith: Pure, reasoned confidence in the Buddha's awakening.
-2. **Sati** - Mindfulness: Lucid presence of mind that prevents forgetfulness.
-3. **Hiri** - Moral Shame: Internal self-respect that shrinks from unwholesome deeds.
-4. **Ottappa** - Moral Dread: Fear of the objective kammic consequences of evil.
-5. **Alobha** - Non-greed / Generosity: Active detachment and willingness to relinquish.
-6. **Adosa** - Non-hatred / Loving-kindness: Freedom from resentment, manifesting as goodwill.
+1. **[Saddhā](/glossary/saddha/)** - Faith: Pure, reasoned confidence in the Buddha's awakening.
+2. **[Sati](/glossary/sati/)** - Mindfulness: Lucid presence of mind that prevents forgetfulness.
+3. **[Hiri](/glossary/hiri/)** - Moral Shame: Internal self-respect that shrinks from unwholesome deeds.
+4. **[Ottappa](/glossary/ottappa/)** - Moral Dread: Fear of the objective kammic consequences of evil.
+5. **[Alobha](/glossary/alobha/)** - Non-greed / Generosity: Active detachment and willingness to relinquish.
+6. **[Adosa](/glossary/adosa/)** - Non-hatred / Loving-kindness: Freedom from resentment, manifesting as goodwill.
 7. **Tatramajjhattatā** - Equanimity / Mental Balance: Impartial neutrality that keeps all factors operating equally.
 8-9. **Kāyapassaddhi & Cittapassaddhi** - Tranquility of the mental body and consciousness.
 10-11. **Kāyalahutā & Cittalahutā** - Lightness/Buoyancy of the mental factors and consciousness (destroys sloth/torpor).
@@ -28,13 +28,13 @@ The Twenty-Five Beautiful Mental Factors (*Sobhana Cetasikā*) are the ultimate 
 18-19. **Kāyujukatā & Cittujukatā** - Uprightness/Rectitude of the factors and consciousness (destroys deceit).
 
 **The 3 Abstinences (Viratiyo):**
-20. **Sammāvācā** - Right Speech, 21. **Sammākammanta** - Right Action, 22. **Sammā-ājīva** - Right Livelihood.
+20. **[Sammāvācā](/glossary/sammavaca/)** - Right Speech, 21. **[Sammākammanta](/glossary/sammakammanta/)** - Right Action, 22. **Sammā-ājīva** - Right Livelihood.
 
-**The 2 Illimitables (Appamaññā):**
-23. **Karuṇā** - Compassion, 24. **Muditā** - Sympathetic Joy.
+**The 2 Illimitables ([Appamaññā](/glossary/appamanna/)):**
+23. **[Karuṇā](/glossary/karuna/)** - Compassion, 24. **[Muditā](/glossary/mudita/)** - Sympathetic Joy.
 
 **The 1 Wisdom Faculty:**
-25. **Paññindriya** - Wisdom / Non-delusion (*amoha*): Piercing insight into ultimate reality.
+25. **Paññindriya** - Wisdom / Non-delusion (*[amoha](/glossary/amoha/)*): Piercing insight into ultimate reality.
 
 ### Textual References
-* **Commentary**: *Abhidhammattha Saṅgaha* (Chapter II) – The architectural summary detailing how these 25 glorious factors assemble to form the path to Nibbāna.
+* **Commentary**: *Abhidhammattha Saṅgaha* (Chapter II) – The architectural summary detailing how these 25 glorious factors assemble to form the path to [Nibbāna](/glossary/nibbana/).

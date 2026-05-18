@@ -9,7 +9,7 @@ canonical_texts: ["Majjhima Nikaya", "Digha Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-In the chain of Dependent Origination (*Paṭiccasamuppāda*), Craving (*taṇhā*) intensifies into Clinging (*upādāna*). While craving is the initial thirst, clinging is the aggressive grasping and holding onto the object. This gripping guarantees the formation of a new existence (*bhava*).
+In the chain of Dependent Origination (*[Paṭiccasamuppāda](/glossary/paticcasamuppada/)*), Craving (*[taṇhā](/glossary/tanha/)*) intensifies into Clinging (*[upādāna](/glossary/upadana/)*). While craving is the initial thirst, clinging is the aggressive grasping and holding onto the object. This gripping guarantees the formation of a new existence (*[bhava](/glossary/bhava/)*).
 
 ### The List
 1. **Kāmupādāna** - Clinging to Sensuality: The fierce grasping at physical pleasures, wealth, and worldly possessions.
@@ -18,4 +18,4 @@ In the chain of Dependent Origination (*Paṭiccasamuppāda*), Craving (*taṇh�
 4. **Attavādupādāna** - Clinging to a Doctrine of Self: The deepest clinging, grasping at any of the five aggregates as "I," "mine," or "my soul."
 
 ### Textual References
-* **Canonical**: *Cūḷasīhanāda Sutta* (MN 11) – The Buddha explains that while other ascetics understand clinging to sensuality, they fail to understand the clinging to views, rituals, and the doctrine of self, which only a Tathāgata fully penetrates.
+* **Canonical**: *Cūḷasīhanāda [Sutta](/glossary/sutta/)* (MN 11) – The Buddha explains that while other ascetics understand clinging to sensuality, they fail to understand the clinging to views, rituals, and the doctrine of self, which only a [Tathāgata](/glossary/tathagata/) fully penetrates.

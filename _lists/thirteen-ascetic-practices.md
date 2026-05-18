@@ -9,7 +9,7 @@ canonical_texts: ["Majjhima Nikaya", "Visuddhimagga"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-The *Dhutaṅgas* are extreme ascetic practices voluntarily undertaken by Theravāda monastics to ruthlessly shake off defilements (specifically craving for comfort, food, and robes). They are not mandatory Vinaya rules, but the Buddha highly praised monks like Venerable Mahākassapa who observed them. 
+The *Dhutaṅgas* are extreme ascetic practices voluntarily undertaken by Theravāda monastics to ruthlessly shake off defilements (specifically craving for comfort, food, and robes). They are not mandatory [Vinaya](/glossary/vinaya/) rules, but the Buddha highly praised monks like Venerable Mahākassapa who observed them. 
 
 ### The List
 **Regarding Robes:**
@@ -34,4 +34,4 @@ The *Dhutaṅgas* are extreme ascetic practices voluntarily undertaken by Therav
 13. **Nesajjik'aṅga** - The Sitter's Practice: Never lying down. Sleeping only in a seated posture.
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapter II) – Buddhaghosa provides the absolute definitive manual detailing exactly how to undertake, maintain, and grade the strictness of these 13 practices.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter II) – Buddhaghosa provides the absolute definitive manual detailing exactly how to undertake, maintain, and grade the strictness of these 13 practices.

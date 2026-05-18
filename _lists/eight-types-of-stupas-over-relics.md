@@ -19,7 +19,7 @@ Following the cremation of the Buddha at Kusīnārā, a volatile dispute arose a
 5. **Rāmagāma Stupa:** Built by the Koliya clan in Rāmagāma.
 6. **Veṭhadīpa Stupa:** Built by the prominent Brahmin community of Veṭhadīpa.
 7. **Pāvā Stupa:** Built by the Malla clan residing in the city of Pāvā.
-8. **Kusīnārā Stupa:** Built by the Malla clan in the immediate city of the Buddha's Parinibbāna.
+8. **Kusīnārā Stupa:** Built by the Malla clan in the immediate city of the Buddha's [Parinibbāna](/glossary/parinibbana/).
 
 ### Textual References
-* **Canonical**: *Mahāparinibbāna Sutta* (DN 16) – The concluding section chronicles the military standoff, Dona's division, and the initial construction of these eight historic relic stupas.
+* **Canonical**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) [Sutta](/glossary/sutta/)* (DN 16) – The concluding section chronicles the military standoff, Dona's division, and the initial construction of these eight historic relic stupas.

@@ -9,7 +9,7 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
 ### Overview
-The annual Kaṭhina robe ceremony is a complex monastic legal procedure executed at the conclusion of the three-month rains retreat (*vassa*). To validate the ceremony and successfully unlock five critical Vinaya privileges for the monks, the event must strictly fulfill five interwoven procedural and material criteria.
+The annual [Kaṭhina](/glossary/kathina/) robe ceremony is a complex monastic legal procedure executed at the conclusion of the three-month rains retreat (*[vassa](/glossary/vassa/)*). To validate the ceremony and successfully unlock five critical [Vinaya](/glossary/vinaya/) privileges for the monks, the event must strictly fulfill five interwoven procedural and material criteria.
 
 ### The List
 1. **Cīvara-dāna** - Offering Raw or Unfinished Cloth: The lay community must offer simple, unmade cloth or unstitched material, not a pre-tailored, finished commercial robe.
@@ -19,4 +19,4 @@ The annual Kaṭhina robe ceremony is a complex monastic legal procedure execute
 5. **Anumodanā** - Collective Rejoicing: The remaining resident monks must gather, witness the act, and vocally express their agreement (*anumodanā*), legally sealing the procedure.
 
 ### Textual References
-* **Canonical**: *Kaṭhina Khandhaka* (Mahāvagga, Vinaya) – The foundational legal text outlining the entire mechanical framework of the Kaṭhina ritual.
+* **Canonical**: *Kaṭhina [Khandhaka](/glossary/khandhaka/)* ([Mahāvagga](/glossary/mahavagga/), Vinaya) – The foundational legal text outlining the entire mechanical framework of the Kaṭhina ritual.

@@ -9,7 +9,7 @@ canonical_texts: ["Majjhima Nikaya", "Anguttara Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-The Buddha expanded the basic five precepts into a comprehensive ten-point framework covering every aspect of human behavior. The Ten Wholesome Courses of Action (*Kusala Kammapatha*) ensure absolute purity in body, speech, and mind, generating powerful kamma that leads to heavenly rebirth and supports insight.
+The Buddha expanded the basic five precepts into a comprehensive ten-point framework covering every aspect of human behavior. The Ten Wholesome Courses of Action (*[Kusala](/glossary/kusala/) [Kammapatha](/glossary/kamma-patha/)*) ensure absolute purity in body, speech, and mind, generating powerful [kamma](/glossary/kamma/) that leads to heavenly rebirth and supports insight.
 
 ### The List
 **Bodily Action (Kāyakamma):**
@@ -21,12 +21,12 @@ The Buddha expanded the basic five precepts into a comprehensive ten-point frame
 4. **Abstaining from false speech:** Speaking only the truth.
 5. **Abstaining from malicious speech:** Speaking words that unite people, not divide them.
 6. **Abstaining from harsh speech:** Speaking gently, kindly, and politely.
-7. **Abstaining from frivolous chatter:** Speaking at the right time, on subjects that are meaningful and connected to the Dhamma.
+7. **Abstaining from frivolous chatter:** Speaking at the right time, on subjects that are meaningful and connected to the [Dhamma](/glossary/dhamma/).
 
 **Mental Action (Manokamma):**
 8. **Abstaining from covetousness (Anabhijjhā):** Not longing for the wealth or property of others.
 9. **Abstaining from ill-will (Abyāpāda):** Wishing for the safety and happiness of all beings.
-10. **Holding Right View (Sammādiṭṭhi):** Understanding that actions have consequences and that enlightened beings exist.
+10. **Holding Right View ([Sammādiṭṭhi](/glossary/sammaditthi/)):** Understanding that actions have consequences and that enlightened beings exist.
 
 ### Textual References
-* **Canonical**: *Sāleyyaka Sutta* (MN 41) – The Buddha teaches this exact framework to the Brahmin householders of Sālā as the path to heavenly rebirth.
+* **Canonical**: *Sāleyyaka [Sutta](/glossary/sutta/)* (MN 41) – The Buddha teaches this exact framework to the Brahmin householders of Sālā as the path to heavenly rebirth.

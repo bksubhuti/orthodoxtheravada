@@ -9,7 +9,7 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Atthasalini"]
 ---
 ### Overview
-The sixteenth triad of the Abhidhamma Mātikā analyzes the specific relationship that consciousness has with the Noble Eightfold Path. It differentiates between minds that merely reflect upon the Path, minds that are actively rooted in it, and minds that are entirely dominated by it.
+The sixteenth triad of the [Abhidhamma](/glossary/abhidhamma/) Mātikā analyzes the specific relationship that consciousness has with the Noble Eightfold Path. It differentiates between minds that merely reflect upon the Path, minds that are actively rooted in it, and minds that are entirely dominated by it.
 
 ### The List
 1. **Maggārammaṇā dhammā** - States with the path as object: Mundane consciousnesses that are actively thinking about, reflecting upon, or reviewing the Noble Path (e.g., a meditator reviewing their own Stream-entry).
@@ -17,4 +17,4 @@ The sixteenth triad of the Abhidhamma Mātikā analyzes the specific relationshi
 3. **Maggādhipatino dhammā** - States with the path as predominant factor: Consciousnesses that prioritize and revere the Noble Path above all else, making it the supreme guiding force (predominance) of their existence.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Mātikā 16) – A highly technical classification used to track how the mind relates to its own liberating factors.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Mātikā 16) – A highly technical classification used to track how the mind relates to its own liberating factors.

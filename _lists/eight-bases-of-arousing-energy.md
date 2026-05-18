@@ -22,4 +22,4 @@ Directly countering the eight bases of laziness, the Buddha explained how a wise
 8. **Recovering from sickness:** "I have just recovered. I could have died. Let me arouse energy *now* before the illness returns."
 
 ### Textual References
-* **Canonical**: *Kusītārambhavatthu Sutta* (AN 8.80) – The Buddha teaches this powerful psychological reframing to guarantee continuous striving.
+* **Canonical**: *Kusītārambhavatthu [Sutta](/glossary/sutta/)* (AN 8.80) – The Buddha teaches this powerful psychological reframing to guarantee continuous striving.

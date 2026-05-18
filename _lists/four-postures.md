@@ -18,4 +18,4 @@ The human body can only exist in one of four primary modes. In Theravāda medita
 4. **Sajjāna** - Lying down: Being fully aware of the body resting, maintaining mindfulness until the exact moment of falling asleep, and resolving to wake mindfully.
 
 ### Textual References
-* **Canonical**: *Satipaṭṭhāna Sutta* (MN 10) – The Buddha instructs the meditator to know "I am walking" when walking, "I am standing" when standing, etc., breaking the illusion of a continuous "self" moving the body.
+* **Canonical**: *[Satipaṭṭhāna](/glossary/satipatthana/) [Sutta](/glossary/sutta/)* (MN 10) – The Buddha instructs the meditator to know "I am walking" when walking, "I am standing" when standing, etc., breaking the illusion of a continuous "self" moving the body.

@@ -9,7 +9,7 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-In the orthodox Theravāda commentarial tradition, kamma is analyzed highly systematically. Every intentional action operates in one of four ways regarding its function (*kicca*). This explains the complex web of causes and conditions that dictate a being's lifespan, fortune, and sudden death.
+In the orthodox Theravāda commentarial tradition, [kamma](/glossary/kamma/) is analyzed highly systematically. Every intentional action operates in one of four ways regarding its function (*kicca*). This explains the complex web of causes and conditions that dictate a being's lifespan, fortune, and sudden death.
 
 ### The List
 1. **Janaka-kamma** - Productive Kamma: The primary kamma that produces rebirth-linking consciousness and the physical body at the moment of conception. It "generates" the existence.
@@ -18,4 +18,4 @@ In the orthodox Theravāda commentarial tradition, kamma is analyzed highly syst
 4. **Upaghātaka-kamma** - Destructive Kamma: A massive, powerful kamma from the past that suddenly intercepts and entirely cuts off the Productive Kamma, causing sudden death or a total reversal of fortune before the natural lifespan is exhausted.
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapter XIX) – The master matrix detailing how these functions interlock to control the destiny of a being.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIX) – The master matrix detailing how these functions interlock to control the destiny of a being.

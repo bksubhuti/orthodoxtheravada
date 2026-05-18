@@ -18,5 +18,5 @@ The *Ganthā* are conceptualized as tight psychological knots that bind the ment
 4. **Idaṃsaccābhinivesa-kāyagantha** - The Bodily Tie of Dogmatic Fanaticism: The knot of rigidly insisting "Only this is truth; everything else is foolishness," closing the mind to reality.
 
 ### Textual References
-* **Canonical**: *Gantha Sutta* (SN 41.3) – Citta the Householder correctly identifies that the fetter and the sense bases are different things, utilizing the concept of binding ties.
-* **Abhidhamma**: *Dhammasaṅgaṇī* – Analyzes these four ties as specific unwholesome mental factors operating in the consciousness stream.
+* **Canonical**: *Gantha [Sutta](/glossary/sutta/)* (SN 41.3) – [Citta](/glossary/citta-base/) the Householder correctly identifies that the fetter and the sense bases are different things, utilizing the concept of binding ties.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Analyzes these four ties as specific unwholesome mental factors operating in the consciousness stream.

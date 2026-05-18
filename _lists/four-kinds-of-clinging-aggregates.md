@@ -9,7 +9,7 @@ canonical_texts: ["Samyutta Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-*(Note: While occasionally grouped or referenced by specific analytical categories, the orthodox Mahāvihāra tradition strictly maintains the Five Aggregates of Clinging as the complete breakdown of a sentient being. They represent the conditioned phenomena that unenlightened beings mistakenly take to be a "self".)*
+*(Note: While occasionally grouped or referenced by specific analytical categories, the orthodox [Mahāvihāra](/glossary/maha-vihara/) tradition strictly maintains the Five Aggregates of Clinging as the complete breakdown of a sentient being. They represent the conditioned phenomena that unenlightened beings mistakenly take to be a "self".)*
 
 ### The List
 1. **Rūpāpādānakkhandha** - The Clinging-Aggregate of Form: All physical materiality, including the four great elements and the physical sense organs.
@@ -19,4 +19,4 @@ commentaries: ["Visuddhimagga"]
 5. **Viññāṇāpādānakkhandha** - The Clinging-Aggregate of Consciousness: The bare cognitive awareness of objects.
 
 ### Textual References
-* **Canonical**: *Khandha Saṃyutta* (SN 22.48) – The definitive text separating the bare aggregates from the aggregates accompanied by clinging.
+* **Canonical**: *[Khandha](/glossary/khandha/) Saṃyutta* (SN 22.48) – The definitive text separating the bare aggregates from the aggregates accompanied by clinging.

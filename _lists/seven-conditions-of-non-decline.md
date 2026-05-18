@@ -9,7 +9,7 @@ canonical_texts: ["Digha Nikaya"]
 commentaries: ["Sumangalavilasini"]
 ---
 ### Overview
-When the King of Magadha intended to attack the Vajjian confederacy, he sent a minister to ask the Buddha for a prediction. Rather than prophesying military victory, the Buddha detailed seven social and political principles. He stated that as long as a society (or the monastic Saṅgha) upholds these seven, they will only prosper and cannot be conquered.
+When the King of Magadha intended to attack the Vajjian confederacy, he sent a minister to ask the Buddha for a prediction. Rather than prophesying military victory, the Buddha detailed seven social and political principles. He stated that as long as a society (or the monastic [Saṅgha](/glossary/sangha/)) upholds these seven, they will only prosper and cannot be conquered.
 
 ### The List
 1. **Meeting frequently:** Holding regular, well-attended assemblies to discuss matters of importance.
@@ -21,4 +21,4 @@ When the King of Magadha intended to attack the Vajjian confederacy, he sent a m
 7. **Protecting the holy ones (for laypeople) / Establishing mindfulness (for monastics):** Providing righteous protection so that Arahats and monastics feel welcome to come and live in peace. (For the Saṅgha: Establishing mindfulness so that pure companions come and dwell in comfort).
 
 ### Textual References
-* **Canonical**: *Mahāparinibbāna Sutta* (DN 16) – The Buddha teaches these principles to the Magadhan minister Vassakāra, and subsequently adapts them for the Bhikkhu Saṅgha.
+* **Canonical**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) [Sutta](/glossary/sutta/)* (DN 16) – The Buddha teaches these principles to the Magadhan minister Vassakāra, and subsequently adapts them for the [Bhikkhu](/glossary/bhikkhu/) Saṅgha.

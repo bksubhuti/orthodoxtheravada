@@ -18,10 +18,10 @@ The Buddha established a daily psychological regimen for monastics. To ensure th
 4. "Do I have any reason to reproach myself regarding my virtue?"
 5. "Do my wise fellow monks have any reason to reproach me regarding my virtue?"
 6. "I will grow different and separate from all that is dear and appealing to me."
-7. "I am the owner of my kamma, heir to my kamma; whatever kamma I do, I will be its heir."
+7. "I am the owner of my [kamma](/glossary/kamma/), heir to my kamma; whatever kamma I do, I will be its heir."
 8. "How am I spending my days and nights?"
 9. "Do I take delight in empty huts and physical seclusion?"
 10. "Have I attained any superhuman states or deep knowledge, so that when my fellow monks question me at the time of death, I will not be embarrassed?"
 
 ### Textual References
-* **Canonical**: *Dasadhamma Sutta* (AN 10.48) – The Buddha formally issues this list to the monastics, urging them to reflect on these ten points constantly.
+* **Canonical**: *Dasadhamma [Sutta](/glossary/sutta/)* (AN 10.48) – The Buddha formally issues this list to the monastics, urging them to reflect on these ten points constantly.

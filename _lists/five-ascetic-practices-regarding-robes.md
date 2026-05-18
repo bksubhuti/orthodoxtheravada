@@ -19,4 +19,4 @@ commentaries: ["Visuddhimagga"]
 5. **Abbhokāsik'aṅga** - Open-air Dweller's Practice: Abandoning even the shelter of trees, living and meditating completely exposed in the open air, allowed only a simple leaf screen during intense storms.
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapter II) – Buddhaghosa details the high code, the dynamic health considerations, and the grading systems for these rigorous somatic disciplines.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter II) – Buddhaghosa details the high code, the dynamic health considerations, and the grading systems for these rigorous somatic disciplines.

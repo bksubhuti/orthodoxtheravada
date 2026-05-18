@@ -9,7 +9,7 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
 ### Overview
-Driven by intense ambition and jealousy, the monk Devadatta plotted to replace the Buddha as leader of the Saṅgha. To draw monks away, he presented a clever political trap: he demanded that the Buddha make five extreme ascetic practices mandatory for all monks. The Buddha wisely refused, noting that the path is about moderation and choice, which prompted Devadatta to execute a tragic schism (*saṅghabheda*).
+Driven by intense ambition and jealousy, the monk Devadatta plotted to replace the Buddha as leader of the [Saṅgha](/glossary/sangha/). To draw monks away, he presented a clever political trap: he demanded that the Buddha make five extreme ascetic practices mandatory for all monks. The Buddha wisely refused, noting that the path is about moderation and choice, which prompted Devadatta to execute a tragic schism (*saṅghabheda*).
 
 ### The List
 1. **Living exclusively in the forest:** Demanding that no monk ever be allowed to accept comfortable village lodgings, forcing all to live exclusively in the wild.
@@ -19,4 +19,4 @@ Driven by intense ambition and jealousy, the monk Devadatta plotted to replace t
 5. **Abstaining completely from fish and meat:** Demanding absolute, mandatory vegetarianism for the entire order, banning the consumption of meat under any condition.
 
 ### Textual References
-* **Canonical**: *Cullavagga* (Saṅghabhedaka Khandhaka, Vinaya) – Records the dramatic confrontation where Devadatta introduces these five points to split the young, naive monks away from the Buddha.
+* **Canonical**: *[Cullavagga](/glossary/cullavagga/)* (Saṅghabhedaka [Khandhaka](/glossary/khandhaka/), [Vinaya](/glossary/vinaya/)) – Records the dramatic confrontation where Devadatta introduces these five points to split the young, naive monks away from the Buddha.

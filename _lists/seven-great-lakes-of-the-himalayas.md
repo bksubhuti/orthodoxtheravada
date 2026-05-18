@@ -21,4 +21,4 @@ Orthodox Theravāda cosmological commentaries describe the remote *Himavanta* (H
 7. **Sīhapapāta** - Lake Sīhapapāta: The "Lion's Leap" lake, a pristine basin hidden deep within the peaks.
 
 ### Textual References
-* **Canonical**: *Kuṇāla Jataka* (Khuddaka Nikaya) – Provides vivid, lengthy descriptions of the natural ecology, birdlife, and geographic arrangement of these seven lakes.
+* **Canonical**: *Kuṇāla [Jataka](/glossary/jataka/)* (Khuddaka Nikaya) – Provides vivid, lengthy descriptions of the natural ecology, birdlife, and geographic arrangement of these seven lakes.

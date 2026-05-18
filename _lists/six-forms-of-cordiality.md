@@ -17,7 +17,7 @@ These six principles are the glue that holds the Buddhist monastic community (an
 3. **Mettā-manokamma** - Loving-kindness in mental acts: Holding thoughts of goodwill and wishing the best for fellow practitioners, both in public and private.
 4. **Sādhāraṇabhogī** - Sharing of lawful gains: Distributing any righteously acquired requisites (even down to the contents of one's alms bowl) equally with virtuous companions.
 5. **Sīlasāmaññatā** - Unbroken, shared virtue: Maintaining the exact same level of flawless, unblemished moral discipline (the Pāṭimokkha) as one's companions, creating moral equality.
-6. **Diṭṭhisāmaññatā** - Shared Right View: Holding the exact same noble, liberating understanding of the Dhamma as one's companions, creating philosophical unity.
+6. **Diṭṭhisāmaññatā** - Shared Right View: Holding the exact same noble, liberating understanding of the [Dhamma](/glossary/dhamma/) as one's companions, creating philosophical unity.
 
 ### Textual References
-* **Canonical**: *Kosambiya Sutta* (MN 48) – The Buddha teaches these six principles to the monks at Kosambi to heal a severe, deeply entrenched schism.
+* **Canonical**: *Kosambiya [Sutta](/glossary/sutta/)* (MN 48) – The Buddha teaches these six principles to the monks at Kosambi to heal a severe, deeply entrenched schism.

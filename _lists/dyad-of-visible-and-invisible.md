@@ -12,8 +12,8 @@ commentaries: ["Atthasalini"]
 This Dyad categorizes all reality based on a single physical property: the ability to interact with the eye-sensitivity and be seen. It drastically reduces the scope of what we normally consider "the visible world."
 
 ### The List
-1. **Sanidassanā dhammā** - Visible states: That which can be seen by the eye. In the Abhidhamma, this applies *only* to the Visible Form Object (*rūpārammaṇa* / color-appearance).
-2. **Anidassanā dhammā** - Invisible states: Everything else in the universe. This includes sound, smell, taste, physical tangibility (hardness/heat), all consciousness, all mental factors, and Nibbāna. Even the physical eye-organ itself is technically "invisible"; we only see the color reflecting off it, not the biological sensitivity itself.
+1. **Sanidassanā dhammā** - Visible states: That which can be seen by the eye. In the [Abhidhamma](/glossary/abhidhamma/), this applies *only* to the Visible Form Object (*rūpārammaṇa* / color-appearance).
+2. **Anidassanā dhammā** - Invisible states: Everything else in the universe. This includes sound, smell, taste, physical tangibility (hardness/heat), all consciousness, all mental factors, and [Nibbāna](/glossary/nibbana/). Even the physical eye-organ itself is technically "invisible"; we only see the color reflecting off it, not the biological sensitivity itself.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* (Duka) – A strict phenomenological classification proving how limited human sight actually is.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Duka) – A strict phenomenological classification proving how limited human sight actually is.

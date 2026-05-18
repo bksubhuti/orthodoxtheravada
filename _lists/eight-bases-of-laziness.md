@@ -22,4 +22,4 @@ The defilement of laziness (*kusīta*) is a master of justification. The Buddha 
 8. **Recovering from sickness:** "I have just recovered from an illness. My body is still weak. Let me lie down and sleep."
 
 ### Textual References
-* **Canonical**: *Kusītārambhavatthu Sutta* (AN 8.80) – The Buddha exposes these eight excuses to warn monks against falling prey to the tricks of their own lethargy.
+* **Canonical**: *Kusītārambhavatthu [Sutta](/glossary/sutta/)* (AN 8.80) – The Buddha exposes these eight excuses to warn monks against falling prey to the tricks of their own lethargy.

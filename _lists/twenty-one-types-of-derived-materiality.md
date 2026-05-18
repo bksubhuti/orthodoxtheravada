@@ -9,7 +9,7 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Abhidhammatthasangaha"]
 ---
 ### Overview
-*(Note: In orthodox Mahāvihāra Abhidhamma, there are precisely 24 types of Derived Materiality (Upādā Rūpa). Certain specific sub-classifications or abbreviated teaching matrices may group or exclude specific characteristics (like the mutable or characteristic materialities) to reach 21, but the foundational list of what constitutes the physical organism and its objects remains strictly categorized).*
+*(Note: In orthodox [Mahāvihāra](/glossary/maha-vihara/) [Abhidhamma](/glossary/abhidhamma/), there are precisely 24 types of Derived Materiality (Upādā [Rūpa](/glossary/rupa/)). Certain specific sub-classifications or abbreviated teaching matrices may group or exclude specific characteristics (like the mutable or characteristic materialities) to reach 21, but the foundational list of what constitutes the physical organism and its objects remains strictly categorized).*
 
 ### The List (Core Derived Materiality)
 **The 5 Sensitive Phenomena (Pasāda Rūpa):**
@@ -20,7 +20,7 @@ commentaries: ["Abhidhammatthasangaha"]
 10. Femininity, 11. Masculinity.
 **The Heart Phenomenon (Hadaya Rūpa):**
 12. Heart-base (the physical seat of the mind).
-**The Life Phenomenon (Jīvita Rūpa):**
+**The Life Phenomenon ([Jīvita](/glossary/jivita/) Rūpa):**
 13. Physical vitality/Life faculty.
 **The Nutritional Phenomenon (Āhāra Rūpa):**
 14. Nutritive essence.
@@ -30,4 +30,4 @@ commentaries: ["Abhidhammatthasangaha"]
 **The 4 Characteristics:** 21. Production, 22. Continuity, 23. Decay, 24. Impermanence.
 
 ### Textual References
-* **Abhidhamma**: *Dhammasaṅgaṇī* – The definitive ontological list proving that physical matter is not a solid mass, but a collection of distinct, transient qualities.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – The definitive ontological list proving that physical matter is not a solid mass, but a collection of distinct, transient qualities.

@@ -18,4 +18,4 @@ The Buddha was a master of pedagogy and debate. He never gave a generic answer t
 4. **Ṭhapanīya** - To be set aside: A question based on invalid assumptions or one that leads only to vexation and not to liberation (e.g., "Is the universe eternal or not?"). These questions are ignored.
 
 ### Textual References
-* **Canonical**: *Pañhā Sutta* (AN 4.42) – The Buddha formally outlines these four methods of engaging in discourse.
+* **Canonical**: *Pañhā [Sutta](/glossary/sutta/)* (AN 4.42) – The Buddha formally outlines these four methods of engaging in discourse.

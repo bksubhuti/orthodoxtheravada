@@ -9,7 +9,7 @@ canonical_texts: ["Samyutta Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-The Five Spiritual Faculties (*Indriya*) are the controlling mental factors that direct a practitioner toward awakening. For successful meditation, these faculties must be highly developed and carefully balanced. If one faculty overpowers its opposite, the mind falls off the path.
+The Five Spiritual Faculties (*[Indriya](/glossary/indriya/)*) are the controlling mental factors that direct a practitioner toward awakening. For successful meditation, these faculties must be highly developed and carefully balanced. If one faculty overpowers its opposite, the mind falls off the path.
 
 ### The List
 1. **Saddhindriya** - The Faculty of Faith: Deep, reasoned confidence in the Buddha's awakening. It overcomes faithlessness, but if overdeveloped without wisdom, it leads to blind devotion.
@@ -20,4 +20,4 @@ The Five Spiritual Faculties (*Indriya*) are the controlling mental factors that
 
 ### Textual References
 * **Canonical**: *Indriya Saṃyutta* (SN 48) – A massive collection of discourses entirely dedicated to the cultivation of these five factors.
-* **Commentary**: *Visuddhimagga* (Chapter IV) – Explains the absolute necessity of balancing faith with wisdom, and energy with concentration.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter IV) – Explains the absolute necessity of balancing faith with wisdom, and energy with concentration.

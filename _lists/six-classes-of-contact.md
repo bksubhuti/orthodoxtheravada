@@ -9,7 +9,7 @@ canonical_texts: ["Samyutta Nikaya"]
 commentaries: ["Papancasudani"]
 ---
 ### Overview
-Contact (*Phassa*) is the critical spark of experience. It is defined as the coming together of three things: the internal sense base, the external sense object, and the corresponding consciousness. Contact is the absolute prerequisite for feeling, perception, and craving to arise. 
+Contact (*[Phassa](/glossary/phassa/)*) is the critical spark of experience. It is defined as the coming together of three things: the internal sense base, the external sense object, and the corresponding consciousness. Contact is the absolute prerequisite for feeling, perception, and craving to arise. 
 
 ### The List
 1. **Cakkhusamphassa** - Eye-contact: The meeting of eye, form, and eye-consciousness.
@@ -20,4 +20,4 @@ Contact (*Phassa*) is the critical spark of experience. It is defined as the com
 6. **Manosamphassa** - Mind-contact: The meeting of mind-base, mental object, and mind-consciousness.
 
 ### Textual References
-* **Canonical**: *Chachakka Sutta* (MN 148) – The Buddha explains that dependent on these six classes of contact, the three types of feeling (pleasant, painful, neutral) arise.
+* **Canonical**: *Chachakka [Sutta](/glossary/sutta/)* (MN 148) – The Buddha explains that dependent on these six classes of contact, the three types of feeling (pleasant, painful, neutral) arise.

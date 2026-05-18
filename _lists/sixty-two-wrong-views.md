@@ -9,7 +9,7 @@ canonical_texts: ["Digha Nikaya"]
 commentaries: ["Sumangalavilasini"]
 ---
 ### Overview
-The Buddha declared that all possible philosophical, religious, and speculative theories regarding the nature of the "self" and the universe fall into a definitive matrix of 62 views. These views act as a net (*jāla*) that traps beings in saṃsāra. The Buddha does not just refute them; he explains the exact meditative or psychological mistakes that lead beings to adopt them.
+The Buddha declared that all possible philosophical, religious, and speculative theories regarding the nature of the "self" and the universe fall into a definitive matrix of 62 views. These views act as a net (*jāla*) that traps beings in [saṃsāra](/glossary/samsara/). The Buddha does not just refute them; he explains the exact meditative or psychological mistakes that lead beings to adopt them.
 
 ### The List
 **18 Views concerning the Past:**
@@ -24,7 +24,7 @@ The Buddha declared that all possible philosophical, religious, and speculative 
 *   8 views that the self survives death unconscious.
 *   8 views that the self survives death neither conscious nor unconscious.
 *   7 views of Annihilationism (The self is completely destroyed at death).
-*   5 views of Nibbāna Here and Now (Believing that sensual pleasure or the four jhānas are ultimate liberation).
+*   5 views of [Nibbāna](/glossary/nibbana/) Here and Now (Believing that sensual pleasure or the four jhānas are ultimate liberation).
 
 ### Textual References
-* **Canonical**: *Brahmajāla Sutta* (DN 1) – The "All-Embracing Net of Views," the very first sutta in the Dīgha Nikāya, where the Buddha systematically dismantles every philosophical trap in existence.
+* **Canonical**: *Brahmajāla [Sutta](/glossary/sutta/)* (DN 1) – The "All-Embracing Net of Views," the very first sutta in the Dīgha Nikāya, where the Buddha systematically dismantles every philosophical trap in existence.

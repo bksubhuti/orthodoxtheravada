@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-Proclaiming the Dhamma is a highly sensitive moral action. The Buddha explicitly warned that teaching the doctrine to others can either create immense merit or introduce corrupt defilements into the teacher's stream of consciousness. He established a strict five-part internal rubric that a preacher must maintain to ensure their speech remains pure and effective.
+Proclaiming the [Dhamma](/glossary/dhamma/) is a highly sensitive moral action. The Buddha explicitly warned that teaching the doctrine to others can either create immense merit or introduce corrupt defilements into the teacher's stream of consciousness. He established a strict five-part internal rubric that a preacher must maintain to ensure their speech remains pure and effective.
 
 ### The List
 1. **Anupubbikathaṃ kathessāmi** - I will teach progressively: Arranging the sermon in a logical, step-by-step sequence, moving from basic giving and virtue up to renunciation and the Four Noble Truths.
@@ -19,4 +19,4 @@ Proclaiming the Dhamma is a highly sensitive moral action. The Buddha explicitly
 5. **Attānañca parañca anupahacca kathessāmi** - I will teach without hurting self or others: Delivering the absolute truth without elevating oneself and without attacking or disparaging other individuals.
 
 ### Textual References
-* **Canonical**: *Udayī Sutta* (AN 5.159) – The Buddha delivers this list to Venerable Ānanda after noticing the monk Udayī preaching to a large lay crowd, outlining the high code of a true preacher.
+* **Canonical**: *Udayī [Sutta](/glossary/sutta/)* (AN 5.159) – The Buddha delivers this list to Venerable Ānanda after noticing the monk Udayī preaching to a large lay crowd, outlining the high code of a true preacher.

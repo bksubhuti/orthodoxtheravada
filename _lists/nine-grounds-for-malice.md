@@ -23,5 +23,5 @@ The mind justifies anger by clinging to specific narratives. The Buddha observed
 9. **"He will help someone I hate"** (Future)
 
 ### Textual References
-* **Canonical**: *Āghātavatthu Sutta* (AN 9.29) – The Buddha lists these nine grounds.
+* **Canonical**: *Āghātavatthu [Sutta](/glossary/sutta/)* (AN 9.29) – The Buddha lists these nine grounds.
 * **Canonical**: *Āghātapaṭivinaya Sutta* (AN 9.30) – Immediately follows, where the Buddha explains that the only logical response to all nine thoughts is: "What good would it do to get angry?" thereby subduing the malice.

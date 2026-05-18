@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-To accelerate their spiritual progress, devout Theravāda laypeople observe the Uposatha days (full moon, new moon, and half-moon days) by elevating their morality from the standard five precepts to these eight. By undertaking these rules, a layperson emulates the ascetic lifestyle of an Arahat for 24 hours.
+To accelerate their spiritual progress, devout Theravāda laypeople observe the [Uposatha](/glossary/uposatha/) days (full moon, new moon, and half-moon days) by elevating their morality from the standard five precepts to these eight. By undertaking these rules, a layperson emulates the ascetic lifestyle of an [Arahat](/glossary/arahat/) for 24 hours.
 
 ### The List
 1. **Pāṇātipātā...** - Abstaining from killing any living being.
@@ -22,4 +22,4 @@ To accelerate their spiritual progress, devout Theravāda laypeople observe the 
 8. **Uccāsayana-mahāsayanā veramaṇī sikkhāpadaṃ samādiyāmi** - I undertake the training rule to abstain from high and luxurious beds/seats: Sleeping on a simple mat on the floor to abandon sensual indulgence and pride.
 
 ### Textual References
-* **Canonical**: *Uposatha Sutta* (AN 8.41) – The Buddha explicitly states that by observing these eight rules, one imitates the Arahats for a day and a night.
+* **Canonical**: *Uposatha [Sutta](/glossary/sutta/)* (AN 8.41) – The Buddha explicitly states that by observing these eight rules, one imitates the Arahats for a day and a night.

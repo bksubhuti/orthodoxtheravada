@@ -20,8 +20,8 @@ When monastics gather, the Buddha strictly forbade them from engaging in "animal
 6. **Sīlakathā** - Talk on virtue: Discussing the perfection of moral discipline.
 7. **Samādhikathā** - Talk on concentration: Discussing the jhānas and the unification of mind.
 8. **Paññākathā** - Talk on wisdom: Discussing insight into the arising and passing away of phenomena.
-9. **Vimuttikathā** - Talk on liberation: Discussing the destruction of the fetters and Nibbāna.
-10. **Vimuttiñāṇadassanakathā** - Talk on the knowledge and vision of liberation: Discussing the final confirmation of an Arahat's awakening.
+9. **Vimuttikathā** - Talk on liberation: Discussing the destruction of the fetters and [Nibbāna](/glossary/nibbana/).
+10. **Vimuttiñāṇadassanakathā** - Talk on the knowledge and vision of liberation: Discussing the final confirmation of an [Arahat](/glossary/arahat/)'s awakening.
 
 ### Textual References
-* **Canonical**: *Kathāvatthu Sutta* (AN 10.69) – The Buddha provides this exact list as the standard for monastic conversation.
+* **Canonical**: *[Kathāvatthu](/glossary/kathavatthu/) [Sutta](/glossary/sutta/)* (AN 10.69) – The Buddha provides this exact list as the standard for monastic conversation.

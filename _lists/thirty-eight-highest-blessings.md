@@ -9,7 +9,7 @@ canonical_texts: ["Khuddakapatha", "Sutta Nipata"]
 commentaries: ["Paramatthajotika"]
 ---
 ### Overview
-In ancient India, people endlessly debated what constituted a true "blessing" or "omen of good fortune" (*maṅgala*), often pointing to sights, sounds, or rituals. A deity approached the Buddha to resolve the debate. The Buddha redefined blessings entirely, laying out 38 progressive steps of moral and spiritual development, starting from basic social ethics and culminating in the realization of Nibbāna.
+In ancient India, people endlessly debated what constituted a true "blessing" or "omen of good fortune" (*maṅgala*), often pointing to sights, sounds, or rituals. A deity approached the Buddha to resolve the debate. The Buddha redefined blessings entirely, laying out 38 progressive steps of moral and spiritual development, starting from basic social ethics and culminating in the realization of [Nibbāna](/glossary/nibbana/).
 
 ### The List
 *(Selected milestones from the progressive list of 38)*
@@ -21,7 +21,7 @@ In ancient India, people endlessly debated what constituted a true "blessing" or
 16. **Dānañca** - Generosity.
 17. **Dhammacariyā ca** - Righteous conduct.
 23. **Nivāto ca** - Humility.
-26. **Kālena dhammassavanaṃ** - Hearing the Dhamma at the right time.
+26. **Kālena dhammassavanaṃ** - Hearing the [Dhamma](/glossary/dhamma/) at the right time.
 30. **Samaṇānañca dassanaṃ** - Seeing monastics/ascetics.
 33. **Ariyasaccāna dassanaṃ** - Seeing the Four Noble Truths.
 34. **Nibbānasacchikiriyā ca** - The realization of Nibbāna.
@@ -29,4 +29,4 @@ In ancient India, people endlessly debated what constituted a true "blessing" or
 38. **Khemaṃ** - Absolute safety/security.
 
 ### Textual References
-* **Canonical**: *Maṅgala Sutta* (Sn 2.4 / Khp 5) – The most frequently chanted sutta in the Theravāda world, containing the complete list of 38 blessings in verse form.
+* **Canonical**: *Maṅgala [Sutta](/glossary/sutta/)* (Sn 2.4 / Khp 5) – The most frequently chanted sutta in the Theravāda world, containing the complete list of 38 blessings in verse form.

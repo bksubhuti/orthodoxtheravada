@@ -18,4 +18,4 @@ A lay follower named Dīghajāṇu explicitly asked the Buddha for teachings tha
 4. **Samajīvitā** - Balanced living: Managing one's finances wisely. Knowing one's income and expenses, ensuring that one neither hoards wealth like a starved person nor spends it recklessly like a "fig-tree glutton."
 
 ### Textual References
-* **Canonical**: *Dīghajāṇu Sutta* (AN 8.54) – The exact discourse where the Buddha lays out these practical, timeless economic principles.
+* **Canonical**: *Dīghajāṇu [Sutta](/glossary/sutta/)* (AN 8.54) – The exact discourse where the Buddha lays out these practical, timeless economic principles.

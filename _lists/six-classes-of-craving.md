@@ -9,7 +9,7 @@ canonical_texts: ["Samyutta Nikaya", "Digha Nikaya"]
 commentaries: ["Papancasudani"]
 ---
 ### Overview
-Craving (*Taṇhā*) is the origin of suffering (the Second Noble Truth). While often divided into three modes (sensual, existence, non-existence), it is also mapped directly onto the sensory landscape. Beings generate an unquenchable thirst for the objects presented at the six sense doors.
+Craving (*[Taṇhā](/glossary/tanha/)*) is the origin of suffering (the Second Noble Truth). While often divided into three modes (sensual, existence, non-existence), it is also mapped directly onto the sensory landscape. Beings generate an unquenchable thirst for the objects presented at the six sense doors.
 
 ### The List
 1. **Rūpataṇhā** - Craving for forms: The thirst to see beautiful, pleasing, or fascinating visual objects.
@@ -20,4 +20,4 @@ Craving (*Taṇhā*) is the origin of suffering (the Second Noble Truth). While 
 6. **Dhammataṇhā** - Craving for mental objects: The thirst for pleasant memories, fascinating ideas, intellectual stimulation, or even the bliss of meditation.
 
 ### Textual References
-* **Canonical**: *Mahāsatipaṭṭhāna Sutta* (DN 22) – In analyzing the Second Noble Truth, the Buddha states that craving arises and settles wherever there is something agreeable and pleasurable in the world, explicitly listing these six classes.
+* **Canonical**: *Mahāsatipaṭṭhāna [Sutta](/glossary/sutta/)* (DN 22) – In analyzing the Second Noble Truth, the Buddha states that craving arises and settles wherever there is something agreeable and pleasurable in the world, explicitly listing these six classes.
