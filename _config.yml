@@ -10,6 +10,9 @@ url: "https://orthodoxtheravada.org"
 logo: /images/orthodox_theravada_logo.png
 og_image: /images/orthodox_theravada_logo.png
 
+search: true
+search_provider: lunr
+
 # Optional (SEO + clarity)
 twitter_username: ""
 github_username: ""
