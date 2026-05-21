@@ -112,6 +112,11 @@ atom_feed:
 footer:
   custom: true
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8JLHY1CTLS"
+
 collections:
   articles:
     output: true
