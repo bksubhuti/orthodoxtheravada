@@ -19,7 +19,7 @@ At the exact moment of death, the mind grasps at an object that will determine t
 3. **Āciṇṇa kamma** - Habitual Kamma: If there is no proximate kamma, the action that a person did repeatedly, constantly, and habitually throughout their life steps forward to dictate rebirth.
 4. **Kaṭattā kamma** - Reserve / Cumulative Kamma: If none of the above are present, any forgotten, seemingly insignificant action from the vast reserve of the past saṃsāric history steps in to provide the rebirth-link.
 
-## Quote
+### Quote
 > ### abhidhammatthasaṅgaho 
 >### kammacatukkaṃ 
 >

@@ -17,7 +17,7 @@ Giving (*[dāna](/glossary/dana/)*) is the foundational virtue in Theravāda pra
 1. **Āmisadāna** - The Gift of Material Things: Offering food, clothing, shelter, medicine, or money. It sustains life and relieves physical suffering in the present moment.
 2. **Dhammadāna** - The Gift of the [Dhamma](/glossary/dhamma/): Sharing the Buddha's teachings, printing Dhamma books, preaching, or guiding others on the path. It relieves spiritual suffering and opens the door to [Nibbāna](/glossary/nibbana/).
 
-## Quote
+### Quote
 >**142. ‘‘dvemāni, bhikkhave, dānāni.**   
 >142. “Bhikkhus, these are the two kinds of giving.  
 >**katamāni dve?**   

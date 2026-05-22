@@ -21,7 +21,7 @@ The Bases of Spiritual Power (*[Iddhipāda](/glossary/iddhipada/)*) are the foun
 4. **Vīmaṃsāsamādhi** - Concentration driven by investigation: Achieving deep unified concentration through sharp wisdom, profound inquiry, and analytical penetration of the Dhamma.
 
 
-## Quote
+### Quote
 > **7. iddhipādasaṃyuttaṃ**  
 > **1. cāpālavaggo**  
 > **1. apārasuttaṃ**  

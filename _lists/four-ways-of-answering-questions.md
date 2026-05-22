@@ -19,7 +19,7 @@ The Buddha was a master of pedagogy and debate. He never gave a generic answer t
 3. **Paṭipucchābyākaraṇīya** - To be answered with a counter-question: A question that is vague or based on faulty premises, requiring the teacher to ask a clarifying question to guide the questioner to the truth.
 4. **Ṭhapanīya** - To be set aside: A question based on invalid assumptions or one that leads only to vexation and not to liberation (e.g., "Is the universe eternal or not?"). These questions are ignored.
 
-## Quote
+### Quote
 >**katamāni cattāri?** 
 >What are the four?   
 >**atthi, bhikkhave, pañho ekaṃsabyākaraṇīyo; atthi, bhikkhave, pañho vibhajjabyākaraṇīyo; atthi, bhikkhave, pañho paṭipucchābyākaraṇīyo; atthi, bhikkhave, pañho ṭhapanīyo.**   

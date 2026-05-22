@@ -27,10 +27,10 @@ Dependent Origination (*[Paṭiccasamuppāda](/glossary/paticcasamuppada/)*) is 
 11. **[Jāti](/glossary/jati/)** - Birth (The descent into a new womb/realm), which conditions...
 12. **[Jarāmaraṇa](/glossary/jaramarana/), Soka, Parideva, [Dukkha](/glossary/dukkha/), Domanassa, Upāyāsā** - Aging, Death, Sorrow, Lamentation, Pain, Grief, and Despair. 
 
-## Quote
+#### Quote
 >**katamo ca, bhikkhave, paṭiccasamuppādo?**   
 >“And what, bhikkhus, is Dependent Origination?   
->**avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṃ; viññāṇapaccayā nāmarūpaṃ; nāmarūpapaccayā saḷāyatanaṃ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṃ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti.**   
+>**avijjāpaccayā, bhikkhaveote, saṅkhārā; saṅkhārapaccayā viññāṇaṃ; viññāṇapaccayā nāmarūpaṃ; nāmarūpapaccayā saḷāyatanaṃ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṃ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti.**   
 >Bhikkhus, with avijjā as condition, saṅkhārā arise; with saṅkhārā as condition, viññāṇa; with viññāṇa as condition, nāmarūpa; with nāmarūpa as condition, saḷāyatana; with saḷāyatana as condition, phassa; with phassa as condition, vedanā; with vedanā as condition, taṇhā; with taṇhā as condition, upādāna; with upādāna as condition, bhava; with bhava as condition, jāti; with jāti as condition, jarāmaraṇa, sorrow, lamentation, pain, displeasure, and despair arise.   
 >**evametassa kevalassa dukkhakkhandhassa samudayo hoti.**   
 >Thus there is the origin of this whole mass of suffering.   

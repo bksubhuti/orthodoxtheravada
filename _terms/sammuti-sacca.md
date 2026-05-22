@@ -20,7 +20,7 @@ Concepts like "man," "woman," "tree," "chariot," "country," and "self" are conve
 
 The Buddha used conventional truth in the [Sutta](/glossary/sutta/) Piṭaka to teach ethics and practical matters. The commentaries stress that a skilled teacher must know when to use conventional truth and when to use ultimate truth, without confusing the two.
 
-## Quote
+### Quote
 ### sammutiñāṇakathāvaṇṇanā 
 >**sammutisaccamhīti sammutiṃ anupaviṭṭhe saccamhi.**   
 >'Sammutisaccamhi' means in the truth that has entered into convention, or it is the locative case for the nominative, meaning conventional truth.   

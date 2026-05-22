@@ -18,7 +18,7 @@ In the [Abhidhamma](/glossary/abhidhamma/), death is immediately followed by reb
 3. **Rūpāvacarapaṭisandhi** - Rebirth-linking in the Fine-Material Sphere: Caused by the mastery of the fine-material jhānas. It drops the being into the [Brahma](/glossary/brahma/) worlds, executed by one of five resultant [jhāna](/glossary/jhana/) consciousnesses.
 4. **Arūpāvacarapaṭisandhi** - Rebirth-linking in the Immaterial Sphere: Caused by the mastery of the formless jhānas. It drops the being into the formless realms, executed by one of four formless resultant consciousnesses.
 
-## Quote
+### Quote
 >### Paṭisandhicatukkaṃ   
 >**15.apāyapaṭisandhi kāmasugatipaṭisandhi rūpāvacarapaṭisandhi**   
 >Rebirth-linking in the planes of misery, rebirth-linking in the sensuous happy planes, rebirth-linking in the fine-material planes, and rebirth-linking in the immaterial planes—this is called the fourfold rebirth-linking.

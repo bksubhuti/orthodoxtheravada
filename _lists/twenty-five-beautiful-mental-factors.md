@@ -38,7 +38,7 @@ The Twenty-Five Beautiful Mental Factors (*Sobhana Cetasikā*) are the ultimate 
 **The 1 Wisdom Faculty:**
 25. **Paññindriya** - Wisdom / Non-delusion (*[amoha](/glossary/amoha/)*): Piercing insight into ultimate reality.
 
-## Quote
+### Quote
 >### Sobhanacetasikaṃ   
 >Beautiful Mental Factors (Sobhana Cetasikas)  
 >**saddhā sati hirī ottappaṃ alobho adoso tatramajjhattatā kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā ceti ekūnavīsatime cetasikā sobhanasādhāraṇā nāma.**  

@@ -8,14 +8,24 @@ cross_links: ["buddha", "iddhipada", "samadhi"]
 canonical_texts: ["Digha Nikaya", "Samyutta Nikaya"]
 commentaries: ["Sumangalavilasini"]
 ---
+
 ### Overview
 While the four *Iddhipādās* (Bases of Spiritual Power) are cultivated by all advanced meditators, a Fully Awakened Buddha develops these four mental engines to an absolute cosmic maximum. The complete, flawless optimization of these four forces grants the [Tathāgata](/glossary/tathagata/) unmatched control over life-vitality and physical matter, allowing him to suppress physical aging at will.
 
 ### The List
-1. **Chanda-iddhipāda:** The base of power driven by his limitless, pure aspiration for the liberation and protection of all beings.
-2. **Viriya-iddhipāda:** The base of power driven by his unyielding, flawless energy that never wavers or experiences fatigue across his entire career.
-3. **Citta-iddhipāda:** The base of power driven by his incredibly pure, unconditioned, radiant mind-stream.
-4. **Vīmaṃsā-iddhipāda:** The base of power driven by his absolute, omniscient analytical investigation into the conditional physics of the cosmos.
+1. **Chandaiddhipāda:** The base of power driven by his limitless, pure aspiration for the liberation and protection of all beings.
+2. **Viriyaiddhipāda:** The base of power driven by his unyielding, flawless energy that never wavers or experiences fatigue across his entire career.
+3. **Cittaiddhipāda:** The base of power driven by his incredibly pure, unconditioned, radiant mind-stream.
+4. **Vīmaṃsāiddhipāda:** The base of power driven by his absolute, omniscient analytical investigation into the conditional physics of the cosmos.
+
+
+### Quote
+>**‘‘kiñca, bhikkhave, bhikkhuno āyusmiṃ?**   
+>“And what, bhikkhus, is a monk’s life (or longevity)?   
+>idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti.   
+>Here, bhikkhus, a monk develops the basis of spiritual power (iddhipāda) endowed with concentration due to desire (chanda) and volitional formations of exertion (padhānasaṅkhāra); he develops the basis of spiritual power endowed with concentration due to energy (vīriya) and volitional formations of exertion; he develops the basis of spiritual power endowed with concentration due to thought (citta) and volitional formations of exertion; he develops the basis of spiritual power endowed with concentration due to investigation (vīmaṃsā) and volitional formations of exertion.   
+>**so imesaṃ catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatattā ākaṅkhamāno kappaṃ vā tiṭṭheyya kappāvasesaṃ vā.**     
+>Having developed and repeatedly practiced these four bases of spiritual power, if he wishes, he might remain for an eon (kappa) or for the remainder of an eon. 
 
 ### Textual References
 * **Canonical**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) [Sutta](/glossary/sutta/)* (DN 16) – The Buddha explicitly tells Venerable Ānanda three times that because a Tathāgata has developed and perfected these four bases of power, he could, if requested, live onward for an entire cosmic eon (*kappa*) or the remainder of one.

@@ -18,7 +18,7 @@ Right Effort (*Sammā-vāyāma*) in the Noble Eightfold Path is not merely worki
 3. **Bhāvanāppadhāna** - The effort to develop: Generating desire, making an effort, and arousing energy to *develop* wholesome states that have not yet arisen (e.g., cultivating the factors of awakening).
 4. **Anurakkhaṇappadhāna** - The effort to maintain: Generating desire, making an effort, and arousing energy to *maintain*, increase, and perfect wholesome states that have already arisen.
 
-## Quote
+### Quote
 > ### saṃvarasuttaṃ  
 >**cattārimāni, bhikkhave, padhānāni.**  
 > “Bhikkhus, there are these four exertions (padhānāni).  

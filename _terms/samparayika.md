@@ -20,7 +20,7 @@ While the Buddha valued present-life welfare, he emphasized that *Samparāyika-a
 
 In [Abhidhamma](/glossary/abhidhamma/) karma theory, *Samparāyika-kamma* (or *Upapajjavedanīyakamma*) refers specifically to the heavy volitional action (the seventh javana-citta in a cognitive series) that will explicitly dictate the destination of the very next rebirth.
 
-## Quote
+### Quote
 >**cattārome, byagghapajja, dhammā kulaputtassa samparāyahitāya saṃvattanti samparāyasukhāya.**   
 >Byagghapajja, these four qualities lead to the welfare and happiness of a noble son in the future life.   
 >**katame cattāro?**  

@@ -45,6 +45,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -56,6 +57,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
+      toc: true
+      toc_sticky: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -67,6 +71,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
+      toc: true
+      toc_sticky: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -78,6 +85,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -89,6 +97,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
+      toc: true
+      toc_sticky: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"

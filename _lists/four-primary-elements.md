@@ -19,7 +19,7 @@ In Buddhist physics and meditation, the material world (*[rūpa](/glossary/rupa/
 3. **Tejodhātu** - The Fire Element: The principle of temperature, heat, and maturation. In the body, it is prominent in the heat that warms, ages, and digests food.
 4. **Vāyodhātu** - The Wind/Air Element: The principle of motion, pushing, and pressure. In the body, it is prominent in the breath, gases, and the physical forces that move the limbs.
 
-##Quote
+### Quote
 >**111. puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati – ‘atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti.**   
 >Furthermore, bhikkhus, a bhikkhu reviews this very body, however it is placed, however it is disposed, by way of its elements: ‘In this body there is the earth element, the water element, the fire element, the air element’.
  

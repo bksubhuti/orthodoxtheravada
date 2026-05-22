@@ -25,7 +25,7 @@ The Kasinas ("Totalities") are the most famous objects of *[Samatha](/glossary/s
 9. **Ālokakasiṇa** - The Light Kasina: Gazing at a circle of light cast on a wall through a hole in a roof.
 10. **Paricchinnākāsakasiṇa** - The Limited Space Kasina: Gazing at a patch of sky seen through a small opening.
 
-## Quote mahāsakuludāyisuttaṃ 
+### Quote mahāsakuludāyisuttaṃ 
 >**250. puna caparaṃ, udāyi, akkhātā mayā sāvakānaṃ paṭipadā, yathāpaṭipannā me sāvakā dasa kasiṇāyatanāni bhāventi.**   
 >“Furthermore, Udāyi, I have explained the path for my disciples, by which path my disciples develop the ten *kasiṇa* bases.   
 >**pathavīkasiṇameko sañjānāti uddhamadho tiriyaṃ advayaṃ appamāṇaṃ; āpokasiṇameko sañjānāti…pe… tejokasiṇameko sañjānāti… vāyokasiṇameko sañjānāti… nīlakasiṇameko sañjānāti… pītakasiṇameko sañjānāti… lohitakasiṇameko sañjānāti… odātakasiṇameko sañjānāti… ākāsakasiṇameko sañjānāti … viññāṇakasiṇameko sañjānāti uddhamadho tiriyaṃ advayaṃ appamāṇaṃ.**   
