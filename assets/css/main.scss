@@ -132,6 +132,22 @@
   background-position: left center !important;
 }
 
+/* Mobile specific styling: make banner taller and position text below the logo */
+@media (max-width: 47.9375em) {
+  .page__hero--overlay[style*="banner"] {
+    background-size: auto 180px !important;
+    background-position: calc(50% + 304px) top !important;
+    background-repeat: no-repeat !important;
+    background-color: #000000 !important;
+    padding-top: 200px !important;
+    padding-bottom: 2em !important;
+  }
+  .page__hero--overlay[style*="banner"] .wrapper {
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+  }
+}
+
 /* ============================================================
    Navigation Cards ("Explore" section on homepage)
    ============================================================ */
