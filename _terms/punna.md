@@ -23,7 +23,7 @@ The tradition formalizes the cultivation of merit into the **Puññakiriyavatthu
 
 Later commentarial expansions unpack this into ten distinct bases (including respect, service, sharing merit, and straightening one's views). Merit is the foundational currency required to secure favorable human or heavenly rebirths, acting as an indispensable protective buffer that shields the practitioner while they navigate [saṃsāra](/glossary/samsara/) toward final *[Nibbāna](/glossary/nibbana/)*.
 
-## Quote
+### Quote
 >**dānamayaṃ puññakiriyavatthu, sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu.**   
 >Three bases of meritorious action: the base of meritorious action consisting of giving, the base of meritorious action consisting of morality, the base of meritorious action consisting of development. 
 >tīṇi puññakiriyavatthūni – 

@@ -17,7 +17,7 @@ When the lay disciples asked how they should maintain devotion when the Buddha w
 2. **Dhātucetiya** - Shrines of the Corporeal Relics: Also known as *Sārīrika-cetiya*. These are the physical bone, tooth, hair, and footprint relics left behind after the cremation of the Buddha's physical body, typically enshrined inside solid stupas.
 3. **Uddissacetiya** - Shrines of Indication / Memorial Shrines: Visual representations created intentionally by the wise to honor the Buddha. This includes Buddha statues, carvings, and representations of the Wheel of [Dhamma](/glossary/dhamma/) (*Dhammacakka*).
 
-## Quote
+### Quote
 ### Kalinga Bodhi Jataka Atthakatha
 >**tīṇi ānandā’’ti.**   
 >"Three, Ānanda," (he replied).   
