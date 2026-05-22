@@ -27,7 +27,7 @@ Dependent Origination (*[Paṭiccasamuppāda](/glossary/paticcasamuppada/)*) is 
 11. **[Jāti](/glossary/jati/)** - Birth (The descent into a new womb/realm), which conditions...
 12. **[Jarāmaraṇa](/glossary/jaramarana/), Soka, Parideva, [Dukkha](/glossary/dukkha/), Domanassa, Upāyāsā** - Aging, Death, Sorrow, Lamentation, Pain, Grief, and Despair. 
 
-##Quote
+## Quote
 >**katamo ca, bhikkhave, paṭiccasamuppādo?**   
 >“And what, bhikkhus, is Dependent Origination?   
 >**avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṃ; viññāṇapaccayā nāmarūpaṃ; nāmarūpapaccayā saḷāyatanaṃ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṃ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti.**   
