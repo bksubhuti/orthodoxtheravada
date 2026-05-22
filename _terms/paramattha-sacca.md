@@ -8,8 +8,10 @@ cross_links: ["sammuti-sacca", "abhidhamma-pitaka", "citta", "cetasika", "rupa",
 canonical_texts: ["Kathavatthu", "Abhidhammatthasangaha"]
 commentaries: ["Atthasalini", "Visuddhimagga"]
 ---
+
+Verified
 ### Grammatical Analysis
-**Paramattha-sacca**: [nt.] Ultimate Truth; Absolute Reality. Formed by *parama* (highest, ultimate, absolute) + *attha* (meaning, reality, thing) + *sacca* (truth).
+**Paramatthasacca**: [nt.] Ultimate Truth; Absolute Reality. Formed by *parama* (highest, ultimate, absolute) + *attha* (meaning, reality, thing) + *sacca* (truth).
 
 ### Orthodox Definition
 In the orthodox Theravāda two-truth doctrine, *Paramattha-sacca* refers exclusively to phenomena that exist by reason of their own intrinsic nature (*sabhāva*). These are realities that cannot be broken down or deconstructed into smaller conceptual parts. 

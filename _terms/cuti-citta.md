@@ -8,8 +8,10 @@ cross_links: ["patisandhi", "bhavanga", "marana", "kamma"]
 canonical_texts: ["Patthana"]
 commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ---
+
+verified 
 ### Grammatical Analysis
-**Cuti-citta**: [nt.] death-consciousness; shifting consciousness; the final mind-moment. Formed by *cuti* (falling away, shifting, passing, dying) + *citta* (consciousness). 
+**Cuticitta**: [nt.] death-consciousness; shifting consciousness; the final mind-moment. Formed by *cuti* (falling away, shifting, passing, dying) + *citta* (consciousness). 
 
 ### Orthodox Definition
 In the [Abhidhamma](/glossary/abhidhamma/) mapping of a single lifetime, the *Cuti-citta* is the absolute **final moment of consciousness** that arises in the physical body before biological death is complete.

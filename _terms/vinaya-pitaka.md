@@ -8,13 +8,15 @@ cross_links: ["sutta-pitaka", "abhidhamma-pitaka", "patimokkha"]
 canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
+
+Verfied
 ### Grammatical Analysis
 **Vinayapiṭaka**: [nt.] The Basket of Discipline. Formed by *vinaya* (discipline, leading away from wrong) + *piṭaka* (basket).
 
 ### Orthodox Definition
 The *Vinaya-piṭaka* is the first division of the Pali Canon, serving as the absolute legal and behavioral foundation of the monastic order (*[Saṅgha](/glossary/sangha/)*). 
 
-The commentaries classify the [Vinaya](/glossary/vinaya/) as **Āṇā-desanā** (authoritative teaching). Unlike the Suttas, which rely on persuasion and reasoning, the Vinaya relies on the absolute, unchallengeable authority of the Buddha. Only a Fully Enlightened Buddha has the authority to lay down a Vinaya rule.
+The commentaries classify the [Vinaya](/glossary/vinaya/) as **Āṇādesanā** (authoritative teaching). Unlike the Suttas, which rely on persuasion and reasoning, the Vinaya relies on the absolute, unchallengeable authority of the Buddha. Only a Fully Enlightened Buddha has the authority to lay down a Vinaya rule.
 
 It is divided into three main sections:
 1. **[Suttavibhaṅga](/glossary/suttavibhanga/)**: The detailed exposition of the *[Pātimokkha](/glossary/patimokkha/)* (227 rules for monks, 311 for nuns), detailing the origin story and precise legal loopholes for every single rule.

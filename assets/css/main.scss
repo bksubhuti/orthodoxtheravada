@@ -1,6 +1,27 @@
 ---
 ---
 @import "minimal-mistakes/skins/default";
+
+/* --- Modern Custom Variables --- */
+$sans-serif: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$serif: "Lora", Georgia, Times, "Times New Roman", serif;
+
+$global-font-family: $serif;
+$header-font-family: $sans-serif;
+
+$background-color: #faf8f5;
+$text-color: #2c2c2c;
+
+// Elegant Monastic Maroon-Brown Theme
+$primary-color: #6c2e1f;
+$primary-color-dark: #4d2015;
+
+$border-color: #edeae4;
+$masthead-link-color: #333333;
+$masthead-link-color-hover: $primary-color;
+$link-color: $primary-color;
+$link-color-hover: $primary-color-dark;
+
 @import "minimal-mistakes";
 
 /* ✅ Correct selector */
@@ -154,9 +175,9 @@
 
 .ot-card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0 2.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.75rem;
+  margin: 2.5rem 0 3rem;
 }
 
 /* --- Homepage raised nav cards --- */
@@ -165,131 +186,213 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 2rem 1.5rem 1.75rem;
+  padding: 2.25rem 1.75rem 2rem;
   background: #ffffff;
-  border: 1px solid #e4e4e4;
-  border-radius: 12px;
+  border: 1px solid #e9e6e0;
+  border-radius: 16px;
   box-shadow:
-    0 2px 4px rgba(0,0,0,0.06),
-    0 6px 18px rgba(0,0,0,0.10);
+    0 4px 20px rgba(0, 0, 0, 0.03),
+    0 2px 8px rgba(0, 0, 0, 0.02);
   text-decoration: none;
   color: inherit;
-  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), 
+              box-shadow 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), 
+              border-color 0.25s ease;
 }
 
 .ot-nav-card:hover,
 .ot-nav-card:focus {
-  transform: translateY(-4px);
+  transform: translateY(-6px) scale(1.01);
   box-shadow:
-    0 4px 8px rgba(0,0,0,0.08),
-    0 14px 30px rgba(0,0,0,0.14);
+    0 16px 36px rgba($primary-color, 0.07),
+    0 4px 12px rgba(0, 0, 0, 0.03);
+  border-color: rgba($primary-color, 0.25);
   text-decoration: none;
   color: inherit;
 }
 
 .ot-nav-card__icon {
-  font-size: 2.8rem;
+  font-size: 2.2rem;
   line-height: 1;
-  margin-bottom: 0.85rem;
+  margin-bottom: 1.25rem;
+  background: #faf8f5;
+  width: 68px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid rgba($primary-color, 0.06);
+  transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), 
+              background-color 0.2s ease,
+              box-shadow 0.2s ease;
+}
+
+.ot-nav-card:hover .ot-nav-card__icon {
+  transform: scale(1.1) rotate(4deg);
+  background-color: rgba($primary-color, 0.05);
+  box-shadow: inset 0 2px 6px rgba($primary-color, 0.05);
+}
+
+.ot-nav-card__icon--img {
+  background: transparent !important;
+  border: none !important;
+  width: 68px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  padding: 0;
+}
+
+.ot-nav-card__icon--img img {
+  width: 58px;
+  height: 58px;
+  object-fit: contain;
+  border-radius: 50%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.ot-nav-card:hover .ot-nav-card__icon--img img {
+  transform: scale(1.1) rotate(-4deg);
 }
 
 .ot-nav-card__title {
-  font-size: 1.2rem;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 1.25rem;
   font-weight: 700;
-  margin: 0 0 0.55rem;
-  color: #222;
+  margin: 0 0 0.65rem;
+  color: #1a1a1a;
+  letter-spacing: -0.01em;
 }
 
 .ot-nav-card__desc {
+  font-family: "Lora", serif;
   font-size: 0.92rem;
-  color: #5a5a5a;
-  line-height: 1.5;
+  color: #555555;
+  line-height: 1.6;
   margin: 0;
+  flex-grow: 1;
 }
 
-/* Button-style CTA at bottom of each card — add if you want a pill button */
+/* Button-style CTA at bottom of each card */
 .ot-nav-card__btn {
   display: inline-block;
-  margin-top: 1.2rem;
-  padding: 0.5rem 1.4rem;
-  background: #7b1f1f;   /* dark red, matches Minimal Mistakes primary */
-  color: #fff !important;
-  border-radius: 6px;
-  font-size: 0.88rem;
+  margin-top: 1.25rem;
+  padding: 0.55rem 1.5rem;
+  background: $primary-color;
+  color: #ffffff !important;
+  border-radius: 20px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 0.85rem;
   font-weight: 600;
   text-decoration: none;
-  transition: background 0.15s ease;
+  box-shadow: 0 2px 6px rgba($primary-color, 0.15);
+  transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
 }
+
 .ot-nav-card:hover .ot-nav-card__btn {
-  background: #5c1616;
+  background: $primary-color-dark;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba($primary-color, 0.25);
 }
 
 /* --- Pāḷi Tools page tool cards (wider, left-aligned) --- */
 .ot-tool-card {
   display: flex;
   align-items: flex-start;
-  gap: 1.2rem;
-  padding: 1.75rem 1.5rem;
+  gap: 1.5rem;
+  padding: 1.75rem 1.75rem;
   background: #ffffff;
-  border: 1px solid #e4e4e4;
-  border-radius: 12px;
+  border: 1px solid #e9e6e0;
+  border-radius: 16px;
   box-shadow:
-    0 2px 4px rgba(0,0,0,0.06),
-    0 6px 18px rgba(0,0,0,0.10);
+    0 4px 20px rgba(0, 0, 0, 0.03),
+    0 2px 8px rgba(0, 0, 0, 0.02);
   text-decoration: none;
   color: inherit;
-  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), 
+              box-shadow 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), 
+              border-color 0.25s ease;
 }
 
 .ot-tool-card:hover,
 .ot-tool-card:focus {
-  transform: translateY(-4px);
+  transform: translateY(-5px);
   box-shadow:
-    0 4px 8px rgba(0,0,0,0.08),
-    0 14px 30px rgba(0,0,0,0.14);
+    0 16px 36px rgba($primary-color, 0.06),
+    0 4px 12px rgba(0, 0, 0, 0.03);
+  border-color: rgba($primary-color, 0.2);
   text-decoration: none;
   color: inherit;
 }
 
 .ot-tool-card__icon {
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   line-height: 1;
   flex-shrink: 0;
   margin-top: 0.1rem;
+  transition: transform 0.3s ease;
+}
+
+.ot-tool-card:hover .ot-tool-card__icon {
+  transform: scale(1.1) rotate(5deg);
+}
+
+.ot-tool-card__body {
+  flex-grow: 1;
 }
 
 .ot-tool-card__body h3 {
-  margin: 0 0 0.4rem;
-  font-size: 1.15rem;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  margin: 0 0 0.45rem;
+  font-size: 1.2rem;
   font-weight: 700;
-  color: #222;
+  color: #1a1a1a;
+  letter-spacing: -0.01em;
 }
 
 .ot-tool-card__body p {
-  margin: 0 0 0.75rem;
-  font-size: 0.93rem;
-  color: #5a5a5a;
-  line-height: 1.5;
+  font-family: "Lora", serif;
+  margin: 0 0 0.85rem;
+  font-size: 0.92rem;
+  color: #555555;
+  line-height: 1.6;
 }
 
 .ot-tool-card__cta {
-  font-size: 0.88rem;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 0.85rem;
   font-weight: 600;
-  color: #7b1f1f;
+  color: $primary-color;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: color 0.15s ease;
+}
+
+.ot-tool-card:hover .ot-tool-card__cta {
+  color: $primary-color-dark;
 }
 
 /* Image icon variant for tool cards (e.g. TPR icon) */
 .ot-tool-card__icon--img {
-  font-size: inherit;
-  width: 3rem;
-  height: 3rem;
+  width: 3.5rem;
+  height: 3.5rem;
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 .ot-tool-card__icon--img img {
   width: 100%;
   height: 100%;
   object-fit: contain;
-  border-radius: 8px;
+  border-radius: 12px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
 }
 
 /* ============================================================
@@ -299,40 +402,48 @@
 .ot-link-grid {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
-  margin: 1.5rem 0;
+  gap: 1.25rem;
+  margin: 2rem 0;
 }
 
 .ot-link-card {
   display: flex;
   align-items: center;
-  gap: 1.25rem;
-  padding: 1.4rem 1.5rem;
+  gap: 1.5rem;
+  padding: 1.5rem 1.75rem;
   background: #ffffff;
-  border: 1px solid #e4e4e4;
-  border-radius: 12px;
+  border: 1px solid #e9e6e0;
+  border-radius: 16px;
   box-shadow:
-    0 2px 4px rgba(0,0,0,0.06),
-    0 6px 18px rgba(0,0,0,0.09);
+    0 4px 20px rgba(0, 0, 0, 0.03),
+    0 2px 8px rgba(0, 0, 0, 0.02);
   text-decoration: none;
   color: inherit;
-  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), 
+              box-shadow 0.25s cubic-bezier(0.2, 0.8, 0.2, 1), 
+              border-color 0.25s ease;
 }
 
 .ot-link-card:hover,
 .ot-link-card:focus {
   transform: translateY(-3px);
   box-shadow:
-    0 4px 8px rgba(0,0,0,0.08),
-    0 14px 28px rgba(0,0,0,0.13);
+    0 12px 28px rgba($primary-color, 0.05),
+    0 4px 10px rgba(0, 0, 0, 0.02);
+  border-color: rgba($primary-color, 0.18);
   text-decoration: none;
   color: inherit;
 }
 
 .ot-link-card__icon {
-  font-size: 2.2rem;
+  font-size: 2rem;
   line-height: 1;
   flex-shrink: 0;
+  transition: transform 0.3s ease;
+}
+
+.ot-link-card:hover .ot-link-card__icon {
+  transform: scale(1.15);
 }
 
 .ot-link-card__body {
@@ -340,22 +451,281 @@
 }
 
 .ot-link-card__body h3 {
-  margin: 0 0 0.3rem;
-  font-size: 1.1rem;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  margin: 0 0 0.35rem;
+  font-size: 1.15rem;
   font-weight: 700;
-  color: #222;
+  color: #1a1a1a;
+  letter-spacing: -0.01em;
 }
 
 .ot-link-card__body p {
-  margin: 0 0 0.35rem;
+  font-family: "Lora", serif;
+  margin: 0 0 0.45rem;
   font-size: 0.92rem;
-  color: #5a5a5a;
-  line-height: 1.5;
+  color: #555555;
+  line-height: 1.6;
 }
 
 .ot-link-card__url {
-  font-size: 0.82rem;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 0.8rem;
   font-weight: 600;
-  color: #7b1f1f;
-  font-family: monospace;
+  color: $primary-color;
+  transition: color 0.15s ease;
+}
+
+.ot-link-card:hover .ot-link-card__url {
+  color: $primary-color-dark;
+}
+
+/* ============================================================
+   Typography & Layout Polish
+   ============================================================ */
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.page__content {
+  font-size: 1.125rem; /* Slightly larger, highly readable body size */
+  line-height: 1.75;  /* Spacious and clean line height */
+  color: #2c2c2c;
+
+  p {
+    margin-bottom: 1.6rem;
+  }
+
+  /* Headings with Jakarta font and subtle letter-spacing */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #1a1a1a;
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+  }
+
+  h1 { font-size: 2.2rem; }
+  h2 { font-size: 1.75rem; border-bottom: 1px solid #edeae4; padding-bottom: 0.4rem; }
+  h3 { font-size: 1.4rem; }
+  h4 { font-size: 1.15rem; }
+
+  /* Lists modern styling */
+  ul, ol {
+    margin-bottom: 1.6rem;
+    padding-left: 1.5rem;
+    
+    li {
+      margin-bottom: 0.5rem;
+      line-height: 1.7;
+    }
+  }
+
+  /* Modernized blockquotes */
+  blockquote {
+    font-style: italic;
+    border-left: 4px solid $primary-color;
+    background: #fbfaf8;
+    padding: 1.25rem 1.5rem;
+    margin: 1.8rem 0;
+    border-radius: 0 12px 12px 0;
+    color: #4a4a4a;
+    box-shadow: inset 2px 0 0 rgba($primary-color, 0.05);
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  /* Callout notices */
+  .notice {
+    border-radius: 12px !important;
+    border-left-width: 4px !important;
+    background-color: #fbf9f6 !important;
+    border-color: #edeae4 !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.01) !important;
+    
+    h4 {
+      margin-top: 0 !important;
+      font-family: "Plus Jakarta Sans", sans-serif !important;
+      font-weight: 700 !important;
+    }
+  }
+
+  .notice--info {
+    background-color: #f0f7fc !important;
+    border-color: #0366d6 !important;
+  }
+
+  .notice--warning {
+    background-color: #fff9eb !important;
+    border-color: #e36209 !important;
+  }
+
+  .notice--danger {
+    background-color: #ffeef0 !important;
+    border-color: #d73a49 !important;
+  }
+
+  .notice--success {
+    background-color: #dcffe4 !important;
+    border-color: #28a745 !important;
+  }
+}
+
+/* ============================================================
+   Sidebar Modern Styling
+   ============================================================ */
+
+.sidebar {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  
+  .nav__list {
+    background: #ffffff;
+    border: 1px solid #edeae4;
+    border-radius: 16px;
+    padding: 1.25rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+  }
+  
+  .nav__title {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    color: #1a1a1a;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid #edeae4;
+    padding-bottom: 0.5rem;
+  }
+
+  .nav__items {
+    a {
+      font-size: 0.92rem;
+      color: #555555;
+      padding: 0.35rem 0.5rem;
+      border-radius: 8px;
+      display: block;
+      transition: all 0.2s ease;
+
+      &:hover, &.active {
+        color: $primary-color;
+        background: rgba($primary-color, 0.04);
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+/* ============================================================
+   Masthead (Sticky Frosted Header) & Navigation Links
+   ============================================================ */
+
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(250, 248, 245, 0.9) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba($primary-color, 0.08) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.015);
+  font-family: "Plus Jakarta Sans", sans-serif;
+  transition: all 0.3s ease;
+}
+
+.site-title {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  font-weight: 800 !important;
+  color: #1a1a1a !important;
+  letter-spacing: -0.02em !important;
+  transition: color 0.2s ease !important;
+  
+  &:hover {
+    color: $primary-color !important;
+    text-decoration: none !important;
+  }
+}
+
+.masthead__menu-item a,
+.masthead__menu .visible-links a {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 0.92rem !important;
+  color: #3a3a3a !important;
+  position: relative;
+  padding: 0.25rem 0;
+  transition: color 0.2s ease;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: $primary-color;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+  
+  &:hover {
+    color: $primary-color !important;
+    text-decoration: none !important;
+    
+    &::after {
+      transform: scaleX(1);
+      transform-origin: left;
+    }
+  }
+}
+
+/* Ensure active/selected links also stand out */
+.masthead__menu-item.active a,
+.masthead__menu .visible-links .active a {
+  color: $primary-color !important;
+  &::after {
+    transform: scaleX(1) !important;
+  }
+}
+
+/* ============================================================
+   Page Footer Modernization
+   ============================================================ */
+
+.page__footer {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  background-color: #f6f3ed !important;
+  border-top: 1px solid #edeae4;
+  padding: 3.5rem 0 3rem;
+  margin-top: 5rem;
+  color: #555555;
+
+  a {
+    color: $primary-color;
+    font-weight: 600;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: $primary-color-dark;
+      text-decoration: none;
+    }
+  }
+
+  .page__footer-follow {
+    li {
+      margin-right: 1.25rem;
+    }
+  }
+
+  .page__footer-copyright {
+    font-size: 0.85rem;
+    color: #666666;
+    margin-top: 1.5rem;
+  }
 }

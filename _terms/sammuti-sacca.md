@@ -8,8 +8,10 @@ cross_links: ["paramattha-sacca", "sutta-pitaka", "pannatti"]
 canonical_texts: ["Digha Nikaya", "Milindapanha"]
 commentaries: ["Sumangalavilasini"]
 ---
+
+Verified
 ### Grammatical Analysis
-**Sammuti-sacca**: [nt.] Conventional Truth; Conceptual Truth. Formed by *sammuti* (consent, agreement, convention) + *sacca* (truth). 
+**Sammutisacca**: [nt.] Conventional Truth; Conceptual Truth. Formed by *sammuti* (consent, agreement, convention) + *sacca* (truth). 
 
 ### Orthodox Definition
 *Sammuti-sacca* refers to things that are "true" only because human beings collectively agree upon their definitions through language and conceptual grouping. 
@@ -18,7 +20,14 @@ Concepts like "man," "woman," "tree," "chariot," "country," and "self" are conve
 
 The Buddha used conventional truth in the [Sutta](/glossary/sutta/) Piṭaka to teach ethics and practical matters. The commentaries stress that a skilled teacher must know when to use conventional truth and when to use ultimate truth, without confusing the two.
 
+### Quote
+### sammutiñāṇakathāvaṇṇanā 
+>**sammutisaccamhīti sammutiṃ anupaviṭṭhe saccamhi.**   
+>'Sammutisaccamhi' means in the truth that has entered into convention, or it is the locative case for the nominative, meaning conventional truth.   
+>**paccatte vā bhummavacanaṃ, sammutisaccanti attho.**   
+>The question 'sammutiñāṇaṃ saccārammaṇaññeva' (is conventional knowledge only truth as its object?) is by the Sakavādin, and the affirmation is by the other (Paravādin).   
+>**sammutiñāṇaṃ saccārammaṇaññevāti pucchā sakavādissa, paṭiññā itarassa.**  
+Then, to rebuke him, saying, 'If that (conventional knowledge) has truth as its object without distinction, then with that knowledge one would accomplish the full comprehension of suffering, etc.,' he states 'tena ñāṇena' (with that knowledge), etc. 
+
 ### Textual References
-* **Sutta**: *Poṭṭhapāda Sutta* (DN 9) – The Buddha states: "These are merely worldly names, worldly expressions, worldly conventions, which the [Tathāgata](/glossary/tathagata/) uses without clinging to them."
-* **Para-canonical**: *[Milindapañha](/glossary/milindapanha/)* – The chariot simile perfectly illustrating the difference between a conventional name and its ultimate components.
 * **Commentary**: *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* – Providing the formal definitions separating conventional and ultimate truth.

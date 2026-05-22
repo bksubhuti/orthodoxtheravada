@@ -18,10 +18,10 @@ When a person goes forth from the household life but is not yet fully ordained a
 4. **Musāvādā...** - Abstaining from false speech.
 5. **Surāmeraya...** - Abstaining from intoxicants.
 6. **Vikālabhojanā...** - Abstaining from eating after noon.
-7. **Nacca-gīta-vādita-visūkadassanā veramaṇī...** - Abstaining from dancing, singing, instrumental music, and watching worldly entertainments. *(Note: This splits the 7th [Uposatha](/glossary/uposatha/) precept).*
-8. **Mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇī...** - Abstaining from wearing garlands, perfumes, cosmetics, and bodily adornments.
-9. **Uccāsayana-mahāsayanā...** - Abstaining from high and luxurious beds.
-10. **Jātarūpa-rajata-paṭiggahaṇā veramaṇī sikkhāpadaṃ samādiyāmi** - I undertake the training rule to abstain from accepting gold and silver (money): A novice cannot handle, request, or consent to money being held for them.
+7. **Naccagītavāditavisūkadassanā veramaṇī...** - Abstaining from dancing, singing, instrumental music, and watching worldly entertainments. *(Note: This splits the 7th [Uposatha](/glossary/uposatha/) precept).*
+8. **Mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā veramaṇī...** - Abstaining from wearing garlands, perfumes, cosmetics, and bodily adornments.
+9. **Uccāsayanamahāsayanā...** - Abstaining from high and luxurious beds.
+10. **Jātarūparajatapaṭiggahaṇā veramaṇī sikkhāpadaṃ samādiyāmi** - I undertake the training rule to abstain from accepting gold and silver (money): A novice cannot handle, request, or consent to money being held for them.
 
 ### Textual References
 * **Canonical**: *Dasasikkhāpada* (Khp 2) – The formal recitation of the ten novice precepts.

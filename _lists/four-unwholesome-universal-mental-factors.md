@@ -8,6 +8,8 @@ cross_links: ["abhidhamma", "cetasika", "akusala", "kilesa"]
 canonical_texts: ["Abhidhamma Pitaka"]
 commentaries: ["Abhidhammatthasangaha", "Atthasalini"]
 ---
+verified
+
 ### Overview
 The Four Unwholesome Universal Mental Factors (*Sabbakusalasādhāraṇa Cetasikā*) represent the structural foundation of all mental corruption in Theravāda [Abhidhamma](/glossary/abhidhamma/). They are called "unwholesome universals" because they are mathematically guaranteed to arise in every single one of the 12 unwholesome consciousnesses (*[akusala](/glossary/akusala/) [citta](/glossary/citta-base/)*). No matter if a mind-moment is driven by subtle, joyful attachment (*[lobha](/glossary/lobha/)*) or intense, fiery aversion (*[dosa](/glossary/dosa/)*), these four factors operate simultaneously in the background, anchoring and coloring the defilement.
 
@@ -19,4 +21,4 @@ The Four Unwholesome Universal Mental Factors (*Sabbakusalasādhāraṇa Cetasik
 
 ### Textual References
 * **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Formally lists these four mental factors at the very beginning of the analysis of every unwholesome state of consciousness, proving their universal co-arising.
-* **Commentary**: *Abhidhammattha Saṅgaha* (Chapter II) – Classifies these four as the universal baseline components that define the unwholesome category of mental factors.
+* **Commentary**: *[Abhidhammatthasangaha](/glossary/abhidhammatthasangaha/)* (Chapter II) – Classifies these four as the universal baseline components that define the unwholesome category of mental factors.

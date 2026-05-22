@@ -8,6 +8,8 @@ cross_links: ["anatta", "kamma", "pariyatti"]
 canonical_texts: ["Milindapanha"]
 commentaries: ["Milinda-tika"]
 ---
+
+verified 
 ### Grammatical Analysis
 **Milindapañha**: [m.] The Questions of King Milinda. Formed by *Milinda* (the Indo-Greek King Menander I) + *pañha* (question, inquiry).
 
@@ -19,4 +21,4 @@ The text frames a brilliant philosophical debate between the Greek King Milinda 
 Nāgasena answers these questions using a series of striking, accessible similes (such as the chariot, the flame passing from candle to candle, and the mango tree). For the orthodox tradition, this text serves as the absolute gold standard for resolving apparent contradictions in the Pali Canon.
 
 ### Textual References
-* **Para-canonical**: *Milindapañha* (Lakkhaṇapañha) – The famous chariot simile, proving that "Nāgasena" is just a conventional name for the aggregates, not an enduring entity.
+**Milindapañha* (Lakkhaṇapañha) – The famous chariot simile, proving that "Nāgasena" is just a conventional name for the aggregates, not an enduring entity.

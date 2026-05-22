@@ -8,6 +8,8 @@ cross_links: ["pancasila", "patimokkha", "vinaya", "kusala"]
 canonical_texts: ["Vinaya Pitaka", "Anguttara Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
+
+verified
 ### Grammatical Analysis
 **Sīla**: [nt.] virtue; morality; ethical conduct; discipline. Derived either from root *sīl* (to hold, coordinate, stabilize) or from *sītala* (coolness), because pure moral conduct cools down the burning fires of bodily and verbal defilements.
 
@@ -19,7 +21,7 @@ The *[Visuddhimagga](/glossary/visuddhimagga/)* notes that the characteristic of
 For different segments of the community, sīla is structured into distinct tiers of training rules:
 * For lay devotees: The permanent observation of the **[Pañcasīla](/glossary/pancasila/)** (Five Precepts) and the periodic training of the **Aṭṭhaṅgasīla** (Eight Precepts) on [Uposatha](/glossary/uposatha/) days.
 * For novices (*[sāmaṇera](/glossary/samanera/)*): The **Dasasīla** (Ten Precepts).
-* For fully ordained monks (*[bhikkhu](/glossary/bhikkhu/)*): The exhaustive **Catu-pārisuddhi-sīla** (Fourfold Purification Virtue), which includes [Patimokkha](/glossary/patimokkha/) restraint, sense faculty restraint, livelihood purification, and the proper reflection on monastical requisites.
+* For fully ordained monks (*[bhikkhu](/glossary/bhikkhu/)*): The exhaustive **Catupārisuddhisīla** (Fourfold Purification Virtue), which includes [Patimokkha](/glossary/patimokkha/) restraint, sense faculty restraint, livelihood purification, and the proper reflection on monastical requisites.
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Sāmaññaphala Sutta* (DN 2) – Section detailing the gradual training in moral discipline.

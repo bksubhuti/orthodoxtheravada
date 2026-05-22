@@ -8,6 +8,8 @@ cross_links: ["upasaka", "sila", "metta"]
 canonical_texts: ["Anguttara Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
+
+Verified
 ### Overview
 The Buddha occasionally provided direct counseling to lay families experiencing domestic trouble. In the household of the wealthy benefactor [Anāthapiṇḍika](/glossary/anathapindika/), the daughter-in-law Sujātā was acting arrogantly and disrupting the home. The Buddha calmly taught her a framework categorizing all wives into seven types—three leading to hell, and four leading to heaven. 
 
@@ -22,6 +24,12 @@ The Buddha occasionally provided direct counseling to lay families experiencing 
 5. **Bhaginī-bhariyā** - The Sisterly-wife: A wife who respects her husband with the same deference and modesty a younger sister shows an older brother.
 6. **Sakhī-bhariyā** - The Friendly-wife: A wife who rejoices at the sight of her husband with the same pure joy one feels when a dear friend returns from a long journey.
 7. **Dāsī-bhariyā** - The Handmaid-wife: A wife who is calm, unbothered by anger, compliant, and endures even harsh words without retaliation.
+
+### Quote
+**katamā satta?**  
+Which seven?  
+**vadhakasamā, corīsamā, ayyasamā, mātāsamā, bhaginīsamā, sakhīsamā, dāsīsamā.**  
+A slayer-like wife, a thief-like wife, a master-like wife, a mother-like wife, a sister-like wife, a friend-like wife, a slave-like wife.  
 
 ### Textual References
 * **Canonical**: *Bhariyā [Sutta](/glossary/sutta/)* (AN 7.63) – After hearing this discourse, Sujātā is deeply humbled and chooses to become a "Handmaid-wife."

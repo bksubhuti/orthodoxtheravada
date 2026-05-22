@@ -10,6 +10,9 @@ url: "https://orthodoxtheravada.org"
 logo: /images/orthodox_theravada_logo.png
 og_image: /images/orthodox_theravada_logo.png
 
+search: true
+search_provider: lunr
+
 # Optional (SEO + clarity)
 twitter_username: ""
 github_username: ""
@@ -42,6 +45,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -53,6 +57,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
+      toc: true
+      toc_sticky: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -64,6 +71,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
+      toc: true
+      toc_sticky: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -75,6 +85,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -86,6 +97,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      breadcrumbs: true
+      toc: true
+      toc_sticky: true
       header:
         overlay_image: /images/plain_orthodox_banner4.jpg
         overlay_color: "#333"
@@ -111,6 +125,11 @@ atom_feed:
   hide: true
 footer:
   custom: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8JLHY1CTLS"
 
 collections:
   articles:
