@@ -8,6 +8,8 @@ cross_links: ["kamma", "vipaka", "bhava"]
 canonical_texts: ["Abhidhamma"]
 commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ---
+
+verified 
 ### Overview
 At the exact moment of death, the mind grasps at an object that will determine the next rebirth. Which of the thousands of actions a person has committed will step forward to dictate that rebirth? The [Abhidhamma](/glossary/abhidhamma/) outlines a strict hierarchy of priority.
 
@@ -28,4 +30,4 @@ At the exact moment of death, the mind grasps at an object that will determine t
  
 
 ### Textual References
-* **Commentary**: The Abhidhammatthasaṅgaho details the sequential queue of how kammic seeds compete for expression at the death-moment.
+* **Commentary**: The *[Abhidhammatthasangaha](/glossary/abhidhammatthasangaha/)* details the sequential queue of how kammic seeds compete for expression at the death-moment.

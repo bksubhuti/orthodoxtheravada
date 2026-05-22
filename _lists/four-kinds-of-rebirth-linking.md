@@ -26,4 +26,4 @@ In the [Abhidhamma](/glossary/abhidhamma/), death is immediately followed by reb
  
 
 ### Textual References
-* **Commentary**: *Abhidhammatthasaṅgaha* (Chapter V) – The definitive guide to exactly which kammas produce which specific rebirth-linking consciousnesses.
+* **Commentary**: *[Abhidhammatthasangaha](/glossary/abhidhammatthasangaha/)* (Chapter V) – The definitive guide to exactly which kammas produce which specific rebirth-linking consciousnesses.
