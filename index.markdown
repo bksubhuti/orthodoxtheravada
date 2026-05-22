@@ -5,6 +5,7 @@ classes: home
 header:
   overlay_filter: 0
   overlay_color: transparent
+  show_overlay_excerpt: true
 lang: en
 description: "Dedicated to the authentic teachings of the Buddha as preserved in the Pāli Canon, commentaries, and Abhidhamma tradition. Free resources, books, videos, and classical Theravāda study materials."
 excerpt: "A resource hub for Orthodox Theravāda Buddhism — faithful to the original teachings of the Buddha."

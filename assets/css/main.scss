@@ -127,8 +127,14 @@ $link-color-hover: $primary-color-dark;
   font-size: 2.5rem; /* Mobile size */
 }
 
-/* Enlarge the description (excerpt) */
+/* Hide banner description/excerpt on all pages by default */
 .page__hero--overlay .page__lead {
+  display: none !important;
+}
+
+/* Show and style description (excerpt) only on the homepage */
+.home .page__hero--overlay .page__lead {
+  display: block !important;
   font-size: 1.25rem; /* Mobile size */
   max-width: 800px;
   margin-left: auto;
@@ -143,7 +149,7 @@ $link-color-hover: $primary-color-dark;
   .page__hero--overlay .page__title {
     font-size: 4rem; /* Desktop size */
   }
-  .page__hero--overlay .page__lead {
+  .home .page__hero--overlay .page__lead {
     font-size: 1.75rem; /* Desktop size */
   }
 }
