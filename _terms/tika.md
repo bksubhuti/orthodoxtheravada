@@ -8,6 +8,8 @@ cross_links: ["atthakatha", "pariyatti", "maha-vihara"]
 canonical_texts: []
 commentaries: []
 ---
+
+verified 
 ### Grammatical Analysis
 **Ṭīkā**: [f.] Sub-commentary. A Sanskritized term meaning "note," "comment," or "gloss."
 
@@ -19,4 +21,4 @@ Centuries after Buddhaghosa translated the primary commentaries into Pāli, cert
 The sub-commentaries are intensely scholastic, focusing heavily on Pāli grammar (*vyākaraṇa*), logic, and deep [Abhidhamma](/glossary/abhidhamma/) metaphysics. While the Suttas are for practice, and the *[Aṭṭhakathā](/glossary/atthakatha/)* provides context, the *Ṭīkā* represents the highest level of academic monastic study. Notable authors include Venerable Ānanda (author of the *Mūlaṭīkā* on the Abhidhamma) and Venerable Dhammapāla (author of the *Paramatthamañjūsā*, the sub-commentary to the *[Visuddhimagga](/glossary/visuddhimagga/)*).
 
 ### Textual References
-* **Sub-commentaries**: *Paramatthamañjūsā* (Mahāṭīkā on the Visuddhimagga), *Sāratthadīpanī* (on the [Vinaya](/glossary/vinaya/) commentary).
+* **Subcommentaries**: *Paramatthamañjūsā* (Mahāṭīkā on the Visuddhimagga), *Sāratthadīpanī* (on the [Vinaya](/glossary/vinaya/) commentary).

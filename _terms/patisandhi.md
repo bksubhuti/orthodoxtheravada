@@ -8,11 +8,13 @@ cross_links: ["cuti-citta", "bhavanga", "kamma", "vinnana", "jati"]
 canonical_texts: ["Dhammasangani", "Patthana"]
 commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ---
+
+verfied 
 ### Grammatical Analysis
 **Paṭisandhi**: [f.] rebirth-linking; reunion; conception. Formed by prefix *paṭi* (back, towards, again) + *sandhi* (joining, connection, linking). Literally means "the linking back together" of existence.
 
 ### Orthodox Definition
-In the microscopic architecture of [Abhidhamma](/glossary/abhidhamma/) cognitive physics, *Paṭisandhi* specifically designates the **Rebirth-linking Consciousness** (*paṭisandhi-citta*). It is the very first single mind-moment of a new lifetime.
+In the microscopic architecture of [Abhidhamma](/glossary/abhidhamma/) cognitive physics, *Paṭisandhi* specifically designates the **Rebirthlinking Consciousness** (*paṭisandhi-citta*). It is the very first single mind-moment of a new lifetime.
 
 The orthodox tradition is explicitly clear: no soul, entity, or consciousness "travels" or "flies" from the old body to the new womb. Instead, the final dying thought (*[cuti-citta](/glossary/cuti-citta/)*) of the previous life acts as the direct proximate condition (*[anantara-paccaya](/glossary/anantara-paccaya/)*) that sparks the arising of the *paṭisandhi-citta* in the new location. They are completely distinct moments of consciousness, yet bound by an unbroken causal continuum.
 

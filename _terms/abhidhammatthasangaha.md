@@ -8,6 +8,7 @@ cross_links: ["abhidhamma", "citta", "cetasika", "rupa", "nibbana", "kamma", "pa
 canonical_texts: ["Abhidhamma Pitaka"]
 commentaries: ["Abhidhammatthavibhavini-tika", "Paramatthadipani-tika"]
 ---
+verified 
 ### Grammatical Analysis
 **Abhidhammatthasaṅgaha**: [m.] Compendium of the Topics of the Higher Doctrine. Formed by *Abhidhamma* (higher/ultimate doctrine) + *attha* (topics, matters, meanings) + *saṅgaha* (compendium, summary, collection).
 

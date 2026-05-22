@@ -8,6 +8,8 @@ cross_links: ["abhidhamma", "kusala-mula", "magga"]
 canonical_texts: ["Abhidhamma Pitaka"]
 commentaries: ["Abhidhammatthasangaha"]
 ---
+
+verified
 ### Overview
 The Twenty-Five Beautiful Mental Factors (*Sobhana Cetasikā*) are the ultimate psychological assets of the mind. They arise exclusively within states of consciousness that are morally pure, noble, and wholesome (*sobhaṇa*), processing virtue, concentration, and insight. Nineteen of these factors are perfectly symmetrical universals that must manifest together in every single beautiful mind-state.
 
@@ -28,7 +30,7 @@ The Twenty-Five Beautiful Mental Factors (*Sobhana Cetasikā*) are the ultimate 
 18-19. **Kāyujukatā & Cittujukatā** - Uprightness/Rectitude of the factors and consciousness (destroys deceit).
 
 **The 3 Abstinences (Viratiyo):**
-20. **[Sammāvācā](/glossary/sammavaca/)** - Right Speech, 21. **[Sammākammanta](/glossary/sammakammanta/)** - Right Action, 22. **Sammā-ājīva** - Right Livelihood.
+20. **[Sammāvācā](/glossary/sammavaca/)** - Right Speech, 21. **[Sammākammanta](/glossary/sammakammanta/)** - Right Action, 22. **Sammāājīva** - Right Livelihood.
 
 **The 2 Illimitables ([Appamaññā](/glossary/appamanna/)):**
 23. **[Karuṇā](/glossary/karuna/)** - Compassion, 24. **[Muditā](/glossary/mudita/)** - Sympathetic Joy.
@@ -36,5 +38,17 @@ The Twenty-Five Beautiful Mental Factors (*Sobhana Cetasikā*) are the ultimate 
 **The 1 Wisdom Faculty:**
 25. **Paññindriya** - Wisdom / Non-delusion (*[amoha](/glossary/amoha/)*): Piercing insight into ultimate reality.
 
+## Quote
+>### Sobhanacetasikaṃ   
+>Beautiful Mental Factors (Sobhana Cetasikas)  
+>**saddhā sati hirī ottappaṃ alobho adoso tatramajjhattatā kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā ceti ekūnavīsatime cetasikā sobhanasādhāraṇā nāma.**  
+>Faith, mindfulness, shame of wrongdoing, fear of wrongdoing, non-greed, non-hatred, equanimity, tranquility of mental body, tranquility of consciousness, lightness of mental body, lightness of consciousness, pliancy of mental body, pliancy of consciousness, adaptability of mental body, adaptability of consciousness, proficiency of mental body, proficiency of consciousness, uprightness of mental body, and uprightness of consciousness—these nineteen mental factors are called common to beautiful cittas.   
+>**sammāvācā sammākammanto sammāājīvo ceti tisso viratiyo nāma.**   
+>Right speech, right action, and right livelihood—these three are called abstinence (viratiyo).  
+>**karuṇā muditā appamaññāyo nāmāti sabbathāpi paññindriyena saddhiṃ pañcavīsatime cetasikā sobhanāti veditabbā.**  
+>Compassion and appreciative joy are called immeasurables (appamaññāyo). Thus, in all, with the wisdom faculty, these twenty-five mental factors are to be understood as beautiful.   
+ 
+
+
 ### Textual References
-* **Commentary**: *Abhidhammattha Saṅgaha* (Chapter II) – The architectural summary detailing how these 25 glorious factors assemble to form the path to [Nibbāna](/glossary/nibbana/).
+* **Commentary**: *[Abhidhammatthasangaha](/glossary/abhidhammatthasangaha/)* (Chapter II) – The architectural summary detailing how these 25 glorious factors assemble to form the path to [Nibbāna](/glossary/nibbana/).

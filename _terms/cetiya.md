@@ -8,6 +8,8 @@ cross_links: ["thupa", "dhatugarbha", "bodhimandala"]
 canonical_texts: ["Digha Nikaya", "Jataka"]
 commentaries: ["Sumangalavilasini"]
 ---
+
+verified 
 ### Grammatical Analysis
 **Cetiya**: [nt.] Shrine; memorial; sacred place; object of veneration. Derived from root *ci* (to heap up, collect, build). 
 
@@ -15,9 +17,9 @@ commentaries: ["Sumangalavilasini"]
 While *[Thūpa](/glossary/thupa/)* specifically refers to the architectural dome housing bone relics, *Cetiya* is a broader term encompassing any object or place worthy of religious veneration. All *thūpas* are *cetiyas*, but not all *cetiyas* are *thūpas*.
 
 The Theravāda tradition formally classifies *Cetiyas* into three categories of sacredness:
-1. **Sārīrika-cetiya**: Shrines containing physical body relics of the Buddha (e.g., bone fragments, hair, the Sacred Tooth).
-2. **Pāribhogika-cetiya**: Shrines or objects used by the Buddha during his lifetime (e.g., his alms bowl, his robes, and most importantly, the [Bodhi](/glossary/bodhi/) Tree).
-3. **Uddesika-cetiya**: Shrines of indication or representation (e.g., Buddha statues, footprints, or painted images).
+1. **Sārīrikacetiya**: Shrines containing physical body relics of the Buddha (e.g., bone fragments, hair, the Sacred Tooth).
+2. **Pāribhogikacetiya**: Shrines or objects used by the Buddha during his lifetime (e.g., his alms bowl, his robes, and most importantly, the [Bodhi](/glossary/bodhi/) Tree).
+3. **Uddesikacetiya**: Shrines of indication or representation (e.g., Buddha statues, footprints, or painted images).
 
 These shrines provide the laity and monastics with physical anchors to develop faith and concentrate the mind on the virtues of the Triple Gem.
 
