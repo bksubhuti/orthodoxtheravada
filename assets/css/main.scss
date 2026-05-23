@@ -893,8 +893,8 @@ body {
   object-fit: cover;
   flex-shrink: 0;
   background-color: #3e2723; /* Dark chocolate background for default transparent logo */
-  border: 1px solid #edeae4;
-  padding: 4px; /* slightly more padding for the logo */
+  border: none;
+  padding: 0;
 }
 
 .ot-article-card__body {
