@@ -41,7 +41,9 @@ Key websites for Orthodox and Classical Theravāda study and practice.
   </a>
 
   <a href="https://americanmonk.org" target="_blank" rel="noopener" class="ot-link-card" id="link-americanmonk">
-    <div class="ot-link-card__icon">🪷</div>
+    <div class="ot-link-card__icon ot-link-card__icon--img">
+      <img src="{{ '/images/americanmonk-icon.png' | relative_url }}" alt="AmericanMonk Logo">
+    </div>
     <div class="ot-link-card__body">
       <h3>AmericanMonk.org</h3>
       <p>Writings, reflections, and teachings by Bhikkhu Subhūti — an American Theravāda monk trained in Burma and Sri Lanka.</p>
@@ -49,8 +51,22 @@ Key websites for Orthodox and Classical Theravāda study and practice.
     </div>
   </a>
 
+  <a href="https://theravado.com" target="_blank" rel="noopener" class="ot-link-card" id="link-theravado">
+    <div class="ot-link-card__icon ot-link-card__icon--img">
+      <img src="{{ '/images/theravado-icon.png' | relative_url }}" alt="Theravado Logo">
+    </div>
+    <div class="ot-link-card__body">
+      <h3>Theravado.com</h3>
+      <p>A great training center for monks in Sri Lanka.</p>
+      <span class="ot-link-card__url">theravado.com</span>
+    </div>
+  </a>
+
+
   <a href="https://www.bps.lk" target="_blank" rel="noopener" class="ot-link-card" id="link-bps">
-    <div class="ot-link-card__icon">📖</div>
+    <div class="ot-link-card__icon ot-link-card__icon--img">
+      <img src="{{ '/images/bps-icon.gif' | relative_url }}" alt="BPS Logo">
+    </div>
     <div class="ot-link-card__body">
       <h3>Buddhist Publication Society</h3>
       <p>Sri Lanka's foremost Theravāda publisher. Home to hundreds of free PDFs including the Wheel and Bodhi Leaves series.</p>
