@@ -291,8 +291,13 @@ $link-color-hover: $primary-color-dark;
   font-size: 1.25rem;
   font-weight: 700;
   margin: 0 0 0.65rem;
-  color: #1a1a1a;
+  color: $primary-color !important; /* Theme maroon color */
   letter-spacing: -0.01em;
+  transition: color 0.2s ease;
+
+  .ot-nav-card:hover & {
+    color: $primary-color-dark !important;
+  }
 }
 
 .ot-nav-card__desc {
@@ -377,8 +382,13 @@ $link-color-hover: $primary-color-dark;
   margin: 0 0 0.45rem;
   font-size: 1.2rem;
   font-weight: 700;
-  color: #1a1a1a;
+  color: $primary-color !important; /* Theme maroon color */
   letter-spacing: -0.01em;
+  transition: color 0.2s ease;
+
+  .ot-tool-card:hover & {
+    color: $primary-color-dark !important;
+  }
 }
 
 .ot-tool-card__body p {
@@ -502,8 +512,13 @@ $link-color-hover: $primary-color-dark;
   margin: 0 0 0.35rem;
   font-size: 1.15rem;
   font-weight: 700;
-  color: #1a1a1a;
+  color: $primary-color !important; /* Theme maroon color */
   letter-spacing: -0.01em;
+  transition: color 0.2s ease;
+
+  .ot-link-card:hover & {
+    color: $primary-color-dark !important;
+  }
 }
 
 .ot-link-card__body p {
@@ -548,7 +563,7 @@ body {
   /* Headings with Jakarta font and subtle letter-spacing */
   h1, h2, h3, h4, h5, h6 {
     font-family: "Plus Jakarta Sans", sans-serif;
-    color: #1a1a1a;
+    color: $primary-color; /* Theme maroon color */
     font-weight: 700;
     letter-spacing: -0.015em;
     margin-top: 2rem;
@@ -775,4 +790,133 @@ body {
     color: #666666;
     margin-top: 1.5rem;
   }
+}
+
+/* ============================================================
+   Unified Index Cards (Lists, Glossary, Articles, etc.)
+   ============================================================ */
+
+.ot-index-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+/* Clickable unified index card */
+.ot-index-card {
+  display: block;
+  margin-bottom: 0;
+  padding: 0.75rem 1.1rem;
+  background: #ffffff;
+  border: 1px solid #edeae4;
+  border-left: 4px solid #edeae4; /* Left border accent */
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.015);
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+
+  &:hover, &:focus {
+    transform: translateY(-4px);
+    border-color: rgba(108, 46, 31, 0.25);
+    border-left-color: #6c2e1f; /* highlight border on hover */
+    background: #ffffff;
+    box-shadow: 0 10px 24px rgba(108, 46, 31, 0.05), 0 3px 8px rgba(0, 0, 0, 0.01);
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+/* Main title inside index card */
+.ot-index-card__title {
+  display: inline-block;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #6c2e1f !important; /* Theme maroon link color */
+  transition: color 0.2s ease;
+  margin: 0;
+
+  .ot-index-card:hover & {
+    color: #4d2015 !important;
+  }
+}
+
+/* Subtitle or metadata under title */
+.ot-index-card__subtitle {
+  display: block;
+  font-family: "Lora", serif;
+  font-style: italic;
+  font-size: 0.88rem;
+  color: #666666;
+  margin-top: 0.25rem;
+}
+
+/* --- Modern Article Grid/List Cards --- */
+.ot-article-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.ot-article-card {
+  display: flex;
+  align-items: center;
+  padding: 0.8rem 1.1rem;
+  background: #ffffff;
+  border: 1px solid #edeae4;
+  border-left: 4px solid #edeae4; /* Accent left border */
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.015);
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+
+  &:hover, &:focus {
+    transform: translateY(-3px);
+    border-color: rgba(108, 46, 31, 0.25);
+    border-left-color: #6c2e1f;
+    background: #ffffff;
+    box-shadow: 0 10px 24px rgba(108, 46, 31, 0.05), 0 3px 8px rgba(0, 0, 0, 0.01);
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.ot-article-card__thumb {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  margin-right: 1.2rem;
+  object-fit: cover;
+  flex-shrink: 0;
+  background-color: #3e2723; /* Dark chocolate background for default transparent logo */
+  border: 1px solid #edeae4;
+  padding: 4px; /* slightly more padding for the logo */
+}
+
+.ot-article-card__body {
+  display: flex;
+  flex-direction: column;
+}
+
+.ot-article-card__title {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #6c2e1f !important;
+  margin: 0 0 0.25rem;
+  transition: color 0.2s ease;
+
+  .ot-article-card:hover & {
+    color: #4d2015 !important;
+  }
+}
+
+.ot-article-card__meta {
+  font-family: "Lora", serif;
+  font-size: 0.85rem;
+  color: #777777;
 }
