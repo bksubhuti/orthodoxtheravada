@@ -8,6 +8,7 @@ featured_image: /images/500px-Buddhaghosa.jpg
 header:
   overlay_image: /images/500px-Buddhaghosa.jpg
   overlay_filter: 0.5
+  show_overlay_excerpt: false
 ---
 
 # Orthodox Theravāda

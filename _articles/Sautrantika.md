@@ -8,6 +8,7 @@ featured_image: /images/sutta_only.jpg
 header:
   overlay_image: /images/sutta_only.jpg
   overlay_filter: 0.75
+  show_overlay_excerpt: false
 ---
 
 The modern trend of rejecting the Abhidhamma and the commentaries.

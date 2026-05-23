@@ -47,9 +47,8 @@ defaults:
       author_profile: false
       breadcrumbs: true
       header:
-        overlay_image: /images/plain_orthodox_banner4.jpg
-        overlay_color: "#333"
-        overlay_filter: 0.3
+        overlay_color: "#4d2015"
+        overlay_logo: /images/Orthodox_theravada_logo_trans.png
         og_image: /images/og-social.png
         show_overlay_excerpt: false
   - scope:
@@ -62,8 +61,8 @@ defaults:
       toc: true
       toc_sticky: true
       header:
-        overlay_image: /images/plain_orthodox_banner4.jpg
-        overlay_color: "#333"
+        overlay_color: "#4d2015"
+        overlay_logo: /images/Orthodox_theravada_logo_trans.png
         overlay_filter: 0.3
         og_image: /images/og-social.png
         show_overlay_excerpt: false
@@ -77,8 +76,8 @@ defaults:
       toc: true
       toc_sticky: true
       header:
-        overlay_image: /images/plain_orthodox_banner4.jpg
-        overlay_color: "#333"
+        overlay_color: "#4d2015"
+        overlay_logo: /images/Orthodox_theravada_logo_trans.png
         overlay_filter: 0.3
         og_image: /images/og-social.png
         show_overlay_excerpt: false
@@ -90,8 +89,8 @@ defaults:
       author_profile: false
       breadcrumbs: true
       header:
-        overlay_image: /images/plain_orthodox_banner4.jpg
-        overlay_color: "#333"
+        overlay_color: "#4d2015"
+        overlay_logo: /images/Orthodox_theravada_logo_trans.png
         overlay_filter: 0.3
         og_image: /images/og-social.png
         show_overlay_excerpt: false
@@ -105,8 +104,8 @@ defaults:
       toc: true
       toc_sticky: true
       header:
-        overlay_image: /images/plain_orthodox_banner4.jpg
-        overlay_color: "#333"
+        overlay_color: "#4d2015"
+        overlay_logo: /images/Orthodox_theravada_logo_trans.png
         overlay_filter: 0.3
         og_image: /images/og-social.png
         show_overlay_excerpt: false

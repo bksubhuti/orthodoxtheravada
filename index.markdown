@@ -3,8 +3,6 @@ title: "Orthodox Theravāda"
 layout: single
 classes: home
 header:
-  overlay_filter: 0
-  overlay_color: transparent
   show_overlay_excerpt: true
 lang: en
 description: "Dedicated to the authentic teachings of the Buddha as preserved in the Pāli Canon, commentaries, and Abhidhamma tradition. Free resources, books, videos, and classical Theravāda study materials."
