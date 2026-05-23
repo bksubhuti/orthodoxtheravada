@@ -118,11 +118,11 @@ $link-color-hover: $primary-color-dark;
 
 /* === Hero Banner Text Styles === */
 .page__hero--overlay {
-  padding: 3rem 0 !important;
+  padding: 1.2rem 0 !important;
   background-color: #3e2723 !important; /* 🍫 Editable: Change banner color here! */
 
   @media (min-width: 48em) {
-    padding: 4rem 0 !important;
+    padding: 1.5rem 0 !important;
   }
 }
 
