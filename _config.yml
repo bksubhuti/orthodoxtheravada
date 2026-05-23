@@ -133,7 +133,7 @@ footer:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-8JLHY1CTLS"
+    tracking_id: "G-318SRVMGZ6"
 
 collections:
   articles:

@@ -37,74 +37,19 @@ Topics covered include:
 
 Here are the latest discussions from the forum.
 
-<div id="discourse-posts">
-  <ul>
-    {% for post in site.data.forum_posts %}
-    <li>
-      <img src="https://classicaltheravada.org/uploads/default/optimized/2X/9/9c7021f8b586822eec097369a13b4dbb4e0c1598_2_180x180.png" alt="Forum Icon" class="forum-icon">
-      <div class="forum-content">
-        <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
-        <div class="meta">
-          Last activity: {{ post.date }}
-        </div>
+<div id="discourse-posts" class="ot-article-list">
+  {% for post in site.data.forum_posts %}
+  <a href="{{ post.url }}" target="_blank" class="ot-article-card">
+    <img src="https://classicaltheravada.org/uploads/default/optimized/2X/9/9c7021f8b586822eec097369a13b4dbb4e0c1598_2_180x180.png" alt="Forum Icon" class="ot-article-card__thumb" style="background-color: #faf8f5; object-fit: contain;">
+    <div class="ot-article-card__body">
+      <div class="ot-article-card__title">{{ post.title }}</div>
+      <div class="ot-article-card__meta">
+        Last activity: {{ post.date }}
       </div>
-    </li>
-    {% endfor %}
-  </ul>
+    </div>
+  </a>
+  {% endfor %}
 </div>
-
-<style>
-#discourse-posts ul {
-  list-style-type: none;
-  padding-left: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-#discourse-posts li {
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-  border: 1px solid #eaeaea;
-  border-radius: 8px;
-  padding: 1rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-#discourse-posts li:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-.forum-icon {
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
-  margin-right: 1.2rem;
-  object-fit: contain;
-  flex-shrink: 0;
-  background-color: #f9f9f9;
-  padding: 4px;
-}
-.forum-content {
-  display: flex;
-  flex-direction: column;
-}
-#discourse-posts a {
-  font-weight: bold;
-  font-size: 1.1rem;
-  text-decoration: none;
-  color: #2a7ae2;
-  margin-bottom: 0.3rem;
-  line-height: 1.3;
-}
-#discourse-posts a:hover {
-  text-decoration: underline;
-}
-#discourse-posts .meta {
-  color: #777;
-  font-size: 0.9rem;
-}
-</style>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
@@ -125,22 +70,21 @@ document.addEventListener("DOMContentLoaded", function() {
         return;
       }
 
-      let html = '<ul>';
+      let html = '';
       topics.slice(0, 10).forEach(topic => {
         const date = new Date(topic.last_posted_at).toLocaleDateString();
         html += `
-          <li>
-            <img src="${iconUrl}" alt="Forum Icon" class="forum-icon">
-            <div class="forum-content">
-              <a href="${discourseUrl}/t/${topic.slug}/${topic.id}" target="_blank">${topic.title}</a>
-              <div class="meta">
+          <a href="${discourseUrl}/t/${topic.slug}/${topic.id}" target="_blank" class="ot-article-card">
+            <img src="${iconUrl}" alt="Forum Icon" class="ot-article-card__thumb" style="background-color: #faf8f5; object-fit: contain;">
+            <div class="ot-article-card__body">
+              <div class="ot-article-card__title">${topic.title}</div>
+              <div class="ot-article-card__meta">
                 Replies: ${topic.posts_count - 1} | Last activity: ${date}
               </div>
             </div>
-          </li>
+          </a>
         `;
       });
-      html += '</ul>';
       container.innerHTML = html;
     })
     .catch(error => {
