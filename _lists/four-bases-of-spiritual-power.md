@@ -9,7 +9,7 @@ canonical_texts: ["Samyutta Nikaya"]
 commentaries: ["Saratthappakasini"]
 ---
 
-verified
+Verified
 
 ### Overview
 The Bases of Spiritual Power (*[Iddhipāda](/glossary/iddhipada/)*) are the foundations for achieving extraordinary concentration and psychic mastery, but more importantly, they are essential factors for attaining [Nibbāna](/glossary/nibbana/). They represent four distinct dominant mental forces that can drive a practitioner to complete success in mental cultivation.

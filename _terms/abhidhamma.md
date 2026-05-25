@@ -8,6 +8,8 @@ cross_links: ["tipitaka", "citta", "cetasika", "rupa", "nibbana", "patthana"]
 canonical_texts: ["Abhidhamma Pitaka"]
 commentaries: ["Atthasalini", "Sammohavinodani"]
 ---
+
+Verified
 ### Grammatical Analysis
 **Abhidhamma**: [m.] higher doctrine; special doctrine; ultimate philosophy. Formed by prefix *abhi* (special, elevated, supreme, profound) + *dhamma* (truth, reality). Meaning: the analytical dissection of ultimate truth.
 

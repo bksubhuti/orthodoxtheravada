@@ -9,7 +9,7 @@ canonical_texts: ["Dhammasangani", "Patthana"]
 commentaries: ["Atthasalini", "Sammohavinodani"]
 ---
 
-Verfied
+Verified
 ### Grammatical Analysis
 **Abhidhammapiṭaka**: [nt.] The Basket of Higher Doctrine; The Basket of Ultimate Realities. Formed by *abhi* (higher, surpassing, ultimate) + *dhamma* (doctrine, phenomenon) + *piṭaka* (basket).
 

@@ -8,6 +8,8 @@ cross_links: ["jhana", "iddhividha", "dibbacakkhu", "dibbasota", "asavakkhayanan
 canonical_texts: ["Digha Nikaya", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
 ### Grammatical Analysis
 **Abhiññā**: [f.] supernormal knowledge; direct knowledge; psychic power. Formed by prefix *abhi* (superior, higher, special) + *ñā* (to know). Meaning: a higher, transcendent form of knowing.
 
@@ -24,7 +26,12 @@ The Six Direct Knowledges (*chaḷabhiññā*) are:
 
 The *[Visuddhimagga](/glossary/visuddhimagga/)* explicitly details that to acquire the five mundane powers, the meditator must achieve the absolute peak of concentration: the fourth [jhāna](/glossary/jhana/) based specifically on a physical kasiṇa (like the earth or fire disc), utilizing it as a foundation (*pādaka-[jhāna](/glossary/jhana/)*) to execute the cognitive shift.
 
+### Quote
+> **Atthi, bhikkhave, aññeva dhammā gambhīrā duddasā duranubodhā santā paṇītā atakkāvacarā nipuṇā paṇḍitavedanīyā, ye tathāgato sayaṃ abhiññā sacchikatvā pavedeti, yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ.**    
+> There are, O bhikkhus, other teachings, profound, hard to see, hard to comprehend, peaceful, sublime, beyond the scope of mere logic, subtle, to be experienced by the wise, which the Tathāgata, having realized them for himself through direct knowledge, proclaims. It is by these that an ordinary person, when speaking in praise of the Tathāgata, might truly and correctly speak as they truly are. 
+
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Sāmaññaphala Sutta* (DN 2) – The comprehensive canonical listing of the six powers as the progressive fruits of the ascetic life.
+* **[Sutta](/glossary/sutta/)**: *Brahmajāla Sutta* (DN 1) - The Buddha talks about knowledge obtained by direct, personal, transcendent realization. This is for the definition of Abhiññā as 'supernormal knowledge; direct knowledge'.
 * **Canonical**: *Ākaṅkheyya Sutta* (MN 6) – Where the Buddha states that if a monk wishes to wield these powers, he must fulfill the precepts, practice tranquility, and master [jhāna](/glossary/jhana/).
 * **Commentary**: *Visuddhimagga* (Chapters XII & XIII) – The definitive, heavily guarded manual detailing the precise mental resolutions required to perform psychic feats.
