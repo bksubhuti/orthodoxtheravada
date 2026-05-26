@@ -21,8 +21,10 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-# Required for Ruby 3.0+
-# gem "webrick", "~> 1.7"
+# Only load webrick if running locally on Ruby 3.0+ 
+# This prevents GitHub's older Ruby 2.7 server from crashing
+gem "webrick", "~> 1.7" if Gem::Version.new(RUBY_VERSION) >= Gem::Version.new("3.0")
+
 
 # Performance booster for watching directories on Windows
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
