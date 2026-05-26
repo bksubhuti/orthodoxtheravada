@@ -13,3 +13,5 @@ Gemfile.lock
 .DS_Store
 Thumbs.db
 
+# this happens on build.. remove
+assets/events.json
