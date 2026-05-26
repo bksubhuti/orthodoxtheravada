@@ -26,6 +26,7 @@ This condition manifests in two distinct ways:
 > 
 > — [Dhammasaṅgaṇī](/glossary/dhammasangani/)-aṭṭhakathā
 
+
 ### Quote
 > **abhibhavitvā pavattanaṭṭhenāti sahajātādhipatipi pubbābhisaṅkhāravasena jeṭṭhakabhāve pavattamāno sahajāte attano vase anuvattayamāno te abhibhavitvā pavattati, ārammaṇādhipatipi tadārammaṇe dhamme tatheva attānaṃ anuvattayamāno te dhamme abhibhavitvā ārammaṇabhāvena pavattati, na paccuppannabhāvena, tasmā adhipatidvayampi saṅgahitanti veditabbaṃ.**  
 > "By way of prevailing through overcoming" means that a concomitant dominator, when existing as the chief by way of prior preparations, causes its concomitants to follow its sway and prevails over them by overcoming them. A predominance-object also, when causing those dhammas which have that as their object to follow its sway in the same way, prevails over those dhammas by overcoming them as an object, not as a presently existing thing. Therefore, it should be understood that both types of dominators are included.  
