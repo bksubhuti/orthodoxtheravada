@@ -8,6 +8,8 @@ cross_links: ["maha-vihara", "vihara"]
 canonical_texts: ["Mahavamsa"]
 commentaries: ["Samantapasadika"]
 ---
+
+Verified
 ### Grammatical Analysis
 **Abhayagiri**: [m.] The Fearless Mountain. Formed by *abhaya* (fearless, without danger) + *giri* (mountain). Named after King Vaṭṭagāmaṇi Abhaya and the Jain ascetic Giri.
 
