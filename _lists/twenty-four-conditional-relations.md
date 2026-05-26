@@ -8,6 +8,7 @@ cross_links: ["abhidhamma", "paticcasamuppada"]
 canonical_texts: ["Abhidhamma"]
 commentaries: ["Abhidhammatthasangaha"]
 ---
+Verified
 ### Overview
 The *[Paṭṭhāna](/glossary/patthana/)* is the seventh and final book of the [Abhidhamma](/glossary/abhidhamma/) Piṭaka. It represents the absolute pinnacle of Buddhist philosophy. While Dependent Origination shows *what* arises, the 24 Conditions (*Paccaya*) explain the exact mathematical physics of *how* phenomena interact, support, and condition one another. It is the Buddhist unified theory of causality.
 
@@ -36,6 +37,17 @@ The *[Paṭṭhāna](/glossary/patthana/)* is the seventh and final book of the 
 22. **[Natthi-paccaya](/glossary/natthi-paccaya/)** - Absence condition.
 23. **[Vigata-paccaya](/glossary/vigata-paccaya/)** - Disappearance condition.
 24. **[Avigata-paccaya](/glossary/avigata-paccaya/)** - Non-disappearance condition.
+
+### Quote
+> **Abhidhammapiṭake**  
+> - **Paṭṭhānapāḷi**  
+> - - **(Paṭhamo bhāgo)**  
+> - - - **Dhammānulome**  
+> - - - - **Tikapaṭṭhānaṃ**  
+> - - - - - **(1) Paccayuddeso**
+>
+> **hetupaccayo, ārammaṇapaccayo, adhipatipaccayo, anantarapaccayo, samanantarapaccayo, sahajātapaccayo, aññamaññapaccayo, nissayapaccayo, upanissayapaccayo, purejātapaccayo, pacchājātapaccayo, āsevanapaccayo, kammapaccayo, vipākapaccayo, āhārapaccayo, indriyapaccayo, jhānapaccayo, maggapaccayo, sampayuttapaccayo, vippayuttapaccayo, atthipaccayo, natthipaccayo, vigatapaccayo, avigatapaccayoti.**  
+>Root condition, object condition, predominance condition, contiguity condition, immediacy condition, co-nascence condition, mutuality condition, support condition, sufficing condition, pre-nascence condition, post-nascence condition, repetition condition, kamma condition, result condition, nutriment condition, faculty condition, jhāna condition, path condition, association condition, dissociation condition, presence condition, absence condition, disappearance condition, non-disappearance condition.
 
 ### Textual References
 * **Abhidhamma**: *Paṭṭhāna* – A massive, multi-volume text mapping every conceivable interaction of these 24 conditions. Tradition states the Buddha's body emitted six-colored rays of light while contemplating this matrix.
