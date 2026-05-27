@@ -6,8 +6,9 @@ category: "patthana"
 frequency_rank: 357
 cross_links: ["patthana", "sahajata-paccaya", "khandha"]
 canonical_texts: ["Patthana"]
-commentaries: ["Patthana-atthakatha"]
+commentaries: ["Paṭṭhāna-aṭṭhakathā"]
 ---
+Verified
 ### Grammatical Analysis
 **Aññamaññapaccaya**: [m.] Mutuality condition; Reciprocity condition. Formed by *aññamañña* (one another, mutual, reciprocal) + *paccaya* (condition).
 
@@ -18,6 +19,12 @@ While co-nascent phenomena arise together, they do not always mutually support e
 
 For example, the four mental aggregates (feeling, perception, formations, consciousness) cannot exist without each other; they are mutually conditioning. The classic simile is a tripod made of three sticks. The three sticks stand up only because they lean against one another. If you remove any single stick, the entire tripod collapses. They are bound by mutuality.
 
+### Quote
+> **600. Aññamaññaṃ uppādanupatthambhanabhāvena upakārako dhammo aññamaññapaccayo aññamaññūpatthambhakaṃ tidaṇḍakaṃ viya.**  
+>A phenomenon that is helpful by way of producing and supporting each other is *aññamaññapaccaya*, like a tripod supporting itself.  
+> 
+> — *Paṭṭhānappakaraṇa-aṭṭhakathā*
+
 ### Textual References
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – Explicitly stating that the four immaterial aggregates are related to one another by mutuality condition.
-* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – The tripod simile (*ti-daṇḍa*) brilliantly illustrating perfect reciprocal dependence.
+* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – The tripod simile (*tidaṇḍakaṃ viya*) brilliantly illustrating perfect reciprocal dependence.
