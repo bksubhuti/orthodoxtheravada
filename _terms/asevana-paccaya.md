@@ -6,8 +6,9 @@ category: "patthana"
 frequency_rank: 362
 cross_links: ["patthana", "kamma", "kusala-mula"]
 canonical_texts: ["Patthana"]
-commentaries: ["Patthana-atthakatha", "Abhidhammatthasangaha"]
+commentaries: ["Paṭṭhāna-mūlaṭīkā"]
 ---
+Verified
 ### Grammatical Analysis
 **Āsevanapaccaya**: [m.] Repetition condition; Habitual recurrence condition. Formed by *āsevana* (practice, repetition, cultivation) + *paccaya* (condition).
 
@@ -16,8 +17,20 @@ commentaries: ["Patthana-atthakatha", "Abhidhammatthasangaha"]
 
 In a standard cognitive process (*citta-vīthi*), the active, karmically potent phase is called *javana* (running). There are usually seven *javana* mind-moments in rapid succession. *Āsevana-paccaya* dictates that the first javana moment conditions the second, making it stronger; the second conditions the third, making it even stronger, and so on. The preceding moment infuses its exact ethical quality (wholesome or unwholesome) into the succeeding moment through sheer repetition.
 
-The commentaries use the simile of reading a book. The first time you read a text, you stumble over the words. The second time, it is easier. By the seventh time, you can recite it flawlessly. The previous readings act as a repetition condition for the mastery of the final reading.
+The sub-commentaries clarify that this specific condition serves exclusively to increase functional proficiency and karmic power, which distinguishes it from passive resultant or purely functional indeterminate states.
+
+### Quote
+> **12. āsevanapaccayaniddesavaṇṇanā**  
+> 12. Explanation of the Repetition Condition  
+>   
+> **12. paguṇatarabalavatarabhāvavisiṭṭhanti etena vipākābyākatato viseseti.**  
+> "More practiced and more powerful" distinguishes it from results of kamma (*vipāka*) and indeterminate states (*abyākata*).  
+>   
+> **āsevanapaccayaniddesavaṇṇanā niṭṭhitā.**  
+> The explanation of the repetition condition is concluded.  
+> 
+> — *Pañcapakaraṇa-mūlaṭīkā* (Paṭṭhānānuloma-mūlaṭīkā)
 
 ### Textual References
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – "Preceding wholesome states are related to succeeding wholesome states by repetition condition."
-* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – Providing the simile of applying multiple coats of perfume to a garment, where each coat makes the scent stronger.
+* **Sub-commentary**: *Paṭṭhāna-mūlaṭīkā* – Defining the definitive functional parameters of the repetition condition as generating an increasingly proficient and potent force (*paguṇatarabalavatarabhāva*).
