@@ -5,6 +5,17 @@ on:
     branches:
       - main
 
+# Allows this workflow to securely stream the built site directly into GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Prevents multiple deployments from running simultaneously and breaking
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -17,6 +28,9 @@ jobs:
         with:
           ruby-version: '3.2'
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Install Dependencies
         run: |
           gem install jekyll bundler
@@ -28,8 +42,11 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          folder: _site
-          branch: gh-pages
+          path: ./_site # Uploads the generated HTML and JSON silently
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
