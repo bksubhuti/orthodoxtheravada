@@ -6,18 +6,25 @@ category: "patthana"
 frequency_rank: 373
 cross_links: ["patthana", "natthi-paccaya", "avigata-paccaya"]
 canonical_texts: ["Patthana"]
-commentaries: ["Patthana-atthakatha"]
+commentaries: ["Pañcapakaraṇa-aṭṭhakathā"]
 ---
+Verified
 ### Grammatical Analysis
-**Vigatapaccaya**: [m.] Disappearance condition. Formed by *vigata* (gone away, disappeared, departed) + *paccaya* (condition).
+**Vigatapaccaya**: [m.] Disappearance condition; Departure condition. Formed by *vigata* (gone away, disappeared, departed) + *paccaya* (condition).
 
 ### Orthodox Definition
-*Vigata-paccaya* is the twenty-third of the 24 Conditions. Functionally and doctrinally, it is absolutely identical to the Absence condition (*[Natthi-paccaya](/glossary/natthi-paccaya/)*). 
+*Vigata-paccaya* is the twenty-third of the 24 Conditions. Functionally and structurally, it operates in exact correspondence with the Absence condition (*[Natthi-paccaya](/glossary/natthi-paccaya/)*), tracking the precise chronological dynamics of mental succession.
 
-Both conditions describe a preceding mind-moment dying to make room for the next. The [Abhidhamma](/glossary/abhidhamma/) uses two different terms purely for linguistic thoroughness and rhetorical emphasis. While *Natthi* emphasizes that the preceding moment "is not" anymore, *Vigata* emphasizes that the preceding moment has entirely "departed" or "vanished" without leaving a trace. It reinforces the absolute impermanence (*[anicca](/glossary/anicca/)*) of the cognitive process.
+The texts explain that this condition describes those exact, immediately ceased mental phenomena rendering critical assistance by means of their departed state (*vigatabhāvena*). While the absence condition establishes the structural vacancy of a prior state, the disappearance condition registers the literal departure and clearing away of those immediately preceding consciousnesses and mental factors (*samanantaravigatā*). This structural clearing acts as the vital causal necessity that allows present, oncoming mental configurations to assert their own existence in uninterrupted succession.
 
-The commentaries equate the disappearance condition to the fading of the morning mist, which allows the sunlight to strike the earth.
+### Quote
+> **te eva vigatabhāvena upakārakattā vigatapaccayo.**  
+> Those very (immediately ceased) dhammas, by being helpful due to their departed state, are the *Vigata-paccayo* (Disappearance Condition).  
+>   
+> **yathāha – samanantaravigatā cittacetasikā dhammā paṭuppannānaṃ cittacetasikānaṃ dhammānaṃ vigatapaccayena paccayoti.**  
+> As it is said: "Immediately departed *cittas* and *cetasikas* are a condition for present *cittas* and *cetasikas* by way of Disappearance condition."  
+> 
+> — *Pañcapakaraṇa-aṭṭhakathā*
 
 ### Textual References
-* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – The canonical phrasing is verbatim identical to the Absence condition.
-* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – Confirming that *Natthi* and *Vigata* represent the exact same reality, differing only in the letter (*byañjana*), not the meaning (*attha*).
+* **Commentary**: *Pañcapakaraṇa-aṭṭhakathā* – Formalizing the functional definition of immediately departed cognitive states (*samanantaravigatā*) rendering structural assistance strictly through their status of departure (*vigatabhāva*).
