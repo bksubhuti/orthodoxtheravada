@@ -5,9 +5,9 @@ pali_spelling: "Sikkhāmānā"
 category: "vinaya"
 frequency_rank: 225
 cross_links: ["samaneri", "bhikkhuni", "upasampada"]
-canonical_texts: ["Vinaya Pitaka"]
-commentaries: ["Samantapasadika"]
+canonical_texts: ["Vinaya Pitaka", "Pacittiyapali"]
 ---
+Verified
 ### Grammatical Analysis
 **Sikkhāmānā**: [f.] Probationary nun; a woman in training. Derived from *sikkhati* (to train, learn) + present participle suffix *māna*. 
 
@@ -18,6 +18,11 @@ Before a female monastic can receive higher ordination, she must undergo a stric
 
 If she breaks even one of these six rules during the two years, her probation is entirely voided, and she must begin the two-year training period all over again. Historically, this rigorous period was instituted partly to ensure that a candidate was not unknowingly pregnant prior to receiving higher ordination.
 
+### Quote
+> **sikkhamānā nāma dve vassāni chasu dhammesu sikkhitasikkhā.**  
+> A *sikkhamānā* means one who has trained in the six dhammas for two years.  
+> 
+> — *Pācittiyapāḷi p. 160*
+
 ### Textual References
-* **[Vinaya](/glossary/vinaya/)**: *[Bhikkhunī](/glossary/bhikkhuni/)-vibhaṅga* ([Pācittiya](/glossary/pacittiya/) rules regarding ordination) – The formal legal decrees establishing the two-year training requirement.
-* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Explaining the strict continuity required for the training and how the [Saṅgha](/glossary/sangha/) grants the status.
+* **[Vinaya](/glossary/vinaya/)**: *Pācittiyapāḷi* (p. 160) – Defining the *sikkhāmānā* as one who has trained in the six rules for two years.
