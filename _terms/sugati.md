@@ -8,6 +8,7 @@ cross_links: ["deva", "brahma", "duggati", "punna", "kusala"]
 canonical_texts: ["Digha Nikaya", "Dhammapada"]
 commentaries: ["Sumangalavilasini"]
 ---
+Verified
 ### Grammatical Analysis
 **Sugati**: [f.] happy destination; blissful state; good rebirth. Formed by prefix *su* (good, happy, well) + *gati* (going, course, destination, rebirth). 
 
@@ -17,6 +18,15 @@ commentaries: ["Sumangalavilasini"]
 A rebirth into a happy destination is exclusively the result of accumulating wholesome [kamma](/glossary/kamma/) (*[kusala](/glossary/kusala/)-kamma*) and merit (*[puñña](/glossary/punna/)*) through the practice of generosity (*[dāna](/glossary/dana/)*), moral discipline (*[sīla](/glossary/sila/)*), and mental cultivation (*[bhāvanā](/glossary/bhavana/)*). 
 
 While rebirth in a *sugati* provides comfort, longevity, and superior opportunities to practice the [Dhamma](/glossary/dhamma/), the orthodox teachings constantly warn that these states are fundamentally impermanent. Therefore, the ultimate goal of a Theravāda practitioner is not to secure a temporary *sugati*, but to realize *[Nibbāna](/glossary/nibbana/)* and exit the cycle of destinations entirely.
+
+### Stock Phrase
+>kāyassa bhedā paraṃ maraṇā sugatiṃ
+
+### Quote
+>**puna caparaṃ, gahapatayo, sīlavā sīlasampanno *kāyassa bhedā paraṃ maraṇā sugatiṃ* saggaṃ lokaṃ upapajjati.**     
+> Furthermore, householders, a moral person, one who has accomplished morality, upon the breaking up of the body, after death, reappears in a good destination, a heavenly world.
+> 
+> — *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – Outlining how unbroken, noble moral virtue naturally inclines the mind toward a happy destination.
