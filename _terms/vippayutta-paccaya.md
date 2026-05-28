@@ -6,8 +6,9 @@ category: "patthana"
 frequency_rank: 370
 cross_links: ["patthana", "sampayutta-paccaya", "citta", "rupa"]
 canonical_texts: ["Patthana"]
-commentaries: ["Patthana-atthakatha"]
+commentaries: ["Mahāniddesa-aṭṭhakathā"]
 ---
+Verified
 ### Grammatical Analysis
 **Vippayuttapaccaya**: [m.] Dissociation condition; Disjunction condition. Formed by *vippayutta* (dissociated, separate, disconnected) + *paccaya* (condition).
 
@@ -16,8 +17,14 @@ commentaries: ["Patthana-atthakatha"]
 
 Consciousness cannot "mix" with the physical heart-base or the physical eye in the way milk mixes with water. Mind is immaterial and formless; matter is physical and blind. Yet, mind relies on the body to see, and the body relies on the mind to move. They condition each other through *Dissociation*. 
 
-The commentaries compare this to mixing water and oil, or a blind man carrying a crippled man. The blind man (the body) and the crippled man with eyes (the mind) work together to travel the road, but they never merge into a single entity.
+The commentary illustrates this structural disconnection using a natural physical transition. Just as butter (*navanīta*), though initially derived from milk, becomes completely separated and distinct from it, certain phenomena are classified as dissociated (*vippayutta*). They may exist in close structural proximity or share a common origin, yet they retain entirely unblended individual natures rather than dissolving into a unified immaterial state.
+
+### Quote
+> **Tathā vippayuttāpi khīrato apanītaṃ navanītaṃ viya.**  
+> Similarly, there are also *vippayutta* (dissociated), like butter separated from milk.  
+> 
+> — *Mahāniddesa-aṭṭhakathā* (Saddhammapajjotikā)
 
 ### Textual References
-* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – "Material phenomena are related to immaterial phenomena by dissociation condition. Immaterial phenomena are related to material phenomena by dissociation condition."
-* **Commentary**: *[Paṭṭhāna](/glossary/patthana/)-aṭṭhakathā* – The brilliant simile of water and oil remaining distinct despite occupying the same vessel.
+* **Compendium**: *Abhidhammatthasaṅgaha* – Delineating how the structural dissociation condition bridges the distinct mental (*nāma*) and material (*rūpa*) domains through synchronous or asynchronous support.
+* **Commentary**: *Mahāniddesa-aṭṭhakathā* – Applying the specific analogy of extracted butter (*navanīta*) to clarify how dissociated states retain distinct operational identities while functionally conditioning one another.
