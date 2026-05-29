@@ -13,7 +13,7 @@ Explore free PDF books from the Buddhist Publication Society and other classical
 
 ### Orthodox Theravāda Reference Library (BPS Editions)
 
-You can find the complete BPS library at [BPS Online Library](https://www.bps.lk/bps-library/).
+You can find the complete BPS library at [BPS Online Library](https://www.bps.lk/library.php).
 
 <div class="ot-index-grid">
 
@@ -27,7 +27,7 @@ You can find the complete BPS library at [BPS Online Library](https://www.bps.lk
     <span class="ot-index-card__subtitle">Bhikkhu Bodhi</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp301s_Narada_Manual_Of_Abhidhamma.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://www.buddhanet.net/pdf_file/abhidhamma.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">A Manual of Abhidhamma</strong>
     <span class="ot-index-card__subtitle">Narada Thera</span>
   </a>
@@ -37,7 +37,7 @@ You can find the complete BPS library at [BPS Online Library](https://www.bps.lk
     <span class="ot-index-card__subtitle">Narada Mahathera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp201s_Nyanatiloka_Word_Of_The_Buddha.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://www.bps.lk/olib/bp/bp201s_Nyanatiloka_life-Of-The-Buddha.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Word of the Buddha</strong>
     <span class="ot-index-card__subtitle">Nyanatiloka Thera</span>
   </a>
@@ -52,12 +52,12 @@ You can find the complete BPS library at [BPS Online Library](https://www.bps.lk
     <span class="ot-index-card__subtitle">Nyanatiloka Thera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp205s_Piyadassi_Buddhas_Ancient_Path.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://www.bps.lk/olib/bp/bp103s_Piyadassi_Buddhas-Ancient-Path.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Buddha's Ancient Path</strong>
     <span class="ot-index-card__subtitle">Piyadassi Thera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp406s_Nanarama_Seven_Stages_Of_Purification.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://www.bps.lk/olib/bp/bp506s_Nyanarama_Seven-Stages-of-Purification.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Seven Stages of Purification</strong>
     <span class="ot-index-card__subtitle">Matara Sri Nanarama</span>
   </a>
