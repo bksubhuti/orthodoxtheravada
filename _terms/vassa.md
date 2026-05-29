@@ -8,6 +8,7 @@ cross_links: ["pavarana", "kathina", "vihara"]
 canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
+Verified
 ### Grammatical Analysis
 **Vassa**: [nt.] Rain; the rainy season; the rains retreat. From root *vass* (to rain).
 
@@ -17,6 +18,18 @@ The *Vassa* (Rains Retreat) is a mandatory three-month period of stationary resi
 In the early days of the dispensation, monks wandered year-round. However, traveling during the heavy rains caused damage to crops and small insects, prompting public criticism. The Buddha subsequently laid down the rule that monastics must formally determine a single residence and not travel overnight for three continuous months. (Exceptions of up to seven days are allowed for specific emergencies, such as tending to a sick monk or parents).
 
 During the *Vassa*, monastics intensify their meditation and study. For the laity, it is a period of heightened merit-making, as they support the stationary monks. A monk's seniority (*vassa-age*) is calculated strictly by how many rains retreats he has successfully completed, not by his biological age.
+
+### Quote
+> **tena kho pana samayena chabbaggiyā bhikkhū na icchanti vassaṃ upagantuṃ.**  
+> At that time, the group-of-six bhikkhus did not wish to enter the rains-residence.  
+> 
+> **bhagavato etamatthaṃ ārocesuṃ.**  
+> They reported the matter to the Fortunate One.  
+> 
+> **na, bhikkhave, vassaṃ na upagantabbaṃ. yo na upagaccheyya, āpatti dukkaṭassāti.**  
+> “Bhikkhus, one should not fail to enter the rains-residence. If one fails to enter, there is an offense of wrong-doing (*dukkaṭa*).”  
+> 
+> — *Mahāvagga* (Vassūpanāyikakkhandhaka, 186)
 
 ### Textual References
 * **[Vinaya](/glossary/vinaya/)**: *[Mahāvagga](/glossary/mahavagga/)* (Vassūpanāyikakkhandhaka) – The origin story and rules for entering, maintaining, and legally breaking the rains retreat.
