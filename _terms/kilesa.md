@@ -8,6 +8,8 @@ cross_links: ["lobha", "dosa", "moha", "anusaya", "asava", "upakkilesa"]
 canonical_texts: ["Dhammasangani", "Vibhanga", "Dhammapada"]
 commentaries: ["Visuddhimagga", "Atthasalini"]
 ---
+
+Verified
 ### Grammatical Analysis
 **Kilesa**: [m.] defilement; impurity; torment; affliction. From root *klis* (to torment, soil, stain, corrupt). Signifies that which burns, pollutes, or degrades the natural clarity of the mind.
 
@@ -26,6 +28,20 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 10. *[Anottappa](/glossary/anottappa/)* (Fearlessness of karmic consequences)
 
 The commentaries note that the mind is naturally radiant (*pabhassara*), but becomes obscured by these visiting defilements (*āgantukehi kilesehi*). They exist in three progressive layers: latent dormancy (*[anusaya](/glossary/anusaya/)*), active obsessive pooling in the mind (*pariyuṭṭhāna*), and outward physical or verbal transgression (*vītikkama*).
+
+
+### Quote
+> **kilesagocchakaṃ**  
+> The Cluster of Defilements  
+> 
+> **1235. katame dhammā kilesā?**  
+> 1235. What states are defilements (kilesā)?  
+> 
+> **dasa kilesavatthūni – lobho, doso, moho, māno, diṭṭhi, vicikicchā, thinaṃ, uddhaccaṃ, ahirīkaṃ, anottappaṃ.**  
+> The ten bases of defilement (kilesavatthūni) are: greed (lobha), hatred (dosa), delusion (moha), conceit (māna), views (diṭṭhi), doubt (vicikicchā), sloth (thina), restlessness (uddhacca), shamelessness (ahirīka), and lack of moral dread (anottappa).  
+> 
+> — *Dhammasaṅgaṇī* (Dhs 1235)
+
 
 ### Textual References
 * **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (v. 244) – Illustrating how life is difficult for a practitioner who seeks internal purity against the stains of defilements.
