@@ -12,7 +12,9 @@ This website is created by monks that follows the tradition of Orthodox Theravā
 *   **Mahāvihāra** (Myanmar)
 *   **Varanasi Monasteries** (Myanmar)
 *   **Pa-Auk Forest Monastery** (Myanmar)
-*   **Wat Khao Sanamchai** related monasteries (Thailand)
+-   related Wat Kaho Monasteries (Thailand)  
+ --   **Wat Khao Sanamchai**  
+ --   **Wat Phra That Nong Sam Muen**   
 *   **Cambodian Vinaya-based monasteries** including Pa-Auk Forest Monastery (Cambodia).
 *   **International Institute of Theravāda** (Sri Lanka)
 
