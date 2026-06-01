@@ -21,7 +21,8 @@ With this purified vision, he observes other living beings passing away and bein
 The *[Visuddhimagga](/glossary/visuddhimagga/)* notes that this power is developed specifically by mastering the Light Kasiṇa (*āloka-kasiṇa*). The meditator uses the fourth [jhāna](/glossary/jhana/) to generate a psychic light that illuminates realms invisible to the biological eye, directly validating the moral physics of the universe.
 
 ### Quote
-> **Dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugatte duggate yathākammūpage satte pajānāmi.** > With the divine eye, which is purified and surpasses the human, I saw beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate, and I understood how beings pass on according to their actions.  
+> **Dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugatte duggate yathākammūpage satte pajānāmi.** 
+> With the divine eye, which is purified and surpasses the human, I saw beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate, and I understood how beings pass on according to their actions.  
 > 
 > — [Majjhima Nikāya](/glossary/majjhima-nikaya/) (MN 4)
 
