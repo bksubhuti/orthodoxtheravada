@@ -8,6 +8,8 @@ cross_links: ["akusala-mula", "byapada", "lobha", "moha", "patigha"]
 canonical_texts: ["Dhammasangani", "Vibhanga"]
 commentaries: ["Atthasalini", "Visuddhimagga"]
 ---
+
+Verified
 ### Grammatical Analysis
 **Dosa**: [m.] hatred; anger; ill-will; aversion; malice. From root *dus* (to become corrupted, corrupted mind, seek fault). Doctrinally represents the active psychological rejection or striking against an object.
 
@@ -21,6 +23,12 @@ According to the [Abhidhamma](/glossary/abhidhamma/) commentaries, its operation
 * **Padaṭṭhāna** (Proximate Cause): The grounds for resentment (*āghātabhūmi*).
 
 Dosa accompanies two specific types of unwholesome consciousness (*dosamūla-citta*), always accompanied by mentally painful feeling (*domanassa*). It is eradicated completely at the stage of Non-Returner (*[Anāgāmī](/glossary/anagami/)*).
+
+### Quote
+> **Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ vuccati doso.** 
+> Whatever such vexation of mind, hostility, resentment, opposition, anger, great anger, intense anger, hatred, malice, intense malice, mental perversity, mental corruption, wrath, being angry, the state of being angry; hatred, being malevolent, the state of being malevolent; perversity, acting perversely, the state of acting perversely; opposition, strong opposition, ferocity, ill-temper, displeasure of mind – this is called dosa.
+> 
+> — [Dhammasaṅgaṇī](/glossary/dhammasangani/) (Ds 2.3.2)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Aggi Sutta* (AN 7.47) – Detailing how the fire of anger ruins communal harmony and internal peace.
