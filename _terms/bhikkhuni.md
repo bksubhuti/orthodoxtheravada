@@ -23,7 +23,7 @@ The rules are quite restrictive, and a bhikkhunī commits a saṅghādisesa rule
 
 ### Quote
 > **691. ‘‘yā pana bhikkhunī ekā vā gāmantaraṃ gaccheyya, ekā vā nadīpāraṃ gaccheyya, ekā vā rattiṃ vippavaseyya, ekā vā gaṇamhā ohīyeyya, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesa’’nti.**  
-> 691. "Whatever bhikkhuni goes to a village alone, or crosses a river alone, or spends a night alone away from her companions, or lags behind alone from her group, this bhikkhuni also has fallen into the first offense, a Saṅghādisesa requiring rehabilitation."  
+> "Whatever bhikkhuni goes to a village alone, or crosses a river alone, or spends a night alone away from her companions, or lags behind alone from her group, this bhikkhuni also has fallen into the first offense, a Saṅghādisesa requiring rehabilitation."  
 > 
 > — *Pācittiyapāḷi, Bhikkhunī Vibhaṅga, Saṅghādisesa 3*
 
