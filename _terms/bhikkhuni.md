@@ -8,6 +8,7 @@ cross_links: ["bhikkhu", "garudhamma", "patimokkha", "sikkhamana"]
 canonical_texts: ["Vinaya Pitaka", "Anguttara Nikaya", "Therigatha"]
 commentaries: ["Samantapasadika"]
 ---
+Verified
 ### Grammatical Analysis
 **Bhikkhunī**: [f.] Fully ordained Buddhist nun; almswoman. Feminine form of *[bhikkhu](/glossary/bhikkhu/)*, derived from the root *bhikkh* (to beg, to ask for alms).
 
@@ -18,7 +19,16 @@ A Theravāda Bhikkhunī is bound by **311 [Pātimokkha](/glossary/patimokkha/) r
 
 Despite these structural differences in [Vinaya](/glossary/vinaya/), doctrinally, the capacity of a Bhikkhunī to attain Arahatship and full liberation is absolutely identical to that of a [Bhikkhu](/glossary/bhikkhu/).
 
+The rules are quite restrictive, and a bhikkhunī commits a saṅghādisesa rule requiring two weeks probation if she merely travels or sleeps alone.
+
+### Quote
+> **691. ‘‘yā pana bhikkhunī ekā vā gāmantaraṃ gaccheyya, ekā vā nadīpāraṃ gaccheyya, ekā vā rattiṃ vippavaseyya, ekā vā gaṇamhā ohīyeyya, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesa’’nti.**  
+> 691. "Whatever bhikkhuni goes to a village alone, or crosses a river alone, or spends a night alone away from her companions, or lags behind alone from her group, this bhikkhuni also has fallen into the first offense, a Saṅghādisesa requiring rehabilitation."  
+> 
+> — *Pācittiyapāḷi, Bhikkhunī Vibhaṅga, Saṅghādisesa 3*
+
 ### Textual References
+* **Vinaya**: *Pācittiyapāḷi* (Bhikkhunī Vibhaṅga, Saṅghādisesa 3) – The rule detailing the saṅghādisesa offense for a bhikkhunī who travels, crosses a river, spends the night, or lags behind a group alone.
 * **Vinaya**: *[Cullavagga](/glossary/cullavagga/)* (Bhikkhunīkhandhaka) – The historical account of Ānanda's intercession and the founding of the nun's order.
 * **Canonical**: *[Therīgāthā](/glossary/therigatha/)* – The verses of the elder nuns, testifying to their supreme spiritual attainments.
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – The detailed legal framework governing the dual-ordination process.
