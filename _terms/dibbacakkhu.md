@@ -23,7 +23,6 @@ The *[Visuddhimagga](/glossary/visuddhimagga/)* notes that this power is develop
 ### Quote
 > **Dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugatte duggate yathākammūpage satte pajānāmi.** 
 > With the divine eye, which is purified and surpasses the human, I saw beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate, and I understood how beings pass on according to their actions.  
-> 
 > — [Majjhima Nikāya](/glossary/majjhima-nikaya/) (MN 4)
 
 ### Textual References
