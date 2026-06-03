@@ -5,7 +5,8 @@ permalink: /glossary/
 author_profile: false
 ---
 
-Welcome to the Orthodox Theravāda Glossary. Here you will find detailed definitions and textual references for key Pāḷi terms and doctrinal concepts.
+Here you will find detailed definitions and textual references for key Pāḷi terms and doctrinal concepts.
+Note: We are actively reviewing our 300 entries. Definitions marked with "Verified" inside the entry have been checked against the Pāli canon and often have quoted material to support the term given.
 
 <div class="glossary-index">
   {% assign sorted_terms = site.terms | sort: "title" %}
@@ -23,8 +24,10 @@ Welcome to the Orthodox Theravāda Glossary. Here you will find detailed definit
       {% assign current_letter = first_letter %}
     {% endif %}
     
+    {% assign stripped_content = term.content | strip_html | strip %}
+    {% assign first_word = stripped_content | truncatewords: 1, "" %}
     <a href="{{ term.url | relative_url }}" class="ot-index-card">
-      <strong class="ot-index-card__title">{{ term.title }}</strong>
+      <strong class="ot-index-card__title">{{ term.title }}{% if first_word == "Verified" %} ✔️{% endif %}</strong>
       {% if term.pali_spelling %}
         <span class="ot-index-card__subtitle">({{ term.pali_spelling }})</span>
       {% endif %}
