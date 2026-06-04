@@ -8,6 +8,7 @@ cross_links: ["patthana", "sahajata-paccaya", "khandha"]
 canonical_texts: ["Patthana"]
 commentaries: ["Paṭṭhāna-aṭṭhakathā"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Aññamaññapaccaya**: [m.] Mutuality condition; Reciprocity condition. Formed by *aññamañña* (one another, mutual, reciprocal) + *paccaya* (condition).

@@ -8,6 +8,7 @@ cross_links: ["nimitta", "uggahanimitta", "patibhaganimitta", "samatha"]
 canonical_texts: ["Patisambhidamagga"]
 commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ---
+Verified
 ### Grammatical Analysis
 **Parikammanimitta**: [nt.] preparatory sign; preliminary object. Formed by *parikamma* (preparation, preliminary action, arrangement) + *[nimitta](/glossary/nimitta/)* (sign/image).
 
@@ -18,6 +19,18 @@ For example, in Earth Kasiṇa meditation, the *parikammanimitta* is an actual p
 
 At this stage, the meditator's concentration is categorized as *parikamma-samādhi* (preparatory concentration). The mind is still heavily plagued by the five hindrances (*[nīvaraṇa](/glossary/nivarana/)*), and the practitioner must exert significant applied thought (*[vitakka](/glossary/vitakka/)*) to repeatedly drag the mind back to this crude physical sign every time it wanders away.
 
+### Quote
+> **parikammassa nimittaṃ ārammaṇattāti parikammanimittaṃ, kasiṇamaṇḍalādi.**  
+>"The sign which is the object of preparatory practice is called preparatory sign (parikammanimitta), such as an earth-kasiṇa disk."  
+> 
+> **tadeva cakkhunā diṭṭhaṃ viya manasā uggahetabbaṃ nimittaṃ, uggaṇhantassa vā nimittanti uggahanimittaṃ.**  
+>"That same sign, to be grasped by the mind as if seen by the eye, or the sign for one who grasps it, is called grasping sign (uggahanimitta)."  
+> 
+> **tappaṭibhāgaṃ vaṇṇādikasiṇadosarahitaṃ nimittaṃ upacārappanānaṃ ārammaṇattāti paṭibhāganimittaṃ.**  
+>"The counter-part sign (paṭibhāganimitta) is similar to the grasping sign, free from kasiṇa faults such as color, etc., and is the object of access and absorption."  
+> 
+> — *Abhidhammatthasaṅgaha (Chapter IX, Nimittabhedavaṇṇanā)*
+
 ### Textual References
-* **Textual**: *Abhidhammattha-saṅgaha* (Chapter IX: *Kammaṭṭhāna-saṅgaha*) – Categorizing the preparatory sign as the starting point for all 40 subjects of meditation.
+* **Textual**: *Abhidhammattha-saṅgaha* (Chapter IX, Nimittabhedavaṇṇanā) – Defining the preparatory sign (parikammanimitta) as the object of preparatory practice.
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter IV) – Detailed instructions on exactly how to physically construct the clay kasiṇa to serve perfectly as the preliminary target.

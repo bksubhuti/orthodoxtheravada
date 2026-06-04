@@ -8,6 +8,7 @@ cross_links: ["khuddaka-nikaya", "therigatha", "arahat", "bhikkhu"]
 canonical_texts: ["Theragatha"]
 commentaries: ["Paramatthadipani", "Theragatha-atthakatha"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Theragāthā**: [f.] Verses of the Elder Monks. Formed by *thera* (elder, senior monk) + *gāthā* (verse, poem).

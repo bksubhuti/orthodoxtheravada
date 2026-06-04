@@ -8,6 +8,7 @@ cross_links: ["vicara", "jhana", "sammasankappa", "cetasika"]
 canonical_texts: ["Majjhima Nikaya", "Dhammasangani"]
 commentaries: ["Atthasalini", "Visuddhimagga", "Abhidhammatthavibhāvinīṭīkā"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Vitakka**: [m.] applied thought; initial application; directing the mind. From prefix *vi* + root *takk* (to think, reason, reflect). 

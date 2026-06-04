@@ -8,6 +8,7 @@ cross_links: ["pavarana", "kathina", "vihara"]
 canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Vassa**: [nt.] Rain; the rainy season; the rains retreat. From root *vass* (to rain).

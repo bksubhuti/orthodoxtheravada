@@ -8,6 +8,9 @@ cross_links: ["dukkha", "samudaya", "upadana", "paticcasamuppada", "kilesa"]
 canonical_texts: ["Samyutta Nikaya", "Digha Nikaya", "Dhammapada"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Taṇhā**: [f.] craving; thirst; insatiable desire. From root *tas* (to be thirsty, parched). It implies a deep, unremitting psycho-emotional thirst that demands satisfaction but can never be permanently quenched.
 
@@ -21,7 +24,13 @@ The Buddha systematically categorized taṇhā into three fundamental modes:
 
 Taṇhā acts as the direct functional trigger for clinging (*[upādāna](/glossary/upadana/)*) within the chain of Dependent Origination (*[paṭiccasamuppāda](/glossary/paticcasamuppada/)*). It is not an ultimate beginning but arises conditioned directly by feelings (*[vedanā](/glossary/vedana/)*).
 
+### Quote
+> **hetulakkhaṇā taṇhā, abhinandanarasā, atittabhāvapaccupaṭṭhānā, vedanāpadaṭṭhānā.**  
+> "Craving (taṇhā) has the characteristic of being a cause (hetu); its function is delight (abhinandana); it manifests as a state of insatiability (atittabhāva); its proximate cause is feeling (vedanā)."  
+> 
+> — *Visuddhimagga (Chapter XVII)*
+
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Dhammacakkappavattana Sutta* (SN 56.11) – Defining craving as that which leads to renewed existence (*ponobbhavikā*), accompanied by delight and lust.
 * **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (Taṇhā Vagga - Chapter 24) – Powerful imagery detailing how craving grows like a fast-creeping vine, strangling the unguarded mind.
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVII) – Exhaustive analysis of how craving acts as the hub of the wheel of life.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVII) – Deep diagnostic parsing of the mechanics of dependent origination and the defining characteristics of craving.

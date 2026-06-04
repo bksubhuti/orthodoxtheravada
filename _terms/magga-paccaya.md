@@ -8,6 +8,7 @@ cross_links: ["patthana", "magga", "micchaditthi", "sammāditthi"]
 canonical_texts: ["Patthana"]
 commentaries: ["Abhidhammatthasaṅgaha", "Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Maggapaccaya**: [m.] Path condition. Formed by *[magga](/glossary/magga/)* (path, way, road) + *paccaya* (condition).

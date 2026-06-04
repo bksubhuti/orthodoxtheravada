@@ -8,6 +8,7 @@ cross_links: ["patthana", "kamma", "kusala-mula"]
 canonical_texts: ["Patthana"]
 commentaries: ["Paṭṭhāna-mūlaṭīkā"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Āsevanapaccaya**: [m.] Repetition condition; Habitual recurrence condition. Formed by *āsevana* (practice, repetition, cultivation) + *paccaya* (condition).

@@ -8,6 +8,7 @@ cross_links: ["parami", "dosa", "byapada", "brahmavihara"]
 canonical_texts: ["Dhammapada", "Anguttara Nikaya"]
 commentaries: ["Cariyapitaka-Atthakatha", "Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Khanti**: [f.] patience; forbearance; tolerance; endurance. From root *kham* (to bear, endure, look forgivingly upon). Signifies the psychological stability that remains unperturbed under harsh conditions.

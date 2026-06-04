@@ -8,6 +8,7 @@ cross_links: ["vinaya-pitaka", "patimokkha", "parajika"]
 canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Suttavibhaṅga**: [m.] The Analysis of the Rules. Formed by *sutta* (rule, thread, clause) + *vibhaṅga* (analysis, breakdown, explanation). In the Vinaya context, "sutta" refers specifically to the rules of the *[Pātimokkha](/glossary/patimokkha/)*.

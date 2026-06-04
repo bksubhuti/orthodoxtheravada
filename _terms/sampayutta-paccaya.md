@@ -8,6 +8,7 @@ cross_links: ["patthana", "vippayutta-paccaya", "sahajata-paccaya", "cetasika"]
 canonical_texts: ["Patthana"]
 commentaries: ["Abhidhammatthasaṅgaha", "Mahāniddesa-aṭṭhakathā"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Sampayuttapaccaya**: [m.] Association condition. Formed by *sampayutta* (associated, perfectly combined, conjoined) + *paccaya* (condition).

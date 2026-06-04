@@ -8,6 +8,7 @@ cross_links: ["patthana", "indriya", "saddha", "panna"]
 canonical_texts: ["Patthana"]
 commentaries: ["Abhidhammatthasaṅgaha", "Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Indriyapaccaya**: [m.] Faculty condition; Controlling condition. Formed by *[indriya](/glossary/indriya/)* (faculty, controlling power, ruler) + *paccaya* (condition).

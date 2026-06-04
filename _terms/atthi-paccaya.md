@@ -8,6 +8,7 @@ cross_links: ["patthana", "natthi-paccaya", "avigata-paccaya"]
 canonical_texts: ["Patthana"]
 commentaries: ["Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Atthipaccaya**: [m.] Presence condition. Formed by *atthi* (is, exists, presence) + *paccaya* (condition).

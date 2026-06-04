@@ -8,6 +8,7 @@ cross_links: ["deva", "brahma", "duggati", "punna", "kusala"]
 canonical_texts: ["Digha Nikaya", "Dhammapada"]
 commentaries: ["Sumangalavilasini"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Sugati**: [f.] happy destination; blissful state; good rebirth. Formed by prefix *su* (good, happy, well) + *gati* (going, course, destination, rebirth). 

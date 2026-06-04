@@ -6,8 +6,10 @@ category: "doctrinalConcept"
 frequency_rank: 149
 cross_links: ["satipatthana", "sammappadhana", "iddhipada", "indriya", "bala", "bojjhanga", "magga"]
 canonical_texts: ["Digha Nikaya", "Samyutta Nikaya"]
-commentaries: ["Visuddhimagga"]
+commentaries: ["Visuddhimagga", "Samantapasadika"]
 ---
+
+Verified
 ### Grammatical Analysis
 **Bodhipakkhiyadhamma**: [m.] The Requisites of Awakening; Wings to Enlightenment. Formed by *bodhi* (awakening) + *pakkhiya* (belonging to, on the side of) + *dhamma* (phenomena/principles).
 
@@ -25,7 +27,14 @@ They are organized into seven distinct sets:
 
 The *[Visuddhimagga](/glossary/visuddhimagga/)* explains that while these appear as 37 distinct items, doctrinally they reduce to just 14 ultimate mental factors (*[cetasika](/glossary/cetasika/)*) operating under different functional titles (e.g., *[sati](/glossary/sati/)* appears as a foundation, a faculty, a power, an enlightenment factor, and a path factor). 
 
+### Quote
+> **tathā cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggoti sattatiṃsa bodhipakkhiyadhammā dhammo nāma; tayo satipaṭṭhānā, tayo sammappadhānā, tayo iddhipādā, cha indriyāni, cha balāni, aṭṭha bojjhaṅgā, navaṅgiko maggoti ca cattāro upādānā, pañca nīvaraṇā, satta anusayā, aṭṭha micchattāti ca ayaṃ adhammo.**  
+>"Similarly, the four foundations of mindfulness (satipaṭṭhānā), the four right efforts (sammappadhānā), the four bases of psychic power (iddhipādā), the five faculties (indriyāni), the five powers (balāni), the seven factors of enlightenment (bojjhaṅgā), and the Noble Eightfold Path (ariyo aṭṭhaṅgiko maggo) are called Dhamma; while three foundations of mindfulness, three right efforts, three bases of psychic power, six faculties, six powers, eight factors of enlightenment, and a nine-fold path, as well as the four clingings (upādānā), five hindrances (nīvaraṇā), seven underlying tendencies (anusayā), and eight wrongnesses (micchattā), are un-Dhamma."  
+> 
+> — *Cullavagga Aṭṭhakathā*
+
 ### Textual References
+* **Commentary**: *Cullavagga Aṭṭhakathā* (Samantapāsādikā) – Defining the 37 wings to awakening as the true Dhamma, and deviation from them as adhammo.
 * **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – The dramatic scene at Vesālī where the Buddha officially hands over the 37 principles to the Saṅgha as his ultimate legacy.
 * **Canonical**: *Samyutta Nikaya* ([Mahāvagga](/glossary/mahavagga/)) – The entire final book of the SN is dedicated to expanding on these seven sets.
 * **Commentary**: *Visuddhimagga* (Chapter XXII) – The supreme analytical synthesis reducing the 37 wings to their core psychological elements.

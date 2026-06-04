@@ -8,6 +8,7 @@ cross_links: ["patthana", "anantara-paccaya", "citta"]
 canonical_texts: ["Patthana"]
 commentaries: ["Abhidhammāvatāra-abhinavaṭīkā"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Samanantarapaccaya**: [m.] Immediate proximity condition; Contiguous condition. Formed by *sam* (well, thoroughly, exactly) + *anantara* (without gap) + *paccaya* (condition).

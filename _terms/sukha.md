@@ -8,6 +8,7 @@ cross_links: ["vedana", "jhana", "piti", "samadhi"]
 canonical_texts: ["Anguttara Nikaya", "Dhammasangani"]
 commentaries: ["Visuddhimagga", "Atthasalini", "Saratthadipani"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Sukha**: [nt.; adj.] happiness; ease; bliss; pleasure; pleasant feeling. Traditionally derived from *su* (good, easy) + *kha* (axle-hole), meaning a smooth-running wheel or carriage that rides perfectly. Doctrinally implies that which is comfortable and easy to endure.

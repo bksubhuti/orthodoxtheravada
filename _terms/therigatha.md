@@ -8,6 +8,7 @@ cross_links: ["khuddaka-nikaya", "theragatha", "bhikkhuni", "arahat"]
 canonical_texts: ["Therigatha"]
 commentaries: ["Paramatthadipani", "Therigatha-atthakatha"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Therīgāthā**: [f.] Verses of the Elder Nuns. Formed by *therī* (elder nun) + *gāthā* (verse, poem).

@@ -8,6 +8,7 @@ cross_links: ["parami", "bodhisatta", "adosa"]
 canonical_texts: ["Buddhavamsa", "Cariyapitaka", "Jataka"]
 commentaries: ["Paramatthadipani"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Khantipāramī**: [f.] The Perfection of Patience; the Perfection of Forbearance. Formed by *khanti* (patience, endurance, forgiveness) + *[pāramī](/glossary/parami/)* (perfection, completeness).

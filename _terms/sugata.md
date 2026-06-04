@@ -8,6 +8,7 @@ cross_links: ["tathagata", "samma-sambuddha", "bhagava"]
 canonical_texts: ["Digha Nikaya", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Sugata**: [m.] Well-gone; Fortunate; He who has gone to a good destination. Formed by prefix *su* (well, good, beautiful) + *gata* (gone, reached).

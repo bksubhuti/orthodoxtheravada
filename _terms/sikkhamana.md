@@ -7,6 +7,7 @@ frequency_rank: 225
 cross_links: ["samaneri", "bhikkhuni", "upasampada"]
 canonical_texts: ["Vinaya Pitaka", "Pacittiyapali"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Sikkhāmānā**: [f.] Probationary nun; a woman in training. Derived from *sikkhati* (to train, learn) + present participle suffix *māna*. 

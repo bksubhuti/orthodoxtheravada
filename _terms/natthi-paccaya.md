@@ -8,6 +8,7 @@ cross_links: ["patthana", "atthi-paccaya", "anantara-paccaya", "vigata-paccaya"]
 canonical_texts: ["Patthana"]
 commentaries: ["Abhidhammatthasaṅgaha"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Natthipaccaya**: [m.] Absence condition. Formed by *natthi* (is not, does not exist, absence) + *paccaya* (condition).

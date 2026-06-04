@@ -8,6 +8,7 @@ cross_links: ["bhikkhu", "garudhamma", "patimokkha", "sikkhamana"]
 canonical_texts: ["Vinaya Pitaka", "Anguttara Nikaya", "Therigatha"]
 commentaries: ["Samantapasadika"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Bhikkhunī**: [f.] Fully ordained Buddhist nun; almswoman. Feminine form of *[bhikkhu](/glossary/bhikkhu/)*, derived from the root *bhikkh* (to beg, to ask for alms).
