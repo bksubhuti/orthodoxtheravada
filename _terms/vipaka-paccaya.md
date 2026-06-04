@@ -8,6 +8,7 @@ cross_links: ["patthana", "kamma-vipaka", "kamma-paccaya"]
 canonical_texts: ["Patthana"]
 commentaries: ["Abhidhammatthavibhāvinīṭīkā"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Vipākapaccaya**: [m.] Kamma-result condition; Fruit condition. Formed by *vipāka* (result, ripening, fruit) + *paccaya* (condition).

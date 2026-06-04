@@ -8,6 +8,7 @@ cross_links: ["brahmavihara", "metta", "karuna", "upekkha", "issa"]
 canonical_texts: ["Digha Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Muditā**: [f.] sympathetic joy; altruistic joy; gladness. From root *mud* (to be glad, rejoice). Signifies the soft, celebratory condition of mind when witnessing the good fortune of others.

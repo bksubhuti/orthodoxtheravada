@@ -8,6 +8,7 @@ cross_links: ["patthana", "upanissaya-paccaya", "ayatana"]
 canonical_texts: ["Patthana"]
 commentaries: ["Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Nissayapaccaya**: [m.] Support condition. Formed by *nissaya* (support, foundation, reliance) + *paccaya* (condition).

@@ -8,6 +8,7 @@ cross_links: ["sangha", "vinaya", "patimokkha", "pabbajja", "upasampada"]
 canonical_texts: ["Vinaya Pitaka", "Majjhima Nikaya"]
 commentaries: ["Samantapasadika"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Bhikkhu**: [m.] a Buddhist monk; mendicant; almsman. Traditionally derived from the root *bhikh* (to ask, beg for alms). In doctrinal contexts, the commentaries trace it to *bhī* (to fear), rendering it as "one who sees fear and danger in the cycle of samsāra" (*saṃsāre bhayaṃ ikkhatī'ti bhikkhu*).

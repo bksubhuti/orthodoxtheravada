@@ -8,6 +8,7 @@ cross_links: ["kusala-mula", "alobha", "adosa", "panna"]
 canonical_texts: ["Majjhima Nikaya", "Dhammasangani"]
 commentaries: ["Atthasalini"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Amoha**: [m.] Non-delusion; undeludedness; wisdom. Formed by negative prefix *a* (not) + *moha* (delusion, ignorance, blindness).

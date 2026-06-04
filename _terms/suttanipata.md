@@ -8,6 +8,7 @@ cross_links: ["khuddaka-nikaya", "niddesa"]
 canonical_texts: ["Suttanipata"]
 commentaries: ["Paramatthajotika", "Suttanipata-atthakatha"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Suttanipāta**: [m.] The Group of Discourses. Formed by *sutta* (discourse) + *nipāta* (group, falling together, collection).

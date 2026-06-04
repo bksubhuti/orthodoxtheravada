@@ -8,6 +8,7 @@ cross_links: ["patthana", "nissaya-paccaya", "kamma"]
 canonical_texts: ["Patthana"]
 commentaries: ["Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Upanissayapaccaya**: [m.] Decisive support condition; Strong dependence condition. Formed by prefix *upa* (strong, intense) + *nissaya* (support) + *paccaya* (condition).

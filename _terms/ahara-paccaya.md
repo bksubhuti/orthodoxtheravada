@@ -8,6 +8,7 @@ cross_links: ["patthana", "rupa", "vinnana", "cetana"]
 canonical_texts: ["Patthana", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga-mahāṭīkā"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Āhārapaccaya**: [m.] Nutriment condition; Food condition. Formed by *āhāra* (food, nourishment, support) + *paccaya* (condition).

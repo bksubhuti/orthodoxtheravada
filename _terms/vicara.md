@@ -8,6 +8,7 @@ cross_links: ["vitakka", "jhana", "cetasika"]
 canonical_texts: ["Majjhima Nikaya", "Dhammasangani"]
 commentaries: ["Atthasalini", "Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Vicāra**: [m.] sustained thought; sustained application; exploring; anchoring. From prefix *vi* + root *car* (to move, wander, roam).

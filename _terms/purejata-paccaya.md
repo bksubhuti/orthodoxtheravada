@@ -8,6 +8,7 @@ cross_links: ["patthana", "pacchajata-paccaya", "ayatana"]
 canonical_texts: ["Patthana"]
 commentaries: ["Visuddhimagga"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Purejātapaccaya**: [m.] Pre-nascence condition; Condition of arising beforehand. Formed by *pure* (before, previously) + *jāta* (born, arisen) + *paccaya* (condition).

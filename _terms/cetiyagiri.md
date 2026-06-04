@@ -8,6 +8,7 @@ cross_links: ["maha-vihara", "cetiya"]
 canonical_texts: ["Mahavamsa"]
 commentaries: []
 ---
+
 Verified
 
 ### Grammatical Analysis

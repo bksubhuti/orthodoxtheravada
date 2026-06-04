@@ -8,6 +8,7 @@ cross_links: ["kilesa", "samyojana", "magga"]
 canonical_texts: ["Samyutta Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Sammohavinodani", "Paramatthadipani"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Anusaya**: [m.] latent tendency; underlying disposition; dormant defilement. Formed by prefix *anu* (along, with) + root *si* (to lie down, sleep). Literally means "that which lies dormant."

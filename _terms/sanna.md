@@ -8,6 +8,7 @@ cross_links: ["khandha", "cetasika", "ditthi", "vipallasa"]
 canonical_texts: ["Samyutta Nikaya", "Dhammasangani"]
 commentaries: ["Visuddhimagga", "Atthasalini", "Abhidhammatthasangaha"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Saññā**: [f.] perception; recognition; labeling; sign; memory. Formed by prefix *saṃ* (together) + root *ñā* (to know). Literally means "co-knowing" or "knowing by association with past signs."

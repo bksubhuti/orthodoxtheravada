@@ -8,6 +8,7 @@ cross_links: ["patthana", "atthi-paccaya", "vigata-paccaya"]
 canonical_texts: ["Patthana"]
 commentaries: ["Pañcapakaraṇa-aṭṭhakathā"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Avigatapaccaya**: [m.] Non-disappearance condition. Formed by *a* (not) + *vigata* (disappeared, departed) + *paccaya* (condition).

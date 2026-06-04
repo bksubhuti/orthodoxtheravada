@@ -8,6 +8,7 @@ cross_links: ["patthana", "ayatana", "citta"]
 canonical_texts: ["Patthana"]
 commentaries: ["Patthana-aṭṭhakathā", "Abhidhammatthasaṅgaha-vibhāvinī-ṭīkā"]
 ---
+
 Verified
 
 ### Grammatical Analysis

@@ -8,6 +8,7 @@ cross_links: ["tipitaka", "vinaya", "abhidhamma", "digha-nikaya", "majjhima-nika
 canonical_texts: ["Sutta Pitaka"]
 commentaries: ["Sumangalavilasini", "Papancasudani"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Sutta**: [nt.] discourse; sermon; thread; aphorism. Derived from the root *siv* (to sew), meaning a thread that stitches together individual doctrines, or from Sanskrit *sūkta* (well-spoken).

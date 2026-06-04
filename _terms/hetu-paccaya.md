@@ -8,6 +8,7 @@ cross_links: ["patthana", "kusala-mula", "akusala-mula"]
 canonical_texts: ["Patthana"]
 commentaries: ["Patthana-atthakatha", "Abhidhammatthasangaha"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Hetupaccaya**: [m.] Root condition. Formed by *hetu* (root, primary cause) + *paccaya* (condition, relating factor).

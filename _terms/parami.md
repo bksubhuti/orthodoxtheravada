@@ -8,6 +8,7 @@ cross_links: ["bodhisatta", "dana", "sila", "nekkhamma", "panna"]
 canonical_texts: ["Khuddaka Nikaya", "Cariyapitaka", "Apadana", "Digha Nikaya"]
 commentaries: ["Cariyapitaka-Atthakatha", "Sumangalavilasini"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Pāramī**: [f.] perfection; transcendent virtue. Derived from *parama* (highest, supreme, excellent) or from *pāraṃ* (the further shore) + root *mā* (to cross, bring across). Literally means "that which carries one across to the further shore of Nibbāna" or "the conduct of supreme persons."

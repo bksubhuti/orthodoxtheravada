@@ -8,6 +8,7 @@ cross_links: ["upasika", "tisarana", "pancasila", "uposatha"]
 canonical_texts: ["Anguttara Nikaya", "Samyutta Nikaya"]
 commentaries: ["Sumangalavilasini"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Upāsaka**: [m.] Lay follower; male devotee. Derived from prefix *upa* (close, near) + root *ās* (to sit). Literally "one who sits close by" or "attends upon" the Triple Gem.

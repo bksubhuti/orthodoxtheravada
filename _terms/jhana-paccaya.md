@@ -8,6 +8,7 @@ cross_links: ["patthana", "jhana", "vitakka", "vicara"]
 canonical_texts: ["Patthana"]
 commentaries: ["Abhidhammatthasaṅgaha"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Jhānapaccaya**: [m.] [Jhāna](/glossary/jhana/) condition; Absorption condition. Formed by *[jhāna](/glossary/jhana/)* (meditative absorption, deep contemplation) + *paccaya* (condition).

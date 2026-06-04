@@ -8,6 +8,7 @@ cross_links: ["brahmavihara", "karuna", "mudita", "upekkha", "dosa"]
 canonical_texts: ["Suttanipata", "Khuddakapatha", "Anguttara Nikaya"]
 commentaries: ["Visuddhimagga", "Paramatthadipani"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Mettā**: [f.] loving-kindness; universal goodwill; friendliness. Derived from *mitta* (friend). It denotes the quality or state of being a true, sincere friend to all living beings.

@@ -8,6 +8,7 @@ cross_links: ["vihara", "kuti", "civara", "pindapata", "gilanappaccaya"]
 canonical_texts: ["Vinaya Pitaka", "Anguttara Nikaya"]
 commentaries: ["Samantapasadika"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Senāsana**: [nt.] Bed and seat; lodging; accommodation. Formed by *sena* (sleeping, bed) + *āsana* (sitting, seat). 

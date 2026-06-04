@@ -8,6 +8,7 @@ cross_links: ["patthana", "sampayutta-paccaya", "citta", "rupa"]
 canonical_texts: ["Patthana"]
 commentaries: ["Mahāniddesa-aṭṭhakathā"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Vippayuttapaccaya**: [m.] Dissociation condition; Disjunction condition. Formed by *vippayutta* (dissociated, separate, disconnected) + *paccaya* (condition).

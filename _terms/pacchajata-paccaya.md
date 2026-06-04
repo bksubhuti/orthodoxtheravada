@@ -8,6 +8,7 @@ cross_links: ["patthana", "purejata-paccaya", "citta", "rupa"]
 canonical_texts: ["Patthana"]
 commentaries: ["Abhidhammatthasaṅgaha"]
 ---
+
 Verified
 ### Grammatical Analysis
 **Pacchājātapaccaya**: [m.] Post-nascence condition; Condition of arising later. Formed by *pacchā* (after, later, behind) + *jāta* (born, arisen) + *paccaya* (condition).
