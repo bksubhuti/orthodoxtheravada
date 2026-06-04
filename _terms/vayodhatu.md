@@ -8,6 +8,7 @@ cross_links: ["dhatu", "rupa", "pathavidhatu", "apodhatu", "tejodhatu"]
 canonical_texts: ["Majjhima Nikaya", "Dhammasangani"]
 commentaries: ["Visuddhimagga"]
 ---
+Verified 
 ### Grammatical Analysis
 **Vāyodhātu**: [f.] wind element; element of motion; kinetic energy. Formed by *vāyo* (wind, air, blowing) + *[dhātu](/glossary/dhatu/)* (element).
 
@@ -24,7 +25,22 @@ Internally, it manifests as six distinct biological winds:
 5. Winds coursing through the limbs (blood pressure/circulation).
 6. In-breaths and out-breaths (*assāsa-passāsa*).
 
+### Quote
+> **katamā cāvuso, vāyodhātu?**  
+> "And what, friends, is the air element (vāyodhātu)?"  
+> 
+> **vāyodhātu siyā ajjhattikā, siyā bāhirā.**  
+> "The air element can be internal or external."  
+> 
+> **katamā cāvuso, ajjhattikā vāyodhātu?**  
+> "And what, friends, is the internal air element?"  
+> 
+> **yaṃ ajjhattaṃ paccattaṃ vāyo vāyogataṃ upādinnaṃ, seyyathidaṃ – uddhaṅgamā vātā, adhogamā vātā, kucchisayā vātā, koṭṭhāsayā vātā, aṅgamaṅgānusārino vātā, assāso passāso iti, yaṃ vā panaññampi kiñci ajjhattaṃ paccattaṃ vāyo vāyogataṃ upādinnaṃ – ayaṃ vuccatāvuso, ajjhattikā vāyodhātu.**  
+> "Whatever internal, individual air, belonging to air, is grasped, such as upward-going winds, downward-going winds, winds in the belly, winds in the intestines, winds coursing through the limbs, in-breaths and out-breaths, or any other internal, individual air, belonging to air, that is grasped – this, friends, is called the internal air element."  
+> 
+> — *Mahāhatthipadopama Sutta (MN 28)*
+
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Mahāhatthipadopama Sutta* (MN 28) – Contrasting the internal biological winds with the massive external cyclones that uproot trees, proving both are mere impersonal elements.
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Analysis of kinetic matter).
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XI) – Technical description of how wind element provides physical support and locomotion.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XI) – Detailed description of how the wind element provides physical support and locomotion.
