@@ -8,6 +8,9 @@ cross_links: ["nekkhamma", "bhikkhu", "alobha", "sila"]
 canonical_texts: ["Anguttara Nikaya", "Dhammapada"]
 commentaries: ["Visuddhimagga", "Papancasudani"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Santuṭṭhi**: [f.] contentment; satisfaction. Derived from prefix *saṃ* (completely) + root *tus* (to be satisfied, pleased). 
 
@@ -21,7 +24,14 @@ Doctrinally, it is driven by the wholesome mental factor of non-greed (*[alobha]
 
 The Buddha famously declared that "contentment is the greatest wealth" (*santuṭṭhī paramaṃ dhanaṃ*), as it instantly cuts off the frantic, endless searching fueled by craving.
 
+### Quote
+> **santuṭṭhi nāma itarītarapaccayasantoso, so dvādasavidho hoti. seyyathidaṃ – cīvare yathālābhasantoso, yathābalasantoso, yathāsāruppasantosoti tividho. evaṃ piṇḍapātādīsu.**  
+> "Contentment (santuṭṭhi) means satisfaction with whatever requisites are obtained; it is twelvefold. Namely, three kinds regarding robes: contentment with whatever is obtained, contentment according to one's strength, and contentment appropriate to one's status. Likewise with alms food, etc."  
+> 
+> — *Suttanipāta-aṭṭhakathā*
+
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Ariyavaṃsa Sutta* (AN 4.28) – The foundational text on the "Lineages of the Noble Ones," defining the true monk as one who is content with any robe, food, or lodging, and delights in meditation.
 * **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (v. 204) – Declaring health the greatest gain and contentment the greatest wealth.
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter II) – Detailing how contentment forms the psychological foundation for the strict ascetic practices (*dhutaṅga*).
+* **Commentary**: *Suttanipāta-aṭṭhakathā* – Explaining the twelvefold division of contentment across the monastic requisites.
