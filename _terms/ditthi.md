@@ -21,7 +21,7 @@ The commentaries state that its characteristic is unwise interpretation (*ayonis
 It forms the most dangerous type of clinging (*diṭṭhupādāna*) and acts as one of the deep latent tendencies (*diṭṭhānusaya*). Because wrong views (such as eternalism, annihilationism, or believing rituals purify the soul) fundamentally lock a practitioner out of the Noble Path, this mental factor must be absolutely shattered by the arising of the supramundane path of Stream-entry (*sotāpatti-magga*).
 
 ### Quote
-> **Tayidaṃ, bhikkhave, tathāgato pajānāti—‘Ime diṭṭhiṭṭhānā evaṅgahitā evaṃparāmaṭṭhā evaṅgatikā bhavissanti evaṃsamparāyā’ti.** 
+> **Tayidaṃ, bhikkhave, tathāgato pajānāti—‘Ime diṭṭhiṭṭhānā evaṅgahitā evaṃparāmaṭṭhā evaṅgatikā bhavissanti evaṃsamparāyā’ti.**  
 > That, bhikkhus, the Tathāgata understands: 'These standpoints of view, thus taken up, thus clung to, will have such a destination, such a future state.'  
 > 
 > — [Dīgha Nikāya](/glossary/digha-nikaya/) (DN 1)

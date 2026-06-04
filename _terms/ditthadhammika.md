@@ -21,7 +21,7 @@ When teaching laypeople, the Buddha often divided his advice into two categories
 In karmic terms, *Diṭṭhadhammika-kamma* refers to a specific, highly potent volition (usually the very first javana-citta in a cognitive series) that ripes in the same lifetime it was committed. If it does not find the right conditions to ripen before death, it becomes defunct (*ahosi-kamma*).
 
 ### Quote
-> **Cattārome, byagghapajja, dhammā kulaputtassa diṭṭhadhammahitāya saṁvattanti diṭṭhadhammasukhāya. Katame cattāro? Uṭṭhānasampadā, ārakkhasampadā, kalyāṇamittatā, samajīvitā.** 
+> **Cattārome, byagghapajja, dhammā kulaputtassa diṭṭhadhammahitāya saṁvattanti diṭṭhadhammasukhāya. Katame cattāro? Uṭṭhānasampadā, ārakkhasampadā, kalyāṇamittatā, samajīvitā.**   
 > Byagghapajja, these four things lead to the welfare and happiness of a family man in this life. What four? Accomplishment of diligent effort, accomplishment of protection, good friendship, and balanced living.  
 > 
 > — [Aṅguttara Nikāya](/glossary/anguttara-nikaya/) (AN 8.54)
