@@ -8,6 +8,8 @@ cross_links: ["bhikkhuni", "bhikkhu", "patimokkha"]
 canonical_texts: ["Vinaya Pitaka", "Anguttara Nikaya"]
 commentaries: ["Samantapasadika"]
 ---
+
+Verified
 ### Grammatical Analysis
 **Garudhamma**: [m.] Heavy rule; strict principle; rule of respect. Formed by *garu* (heavy, serious, respectful) + *dhamma* (rule, principle, duty).
 
@@ -22,6 +24,12 @@ These rules permanently define the administrative and social relationship betwee
 5. A nun must never revile or abuse a monk.
 
 The Buddha declared that these rules were to be honored, respected, and not transgressed for life, likening them to a strong dam built to contain a great reservoir of water.
+
+### Quote
+> **Sace, ānanda, mahāpajāpatī gotamī aṭṭha garudhamme paṭiggaṇhāti, sāvassā hotu upasampadā ... Ayampi dhammo sakkatvā garuṁ katvā mānetvā pūjetvā yāvajīvaṁ anatikkamanīy.**  
+> Ānanda, if Mahāpajāpati Gotamī accepts these eight Garudhammas, that will be her ordination ... This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts. 
+> 
+> — [Aṅguttara Nikāya](/glossary/anguttara-nikaya/) (AN 8.51)
 
 ### Textual References
 * **[Vinaya](/glossary/vinaya/)**: *[Cullavagga](/glossary/cullavagga/)* (Bhikkhunīkhandhaka) – The historical narrative where the Buddha relays these rules through Venerable Ānanda.
