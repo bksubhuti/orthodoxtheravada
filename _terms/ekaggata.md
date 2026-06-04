@@ -29,4 +29,4 @@ The commentaries compare it to water binding dry flour into a solid dough, or th
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Cūḷavedalla Sutta* (MN 44) – Dhammadinnā explicitly defining concentration (*[samādhi](/glossary/samadhi/)*) as the unification of the mind (*cittassa ekaggatā*).
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Mapping the universal factors of consciousness).
-* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Describing its function as the pacification and consolidation of accompanying mental properties.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Describing its function as the pacification of the mind and mental factors, bringing them into a single, unified column.

@@ -28,4 +28,4 @@ If a monk attempts to divide or appropriate [Saṅgha](/glossary/sangha/) heavy 
 
 ### Textual References
 * **Vinaya**: *[Cullavagga](/glossary/cullavagga/)* (Senāsanakkhandhaka) – Rules regarding lodgings and the classification of [Saṅgha](/glossary/sangha/) property.
-* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Providing exact lists of what constitutes heavy property and detailing the judicial exceptions for trade or repairs.
+* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Providing exact lists of what constitutes heavy versus light property and how administrators (*senāsanagāhāpaka*) must manage it.
