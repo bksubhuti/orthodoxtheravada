@@ -37,6 +37,12 @@ The Buddha declared that these rules were to be honored, respected, and not tran
 > — *Pācittiyapāḷi*
 
 
+### Quote
+> **Sace, ānanda, mahāpajāpatī gotamī aṭṭha garudhamme paṭiggaṇhāti, sāvassā hotu upasampadā ... Ayampi dhammo sakkatvā garuṁ katvā mānetvā pūjetvā yāvajīvaṁ anatikkamanīy.**  
+> Ānanda, if Mahāpajāpati Gotamī accepts these eight Garudhammas, that will be her ordination ... This principle should be honored, respected, esteemed, and venerated, and not transgressed so long as life lasts. 
+> 
+> — [Aṅguttara Nikāya](/glossary/anguttara-nikaya/) (AN 8.51)
+
 ### Textual References
 * **[Vinaya](/glossary/vinaya/)**: *[Cullavagga](/glossary/cullavagga/)* (Bhikkhunīkhandhaka) – The historical narrative where the Buddha relays these rules through Venerable Ānanda.
 * **[Sutta](/glossary/sutta/)**: *Aṅguttara Nikāya* (Aṭṭhaka Nipāta) – The canonical listing of the eight principles.

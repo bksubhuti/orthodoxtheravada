@@ -12,7 +12,7 @@ commentaries: ["Atthasalini", "Visuddhimagga"]
 Verified
 
 ### Grammatical Analysis
-**Ekaggatā**: [f.] one-pointedness; unification of mind. Formed by *eka* (one) + *agga* (point, peak, summit) + *tā* (state of). Literally means "the state of having a single point."
+**Ekaggatā**: [f.] one-pointedness; unification of mind. Formed by *eka* (one) + *agga* (point, peak, summit) + *tā* (state of). Literally means "the state of having a single point".
 
 ### Orthodox Definition
 *Ekaggatā* is a universal mental factor (*sabbacittasādhāraṇa-[cetasika](/glossary/cetasika/)*), meaning a baseline level of it arises in every single mind-moment just to keep consciousness from instantly shattering. However, in the context of meditation, it is elevated into the supreme faculty of concentration (*samādhindriya*).

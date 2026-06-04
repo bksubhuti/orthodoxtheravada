@@ -8,6 +8,8 @@ cross_links: ["lahubhanda", "vihara", "sangha"]
 canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
+
+Verified
 ### Grammatical Analysis
 **Garubhaṇḍa**: [nt.] Heavy property; untransferable property of the [Saṅgha](/glossary/sangha/). Formed by *garu* (heavy, serious) + *bhaṇḍa* (property, goods, equipment).
 
@@ -17,6 +19,12 @@ commentaries: ["Samantapasadika"]
 According to monastic law, *Garubhaṇḍa* includes items such as land, monasteries (*vihāras*), trees, heavy furniture (beds, chairs, benches), and metal vessels. The defining legal characteristic of *Garubhaṇḍa* is that it is absolutely inalienable. It cannot be divided, distributed, sold, or given away to an individual monk or layperson under any circumstances—not even by the unanimous agreement of a full [Saṅgha](/glossary/sangha/) council. 
 
 If a monk attempts to divide or appropriate [Saṅgha](/glossary/sangha/) heavy property for himself, he incurs a serious offense (often a *Thullaccaya* or *[Pārājika](/glossary/parajika/)* if the value meets the threshold for theft). It ensures that monastic infrastructure endures across generations. (The opposite is *[Lahubhaṇḍa](/glossary/lahubhanda/)*, light property like robes and food, which can be distributed).
+
+### Quote
+> **Puna caparaṁ, bhikkhave, idhekacco pāpabhikkhu yāni tāni saṅghassa garubhaṇḍāni garuparikkhārāni, seyyathidaṁ— ārāmo ārāmavatthu vihāro vihāravatthu mañco pīṭhaṁ bhisi bibbohanaṁ lohakumbhī lohabhāṇakaṁ ... mattikābhaṇḍaṃ, tehi gihīṃ saṅgaṇhāti upalāpeti.**  
+> Furthermore, bhikkhus, a certain evil bhikkhu here wins over and flatters householders with those things that are weighty articles and weighty requisites of the Sangha, that is to say: a monastery, monastery land, a dwelling, dwelling land, a couch, a chair, a mattress, a cushion, a bronze pot, a bronze vessel,... and earthenware. 
+> 
+> — [Vinaya Piṭaka](/glossary/vinaya-pitaka/) (Pārājikapāḷi Bu Pj 4)
 
 ### Textual References
 * **Vinaya**: *[Cullavagga](/glossary/cullavagga/)* (Senāsanakkhandhaka) – Rules regarding lodgings and the classification of [Saṅgha](/glossary/sangha/) property.
