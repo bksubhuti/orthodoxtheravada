@@ -8,6 +8,9 @@ cross_links: ["magga", "panna", "nekkhamma", "avihimsa", "abyapada"]
 canonical_texts: ["Majjhima Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Atthasalini"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Sammāsaṅkappa**: [m.] Right Intention; Right Resolve; Correct Thought. Formed by *sammā* (correctly) + *saṅkappa* (thought, purpose, mental application). Doctrinally identical to the mental factor of applied thought (*vitakka-cetasika*) when directed toward wholesome ends.
 
@@ -20,6 +23,15 @@ The Buddha systematically defined Right Intention as comprising **three specific
 3. *Avihiṃsā-saṅkappa* (Thought of Harmlessness): Resolving to act with active compassion toward vulnerable beings. Directly counteracts cruelty (*vihesā*).
 
 At the supramundane level (*lokuttara*), this factor acts to tilt the unified consciousness squarely into *[Nibbāna](/glossary/nibbana/)*, driving out all traces of unwholesome motivation.
+
+### Quote
+> **‘‘katamo ca, bhikkhave, sammāsaṅkappo?**  
+> "And what, bhikkhus, is right intention?"  
+> 
+> **nekkhammasaṅkappo abyāpādasaṅkappo avihiṃsāsaṅkappo, ayaṃ vuccati bhikkhave, sammāsaṅkappo.**  
+> "The intention of renunciation, the intention of non-ill-will, the intention of non-harming; this, bhikkhus, is called right intention."  
+> 
+> — *Mahāsatipaṭṭhānasuttaṃ* (DN 22)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Dvedhāvitakka Sutta* (MN 19) – The historic discourse where the Buddha details his own pre-enlightenment practice of dividing his thoughts into two distinct categories (wholesome vs. unwholesome) to conquer the mind.

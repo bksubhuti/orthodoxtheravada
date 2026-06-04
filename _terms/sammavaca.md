@@ -8,6 +8,9 @@ cross_links: ["magga", "sila", "musavada", "virati"]
 canonical_texts: ["Majjhima Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Atthasalini"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Sammāvācā**: [f.] Right Speech; Correct Verbal Conduct. Formed by *sammā* (correctly) + *vācā* (speech, talk, word).
 
@@ -21,6 +24,15 @@ The training requires a practitioner to systematically abstain from four distinc
 4. *Samphappalāpā*: Abstaining from frivolous chatter, useless gossip, or loose talk that scatters mental concentration.
 
 On the mundane path, it is practiced as a localized, conscious restraint when faced with a temptation to speak falsely. On the supramundane path, it functions as an absolute, permanent purification of the mental stream, preventing any future generation of corrupt speech.
+
+### Quote
+> **‘‘katamā ca, bhikkhave, sammāvācā?**  
+> "And what, bhikkhus, is right speech?"  
+> 
+> **musāvādā veramaṇī pisuṇāya vācāya veramaṇī pharusāya vācāya veramaṇī samphappalāpā veramaṇī, ayaṃ vuccati, bhikkhave, sammāvācā.**  
+> "Abstinence from false speech, abstinence from slanderous speech, abstinence from harsh speech, abstinence from idle chatter; this, bhikkhus, is called right speech."  
+> 
+> — *Mahāsatipaṭṭhānasuttaṃ* (DN 22)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Abhayarājakumāra Sutta* (MN 58) – The classic masterclass where the Buddha lays out the exact structural criteria for speech: it must be true, factual, beneficial, and spoken with an understanding of the appropriate time, regardless of whether it pleases or displeases the listener.

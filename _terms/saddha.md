@@ -8,6 +8,9 @@ cross_links: ["indriya", "bala", "sotapanna", "vicikiccha", "pasada"]
 canonical_texts: ["Samyutta Nikaya", "Anguttara Nikaya", "Dhammasangani"]
 commentaries: ["Atthasalini", "Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Saddhā**: [f.] faith; conviction; confidence; trust. From *saṃ* (together) + root *dhā* (to place). Literally means "to place the heart or confidence completely upon an object."
 
@@ -19,6 +22,17 @@ The *[Visuddhimagga](/glossary/visuddhimagga/)* and *[Atthasālinī](/glossary/a
 2. *Sampakkhandhana-lakkhaṇā* (Leaping forward characteristic): It acts like a courageous commander who leaps across a dangerous stream to lead troops safely across, inspiring the other spiritual faculties to exert themselves.
 
 Saddhā serves as the first of the five spiritual faculties (*[indriya](/glossary/indriya/)*) and spiritual powers (*[bala](/glossary/bala/)*). It must be balanced perfectly with wisdom (*[paññā](/glossary/panna/)*) to prevent sliding into naive devotion, just as concentration must be balanced with energy.
+
+### Quote
+> **sampakkhandanalakkhaṇā ca, mahārāja, saddhā sampasādanalakkhaṇā cā’’ti (mi. pa. 2.1.10) hi vacanato idaṃ saddhāya lakkhaṇaṃ nāma.**  
+> "Indeed, this is the characteristic of faith, as it is said: 'Faith, great king, has the characteristic of leaping forth and the characteristic of serene clarity.'"  
+> 
+> — *Pañcakādinipātaaṭṭhakathā*
+
+> **sā panesā sampasādanalakkhaṇā ca saddhā sampakkhandanalakkhaṇā ca.**  
+> "Faith itself is a faculty, hence faculty of faith (*saddhindriyaṃ*). This faith has the characteristic of clarifying (*sampasādana*) and the characteristic of leaping forward (*sampakkhandana*)."  
+> 
+> — *Dhammasaṅgaṇīaṭṭhakathā*
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Cṅkī Sutta* (MN 95) – Exploring the critical distinction between merely preserving an inherited belief and actually discovering and realizing ultimate truth.

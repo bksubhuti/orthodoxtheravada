@@ -8,6 +8,9 @@ cross_links: ["magga", "sila", "pancasila", "virati"]
 canonical_texts: ["Majjhima Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Atthasalini"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Sammākammanta**: [m.] Right Action; Correct Bodily Conduct. Formed by *sammā* (correctly) + *kammanta* (action, business, execution). 
 
@@ -20,6 +23,15 @@ The path defines Right Action through three primary modes of abstinence:
 3. Abstaining from sexual misconduct and unrighteous bodily sensuality (*kāmesumicchācārā*).
 
 The commentaries clarify that true *Sammākammanta* is not merely the passive absence of doing bad; it is the active, deliberate presence of the wholesome intention to abstain (*[virati](/glossary/virati/)-cetanā*) when an opportunity for transgression presents itself. At the supramundane level, it cuts the capacity for unwholesome physical choices out of the character permanently.
+
+### Quote
+> **‘‘katamo ca, bhikkhave, sammākammanto?**  
+> "And what, bhikkhus, is right action?"  
+> 
+> **pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesumicchācārā veramaṇī, ayaṃ vuccati, bhikkhave, sammākammanto.**  
+> "Abstinence from taking life, abstinence from taking what is not given, abstinence from sexual misconduct; this, bhikkhus, is called right action."  
+> 
+> — *Mahāsatipaṭṭhānasuttaṃ* (DN 22)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Cunda Kammarāputta Sutta* (AN 10.176) – Detailed canonical contrast comparing clean, righteous physical deeds against the stained, bloody actions of unvirtuous persons.

@@ -8,6 +8,9 @@ cross_links: ["magga", "sila", "virati", "bhikkhu"]
 canonical_texts: ["Anguttara Nikaya", "Majjhima Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Sammohavinodani"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Sammāājīva**: [m.] Right Livelihood; Correct Way of Living. Formed by *sammā* (correctly) + *ājīva* (livelihood, means of support, subsistence).
 
@@ -22,6 +25,21 @@ For lay disciples, the Buddha isolated **five specific toxic trades** that must 
 5. Trading in poisons (*visa-vaṇijjā*).
 
 For monastics (*bhikkhus*), Right Livelihood is defined through the strict parameters of the [Vinaya](/glossary/vinaya/) code, prohibiting wrong ways of acquiring requisites—such as hypocrisy, flattery, hinting, hinting for gifts, or practicing low arts like astrology or fortune-telling for gain. It is driven by the abstinence factor *sammā-ājīva-[virati](/glossary/virati/)*.
+
+### Quote
+> **7. vaṇijjāsuttaṃ**  
+> "7. The Discourse on Trade"  
+> 
+> **177. ‘‘pañcimā, bhikkhave, vaṇijjā upāsakena akaraṇīyā.**  
+> "177. 'Monks, these five trades should not be engaged in by a lay follower.'"  
+> 
+> **katamā pañca?**  
+> "Which five?"  
+> 
+> **satthavaṇijjā, sattavaṇijjā, maṃsavaṇijjā, majjavaṇijjā, visavaṇijjā – imā kho, bhikkhave, pañca vaṇijjā upāsakena akaraṇīyā’’ti.**  
+> "Trade in weapons, trade in living beings, trade in meat, trade in intoxicants, and trade in poison—these five trades, monks, should not be engaged in by a lay follower."  
+> 
+> — *Pañcakanipātapāḷi* (AN 5.177)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Vanijja Sutta* (AN 5.177) – The concise canonical source listing the five illegal trades for lay practitioners.
