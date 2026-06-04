@@ -10,6 +10,27 @@ Note: We are actively reviewing our 300 entries. Definitions marked with "Verifi
 
 <div class="glossary-index">
   {% assign sorted_terms = site.terms | sort: "title" %}
+
+  {% comment %}--- Build unique letter list for jump-bar ---{% endcomment %}
+  {% assign all_letters = "" %}
+  {% for term in sorted_terms %}
+    {% capture fl %}{{ term.title | truncate: 1, "" | upcase }}{% endcapture %}
+    {% unless all_letters contains fl %}
+      {% if all_letters == "" %}
+        {% assign all_letters = fl %}
+      {% else %}
+        {% assign all_letters = all_letters | append: "," | append: fl %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+  {% assign letter_array = all_letters | split: "," %}
+
+  <nav class="glossary-letter-bar" aria-label="Jump to letter">
+    {% for letter in letter_array %}
+      <a href="#{{ letter }}" class="glossary-letter-link">{{ letter }}</a>
+    {% endfor %}
+  </nav>
+
   {% assign current_letter = "" %}
 
   {% for term in sorted_terms %}
@@ -25,9 +46,9 @@ Note: We are actively reviewing our 300 entries. Definitions marked with "Verifi
     {% endif %}
     
     {% assign stripped_content = term.content | strip_html | strip %}
-    {% assign first_word = stripped_content | truncatewords: 1, "" %}
+    {% assign check_start = stripped_content | truncate: 10, "" %}
     <a href="{{ term.url | relative_url }}" class="ot-index-card">
-      <strong class="ot-index-card__title">{{ term.title }}{% if first_word == "Verified" %} ✔️{% endif %}</strong>
+      <strong class="ot-index-card__title">{{ term.title }}{% if check_start contains "Verified" %} ✔️{% endif %}</strong>
       {% if term.pali_spelling %}
         <span class="ot-index-card__subtitle">({{ term.pali_spelling }})</span>
       {% endif %}
