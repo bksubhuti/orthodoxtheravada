@@ -5,8 +5,7 @@ permalink: /glossary/
 author_profile: false
 ---
 
-Here you will find detailed definitions and textual references for key Pāḷi terms and doctrinal concepts.
-Note: We are actively reviewing our 300 entries. Definitions marked with "Verified" inside the entry have been checked against the Pāli canon and often have quoted material to support the term given.
+We are actively reviewing our 300 entries. Definitions marked with "Verified" inside the entry have been checked against the Pāli canon and often have quoted material to support the term given.
 
 <div class="glossary-index">
   {% assign sorted_terms = site.terms | sort: "title" %}
