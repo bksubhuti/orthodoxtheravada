@@ -8,6 +8,9 @@ cross_links: ["citta", "mano", "khandha", "namarupa", "paticcasamuppada"]
 canonical_texts: ["Majjhima Nikaya", "Samyutta Nikaya", "Dhammasangani"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Viññāṇa**: [nt.] consciousness; discriminative awareness; cognition. Formed by prefix *vi* (divided, distinct, separate) + root *ñā* (to know). Literally means "divided knowing" or "knowing analytically through differentiation."
 
@@ -24,7 +27,13 @@ The Buddha formalized its architecture into **six distinct operational pathways*
 
 The orthodox tradition strictly rejects the heresy that viññāṇa is a permanent, transmigrating soul or unchanging self that drifts from life to life. Viññāṇa is completely conditioned, flashing into existence and dissolving away instantly based on the collision of a functioning sense organ and its respective external object.
 
+### Quote
+> **vijānanalakkhaṇaṃ viññāṇaṃ, pubbaṅgamamantarasaṃ, paṭisandhipaccupaṭṭhānaṃ, saṅkhārapadaṭṭhānaṃ, vatthārammaṇapadaṭṭhānaṃ vā.**  
+> "Consciousness (viññāṇaṃ) has the characteristic of knowing (vijānana); its function is to precede (pubbaṅgama); it manifests as rebirth-linking (paṭisandhi); its proximate cause is formations (saṅkhāra), or it is bases and objects (vatthārammaṇa)."  
+> 
+> — *Visuddhimagga (Chapter XIV)*
+
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Mahātaṇhāsaṅkhaya Sutta* (MN 38) – The critical discourse where the Buddha severely rebukes the monk Sāti for holding the heretical view that consciousness transmigrates without change.
 * **Canonical**: *Samyutta Nikaya* (Viññāṇa-saṃyutta).
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Thorough systemic classification of the modes of consciousness.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Defining the characteristic, function, manifestation, and proximate cause of consciousness.

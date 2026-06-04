@@ -8,6 +8,9 @@ cross_links: ["anicca", "khandha", "paticcasamuppada", "cetana", "kamma"]
 canonical_texts: ["Samyutta Nikaya", "Digha Nikaya", "Dhammapada"]
 commentaries: ["Visuddhimagga", "Atthasalini"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Saṅkhāra**: [m.] conditioned thing; formation; mental concoction; volitional construction. Formed by prefix *saṃ* (together) + root *kar* (to do, make). Literally means "that which is put together" or "making together."
 
@@ -20,7 +23,14 @@ commentaries: ["Visuddhimagga", "Atthasalini"]
 
 It represents the active force of synthesis and construction that keeps the illusion of [saṃsāra](/glossary/samsara/) rolling onward.
 
+### Quote
+> **abhisaṅkharaṇalakkhaṇā saṅkhārā, āyūhanarasā, cetanāpaccupaṭṭhānā, avijjāpadaṭṭhānā.**  
+> "Formations (saṅkhārā) have the characteristic of fashioning (abhisaṅkharaṇa); their function is accumulation (āyūhana); they manifest as volition (cetanā); their proximate cause is ignorance (avijjā)."  
+> 
+> — *Visuddhimagga (Chapter XVII)*
+
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Khajjhanīya Sutta* (SN 22.79) – Where the Buddha defines the fourth aggregate as that which constructs conditioned realities.
 * **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (v. 277) – Explaining the universal impermanence of all formations.
 * **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* (Exposition on the mental factors composing the saṅkhārakkhandha).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVII) – Detailed explanation of formations in the context of dependent origination.
