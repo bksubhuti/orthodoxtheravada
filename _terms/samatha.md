@@ -8,6 +8,9 @@ cross_links: ["samadhi", "jhana", "vipassana", "nivarana"]
 canonical_texts: ["Anguttara Nikaya", "Digha Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Samatha**: [m.] tranquility; calm; quietude; serenity. From root *sam* (to quiet, appease, check, pacify). 
 
@@ -18,7 +21,21 @@ Samatha works by binding the attention to a single, static conceptual object (*p
 
 The commentaries place massive emphasis on the fact that *samatha* alone cannot produce liberation. It acts as an exceptionally powerful mental cleanser and stabilizer, creating a pristine, luminous laboratory of mind. Once stilled, this concentrated mind must be deployed to execute *[vipassanā](/glossary/vipassana/)* (insight) to permanently dismantle the latent defilements.
 
+### Quote
+> **parikammassa nimittaṃ ārammaṇattāti parikammanimittaṃ, kasiṇamaṇḍalādi.**  
+> "The sign which is the object of preparatory practice is called preparatory sign (parikammanimitta), such as an earth-kasiṇa disk."  
+> 
+> **tadeva cakkhunā diṭṭhaṃ viya manasā uggahetabbaṃ nimittaṃ, uggaṇhantassa vā nimittanti uggahanimittaṃ.**  
+> "That same sign, to be grasped by the mind as if seen by the eye, or the sign for one who grasps it, is called grasping sign (uggahanimitta)."  
+> 
+> **tappaṭibhāgaṃ vaṇṇādikasiṇadosarahitaṃ nimittaṃ upacārappanānaṃ ārammaṇattāti paṭibhāganimittaṃ.**  
+> "The counter-part sign (paṭibhāganimitta) is similar to the grasping sign, free from kasiṇa faults such as color, etc., and is the object of access and absorption."  
+> 
+> — *Abhidhammatthasaṅgaha* (Chapter IX, Nimittabhedavaṇṇanā)
+
+
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Samaññaphala Sutta* (DN 2) – Illustrating the sequential calming of the mind through monastic restraint and samatha practice.
 * **Canonical**: *[Puggalapaññatti](/glossary/puggalapannatti/)* (Categorization of practitioners who develop calm vs. insight).
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapters III through XI) – The definitive manual on the forty traditional objects of samatha practice.
+* **Textual**: *Abhidhammatthasaṅgaha* (Chapter IX) – Defining the three signs of meditation (preparatory, grasping, and counterpart signs).
