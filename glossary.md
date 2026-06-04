@@ -5,7 +5,16 @@ permalink: /glossary/
 author_profile: false
 ---
 
-We are actively reviewing our 300 entries. Definitions marked with "Verified" inside the entry have been checked against the Pāli canon and often have quoted material to support the term given.
+{% assign verified_count = 0 %}
+{% for term in site.terms %}
+  {% assign stripped_content = term.content | strip_html | strip %}
+  {% assign check_start = stripped_content | truncate: 10, "" %}
+  {% if check_start contains "Verified" %}
+    {% assign verified_count = verified_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+ **{{ verified_count }} out of {{ site.terms.size }}** are verified. Verified entries are marked.
 
 <div class="glossary-index">
   {% assign sorted_terms = site.terms | sort: "title" %}
