@@ -8,7 +8,9 @@ cross_links: ["sangha", "samyojana", "sakkayaditthi", "vicikiccha", "arahat"]
 canonical_texts: ["Samyutta Nikaya", "Anguttara Nikaya", "Suttanipata"]
 commentaries: ["Visuddhimagga", "Saratthappakasini"]
 ---
-verified
+
+Verified
+
 ### Grammatical Analysis
 **Sotāpanna**: [m.; f.] a stream-enterer. Formed by *sota* (stream, current) + *āpanna* (entered, gone into). It signifies one who has stepped irreversibly into the current of the Noble Eightfold Path that flows straight to the ocean of *Nibbāna*.
 
