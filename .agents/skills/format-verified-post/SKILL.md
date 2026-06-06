@@ -10,7 +10,7 @@ Use this skill when the user asks to format a verified term, when a new term is 
 ## Verification Checklist
 
 1. **Add the Verified Tag**
-   - Place a blank line and the word `Verified` on its own line immediately following the front matter closing fence (`---`):
+   - Place the word `Verified` on its own line with a blank line both before and after it, immediately following the front matter closing fence (`---`):
      ```markdown
      ---
      layout: single
@@ -18,6 +18,7 @@ Use this skill when the user asks to format a verified term, when a new term is 
      ---
 
      Verified
+
      ### Grammatical Analysis
      ```
 

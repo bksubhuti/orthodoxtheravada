@@ -8,6 +8,8 @@ cross_links: ["vassa", "uposatha", "sangha"]
 canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
+
+Verified
 ### Grammatical Analysis
 **Pavāraṇā**: [f.] Invitation; the ceremony at the end of the rains retreat. From *pavāreti* (to invite, offer, give choice).
 
@@ -18,6 +20,27 @@ Having lived closely together for three months, friction is inevitable. To ensur
 
 The standard formula is: *"Venerable friends, I invite the [Saṅgha](/glossary/sangha/). If you have seen, heard, or suspected any offense by me, out of compassion, please tell me. Seeing it, I will make amends."* It is the ultimate exercise in monastic humility and transparency.
 
+### Quote
+> **Navakena bhikkhunā ekaṃsaṃ uttarāsaṅgaṃ karitvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo – ‘‘saṅghaṃ, bhante, pavāremi diṭṭhena vā sutena vā parisaṅkāya vā.**  
+> The junior [bhikkhu](/glossary/bhikkhu/), having arranged his upper robe over one shoulder, sat on his haunches, clasped his hands in salutation, and should be addressed thus: "Venerable Sirs, I invite the Saṅgha by what was seen, by what was heard, or by what was suspected.  
+> 
+> **Vadantu maṃ āyasmanto anukampaṃ upādāya.**  
+> May the Venerable Ones speak to me out of compassion.  
+> 
+> **Passanto paṭikarissāmi.**  
+> If I see (an offense), I will rectify it.  
+> 
+> **Dutiyampi, bhante, saṅghaṃ…pe… tatiyampi, bhante, saṅghaṃ pavāremi diṭṭhena vā sutena vā parisaṅkāya vā.**  
+> A second time, Venerable Sirs, I invite the Saṅgha... (as before) ...a third time, Venerable Sirs, I invite the Saṅgha by what was seen, by what was heard, or by what was suspected.  
+> 
+> **Vadantu maṃ āyasmanto anukampaṃ upādāya.**  
+> May the Venerable Ones speak to me out of compassion.  
+> 
+> **Passanto paṭikarissāmī’’ti.**  
+> If I see (an offense), I will rectify it."  
+> 
+> — [Mahāvagga](/glossary/mahavagga/) (Pavāraṇākkhandhaka)
+
 ### Textual References
-* **[Vinaya](/glossary/vinaya/)**: *[Mahāvagga](/glossary/mahavagga/)* (Pavāraṇākkhandhaka) – The legal structure of the invitation ceremony.
+* **[Vinaya](/glossary/vinaya/)**: *Mahāvagga* (Pavāraṇākkhandhaka) – The legal structure of the invitation ceremony.
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Instructions on how to manage the ceremony if a monk is sick or if there is a dispute within the [Saṅgha](/glossary/sangha/).
