@@ -8,6 +8,9 @@ cross_links: ["nevasannanasannayatana", "arahat", "anagami", "sannavedayitanirod
 canonical_texts: ["Majjhima Nikaya", "Samyutta Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Nirodhasamāpatti**: [f.] the attainment of cessation. Formed by *nirodha* (cessation, stopping) + *samāpatti* (attainment, meditative entry). 
 
@@ -16,7 +19,21 @@ commentaries: ["Visuddhimagga"]
 
 This state is completely inaccessible to worldlings (*[puthujjana](/glossary/puthujjana/)*), Stream-enterers, or Once-Returners. It can **only** be attained by Non-Returners (*[Anāgāmī](/glossary/anagami/)*) and Arahats who have also perfectly mastered all eight worldly jhānas. 
 
-To enter it, the master ascends through the eight jhānas sequentially, resolving to suspend consciousness. Upon emerging from the Base of Neither-Perception-Nor-Non-Perception, the mind-stream completely halts for up to seven days. During this time, breathing stops, the heartbeat slows to an imperceptible crawl, and the body is sustained purely by the physical life faculty (*rūpa-jīvitindriya*) and thermal heat. The body cannot be destroyed by fire, water, or weapons while in this state.
+To enter it, the master ascends through the eight jhānas sequentially, resolving to suspend consciousness. Upon emerging from the Base of Neither-Perception-Nor-Non-Perception, the mind-stream completely halts for up to seven days. During this time, breathing stops, and the body is sustained purely by the physical life faculty (*rūpa-jīvitindriya*) and thermal heat. The body cannot be destroyed by fire, water, or weapons while in this state.
+### Quote
+> **‘‘Yvāyaṃ, āvuso, mato kālaṅkato, yo cāyaṃ [bhikkhu](/glossary/bhikkhu/) saññāvedayitanirodhaṃ samāpanno – imesaṃ kiṃ nānākaraṇa’’nti?**  
+> “What is the difference, friend, between this one who is dead, who has passed away, and that bhikkhu who has attained the cessation of perception and feeling?”  
+> 
+> **‘‘Yvāyaṃ, āvuso, mato kālaṅkato tassa kāyasaṅkhārā niruddhā paṭippassaddhā, vacīsaṅkhārā niruddhā paṭippassaddhā, cittasaṅkhārā niruddhā paṭippassaddhā, āyu parikkhīṇo, usmā vūpasantā, indriyāni paribhinnāni.**  
+> “Friend, for one who is dead, deceased, their bodily formations have ceased and are stilled, their verbal formations have ceased and are stilled, their mental formations have ceased and are stilled, their life span is exhausted, their warmth has subsided, and their faculties are utterly broken.  
+> 
+> **Yo cāyaṃ bhikkhu saññāvedayitanirodhaṃ samāpanno tassapi kāyasaṅkhārā niruddhā paṭippassaddhā, vacīsaṅkhārā niruddhā paṭippassaddhā, cittasaṅkhārā niruddhā paṭippassaddhā, āyu na parikkhīṇo, usmā avūpasantā, indriyāni vippasannāni.**  
+> But for this bhikkhu who has entered the cessation of perception and feeling ([saññāvedayitanirodha](/glossary/sannavedayitanirodha/)), their bodily formations have ceased and are stilled, their verbal formations have ceased and are stilled, their mental formations have ceased and are stilled, their life span is not exhausted, their warmth has not subsided, and their faculties are exceptionally clear.  
+> 
+> **Yvāyaṃ, āvuso, mato kālaṅkato, yo cāyaṃ bhikkhu saññāvedayitanirodhaṃ samāpanno – idaṃ nesaṃ nānākaraṇa’’nti.**  
+> Friend, this is the distinction between one who is dead, deceased, and this bhikkhu who has entered the cessation of perception and feeling.  
+> 
+> — *Mahāvedalla Sutta* (MN 43)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Mahāvedalla Sutta* (MN 43) – Explaining the difference between a dead body (which lacks vitality, heat, and consciousness) and a monk in cessation (who lacks consciousness, but retains vitality and heat).

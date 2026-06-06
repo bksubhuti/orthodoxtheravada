@@ -26,7 +26,7 @@ Use this skill when the user asks to format a verified term, when a new term is 
    - Place quotes under a `### Quote` heading.
    - Use standard markdown blockquotes (`> `).
    - Format Pali/English quote pairs as follows:
-     - **Pāḷi line**: Entirely bolded (`**Pāli text**`), beginning with a capital letter.
+     - **Pāḷi line**: Entirely bolded (`**Pāli text**`), beginning with a capital letter and ending with two spaces to force a line break.
      - **English line**: Plain text on the very next line, beginning with a capital letter.
      - Separate different quote pairs with a blank blockquote line (`> `).
      - End the quote section with a blank blockquote line and an em-dash citation: `> — *Source* (Details)` or `> — [Link Text](/glossary/slug/) (Details)`.
