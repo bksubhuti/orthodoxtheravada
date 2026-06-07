@@ -88,6 +88,8 @@ defaults:
       layout: single
       author_profile: false
       breadcrumbs: true
+      toc: true
+      toc_sticky: true
       header:
         overlay_color: "#4d2015"
         overlay_logo: /images/Orthodox_theravada_logo_trans.png
