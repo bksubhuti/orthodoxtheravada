@@ -9,7 +9,8 @@ canonical_texts: ["Patthana"]
 commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ---
 
-verified 
+Verified
+
 ### Grammatical Analysis
 **Cuticitta**: [nt.] death-consciousness; shifting consciousness; the final mind-moment. Formed by *cuti* (falling away, shifting, passing, dying) + *citta* (consciousness). 
 
@@ -25,7 +26,28 @@ The sequence of death operates strictly as follows:
 
 For an [Arahat](/glossary/arahat/), the *Cuti-citta* flashes and vanishes, but because the fuel of craving is gone, no *[paṭisandhi](/glossary/patisandhi/)* follows it. This is the exact moment of *Anupādisesa-nibbāna*.
 
+### Quote
+> **625. Sugatiyaṃ ṭhitassa pana upacitānavajjakammassa ‘‘tānissa tasmiṃ samaye olambantī’’tiādivacanato maraṇamañce nipannassa yathūpacitaṃ anavajjakammaṃ vā kammanimittaṃ vā manodvāre āpāthamāgacchati.**  
+> Furthermore, for a being situated in a good destiny who has accumulated blameless kamma, his accumulated blameless kamma or a kamma-sign appears at the mind-door as he lies on his deathbed, as stated in the saying, "Those (kamma) cling to him at that time."  
+> 
+> **Tañca kho upacitakāmāvacarānavajjakammasseva.**  
+> And that, indeed, refers only to a person with accumulated sensuous-sphere blameless kamma.  
+> 
+> **Upacitamahaggatakammassa pana kammanimittameva āpāthamāgacchati.**  
+> For a being with accumulated exalted kamma, only a kamma-sign appears.  
+> 
+> **Taṃ ārabbha uppannāya tadārammaṇapariyosānāya suddhāya vā javanavīthiyā anantaraṃ bhavaṅgavisayaṃ ārammaṇaṃ katvā cuticittaṃ uppajjati.**  
+> Immediately after the javanavīthi, which arose with that as its object and ended with tadārammaṇa, or a pure javanavīthi, the death-consciousness arises, taking a bhavanga-object.  
+> 
+> **Tasmiṃ niruddhe tameva āpāthagataṃ kammaṃ vā kammanimittaṃ vā ārabbha anupacchinnakilesabalavināmitaṃ sugatipariyāpannaṃ paṭisandhicittaṃ uppajjati.**  
+> When that death-consciousness ceases, the rebirth-linking consciousness belonging to a good destiny, propelled by the force of uneradicated defilements, arises, taking that very kamma or kamma-sign which appeared as its object.  
+> 
+> **Ayaṃ atītārammaṇāya cutiyā anantarā atītārammaṇā vā navattabbārammaṇā vā paṭisandhi.**  
+> This is a rebirth-linking with a past object or a not-to-be-designated object, immediately after a death-consciousness with a past object.  
+> 
+> — [Visuddhimagga](/glossary/visuddhimagga/) (du)
+
 ### Textual References
 * **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – Charting the contiguity condition (*[samanantara-paccaya](/glossary/samanantara-paccaya/)*) between death and rebirth.
-* **Textual**: *Abhidhammattha-saṅgaha* (Chapter V: *Vīthimutta-saṅgaha*) – Precise mechanical breakdown of the four causes of death and the arising of the death-consciousness.
+* **Textual**: *[Abhidhammattha-saṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter V: *Vīthimutta-saṅgaha*) – Precise mechanical breakdown of the four causes of death and the arising of the death-consciousness.
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – The structural definitions separating the functional ending of the life-stream from the popular concept of a "soul departing."
