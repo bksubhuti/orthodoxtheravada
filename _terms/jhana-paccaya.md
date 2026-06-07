@@ -32,7 +32,7 @@ The texts clarify that these structural components function through deep contemp
 > **domanassañcettha akusalajhānaṅgaṃ, sesāni kusalākusalābyākatajhānaṅgāni.**  
 > Here, mental pain (*domanassa*) is an unwholesome jhāna factor; the rest (*vitakka*, and so on) are wholesome, unwholesome, and indeterminate jhāna factors.  
 > 
-> — *Abhidhammatthasaṅgaha*
+> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)*
 
 ### Textual References
 * **Compendium**: *Abhidhammatthasaṅgaha* – Outlining the structural, mechanical definition of absorption components utilizing the military army and chariot similes.
