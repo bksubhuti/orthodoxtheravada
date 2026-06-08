@@ -8,6 +8,9 @@ cross_links: ["vinnana", "mano", "cetasika", "khandha"]
 canonical_texts: ["Dhammasangani", "Samyutta Nikaya", "Dhammapada"]
 commentaries: ["Atthasalini"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Citta**: [nt.] consciousness; mind; mind-moment; flash of awareness. From root *cit* (to cognize, think). The commentaries derive it from two meanings: *cinteti* (that which cognizes an object) and *cinoti* (that which accumulates its own alternating states).
 
@@ -17,6 +20,12 @@ commentaries: ["Atthasalini"]
 A citta never arises in isolation; it is always accompanied by a cluster of mental factors (*[cetasika](/glossary/cetasika/)*) that color it ethically. Citta acts like pure, transparent water, while the cetasikas act like colored dyes (greed, wisdom, anger) added to it. 
 
 The Abhidhamma taxonomizes **89 or 121 distinct types of citta**, mapped systematically according to their plane of existence (sensual, fine-material, immaterial, or supramundane) and their ethical quality (wholesome, unwholesome, resultant, or purely functional).
+
+### Quote
+> **Manāyatanaṃ kusalākusalavipākakiriyaviññāṇabhedena ekūnanavutippabhedaṃ ekavīsuttarasatappabhedañca.**  
+> The mind-āyatana has eighty-nine variations by way of wholesome, unwholesome, resultant, and functional consciousnesses, and one hundred and twenty-one variations.  
+> 
+> — *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XV)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Citta Sutta* (SN 1.62) – "The world is led around by the mind, swept away by the mind..."

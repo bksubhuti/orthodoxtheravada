@@ -18,6 +18,14 @@ It consists of **423 verses** arranged into 26 thematic chapters (such as The Ch
 
 For centuries in Theravāda countries, novice monks have been required to memorize the entire *Dhammapada* before receiving higher ordination, as it serves as a flawless, portable guide to the holy life.
 
+manopubbaṅgamā dhammā, manoseṭṭhā manomayā; 
+Mind precedes all mental states. Mind is their chief; they are mind-made. 
+ manasā ce paduṭṭhena, bhāsati vā karoti vā; 
+If one speaks or acts with a corrupt mind, 
+ tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ. 
+Thence suffering follows him, as the wheel follows the hoof of the ox. 
+ dhp 1
+
 ### Textual References
 * **Canonical**: Verse 1 – "Mind precedes all mental states. Mind is their chief; they are all mind-wrought..."
 * **Canonical**: Verse 183 – The summary of the entire teaching: "To avoid all evil, to cultivate good, and to cleanse one's mind—this is the teaching of the Buddhas."

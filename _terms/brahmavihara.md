@@ -8,6 +8,9 @@ cross_links: ["metta", "karuna", "mudita", "upekkha", "samatha", "jhana"]
 canonical_texts: ["Digha Nikaya", "Anguttara Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Brahmavihāra**: [m.] divine abodes; sublime states; boundless states. Formed by *Brahma* (sublime, divine, highest) + *vihāra* (dwelling, living, state of being). Literally means "dwelling in the highest, most sublime manner."
 
@@ -21,6 +24,21 @@ The four states are:
 4. *[Upekkhā](/glossary/upekkha/)* (Equanimity): The unshakeable neutrality of mind that views all beings impartially through the understanding of the law of [kamma](/glossary/kamma/). Counteracts resentment and anxiety.
 
 Cultivating these states systematically through *[samatha](/glossary/samatha/)* practice can elevate the mind to secure the first three *jhānas* (for [Mettā](/glossary/metta/), [Karuṇā](/glossary/karuna/), and [Muditā](/glossary/mudita/)) and the fourth *[jhāna](/glossary/jhana/)* (exclusively for [Upekkhā](/glossary/upekkha/)).
+
+### Quote
+> **Jhānappabhedatoti appanāvahesu cettha ānāpānassatiyā saddhiṃ dasa kasiṇā catukkajjhānikā honti.**  
+> By way of jhāna-divisions: Among these meditation subjects productive of absorption, the ten kasiṇas, together with mindfulness of breathing, are associated with the four jhānas.  
+> 
+> **Kāyagatāsatiyā saddhiṃ dasa asubhā paṭhamajjhānikā.**  
+> The ten asubhas, together with mindfulness of the body, are associated with the first jhāna.  
+> 
+> **Purimā tayo brahmavihārā tikajjhānikā.**  
+> The first three brahmavihāras are associated with the three jhānas.  
+> 
+> **Catutthabrahmavihāro cattāro ca āruppā catutthajjhānikāti evaṃ jhānappabhedato.**  
+> The fourth brahmavihāra and the four āruppas are associated with the fourth jhāna. Thus, by way of jhāna-divisions.  
+> 
+> — *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter III)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Tevijja Sutta* (DN 13) – Where the Buddha details the radiation of the brahmavihāras to all directions as the true path to union with Great [Brahma](/glossary/brahma/).
