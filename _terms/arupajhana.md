@@ -8,6 +8,9 @@ cross_links: ["jhana", "akasananayatana", "vinnanancayatana", "akincannayatana",
 canonical_texts: ["Majjhima Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Arūpajhāna**: [nt.] immaterial absorption; formless attainment. Formed by *arūpa* (formless, immaterial) + *[jhāna](/glossary/jhana/)* (meditative absorption).
 
@@ -23,6 +26,11 @@ The four immaterial states are:
 4. The Base of Neither-Perception-Nor-Non-Perception (*[Nevasaññānāsaññāyatana](/glossary/nevasannanasannayatana/)*).
 
 Because they share the exact same mental factors as the fourth fine-material [jhāna](/glossary/jhana/) (equanimity and one-pointedness), the [Abhidhamma](/glossary/abhidhamma/) technically categorizes them simply as refined variants of the fourth [jhāna](/glossary/jhana/).
+### Quote
+> **‘‘Ākāsānañcāyatanaṃ, viññāṇañcāyatanaṃ, ākiñcaññāyatanaṃ, nevasaññānāsaññāyatananti ime cattāro āruppā.**  
+> “These are the four āruppas: the sphere of infinite space, the sphere of infinite consciousness, the sphere of nothingness, and the sphere of neither perception nor non-perception.”  
+> 
+> — [Visuddhimagga](/glossary/visuddhimagga/) (pa)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Ariyapariyesanā Sutta* (MN 26) – The Buddha detailing how he mastered these specific states under his former teachers, Āḷāra Kālāma and Uddaka Rāmaputta, before realizing they do not lead to [Nibbāna](/glossary/nibbana/).

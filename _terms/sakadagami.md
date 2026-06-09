@@ -8,6 +8,9 @@ cross_links: ["sotapanna", "anagami", "arahat", "samyojana", "kamaraga", "patigh
 canonical_texts: ["Anguttara Nikaya", "Puggalapannatti"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Sakadāgāmī**: [m.; f.] Once-Returner. Formed by *sakiṃ* (once) + *āgāmī* (one who returns). Signifies a noble individual who will return to the human or sensual world only one more time before achieving total liberation.
 
@@ -19,6 +22,11 @@ Unlike the first, third, and fourth stages of awakening, the attainment of a Onc
 * *[Paṭigha](/glossary/patigha/)* (Aversion/Ill-will)
 
 The mind of a Sakadāgāmī is exceptionally pure; while subtle attachments and passing moments of irritation may still arise, they lack the strength to trigger unwholesome actions. If a Once-Returner dies without attaining higher stages in that life, they are reborn exactly once more in the human world or a heavenly sensuous realm (*kāmaloka*), where they are guaranteed to bring the path to its absolute conclusion.
+### Quote
+> **‘‘Sakadāgāmimaggakkhaṇe dassanaṭṭhena [sammādiṭṭhi](/glossary/sammaditthi/)…pe… avikkhepaṭṭhena [sammāsamādhi](/glossary/sammasamadhi/) oḷārikā kāmarāgasaṃyojanā paṭighasaṃyojanā oḷārikā kāmarāgānusayā paṭighānusayā vuṭṭhāti…pe….**  
+> “At the moment of the once-return path (sakadāgāmi-magga), right view, by way of seeing... right concentration, by way of non-distraction, arises from gross sensual passion fetters (oḷārikā kāmarāga-saṃyojanā), gross aversion fetters (paṭigha-saṃyojanā), gross underlying tendencies of sensual passion (oḷārikā kāmarāgānusayā), and gross underlying tendencies of aversion (paṭighānusayā)...”  
+> 
+> — [Visuddhimagga](/glossary/visuddhimagga/) (du)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Mahāli Sutta* (DN 6) – Where the Buddha defines the stages of Once-Returner and their spiritual parameters.

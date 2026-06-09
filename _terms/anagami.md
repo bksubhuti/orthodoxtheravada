@@ -8,6 +8,9 @@ cross_links: ["sakadagami", "arahat", "samyojana", "kamaraga", "patigha", "suddh
 canonical_texts: ["Majjhima Nikaya", "Puggalapannatti"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Anāgāmī**: [m.; f.] Non-Returner. Formed by negative prefix *an* (not) + *āgāmī* (one who returns). Signifies an individual who will never again return to the sensual sphere of existence.
 
@@ -24,6 +27,12 @@ The Anāgāmī completely eradicates:
 Because sensual lust and aversion are entirely uprooted, an Anāgāmī can never experience sexual desire, romantic attachment, physical attraction, fear, worry, irritation, or anger under any circumstance. 
 
 Upon passing away, an Anāgāmī is reborn exclusively in the highest [Brahma](/glossary/brahma/) realms known as the Pure Abodes (*Suddhāvāsa*). From there, they practice onward to attain Arahatship and final *[parinibbāna](/glossary/parinibbana/)*, without ever touching the human realm again.
+
+### Quote
+> **‘‘Anāgāmimaggakkhaṇe dassanaṭṭhena [sammādiṭṭhi](/glossary/sammaditthi/)…pe… avikkhepaṭṭhena [sammāsamādhi](/glossary/sammasamadhi/) anusahagatā kāmarāgasaṃyojanā paṭighasaṃyojanā anusahagatā kāmarāgānusayā paṭighānusayā vuṭṭhāti…pe….**  
+> “At the moment of the non-return path (anāgāmi-magga), right view, by way of seeing... right concentration, by way of non-distraction, arises from subtle sensual passion fetters (anusahagatā kāmarāga-saṃyojanā), subtle aversion fetters (paṭigha-saṃyojanā), subtle underlying tendencies of sensual passion (anusahagatā kāmarāgānusayā), and subtle underlying tendencies of aversion (paṭighānusayā)...”  
+> 
+> — [Visuddhimagga](/glossary/visuddhimagga/) (du)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Mahāvacchagotta Sutta* (MN 73) – Where the Buddha details the absolute freedom of the Non-Returner from sensual defilements.
