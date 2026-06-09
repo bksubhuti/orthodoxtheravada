@@ -25,5 +25,5 @@ A novice monk (*[Sāmaṇera](/glossary/samanera/)*) trains in the fundamental e
 11. **Vaccakuṭivatta** - Duties in the latrine: Etiquette, cleaning, and hygiene at the toilets.
 
 ### Textual References
-* **Canonical**: *[Cullavagga](/glossary/cullavagga/)* ([Vinaya](/glossary/vinaya/) Piṭaka) – The Buddha exhaustively details these protocols to rectify instances of careless behavior among the monastics.
+* **Canonical**: *[Cūḷavagga](/glossary/culavagga/)* ([Vinaya](/glossary/vinaya/) Piṭaka) – The Buddha exhaustively details these protocols to rectify instances of careless behavior among the monastics.
 * **Commentarial**: *Vinayasangaha Commentary* (p. 223) – Clarifies the specific determination of duties towards the Upajjhāya and others, listing these eleven kinds of duties.

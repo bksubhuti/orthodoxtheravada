@@ -30,6 +30,6 @@ The rules are quite restrictive, and a bhikkhunī commits a saṅghādisesa rule
 
 ### Textual References
 * **Vinaya**: *Pācittiyapāḷi* (Bhikkhunī Vibhaṅga, Saṅghādisesa 3) – The rule detailing the saṅghādisesa offense for a bhikkhunī who travels, crosses a river, spends the night, or lags behind a group alone.
-* **Vinaya**: *[Cullavagga](/glossary/cullavagga/)* (Bhikkhunīkhandhaka) – The historical account of Ānanda's intercession and the founding of the nun's order.
+* **Vinaya**: *[Cūḷavagga](/glossary/culavagga/)* (Bhikkhunīkhandhaka) – The historical account of Ānanda's intercession and the founding of the nun's order.
 * **Canonical**: *[Therīgāthā](/glossary/therigatha/)* – The verses of the elder nuns, testifying to their supreme spiritual attainments.
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – The detailed legal framework governing the dual-ordination process.

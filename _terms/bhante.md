@@ -38,5 +38,5 @@ He established that while senior monks could continue to address junior monks by
 
 ### Textual References
 * **Sutta**: *Mahāparinibbāna Sutta* (DN 16) – The exact textual point where the Buddha commands the change in monastic addressing protocols.
-* **Vinaya**: *Cullavaggapāḷi* (Senāsanakkhandhaka) – Monastic decorum and protocols of address.
+* **Vinaya**: *Cūḷavaggapāḷi* (Senāsanakkhandhaka) – Monastic decorum and protocols of address.
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* (Commentary on monastic behavioral codes).

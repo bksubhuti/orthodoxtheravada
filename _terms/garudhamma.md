@@ -44,6 +44,6 @@ The Buddha declared that these rules were to be honored, respected, and not tran
 > — [Aṅguttara Nikāya](/glossary/anguttara-nikaya/) (AN 8.51)
 
 ### Textual References
-* **[Vinaya](/glossary/vinaya/)**: *[Cullavagga](/glossary/cullavagga/)* (Bhikkhunīkhandhaka) – The historical narrative where the Buddha relays these rules through Venerable Ānanda.
+* **[Vinaya](/glossary/vinaya/)**: *[Cūḷavagga](/glossary/culavagga/)* (Bhikkhunīkhandhaka) – The historical narrative where the Buddha relays these rules through Venerable Ānanda.
 * **[Sutta](/glossary/sutta/)**: *Aṅguttara Nikāya* (Aṭṭhaka Nipāta) – The canonical listing of the eight principles.
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Legal interpretations of the boundaries of these rules.

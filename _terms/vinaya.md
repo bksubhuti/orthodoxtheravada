@@ -22,5 +22,5 @@ The orthodox tradition maintains that the Vinaya is the absolute lifeblood of th
 
 ### Textual References
 * **Vinaya**: *Pārājikapāḷi* and *Pācittiyapāḷi* ([Suttavibhaṅga](/glossary/suttavibhanga/)) – Containing the specific conditions under which each moral training rule was legislated.
-* **Vinaya**: *[Khandhaka](/glossary/khandhaka/)* (*[Mahāvagga](/glossary/mahavagga/)* and *[Cullavagga](/glossary/cullavagga/)*) – Dealing with monastic procedures, ordinations, and institutional organization.
+* **Vinaya**: *[Khandhaka](/glossary/khandhaka/)* (*[Mahāvagga](/glossary/mahavagga/)* and *[Cūḷavagga](/glossary/culavagga/)*) – Dealing with monastic procedures, ordinations, and institutional organization.
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Ācariya Buddhaghosa’s immense commentary managing the legal interpretations of the Vinaya code.

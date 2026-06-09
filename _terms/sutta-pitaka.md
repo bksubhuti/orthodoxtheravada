@@ -10,6 +10,7 @@ commentaries: ["Sumangalavilasini", "Papancasudani"]
 ---
 
 Verified
+
 ### Grammatical Analysis
 **Suttapiṭaka**: [nt.] The Basket of Discourses. Formed by *sutta* (thread, discourse) + *piṭaka* (basket, collection). 
 
@@ -25,5 +26,5 @@ The Commentaries (*Aṭṭhakathā*) are also absolutely necessary. The suttas u
 Structurally, the *Sutta-piṭaka* is divided into five massive collections called *Nikāyas*: *Dīgha*, *Majjhima*, *Saṃyutta*, *Aṅguttara*, and *Khuddaka*.
 
 ### Textual References
-* **Historical**: *[Cullavagga](/glossary/cullavagga/)* (Pañcasatikakkhandhaka) – The account of the First Buddhist Council where Venerable Ānanda, possessing perfect memory, recited the entire *Sutta-piṭaka* to the assembly of 500 Arahants.
+* **Historical**: *[Cūḷavagga](/glossary/culavagga/)* (Pañcasatikakkhandhaka) – The account of the First Buddhist Council where Venerable Ānanda, possessing perfect memory, recited the entire *Sutta-piṭaka* to the assembly of 500 Arahants.
 * **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* (Nidāna) – Explaining the difference between the conventional pedagogical approach of the suttas and the ultimate approach of the [Abhidhamma](/glossary/abhidhamma/).

@@ -22,4 +22,4 @@ When Mahāpajāpatī Gotamī requested the establishment of the [Bhikkhunī](/gl
 8. From this day forth, a nun is forbidden to formally admonish a monk, but a monk is not forbidden to formally admonish a nun.
 
 ### Textual References
-* **Canonical**: *[Cullavagga](/glossary/cullavagga/)* ([Vinaya](/glossary/vinaya/) 10.1) – The origin story of the Bhikkhunī Saṅgha, detailing Mahāpajāpatī's acceptance of these rules.
+* **Canonical**: *[Cūḷavagga](/glossary/culavagga/)* ([Vinaya](/glossary/vinaya/) 10.1) – The origin story of the Bhikkhunī Saṅgha, detailing Mahāpajāpatī's acceptance of these rules.

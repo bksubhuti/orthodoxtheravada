@@ -19,5 +19,5 @@ The Buddha spent exactly 19 rains retreats (*[vassa](/glossary/vassa/)*) at Jeta
 It served as the administrative and spiritual epicenter of the Theravāda dispensation, containing the Buddha's personal scented chamber (*Gandhakuṭi*) and housing thousands of monastics.
 
 ### Textual References
-* **[Vinaya](/glossary/vinaya/)**: *[Cullavagga](/glossary/cullavagga/)* – The legal protocols established during the massive dedication festival of the monastery.
+* **[Vinaya](/glossary/vinaya/)**: *[Cūḷavagga](/glossary/culavagga/)* – The legal protocols established during the massive dedication festival of the monastery.
 * **[Sutta](/glossary/sutta/)**: *[Kāyagatāsati](/glossary/kayagatasati/) Sutta* (MN 119) – One of hundreds of profound discourses delivered within the boundaries of this specific grove.

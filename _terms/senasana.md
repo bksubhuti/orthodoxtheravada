@@ -55,6 +55,6 @@ In larger monasteries, a specific monk acts as the *Senāsanagāhāpaka* (distri
 
 
 ### Textual References
-* **Vinaya**: *[Cullavagga](/glossary/cullavagga/)* (Senāsanakkhandhaka) – The comprehensive chapter dealing with the construction, maintenance, and allocation of monastic lodgings.
+* **Vinaya**: *[Cūḷavagga](/glossary/culavagga/)* (Senāsanakkhandhaka) – The comprehensive chapter dealing with the construction, maintenance, and allocation of monastic lodgings.
 * **[Sutta](/glossary/sutta/)**: *Majjhima Nikāya* (Sabbāsava Sutta, MN 2) – The standard reflection on the proper use of lodging to ward off the elements and cultivate seclusion.
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Explaining the administrative duties required to manage [Saṅgha](/glossary/sangha/) lodgings.

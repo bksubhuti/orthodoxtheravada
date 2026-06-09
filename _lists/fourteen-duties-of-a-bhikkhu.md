@@ -28,4 +28,4 @@ The *[Khandhaka](/glossary/khandhaka/) Vattas* are the 14 comprehensive categori
 14. **Antevāsikavatta:** The duties of a secondary teacher toward his resident student.
 
 ### Textual References
-* **Canonical**: *[Cullavagga](/glossary/cullavagga/)* (Vatta Khandhaka, Vinaya) – The Buddha exhaustively details these 14 protocols to rectify instances of careless behavior among the monks.
+* **Canonical**: *[Cūḷavagga](/glossary/culavagga/)* (Vatta Khandhaka, Vinaya) – The Buddha exhaustively details these 14 protocols to rectify instances of careless behavior among the monks.

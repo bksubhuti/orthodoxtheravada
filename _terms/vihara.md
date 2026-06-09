@@ -17,6 +17,6 @@ commentaries: ["Samantapasadika"]
 2. **Mental/Spiritual**: It refers to an abiding or mode of living for the mind. For example, the *Brahmavihāras* (Divine Abodes) are the mental dwellings of loving-kindness, compassion, sympathetic joy, and equanimity. 
 
 ### Textual References
-* **[Vinaya](/glossary/vinaya/)**: *[Cullavagga](/glossary/cullavagga/)* (Senāsanakkhandhaka) – The famous story of the merchant [Anāthapiṇḍika](/glossary/anathapindika/) purchasing [Jetavana](/glossary/jeta-vana/) to build the ultimate *vihāra* for the Buddha.
+* **[Vinaya](/glossary/vinaya/)**: *[Cūḷavagga](/glossary/culavagga/)* (Senāsanakkhandhaka) – The famous story of the merchant [Anāthapiṇḍika](/glossary/anathapindika/) purchasing [Jetavana](/glossary/jeta-vana/) to build the ultimate *vihāra* for the Buddha.
 * **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – References to the Buddha residing in various *vihāras* during his final journey.
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Rules on how to formally dedicate a monastery to the Saṅgha.

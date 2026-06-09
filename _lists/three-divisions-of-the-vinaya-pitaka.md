@@ -13,7 +13,7 @@ The [Vinaya](/glossary/vinaya/) Piṭaka is the basket of monastic discipline. R
 
 ### The List
 1. **[Suttavibhaṅga](/glossary/suttavibhanga/)** - The Analysis of Rules: The core text detailing the monastic rule codes (the Pāṭimokkha for both monks and nuns). It details the precise origin story (*nidāna*), the phrasing of each rule, and the comprehensive legal case law defining what does and does not constitute a violation.
-2. **[Khandhaka](/glossary/khandhaka/)** - The Sections: Comprising the *[Mahāvagga](/glossary/mahavagga/)* (Great Section) and *[Cullavagga](/glossary/cullavagga/)* (Lesser Section). It outlines the foundational administrative procedures of the Saṅgha, such as ordination, the rains retreat, [Uposatha](/glossary/uposatha/), architecture, footwear, medicines, and the settling of legal splits.
+2. **[Khandhaka](/glossary/khandhaka/)** - The Sections: Comprising the *[Mahāvagga](/glossary/mahavagga/)* (Great Section) and *[Cūḷavagga](/glossary/culavagga/)* (Lesser Section). It outlines the foundational administrative procedures of the Saṅgha, such as ordination, the rains retreat, [Uposatha](/glossary/uposatha/), architecture, footwear, medicines, and the settling of legal splits.
 3. **[Parivāra](/glossary/parivara/)** - The Appendix: A highly technical, abstract index and catechism compiled as an educational summary. It cross-references rules by offense type, legal gravity, and origin to train monastics in judgeship and Vinaya literacy.
 
 ### Textual References

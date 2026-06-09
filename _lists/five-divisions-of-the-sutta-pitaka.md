@@ -19,4 +19,4 @@ The [Sutta](/glossary/sutta/) Piṭaka contains the conventional teachings and s
 5. **Khuddaka Nikāya** - The Minor Collection: A diverse anthology of 15 independent books (in the Sri Lankan tradition) containing verses, history, and highly ancient poetic treatises.
 
 ### Textual References
-* **Canonical**: *[Cullavagga](/glossary/cullavagga/)* ([Vinaya](/glossary/vinaya/) Piṭaka) – Records the First Buddhist Council where Ven. Mahākassapa interrogated Ven. Ānanda to compile and classify the discourses.
+* **Canonical**: *[Cūḷavagga](/glossary/culavagga/)* ([Vinaya](/glossary/vinaya/) Piṭaka) – Records the First Buddhist Council where Ven. Mahākassapa interrogated Ven. Ānanda to compile and classify the discourses.

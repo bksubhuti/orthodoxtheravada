@@ -10,6 +10,7 @@ commentaries: ["Sumangalavilasini"]
 ---
 
 Verified
+
 ### Grammatical Analysis
 **Dīghanikāya**: [m.] The Collection of Long Discourses. Formed by *dīgha* (long) + *nikāya* (collection, body).
 

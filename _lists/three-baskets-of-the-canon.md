@@ -17,5 +17,5 @@ The [Tipiṭaka](/glossary/tipitaka/) (literally "Three Baskets") is the complet
 3. **[Abhidhamma](/glossary/abhidhamma/) Piṭaka** - The Basket of Ultimate Doctrine: The highly systematized, philosophical analysis of the Buddha's teachings. It dispenses with conventional terms like "person" or "being" and describes reality purely in terms of interacting ultimate elements (*dhammā*).
 
 ### Textual References
-* **Canonical**: *[Cullavagga](/glossary/cullavagga/)* (Vinaya) – Records the First Buddhist Council where Venerables Mahākassapa, Upāli, and Ānanda compiled the Vinaya and [Dhamma](/glossary/dhamma/).
+* **Canonical**: *[Cūḷavagga](/glossary/culavagga/)* (Vinaya) – Records the First Buddhist Council where Venerables Mahākassapa, Upāli, and Ānanda compiled the Vinaya and [Dhamma](/glossary/dhamma/).
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Buddhaghosa's introduction explains the historical lineage and structure of the Tipiṭaka.

@@ -10,6 +10,7 @@ commentaries: ["Sumangalavilasini-tika"]
 ---
 
 Verified
+
 ### Grammatical Analysis
 **Sumaṅgalavilāsinī**: [f.] The Illuminator of Supreme Auspiciousness. Formed by *su* (good, supreme) + *maṅgala* (auspicious, blessing) + *vilāsinī* (shining, illuminating).
 

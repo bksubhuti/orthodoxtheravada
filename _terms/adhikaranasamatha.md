@@ -33,7 +33,7 @@ The seven principles are:
 > The seven procedures for settling disputes, venerable sirs, have been recited. 
 
 ### Textual References
-* **[Vinaya](/glossary/vinaya/)**: *[Cullavagga](/glossary/cullavagga/)* (Adhikaraṇasamathakkhandhaka) – The dense, highly structured legal text outlining how to apply these seven tools to the four types of legal disputes.
+* **[Vinaya](/glossary/vinaya/)**: *[Cūḷavagga](/glossary/culavagga/)* (Adhikaraṇasamathakkhandhaka) – The dense, highly structured legal text outlining how to apply these seven tools to the four types of legal disputes.
 * **[Vinaya](/glossary/vinaya/)**: *[Suttavibhaṅga](/glossary/suttavibhanga/)*
 (Adhikaraṇasamatha) - The mention of the seven procedures for settling disputes.
 * **[Sutta](/glossary/sutta/)**: *Sāmagāma Sutta* (MN 104) – The Buddha teaching these seven principles to ensure the survival of the [Saṅgha](/glossary/sangha/) after his passing.

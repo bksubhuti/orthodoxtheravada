@@ -19,4 +19,4 @@ Driven by intense ambition and jealousy, the monk Devadatta plotted to replace t
 5. **Abstaining completely from fish and meat:** Demanding absolute, mandatory vegetarianism for the entire order, banning the consumption of meat under any condition.
 
 ### Textual References
-* **Canonical**: *[Cullavagga](/glossary/cullavagga/)* (Saṅghabhedaka [Khandhaka](/glossary/khandhaka/), [Vinaya](/glossary/vinaya/)) – Records the dramatic confrontation where Devadatta introduces these five points to split the young, naive monks away from the Buddha.
+* **Canonical**: *[Cūḷavagga](/glossary/culavagga/)* (Saṅghabhedaka [Khandhaka](/glossary/khandhaka/), [Vinaya](/glossary/vinaya/)) – Records the dramatic confrontation where Devadatta introduces these five points to split the young, naive monks away from the Buddha.

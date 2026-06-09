@@ -9,6 +9,7 @@ canonical_texts: ["Vinaya Pitaka", "Pacittiyapali"]
 ---
 
 Verified
+
 ### Grammatical Analysis
 **Sikkhāmānā**: [f.] Probationary nun; a woman in training. Derived from *sikkhati* (to train, learn) + present participle suffix *māna*. 
 

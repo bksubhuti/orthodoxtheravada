@@ -27,4 +27,4 @@ An official meeting or legal decree of the monastic order is called a *Saṅghak
  
 
 ### Textual References
-* **Canonical**: *Kammakkhandha* ([Cullavagga](/glossary/cullavagga/), [Vinaya](/glossary/vinaya/)) – Outlines the exact formula and phrasing required for every type of official monastic decree.
+* **Canonical**: *Kammakkhandha* ([Cūḷavagga](/glossary/culavagga/), [Vinaya](/glossary/vinaya/)) – Outlines the exact formula and phrasing required for every type of official monastic decree.
