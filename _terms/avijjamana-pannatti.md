@@ -20,4 +20,4 @@ This category is crucial in the *[Puggalapaññatti](/glossary/puggalapannatti/)
 
 ### Textual References
 * **Canonical**: *[Puggalapaññatti](/glossary/puggalapannatti/)* (Introduction) – Outlining the six types of concepts to establish the ground rules for the text.
-* **Historical**: *Abhidhammatthasaṅgaha* (Chapter VIII) – The definitive summary of the concept-making process of the mind.
+* **Historical**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter VIII) – The definitive summary of the concept-making process of the mind.

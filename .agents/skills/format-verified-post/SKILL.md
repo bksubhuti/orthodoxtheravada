@@ -1,6 +1,6 @@
 ---
 name: format-verified-post
-description: Formatting and standardizing verified glossary terms/posts, including adding the Verified tag, formatting quote blocks (Pali and English), and running the term cross-linking script.
+description: Formatting and standardizing verified glossary terms/posts, including adding the Verified tag, and formatting quote blocks (Pali and English).
 ---
 
 # Formatting Verified Glossary Terms
@@ -42,19 +42,3 @@ Use this skill when the user asks to format a verified term, when a new term is 
    > 
    > — *Mahāvagga* (Uposathakkhandhaka, 169)
    ```
-
-3. **Cross-Link Glossary Terms**
-   - Run the Ruby term cross-linking script from the project root to automatically add markdown links for the first occurrence of other glossary terms:
-     ```bash
-     ruby scratch/link_terms.rb -w -p <term-filename-without-extension>
-     ```
-     *Example:*
-     ```bash
-     ruby scratch/link_terms.rb -w -p patimokkha
-     ```
-
-4. **Verify the Output**
-   - Run the verified terms audit script to confirm the file is correctly recognized as verified:
-     ```bash
-     bash scripts/add_verified_checkmarks.sh
-     ```
