@@ -8,23 +8,29 @@ cross_links: ["khuddaka-nikaya", "dhamma", "sutta-pitaka"]
 canonical_texts: ["Dhammapada"]
 commentaries: ["Dhammapadatthakatha"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Dhammapada**: [nt.] The Path of [Dhamma](/glossary/dhamma/); The Verses of Truth. Formed by *[dhamma](/glossary/dhamma/)* (truth, doctrine) + *pada* (path, footstep, line, verse).
 
 ### Orthodox Definition
-The *Dhammapada* is the second book of the Khuddaka Nikāya and is arguably the most famous, widely read, and translated Buddhist text in the world. 
+The *Dhammapada* is the second book of the [Khuddaka Nikāya](/glossary/khuddaka-nikaya/) and is arguably the most famous, widely read, and translated Buddhist text in the world. 
 
 It consists of **423 verses** arranged into 26 thematic chapters (such as The Chapter on the Mind, The Chapter on the Fool, The Chapter on the [Arahat](/glossary/arahat/)). It contains the absolute distillation of Buddhist ethical and psychological wisdom. According to orthodox tradition, every single verse was spoken by the Buddha on a specific historical occasion in response to a particular event, dispute, or individual's state of mind.
 
-For centuries in Theravāda countries, novice monks have been required to memorize the entire *Dhammapada* before receiving higher ordination, as it serves as a flawless, portable guide to the holy life.
-
-manopubbaṅgamā dhammā, manoseṭṭhā manomayā; 
-Mind precedes all mental states. Mind is their chief; they are mind-made. 
- manasā ce paduṭṭhena, bhāsati vā karoti vā; 
-If one speaks or acts with a corrupt mind, 
- tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ. 
-Thence suffering follows him, as the wheel follows the hoof of the ox. 
- dhp 1
+For centuries in Theravāda countries, novice monks (*[sāmaṇera](/glossary/samanera/)*) have been required to memorize the entire *Dhammapada* before receiving higher ordination (*[upasampadā](/glossary/upasampada/)*), as it serves as a flawless, portable guide to the holy life.
+### Quote
+> **Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;**  
+> Mind precedes all mental states. Mind is their chief; they are mind-made.
+> 
+> **Manasā ce paduṭṭhena, bhāsati vā karoti vā;**  
+> If one speaks or acts with a corrupt mind,
+> 
+> **Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.**  
+> Thence suffering follows him, as the wheel follows the hoof of the ox.
+> 
+> — [Dhammapada](/glossary/dhammapada/) (1)
 
 ### Textual References
 * **Canonical**: Verse 1 – "Mind precedes all mental states. Mind is their chief; they are all mind-wrought..."
