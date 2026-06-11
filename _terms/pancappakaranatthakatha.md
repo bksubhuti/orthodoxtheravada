@@ -8,6 +8,9 @@ cross_links: ["dhatukatha", "puggalapannatti", "kathavatthu", "yamaka", "patthan
 canonical_texts: ["Dhatukatha", "Puggalapannatti", "Kathavatthu", "Yamaka", "Patthana"]
 commentaries: ["Mulatika"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Pañcappakaraṇaṭṭhakathā**: [f.] The Commentary on the Five Treatises. Formed by *pañca* (five) + *pakaraṇa* (treatise, book) + *[aṭṭhakathā](/glossary/atthakatha/)* (commentary).
 
@@ -17,6 +20,12 @@ Because the final five books of the [Abhidhamma](/glossary/abhidhamma/) Piṭaka
 This text is highly specialized and geared exclusively toward elite Abhidhamma scholars. Rather than defining new terms (which was accomplished in the *[Atthasālinī](/glossary/atthasalini/)*), this commentary focuses on explaining the complex, algorithmic logic of the books. 
 
 Crucially, in the section on the *[Kathāvatthu](/glossary/kathavatthu/)*, Buddhaghosa explicitly identifies the names of the heretical sects (such as the Puggalavādins and Mahāsāṅghikas) that the canonical text is debating, providing modern historians with their primary source for early Buddhist sectarian history. It concludes by unpacking the 24 Conditions of the *[Paṭṭhāna](/glossary/patthana/)*.
+
+### Quote
+> **Pañcapakaraṇa-aṭṭhakathā**  
+> Commentary on the Five Books  
+> 
+> — *Pañcapakaraṇa-aṭṭhakathā*
 
 ### Textual References
 * **Subject Matter**: Commentary on the final five books of the Abhidhamma Piṭaka.
