@@ -8,6 +8,9 @@ cross_links: ["bhikkhu", "sangha", "patimokkha", "sutta", "abhidhamma"]
 canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Vinaya**: [m.] discipline; training; ethical code; removal. Derived from prefix *vi* (apart, away) + root *nī* (to lead, guide). Literally means "to lead away from unwholesome states" or "that which disciplines and guides behavior."
 
@@ -19,6 +22,14 @@ The Vinaya operates on two parallel legal tracks:
 2. *Vatta* (The Duties and Protocols): The positive behavioral regulations concerning housing, robes, food, and interpersonal monastic relationships.
 
 The orthodox tradition maintains that the Vinaya is the absolute lifeblood of the Dispensation (*Vinayo nāma sāsanassa āyu*). As long as the Vinaya laws are strictly preserved and practiced by a valid monastic chapter, the structural transmission of the Sasana remains intact.
+### Quote
+> **Evaṃ nisinne tasmiṃ āyasmante mahākassapatthero bhikkhū āmantesi – ‘‘āvuso, kiṃ paṭhamaṃ saṅgāyāma, dhammaṃ vā vinayaṃ vā’’ti?**  
+> When that venerable one was thus seated, the Elder Mahākassapa addressed the monks: "Friends, what shall we communally recite first, the Dhamma or the Vinaya?" 
+> 
+> **Bhikkhū āhaṃsu – ‘‘bhante mahākassapa, vinayo nāma buddhasāsanassa āyu, vinaye ṭhite sāsanaṃ ṭhitaṃ hoti; tasmā paṭhamaṃ vinayaṃ saṅgāyāmā’’ti.**  
+> The monks said: "Venerable Mahākassapa, the Vinaya is the very life of the Buddha's Sāsana. When the Vinaya is established, the Sāsana is established. Therefore, let us first communally recite the Vinaya." 
+> 
+> — [Samantapāsādikā](/glossary/samantapasadika/) (Pārājikakaṇḍa-aṭṭhakathā) (pa)
 
 ### Textual References
 * **Vinaya**: *Pārājikapāḷi* and *Pācittiyapāḷi* ([Suttavibhaṅga](/glossary/suttavibhanga/)) – Containing the specific conditions under which each moral training rule was legislated.
