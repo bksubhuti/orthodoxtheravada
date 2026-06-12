@@ -34,19 +34,19 @@ Because they are dormant, they cannot be destroyed by morality (*[sīla](/glossa
 > **yathāha puthujjanassa avijjānusayoca anuseti.**  
 > As it is said, the latent tendency of ignorance lies latent in an ordinary person.  
 >   
-> **kāmarāga.**  
+> **[kāmarāga](/glossary/kamaraga/).**  
 > Sensual lust.  
 >   
-> **paṭigha.**  
+> **[paṭigha](/glossary/patigha/).**  
 > Resistance.  
 >   
-> **māna.**  
+> **[māna](/glossary/mana/).**  
 > Conceit.  
 >   
-> **diṭṭhi.**  
+> **[diṭṭhi](/glossary/ditthi/).**  
 > Wrong view.  
 >   
-> **vicikicchā.**  
+> **[vicikicchā](/glossary/vicikiccha/).**  
 > Sceptical doubt.  
 >   
 > **bhavarāganusayoca anusetīti.**  
@@ -58,7 +58,7 @@ Because they are dormant, they cannot be destroyed by morality (*[sīla](/glossa
 > **apica, sarūpato pariyuṭṭhānaṃ apatvā santāne pavattamānehi kusalākusalā byākatacittuppādehi saha anurūpā aviruddhā hutvā senti.**  
 > Furthermore, without reaching a state of manifestation (*pariyuṭṭhāna*) in their own nature, they lie latent, being compatible and not conflicting with the arisen wholesome, unwholesome, and indeterminate mental states in the mental continuum.  
 > 
-> — *Paramatthadīpanī*
+> — *[Paramatthadīpanī](/glossary/paramatthadipani/)*
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Anusaya Sutta* (SN 45.175) – Brief discourse instructing monks to cultivate the Noble Eightfold Path specifically for the uprooting of the seven latent tendencies.

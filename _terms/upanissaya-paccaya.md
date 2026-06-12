@@ -26,15 +26,15 @@ It is divided into three categories:
 > Or, *pakatūpanissaya* means an *upanissaya* that is natural by itself, meaning it is not mixed with *ārammaṇa* or *anantara* conditions.  
 >   
 > **Tassa pakatūpanissayo ‘‘saddhaṃ upanissāya dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti, jhānaṃ uppādeti, vipassanaṃ uppādeti, maggaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti.**  
-> Its natural decisive support (*pakatūpanissaya*) is that, relying on faith, one gives charity, undertakes precepts, performs *Uposatha kamma*, develops *jhāna*, develops *vipassanā*, develops the path, develops supernormal knowledge (*abhiññā*), develops attainment (*samāpatti*).  
+> Its natural decisive support (*pakatūpanissaya*) is that, relying on faith, one gives charity, undertakes precepts, performs *[Uposatha](/glossary/uposatha/) kamma*, develops *[jhāna](/glossary/jhana/)*, develops *[vipassanā](/glossary/vipassana/)*, develops the path, develops supernormal knowledge (*[abhiññā](/glossary/abhinna/)*), develops attainment (*samāpatti*).  
 >   
 > **Sīlaṃ, sutaṃ, cāgaṃ, paññaṃ upanissāya dānaṃ deti…pe… samāpattiṃ uppādeti.**  
 > Relying on morality, learning, generosity, and wisdom, one gives charity... develops attainment.  
 >   
-> **Saddhā, sīlaṃ, sutaṃ, cāgo, paññā saddhāya, sīlassa, sutassa, cāgassa, paññāya, upanissayapaccayena paccayo’’tiādinā (paṭṭhā. 1.1.423) nayena anekappakārato pabhedo veditabbo.**  
+> **[Saddhā](/glossary/saddha/), sīlaṃ, sutaṃ, cāgo, [paññā](/glossary/panna/) saddhāya, sīlassa, sutassa, cāgassa, paññāya, upanissayapaccayena paccayo’’tiādinā (paṭṭhā. 1.1.423) nayena anekappakārato pabhedo veditabbo.**  
 > Faith, morality, learning, generosity, wisdom are conditions for faith, morality, learning, generosity, wisdom by way of decisive support. In this manner, its many varieties should be understood in various ways, starting with "it is a condition by way of the decisive support condition."  
 > 
-> — *Visuddhimagga* (II, Paññābhūminiddeso, Paṭṭhānapaccayakathā)
+> — *[Visuddhimagga](/glossary/visuddhimagga/)* (II, Paññābhūminiddeso, Paṭṭhānapaccayakathā)
 
 ### Textual References
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – Mapping how previous wholesome states act as a decisive support for later wholesome states, and how weather/food act as decisive supports for the body.

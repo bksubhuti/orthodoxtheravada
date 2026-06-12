@@ -24,7 +24,7 @@ The karmic efficacy (*vipāka*) of a gift is determined by three variables:
 Beyond material gifts (*āmisa-dāna*), the tradition values two higher forms of generosity: *abhaya-dāna* (the gift of fearlessness, which is the perfect keeping of the precepts) and *dhamma-dāna* (the sharing of the true teachings), which the Buddha declared excels all other gifts.
 
 ### Quote
-> **Evañce, bhikkhave, sattā jāneyyuṁ dānasaṁvibhāgassa vipākaṁ yathāhaṁ jānāmi, na adatvā bhuñjeyyuṁ, na ca nesaṁ maccheramalaṁ cittaṁ pariyādāya tiṭṭheyya.**  
+> **Evañce, bhikkhave, sattā jāneyyuṁ dānasaṁvibhāgassa vipākaṁ yathāhaṁ jānāmi, na adatvā bhuñjeyyuṁ, na ca nesaṁ maccheramalaṁ [citta](/glossary/citta-base/)ṁ pariyādāya tiṭṭheyya.**  
 > Bhikkhus, If beings knew, as I know, the result of giving and sharing, they would not eat without having given, nor would the stain of stinginess obsess their minds and remain.  
 > 
 > — [Itivuttaka](/glossary/itivuttaka/) (Iti 26)

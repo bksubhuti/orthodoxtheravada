@@ -21,10 +21,10 @@ According to the [Vinaya](/glossary/vinaya/) Piṭaka, full admission into the O
 A bhikkhu lives in strict dependence on lay generosity for his basic requisites (*[cīvara](/glossary/civara/)*, *[piṇḍapāta](/glossary/pindapata/)*, *[senāsana](/glossary/senasana/)*, *[bhesajja](/glossary/bhesajja/)*) and must train under the **227 major training rules** codified in the *[Pātimokkha](/glossary/patimokkha/)*. The life of a bhikkhu is structurally split into two traditional duties: *gantha-dhura* (the burden of study and preservation of scripture) and *vipassanā-dhura* (the burden of insight meditation).
 
 ### Quote
-> **65. ‘‘yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiya’’nti.**  
+> **65. ‘‘yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ [pācittiya](/glossary/pacittiya/)’’nti.**  
 >"If any bhikkhu, knowing, should give the upasampadā to a person under twenty years old, and that person is not fully ordained, and those bhikkhus are blameworthy, that is a pācittiya in that case."  
 > 
-> — *Pācittiyapāḷi, Pācittiya 65 (and Kaṅkhāvitaraṇī)*
+> — *Pācittiyapāḷi, Pācittiya 65 (and [Kaṅkhāvitaraṇī](/glossary/kankhavitarani/))*
 
 ### Textual References
 * **Vinaya**: *Pācittiyapāḷi* (Pācittiya 65) – The rule forbidding the ordination of anyone under 20 years of age.

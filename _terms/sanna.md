@@ -30,11 +30,11 @@ When corrupted by ignorance, saññā becomes warped into *saññā-vipallāsa* 
 > — *Atthasālinī* (Dhammasaṅgaṇī-aṭṭhakathā)
  
  
-> **pakārena jānāti aniccādivasena avabujjhatīti paññā, sā eva yathāsabhāvāvabodhane ādhipaccayogato indriyanti paññindriyaṃ.**  
-> It knows by way of aspects, it understands in terms of impermanence and so forth; thus it is wisdom (*paññā*). That same wisdom, due to its predominant role in comprehending reality as it is, is a faculty (*indriya*); thus it is the faculty of wisdom (*paññindriya*).  
+> **pakārena jānāti aniccādivasena avabujjhatīti [paññā](/glossary/panna/), sā eva yathāsabhāvāvabodhane ādhipaccayogato indriyanti paññindriyaṃ.**  
+> It knows by way of aspects, it understands in terms of impermanence and so forth; thus it is wisdom (*paññā*). That same wisdom, due to its predominant role in comprehending reality as it is, is a faculty (*[indriya](/glossary/indriya/)*); thus it is the faculty of wisdom (*paññindriya*).  
 >   
 > **atha saññāviññāṇapaññānaṃ kiṃ nānākaraṇanti?**  
-> Now, what is the distinction between perception (*saññā*), consciousness (*viññāṇa*), and wisdom (*paññā*)?  
+> Now, what is the distinction between perception (*saññā*), consciousness (*[viññāṇa](/glossary/vinnana/)*), and wisdom (*paññā*)?  
 >   
 > **saññā tāva nīlādivasena sañjānanamattaṃ karoti, lakkhaṇappaṭivedhaṃ kātuṃ na sakkoti.**  
 > Perception (*saññā*) only recognizes by way of blue and so forth; it cannot penetrate the characteristics.  
@@ -45,7 +45,7 @@ When corrupted by ignorance, saññā becomes warped into *saññā-vipallāsa* 
 > **paññā pana tividhampi karoti, bālagāmikaheraññikānaṃ kahāpaṇāvabodhanamettha nidassananti.**  
 > Wisdom (*paññā*), however, performs all three types. The recognition of coins by a child, a villager, and a treasurer is an example here.  
 > 
-> — *Abhidhammatthasaṅgaha*
+> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)*
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Potthapāda Sutta* (DN 9) – Discussing the systematic refinement, arising, and cessation of higher perceptions during meditative progression.

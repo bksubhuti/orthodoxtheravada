@@ -20,7 +20,7 @@ Both Orthodox Theravādins and modern scholars recognize this book as containing
 
 Like all suttas, the *Suttanipāta* is a conventional teaching (*vohāra-desanā*). Its poetic language is beautiful and inspiring. However, to deeply understand the teachings, a student must still rely on the [Abhidhamma](/glossary/abhidhamma/). The Abhidhamma takes these inspiring verses and explains them in terms of precise, ultimate realities (*paramattha-dhamma*). 
 
-Furthermore, because the poetry is so archaic and complex, the Commentaries (*Aṭṭhakathā*) are absolutely necessary. The specific commentary for this book is widely known by its descriptive name, the *Suttanipāta-aṭṭhakathā* (Commentary on the Suttanipāta). Its formal, proper title is the *[Paramatthajotikā](/glossary/paramatthajotika/)* ("The Illuminator of the Ultimate Meaning"). 
+Furthermore, because the poetry is so archaic and complex, the Commentaries (*[Aṭṭhakathā](/glossary/atthakatha/)*) are absolutely necessary. The specific commentary for this book is widely known by its descriptive name, the *Suttanipāta-aṭṭhakathā* (Commentary on the Suttanipāta). Its formal, proper title is the *[Paramatthajotikā](/glossary/paramatthajotika/)* ("The Illuminator of the Ultimate Meaning"). 
 
 This commentary provides the crucial background stories explaining why each poem was spoken. It identifies the specific people or devas involved. Most importantly, it preserves the exact orthodox definitions of ancient words. Without this commentary, the deep meaning of these ancient verses would easily be lost.
 

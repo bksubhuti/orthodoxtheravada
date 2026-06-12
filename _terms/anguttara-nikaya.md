@@ -26,9 +26,9 @@ Because it deals heavily with lists, the *Aṅguttara* is incredibly broad. It c
 > I shall elucidate the meaning of the excellent Aṅguttara Āgama, adorned with sections such as the Ekaka and Duka,  
 > 
 > **Dhammakathikapuṅgavānaṃ, vicittapaṭibhānajananassa.**  
-> Which generates varied insights for the foremost Dhamma preachers.  
+> Which generates varied insights for the foremost [Dhamma](/glossary/dhamma/) preachers.  
 > 
-> **Atthappakāsanatthaṃ, aṭṭhakathā ādito vasisatehi;**  
+> **Atthappakāsanatthaṃ, [aṭṭhakathā](/glossary/atthakatha/) ādito vasisatehi;**  
 > The Commentary (Aṭṭhakathā), which was recited first by five hundred sages,  
 > 
 > **Pañcahi yā saṅgītā, anusaṅgītā ca pacchāpi.**  
@@ -50,7 +50,7 @@ Because it deals heavily with lists, the *Aṅguttara* is incredibly broad. It c
 > Without deviating from the tradition of the Elders, who are lights of the lineage of Elders,  
 > 
 > **Sunipuṇavinicchayānaṃ, mahāvihāre nivāsīnaṃ.**  
-> And who reside in the Mahāvihāra with their extremely subtle discernment,  
+> And who reside in the [Mahāvihāra](/glossary/maha-vihara/) with their extremely subtle discernment,  
 > 
 > **Hitvā punappunāgatamatthaṃ, atthaṃ pakāsayissāmi;**  
 > I shall elucidate the meaning, abandoning what has been repeatedly stated,  

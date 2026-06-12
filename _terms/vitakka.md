@@ -40,7 +40,7 @@ The commentaries compare *vitakka* to striking a bell, or a king's favorite mini
 > Sustained application (*vicāra*) is calm in its functioning, not being excessively agitated, like a bird that has flown into the sky spreading its wings, or like a bee that has descended towards a lotus circling above the lotus.  
 >   
 > **dukanipātaṭṭhakathāyaṃ pana ‘‘ākāse gacchato mahāsakuṇassa ubhohi pakkhehi vātaṃ gahetvā pakkhe sannisīdāpetvā gamanaṃ viya ārammaṇe cetaso abhiniropanabhāvena pavatto vitakko.**  
-> However, in the Dukanipāta Aṭṭhakathā, it is said: "Initial application (*vitakka*) is like a large bird flying in the sky, taking the wind with both wings, settling its wings, and then continuing its flight, in the sense that the mind is directed onto the object.  
+> However, in the Dukanipāta [Aṭṭhakathā](/glossary/atthakatha/), it is said: "Initial application (*vitakka*) is like a large bird flying in the sky, taking the wind with both wings, settling its wings, and then continuing its flight, in the sense that the mind is directed onto the object.  
 >   
 > **vātaggahaṇatthaṃ pakkhe phandāpayamānassa gamanaṃ viya anumajjanabhāvena pavatto vicāro’’ti vuttaṃ, taṃ anuppabandhena pavattiyaṃ yujjati.**  
 > Sustained application (*vicāra*) is like the bird fluttering its wings to catch the wind and then continuing its flight, in the sense that the object is repeatedly examined"; this is fitting for a continuous process.  

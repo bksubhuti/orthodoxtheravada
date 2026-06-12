@@ -23,7 +23,7 @@ A *kuṭi* is meant to be a simple, austere environment optimized for solitary m
 
 ### Quote
 > **6. saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ attuddesaṃ pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ sattantarā, bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ.**  
-> Now, a bhikkhu who is having a cottage built for himself, without an owner, for his own purpose, must have it made to the proper measure. The measure for this is: twelve spans in length by the Sugata span, and seven spans across. Bhikkhus must be brought for the site designation. Those bhikkhus must designate the site as not encroaching and having surrounding space.  
+> Now, a [bhikkhu](/glossary/bhikkhu/) who is having a cottage built for himself, without an owner, for his own purpose, must have it made to the proper measure. The measure for this is: twelve spans in length by the [Sugata](/glossary/sugata/) span, and seven spans across. Bhikkhus must be brought for the site designation. Those bhikkhus must designate the site as not encroaching and having surrounding space.  
 > 
 > **sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.**  
 > If a bhikkhu has a cottage built on an encroaching site without surrounding space, or if he does not bring bhikkhus for the site designation, or if he exceeds the measure, it is a Saṅghādisesa.  

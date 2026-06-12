@@ -22,7 +22,7 @@ It forms the most dangerous type of clinging (*diṭṭhupādāna*) and acts as 
 
 ### Quote
 > **Tayidaṃ, bhikkhave, tathāgato pajānāti—‘Ime diṭṭhiṭṭhānā evaṅgahitā evaṃparāmaṭṭhā evaṅgatikā bhavissanti evaṃsamparāyā’ti.**  
-> That, bhikkhus, the Tathāgata understands: 'These standpoints of view, thus taken up, thus clung to, will have such a destination, such a future state.'  
+> That, bhikkhus, the [Tathāgata](/glossary/tathagata/) understands: 'These standpoints of view, thus taken up, thus clung to, will have such a destination, such a future state.'  
 > 
 > — [Dīgha Nikāya](/glossary/digha-nikaya/) (DN 1)
 

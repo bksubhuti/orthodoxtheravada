@@ -29,7 +29,7 @@ In [Abhidhamma](/glossary/abhidhamma/) physics, physical matter (*[rūpa](/gloss
 > **Yathāha – ‘‘cakkhāyatanaṃ cakkhuviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ purejātapaccayena paccayo.**  
 > As it is said: “The eye-base is a condition for the eye-consciousness element and its associated phenomena by way of the pre-nascent condition.  
 > 
-> — *Visuddhimagga* (II, Paññābhūminiddeso, Paṭṭhānapaccayakathā)
+> — *[Visuddhimagga](/glossary/visuddhimagga/)* (II, Paññābhūminiddeso, Paṭṭhānapaccayakathā)
 
 ### Textual References
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – "The eye base is related to eye-consciousness element... by pre-nascence condition."

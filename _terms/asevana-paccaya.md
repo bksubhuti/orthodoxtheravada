@@ -25,7 +25,7 @@ The sub-commentaries clarify that this specific condition serves exclusively to 
 > 12. Explanation of the Repetition Condition  
 >   
 > **12. paguṇatarabalavatarabhāvavisiṭṭhanti etena vipākābyākatato viseseti.**  
-> "More practiced and more powerful" distinguishes it from results of kamma (*vipāka*) and indeterminate states (*abyākata*).  
+> "More practiced and more powerful" distinguishes it from results of [kamma](/glossary/kamma/) (*vipāka*) and indeterminate states (*abyākata*).  
 >   
 > **āsevanapaccayaniddesavaṇṇanā niṭṭhitā.**  
 > The explanation of the repetition condition is concluded.  

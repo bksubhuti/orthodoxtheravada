@@ -23,5 +23,5 @@ The orthodox tradition maps exactly **52 Cetasikas**, divided into three major c
 
 ### Textual References
 * **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – The absolute foundational text providing the granular definitions and categorizations of every single mental factor.
-* **Textual**: *Abhidhammattha-saṅgaha* (Chapter II) – Ācariya Anuruddha’s definitive manual mapping exactly which cetasikas combine with which cittas.
+* **Textual**: *[Abhidhammattha-saṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter II) – Ācariya Anuruddha’s definitive manual mapping exactly which cetasikas combine with which cittas.
 * **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – The exhaustive exegesis explaining the synchronous arising, ceasing, and object-sharing properties of these concomitants.

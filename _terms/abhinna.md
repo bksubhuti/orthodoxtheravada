@@ -28,7 +28,7 @@ The *[Visuddhimagga](/glossary/visuddhimagga/)* explicitly details that to acqui
 
 ### Quote
 > **Atthi, bhikkhave, aññeva dhammā gambhīrā duddasā duranubodhā santā paṇītā atakkāvacarā nipuṇā paṇḍitavedanīyā, ye tathāgato sayaṃ abhiññā sacchikatvā pavedeti, yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ.**    
-> There are, O bhikkhus, other teachings, profound, hard to see, hard to comprehend, peaceful, sublime, beyond the scope of mere logic, subtle, to be experienced by the wise, which the Tathāgata, having realized them for himself through direct knowledge, proclaims. It is by these that an ordinary person, when speaking in praise of the Tathāgata, might truly and correctly speak as they truly are. 
+> There are, O bhikkhus, other teachings, profound, hard to see, hard to comprehend, peaceful, sublime, beyond the scope of mere logic, subtle, to be experienced by the wise, which the [Tathāgata](/glossary/tathagata/), having realized them for himself through direct knowledge, proclaims. It is by these that an ordinary person, when speaking in praise of the Tathāgata, might truly and correctly speak as they truly are. 
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Sāmaññaphala Sutta* (DN 2) – The comprehensive canonical listing of the six powers as the progressive fruits of the ascetic life.

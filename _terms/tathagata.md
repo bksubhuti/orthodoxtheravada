@@ -26,7 +26,7 @@ The commentaries explain this term in several profound ways:
 When unenlightened people argued about what happens to a "Tathāgata" after death (does he exist, not exist, etc.), the Buddha explained that the term cannot be pinned down even in life, because a Buddha is untraceable, deep, and immeasurable like the ocean, having completely abandoned the aggregates that define conventional existence.
 
 ### Quote
-> **tathāgatassāti aṭṭhahi kāraṇehi bhagavā tathāgato.**  
+> **tathāgatassāti aṭṭhahi kāraṇehi [bhagavā](/glossary/bhagava/) tathāgato.**  
 > "Of the Tathāgata: The Blessed One is a Tathāgata for eight reasons."  
 > 
 > **tathā āgatoti tathāgato, tathā gatoti tathāgato, tathalakkhaṇaṃ āgatoti tathāgato, tathadhamme yāthāvato abhisambuddhoti tathāgato, tathadassitāya tathāgato, tathavāditāya tathāgato, tathākāritāya tathāgato, abhibhavanaṭṭhena tathāgatoti.**  

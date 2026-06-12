@@ -23,7 +23,7 @@ For Gotama Buddha, this monumental event occurred at the age of 80 in the small 
 > Rarely, at some time or other, do Tathāgatas, Arahants, Perfectly Self-Enlightened Ones, arise in the world.  
 > 
 > **ajjeva rattiyā pacchime yāme tathāgatassa parinibbānaṃ bhavissati.**  
-> Tonight, in the last watch of the night, the Tathāgata will attain Parinibbāna.  
+> Tonight, in the last watch of the night, the [Tathāgata](/glossary/tathagata/) will attain Parinibbāna.  
 > 
 > — *Mahāparinibbāna Sutta* (DN 16)
 

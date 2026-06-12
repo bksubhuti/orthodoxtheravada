@@ -37,7 +37,7 @@ The commentaries state that to achieve absorption (*[jhāna](/glossary/jhana/)*)
 > **etā hi ārammaṇavasena appamāṇe vā satte pharanti, ekasattampi vā anavasesapharaṇavasena pharantīti pharaṇaappamāṇavasena appamaññāyoti vuccanti.**  
 > These illimitables, indeed, pervade beings who are boundless as objects, or they pervade even a single being without remainder by way of pervasion; thus, they are called *appamaññā* by way of boundless pervasion.  
 > 
-> — *Vibhaṅga-aṭṭhakathā* (Sammohavinodanī)
+> — *Vibhaṅga-aṭṭhakathā* ([Sammohavinodanī](/glossary/sammohavinodani/))
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Tevijja Sutta* (DN 13) – The classic discourse where the Buddha explains how radiating the four boundless states leads to rebirth in the [Brahma](/glossary/brahma/) world.

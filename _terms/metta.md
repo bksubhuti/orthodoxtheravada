@@ -36,7 +36,7 @@ Its "near enemy" is worldly affection, while its "far enemy" is active hatred or
 > Here, each of these has two enemies, one near and one far. For the *brahmavihāra* of *mettā*, craving (*rāga*) is a near enemy, as if a rival living nearby, because it shares the characteristic of seeing good qualities; it quickly finds an opportunity to enter. Therefore, *mettā* should be well guarded from it.  
 > 
 > **pabbatādigahananissito viya purisassa sapatto sabhāgavisabhāgatāya byāpādo dūrapaccatthiko, tasmā tato nibbhayena mettāyitabbaṃ.**  
-> Ill-will (*byāpāda*) is a distant enemy, like a rival residing in an inaccessible place such as a mountain wilderness, because *mettā* and ill-will are dissimilar in nature. Therefore, one should practice *mettā* fearlessly from ill-will.  
+> Ill-will (*[byāpāda](/glossary/byapada/)*) is a distant enemy, like a rival residing in an inaccessible place such as a mountain wilderness, because *mettā* and ill-will are dissimilar in nature. Therefore, one should practice *mettā* fearlessly from ill-will.  
 > 
 > **mettāyissati ca nāma, kopañca karissatīti aṭṭhānametaṃ.**  
 > It is impossible for one to practice *mettā* and yet feel anger.  

@@ -35,7 +35,7 @@ The *[Visuddhimagga](/glossary/visuddhimagga/)* explains that in access concentr
 > "In the sphere of attainment, by the manifestation of the jhāna factors."  
 > 
 > **dvinnaṃ pana samādhīnaṃ idaṃ nānākāraṇaṃ, upacāre aṅgāni na thāmajātāni honti, aṅgānaṃ athāmajātattā, yathā nāma daharo kumārako ukkhipitvā ṭhapiyamāno punappunaṃ bhūmiyaṃ patati, evameva upacāre uppanne cittaṃ kālena nimittamārammaṇaṃ karoti, kālena bhavaṅgamotarati.**  
-> "But this is the distinction between the two concentrations: in access, the factors are not strong; because the factors are not strong, just as a young child repeatedly falls to the ground when lifted and placed, so too, when access concentration arises, the mind at times takes the nimitta as its object, and at times descends into the life-continuum (bhavaṅga)."  
+> "But this is the distinction between the two concentrations: in access, the factors are not strong; because the factors are not strong, just as a young child repeatedly falls to the ground when lifted and placed, so too, when access concentration arises, the mind at times takes the [nimitta](/glossary/nimitta/) as its object, and at times descends into the life-continuum (bhavaṅga)."  
 > 
 > — *[Visuddhimagga](/glossary/visuddhimagga/)* (IV, 123)
 

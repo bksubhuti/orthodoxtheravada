@@ -23,7 +23,7 @@ The standard 15 books are: [Khuddakapāṭha](/glossary/khuddakapatha/), [Dhamma
 
 ### Quote
 > **Khuddakapāṭho, dhammapadaṃ, udānaṃ, itivuttakaṃ, suttanipāto, vimānavatthu, petavatthu, theragāthā, therīgāthā, jātakaṃ, niddeso, paṭisambhidā, apadānaṃ, buddhavaṃso, cariyāpiṭakaṃ, vinayābhidhammapiṭakāni, ṭhapetvā vā cattāro nikāye avasesaṃ buddhavacanaṃ khuddakanikāyo.**
-> The Khuddakapāṭha, Dhammapada, Udāna, Itivuttaka, Suttanipāta, Vimānavatthu, Petavatthu, Theragāthā, Therīgāthā, Jātaka, Niddesa, Paṭisambhidā, Apadāna, Buddhavaṃsa, Cariyāpiṭaka, and the Vinaya and Abhidhamma Piṭakas, or, excluding the four Nikāyas, the remaining Buddha-word, constitute the Khuddaka Nikāya.
+> The Khuddakapāṭha, Dhammapada, Udāna, Itivuttaka, Suttanipāta, Vimānavatthu, Petavatthu, Theragāthā, Therīgāthā, Jātaka, Niddesa, Paṭisambhidā, Apadāna, Buddhavaṃsa, Cariyāpiṭaka, and the [Vinaya](/glossary/vinaya/) and [Abhidhamma](/glossary/abhidhamma/) Piṭakas, or, excluding the four Nikāyas, the remaining Buddha-word, constitute the Khuddaka Nikāya.
 > 
 > **Kasmā panesa khuddakanikāyoti vuccati?**
 > Why is it called the Khuddaka Nikāya?

@@ -19,7 +19,7 @@ An *Upāsaka* is a male lay follower of the Buddha. To formally become an *upās
 The Buddha described the ideal *upāsaka* as one who possesses unwavering faith, absolute moral purity, does not engage in superstitious fortune-telling, does not seek spiritual merit outside the Buddha's dispensation, and diligently supports the monastic community with the four requisites. While their primary practice is generosity (*[dāna](/glossary/dana/)*) and morality (*[sīla](/glossary/sila/)*), *upāsakas* are fully capable of practicing deep meditation and achieving the first three stages of awakening (Stream-entry, Once-Return, Non-Return) while remaining in lay life.
 
 ### Quote
-> **‘‘kittāvatā pana, bhante, upāsako sīlavā hotī’’ti?**  
+> **‘‘kittāvatā pana, [bhante](/glossary/bhante/), upāsako sīlavā hotī’’ti?**  
 > ‘‘But to what extent, Bhante, is a lay follower virtuous?’’  
 > 
 > **‘‘yato kho, mahānāma, upāsako pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, surāmerayamajjapamādaṭṭhānā paṭivirato hoti; ettāvatā kho, mahānāma, upāsako sīlavā hotī’’ti.**  

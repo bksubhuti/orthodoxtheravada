@@ -24,17 +24,17 @@ The texts explain that these twelve path factors operate fundamentally by way of
 
 ### Quote
 > **sugatito puññato, duggahito pāpato vā niyyānaṭṭhena upakārakā sammādiṭṭhādayo maggapaccayo.**  
-> *Sammādiṭṭhi* and other dhammas that assist in deliverance from good destinies through merit, or from bad destinies through demerit, are *Maggapaccayo* (the Path Condition).  
+> *[Sammādiṭṭhi](/glossary/sammaditthi/)* and other dhammas that assist in deliverance from good destinies through merit, or from bad destinies through demerit, are *Maggapaccayo* (the Path Condition).  
 > 
-> — *Abhidhammatthasaṅgaha*
+> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)*
 
 > **611. yato tato vā niyyānaṭṭhena upakārakāni kusalādibhedāni dvādasa maggaṅgāni maggapaccayo.**  
 > The twelve path factors, categorised as wholesome, etc., that render assistance by way of leading out from any state are the path condition (*magga-paccaya*).  
 >   
 > **yathāha – ‘‘maggaṅgāni maggasampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ maggapaccayena paccayo’’ti (paṭṭhā. 1.1.18).**  
-> As it is said: “The path factors are conditions for their associated phenomena and their concomitantly arisen *rūpa* by way of the path condition,” (*Paṭṭhāna* 1.1.18).  
+> As it is said: “The path factors are conditions for their associated phenomena and their concomitantly arisen *[rūpa](/glossary/rupa/)* by way of the path condition,” (*[Paṭṭhāna](/glossary/patthana/)* 1.1.18).  
 > 
-> — *Visuddhimagga*
+> — *[Visuddhimagga](/glossary/visuddhimagga/)*
 
 ### Textual References
 * **Compendium**: *Abhidhammatthasaṅgaha* – Outlining the path condition's role in deliverance (*niyyāna*) through wholesome and unwholesome trajectories.

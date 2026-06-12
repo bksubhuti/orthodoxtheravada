@@ -24,7 +24,7 @@ The texts classify this condition into a threefold division: the five physical s
 > **pañca pasādā pañcannaṃ viññāṇānaṃ, rūpajīvitindriyaṃ upādinnarūpānaṃ, arūpino indriyā sahajātānaṃ nāmarūpānanti ca tividho hoti indriyapaccayo.**  
 > The faculty condition (*indriya-paccaya*) is of three kinds: the five sensitive material phenomena for the five consciousnesses; the material life faculty for grasped material phenomena; and immaterial faculties for co-arisen name-and-form.  
 > 
-> — *Abhidhammatthasaṅgaha*
+> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)*
 
 > **adhipatiyaṭṭhena upakārakā itthindriyapurisindriyavajjā vīsatindriyā indriyapaccayo.**  
 > The twenty faculties (*indriya*), excluding the feminine and masculine faculties, that render assistance by way of dominance are the faculty condition (*indriya-paccaya*).  
@@ -36,12 +36,12 @@ The texts classify this condition into a threefold division: the five physical s
 > As it is said: “The eye-faculty is a condition for the eye-consciousness element… etc. … the ear-faculty… nose-faculty… tongue-faculty… body-faculty are conditions for the body-consciousness element and its associated phenomena by way of the faculty condition.  
 >   
 > **rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo.**  
-> The *rūpa* life-faculty is a condition for kamma-born *rūpa* by way of the faculty condition.  
+> The *[rūpa](/glossary/rupa/)* life-faculty is a condition for kamma-born *rūpa* by way of the faculty condition.  
 >   
 > **arūpino indriyā sampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo’’ti (paṭṭhā. 1.1.16).**  
-> Non-material faculties are conditions for their associated phenomena and their concomitantly arisen *rūpa* by way of the faculty condition,” (*Paṭṭhāna* 1.1.16).  
+> Non-material faculties are conditions for their associated phenomena and their concomitantly arisen *rūpa* by way of the faculty condition,” (*[Paṭṭhāna](/glossary/patthana/)* 1.1.16).  
 > 
-> — *Visuddhimagga*
+> — *[Visuddhimagga](/glossary/visuddhimagga/)*
 
 ### Textual References
 * **Compendium**: *Abhidhammatthasaṅgaha* – Outlining the structural three-tiered classification of the condition.

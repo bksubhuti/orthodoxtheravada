@@ -27,7 +27,7 @@ The text emphasizes the vast cosmic scale of karma and the necessity of making m
 > “Now, with pure minds, listen to the Apadānas of the Buddhas;  
 > 
 > **Tiṃsapāramisampuṇṇā, dhammarājā asaṅkhiyā.**  
-> The Dhamma Kings, complete with thirty Pāramīs, are countless.  
+> The [Dhamma](/glossary/dhamma/) Kings, complete with thirty Pāramīs, are countless.  
 > 
 > — *Apadānapāḷi* (pa)
 

@@ -26,7 +26,7 @@ It then proceeds to define every single ultimate reality (consciousness, mental 
 > I shall elucidate the meaning of that Abhidhamma,  
 > 
 > **Therassa sāriputtassa, samācikkhi vināyako.**  
-> Which the Leader, the deva of devas, having expounded it to the devas, then declared again in outline to the Elder Sāriputta.  
+> Which the Leader, the [deva](/glossary/deva/) of devas, having expounded it to the devas, then declared again in outline to the Elder Sāriputta.  
 > 
 > **Anotattadahe katvā, upaṭṭhānaṃ mahesino;**  
 > Having performed attendance to the Great Sage in the Anotatta Lake region,  
@@ -68,7 +68,7 @@ It then proceeds to define every single ultimate reality (consciousness, mental 
 > Unmixed and undistorted by the doctrines of other schools,  
 > 
 > **Mahāvihāravāsīnaṃ, dīpayanto vinicchayaṃ.**  
-> I shall make evident the decision of the Mahāvihāra dwellers.  
+> I shall make evident the decision of the [Mahāvihāra](/glossary/maha-vihara/) dwellers.  
 > 
 > — *Dhammasaṅgaṇī-aṭṭhakathā*
 

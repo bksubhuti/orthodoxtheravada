@@ -37,7 +37,7 @@ The sub-commentary explains that the operational core of nutriment lies in its c
 > **phusatīti phasso. ayaṃ hi arūpadhammopi samāno ārammaṇe phusanākāreneva pavatteti. tathā hi so phusanalakkhaṇoti vuccati.**  
 > That which touches is *phassa* (contact). Although this is a formless phenomenon (*arūpadhamma*), it operates only in the manner of touching the object. Indeed, it is said to have the characteristic of touching.  
 >   
-> **cetayatīti cetanā, attano sampayuttadhammehi saddhiṃ ārammaṇe abhisandahatīti attho, manosannissitā cetanā manosañcetanā.**  
+> **cetayatīti [cetanā](/glossary/cetana/), attano sampayuttadhammehi saddhiṃ ārammaṇe abhisandahatīti attho, manosannissitā cetanā manosañcetanā.**  
 > That which intends is *cetanā* (volition); the meaning is that, together with its associated phenomena, it conjoins with the object. Volition relying on the mind is *manosañcetanā* (mental volition).  
 >   
 > **upapattiparikappanavasena vijānātīti viññāṇaṃ.**  

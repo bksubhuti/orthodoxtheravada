@@ -25,7 +25,7 @@ If a monk commits this offense, mere confession is insufficient. He must undergo
 3. Finally, he must be formally rehabilitated (*abbhāna*) by a gathering of no less than twenty fully ordained monks.
 
 ### Quote
-> **yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvatīhaṃ jānaṃ paṭicchādeti, tāvatīhaṃ tena bhikkhunā akāmā parivatthabbaṃ.**  
+> **yesaṃ [bhikkhu](/glossary/bhikkhu/) aññataraṃ vā aññataraṃ vā āpajjitvā yāvatīhaṃ jānaṃ paṭicchādeti, tāvatīhaṃ tena bhikkhunā akāmā parivatthabbaṃ.**  
 > If a bhikkhu commits any one of these and knowingly conceals it for as many days, he must undergo parivāsa involuntarily for as many days.  
 > 
 > **parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ, ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho, tattha so bhikkhu abbhetabbo.**  
@@ -34,7 +34,7 @@ If a monk commits this offense, mere confession is insufficient. He must undergo
 > **ekenapi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā, ayaṃ tattha sāmīci.**  
 > If a Bhikkhu Saṅgha, consisting of fewer than twenty bhikkhus, performs the act of expulsion of that bhikkhu, and that bhikkhu is not (validly) expelled, then those bhikkhus are blameworthy. This is the proper course in this matter.  
 > 
-> — *Kaṅkhāvitaraṇī* (Dvemātikā)
+> — *[Kaṅkhāvitaraṇī](/glossary/kankhavitarani/)* (Dvemātikā)
 
 ### Textual References
 * **[Vinaya](/glossary/vinaya/)**: *[Suttavibhaṅga](/glossary/suttavibhanga/)* (Saṅghādisesakaṇḍa) – Detailing the origin stories of these rules, heavily featuring the infamous group of six monks (*chabbaggiyā*).

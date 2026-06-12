@@ -25,8 +25,8 @@ The *[Visuddhimagga](/glossary/visuddhimagga/)* explains that concentration is c
 > **‘‘katamo ca, bhikkhave, sammāsamādhi?**  
 > "And what, bhikkhus, is right concentration?"  
 > 
-> **idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.**  
-> "Here, bhikkhus, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters and dwells in the first jhāna, which is accompanied by vitakka and vicāra, with joy and pleasure born of seclusion."  
+> **idha, bhikkhave, [bhikkhu](/glossary/bhikkhu/) vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.**  
+> "Here, bhikkhus, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters and dwells in the first [jhāna](/glossary/jhana/), which is accompanied by [vitakka](/glossary/vitakka/) and [vicāra](/glossary/vicara/), with joy and pleasure born of seclusion."  
 > 
 > **251vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.**  
 > "With the subsiding of vitakka and vicāra, he attains to internal tranquility and unification of mind, and enters and dwells in the second jhāna, which is without vitakka and vicāra, with joy and pleasure born of concentration."  

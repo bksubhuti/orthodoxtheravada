@@ -28,7 +28,7 @@ The commentaries point out that mindfulness is "Right" when it is free from thou
 > **‘‘katamā ca, bhikkhave, sammāsati?**  
 > "And what, bhikkhus, is right mindfulness?  
 > 
-> **idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; citte cittānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ.**  
+> **idha, bhikkhave, [bhikkhu](/glossary/bhikkhu/) kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; citte cittānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ.**  
 > Here, bhikkhus, a bhikkhu dwells contemplating the body in the body, ardent, clearly comprehending, mindful, having removed covetousness and displeasure concerning the world; he dwells contemplating feelings in feelings, ardent, clearly comprehending, mindful, having removed covetousness and displeasure concerning the world; he dwells contemplating mind in mind, ardent, clearly comprehending, mindful, having removed covetousness and displeasure concerning the world; he dwells contemplating phenomena in phenomena, ardent, clearly comprehending, mindful, having removed covetousness and displeasure concerning the world.  
 > 
 > **ayaṃ vuccati, bhikkhave, sammāsati’’ti.**  

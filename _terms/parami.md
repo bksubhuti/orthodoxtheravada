@@ -34,7 +34,7 @@ The Theravāda tradition recognizes **ten distinct perfections**:
 Each perfection is practiced at three progressive intensities: *Pāramī* (ordinary, sacrificing external property), *Upapāramī* (higher, sacrificing bodily parts), and *Paramatthapāramī* (ultimate, sacrificing one's own life), culminating in a total of thirty perfections (*tiṃsa-pāramī*).
 
 ### Quote
-> **dānapāramī, sīlapāramī, nekkhammapāramī, paññāpāramī, vīriyapāramī, khantipāramī, saccapāramī, adhiṭṭhānapāramī, mettāpāramī, upekkhāpāramīti kappasatasahassādhikāni cattāri asaṅkhyeyyāni imā dasa pāramiyo pūrentopi bahujanahitāya paṭipanno.**  
+> **dānapāramī, sīlapāramī, nekkhammapāramī, paññāpāramī, vīriyapāramī, [khantipāramī](/glossary/khanti-parami/), saccapāramī, adhiṭṭhānapāramī, mettāpāramī, upekkhāpāramīti kappasatasahassādhikāni cattāri asaṅkhyeyyāni imā dasa pāramiyo pūrentopi bahujanahitāya paṭipanno.**  
 > Even while fulfilling these ten pāramīs—dāna-pāramī (perfection of generosity), sīla-pāramī (perfection of morality), nekkhamma-pāramī (perfection of renunciation), paññā-pāramī (perfection of wisdom), vīriya-pāramī (perfection of energy), khanti-pāramī (perfection of patience), sacca-pāramī (perfection of truthfulness), adhiṭṭhāna-pāramī (perfection of determination), mettā-pāramī (perfection of loving-kindness), upekkhā-pāramī (perfection of equanimity)—for four asaṅkheyya-kalpas and a hundred thousand kalpas, he practised for the welfare of many.  
 > 
 > — *Sumaṅgalavilāsinī* (Dīghanikāya-aṭṭhakathā / Mahāvagga-aṭṭhakathā, Aṭṭhayathābhuccavaṇṇanā)

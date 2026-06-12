@@ -24,7 +24,7 @@ Internally, the Buddha identified four primary manifestations of the fire elemen
 4. The digestive fire that burns up, consumes, and metabolizes food and drink.
 
 ### Quote
-> **katamā ca, bhikkhu, tejodhātu?**  
+> **katamā ca, [bhikkhu](/glossary/bhikkhu/), tejodhātu?**  
 > "And what, bhikkhu, is the fire element?"  
 > 
 > **tejodhātu siyā ajjhattikā siyā bāhirā.**  
@@ -39,7 +39,7 @@ Internally, the Buddha identified four primary manifestations of the fire elemen
 > **yā ceva kho pana ajjhattikā tejodhātu yā ca bāhirā tejodhātu tejodhāturevesā.**  
 > "Both the internal fire element and the external fire element are just the fire element."  
 > 
-> **‘taṃ netaṃ mama, nesohamasmi, na meso attā’ti – evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.**  
+> **‘taṃ netaṃ mama, nesohamasmi, na meso [attā](/glossary/atta/)’ti – evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.**  
 > "‘This is not mine, I am not this, this is not my self’ – this should be seen as it really is with right wisdom."  
 > 
 > **evametaṃ yathābhūtaṃ sammappaññāya disvā tejodhātuyā nibbindati, tejodhātuyā cittaṃ virājeti.**  

@@ -24,8 +24,8 @@ The commentary illustrates this structural disconnection using a natural physica
 > **Tathā vippayuttāpi khīrato apanītaṃ navanītaṃ viya.**  
 > Similarly, there are also *vippayutta* (dissociated), like butter separated from milk.  
 > 
-> — *Mahāniddesa-aṭṭhakathā* (Saddhammapajjotikā)
+> — *Mahāniddesa-aṭṭhakathā* ([Saddhammapajjotikā](/glossary/saddhammapajjotika/))
 
 ### Textual References
-* **Compendium**: *Abhidhammatthasaṅgaha* – Delineating how the structural dissociation condition bridges the distinct mental (*nāma*) and material (*rūpa*) domains through synchronous or asynchronous support.
+* **Compendium**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* – Delineating how the structural dissociation condition bridges the distinct mental (*nāma*) and material (*rūpa*) domains through synchronous or asynchronous support.
 * **Commentary**: *Mahāniddesa-aṭṭhakathā* – Applying the specific analogy of extracted butter (*navanīta*) to clarify how dissociated states retain distinct operational identities while functionally conditioning one another.

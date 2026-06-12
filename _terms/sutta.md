@@ -20,8 +20,8 @@ Methodologically, suttas are classified as *vohāra-desanā* (conventional teach
 
 However, in Orthodox Theravāda, the suttas are inextricably linked to the [Abhidhamma](/glossary/abhidhamma/). The suttas provide an accessible framework, but they can only be deeply understood through the technical lens of the Abhidhamma. The Abhidhamma analyzes these exact same teachings in terms of ultimate realities (*paramattha-dhamma*). 
 
-Additionally, suttas are usually *neyyattha*. This means their true meaning must be drawn out from the context, rather than just read literally. Because of this, the Commentaries (*Aṭṭhakathā*) are essential. They give the background story for each discourse and tell us who was listening. The Commentaries also preserve the exact orthodox definitions of words. Without this guide, a reader might easily misunderstand a sutta or lose its deeper meaning.  Most translators use the Commentaries to accurately translate the meaning of the suttas.
+Additionally, suttas are usually *neyyattha*. This means their true meaning must be drawn out from the context, rather than just read literally. Because of this, the Commentaries (*[Aṭṭhakathā](/glossary/atthakatha/)*) are essential. They give the background story for each discourse and tell us who was listening. The Commentaries also preserve the exact orthodox definitions of words. Without this guide, a reader might easily misunderstand a sutta or lose its deeper meaning.  Most translators use the Commentaries to accurately translate the meaning of the suttas.
 
 ### Textual References
 * **Canonical**: The five great collections: *Dīgha Nikāya*, *Majjhima Nikāya*, *Saṃyutta Nikāya*, *Aṅguttara Nikāya*, and *Khuddaka Nikāya*.
-* **Commentary**: The individual *Aṭṭhakathās* authored by Ācariya Buddhaghosa (e.g., *[Papañcasūdanī](/glossary/papancasudani/)* for the *Majjhima Nikāya* and *Sumaṅgalavilāsinī* for the *Dīgha Nikāya*).
+* **Commentary**: The individual *Aṭṭhakathās* authored by Ācariya Buddhaghosa (e.g., *[Papañcasūdanī](/glossary/papancasudani/)* for the *Majjhima Nikāya* and *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* for the *Dīgha Nikāya*).

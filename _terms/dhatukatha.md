@@ -23,7 +23,7 @@ The book proceeds entirely via categorical questions and answers: "With how many
 
 ### Quote
 > **Aṭṭhārasahi bhedehi, vibhaṅgaṃ mārabhañjano;**  
-> The Great Hero, the Destroyer of Māra, having taught the Vibhaṅga  
+> The Great Hero, the Destroyer of Māra, having taught the [Vibhaṅga](/glossary/vibhanga/)  
 > 
 > **Desayitvā mahāvīro, yaṃ tasseva anantaraṃ.**  
 > With its eighteen divisions, then immediately after that,  

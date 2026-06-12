@@ -20,7 +20,7 @@ Occurring immediately after conformity knowledge (*[anulomañāṇa](/glossary/a
 
 ### Quote
 > **Katamo ca puggalo gotrabhū? Yesaṃ dhammānaṃ samanantarā ariyadhammassa avakkanti hoti tehi dhammehi samannāgato – ayaṃ vuccati puggalo ‘‘gotrabhū’’.**  
-> What sort of person is a change-of-lineage one? The person who is endowed with those states immediately after which there is an immersion into the noble Dhamma—this individual is called change-of-lineage one.  
+> What sort of person is a change-of-lineage one? The person who is endowed with those states immediately after which there is an immersion into the noble [Dhamma](/glossary/dhamma/)—this individual is called change-of-lineage one.  
 > 
 > — [Puggalapaññatti](/glossary/puggalapannatti/) (§ 10)
 

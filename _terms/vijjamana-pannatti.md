@@ -20,4 +20,4 @@ The [Abhidhamma](/glossary/abhidhamma/) further combines these terms, such as a 
 
 ### Textual References
 * **Canonical**: *[Puggalapaññatti](/glossary/puggalapannatti/)* (Introduction) – Defining the classification of concepts.
-* **Historical**: *Abhidhammatthasaṅgaha* (Chapter VIII) – Mapping how the mind utilizes both existent and non-existent concepts for communication.
+* **Historical**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter VIII) – Mapping how the mind utilizes both existent and non-existent concepts for communication.

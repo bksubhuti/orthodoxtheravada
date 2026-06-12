@@ -21,7 +21,7 @@ The commentaries explain that adhiṭṭhāna is driven by a highly synchronized
 Without adhiṭṭhāna, the practice of the path becomes sporadic and unstable (*sithila*). It transforms temporary good intentions into a permanent, structural, spiritual momentum capable of breaking down defilements.
 
 ### Quote
-> **dānapāramī, sīlapāramī, nekkhammapāramī, paññāpāramī, vīriyapāramī, khantipāramī, saccapāramī, adhiṭṭhānapāramī, mettāpāramī, upekkhāpāramīti kappasatasahassādhikāni cattāri asaṅkhyeyyāni imā dasa pāramiyo pūrentopi bahujanahitāya paṭipanno.**  
+> **dānapāramī, sīlapāramī, nekkhammapāramī, paññāpāramī, vīriyapāramī, [khantipāramī](/glossary/khanti-parami/), saccapāramī, adhiṭṭhānapāramī, mettāpāramī, upekkhāpāramīti kappasatasahassādhikāni cattāri asaṅkhyeyyāni imā dasa pāramiyo pūrentopi bahujanahitāya paṭipanno.**  
 > Even while fulfilling these ten pāramīs—dāna-pāramī (perfection of generosity), sīla-pāramī (perfection of morality), nekkhamma-pāramī (perfection of renunciation), paññā-pāramī (perfection of wisdom), vīriya-pāramī (perfection of energy), khanti-pāramī (perfection of patience), sacca-pāramī (perfection of truthfulness), adhiṭṭhāna-pāramī (perfection of determination), mettā-pāramī (perfection of loving-kindness), upekkhā-pāramī (perfection of equanimity)—for four asaṅkheyya-kalpas and a hundred thousand kalpas, he practised for the welfare of many.  
 > 
 > — *Sumaṅgalavilāsinī* (Dīghanikāya-aṭṭhakathā / Mahāvagga-aṭṭhakathā, Aṭṭhayathābhuccavaṇṇanā)

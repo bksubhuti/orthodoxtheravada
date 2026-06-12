@@ -23,7 +23,7 @@ The four floods are:
 3. *Diṭṭhogha*: The flood of wrong views.
 4. *Avijjogha*: The flood of ignorance.
 
-The commentaries (such as the *Visuddhimagga-mahāṭīkā*) define the floods (*ogha*) in the sense of "submerging and destroying" (*ohanantīti oghā*). While *[āsava](/glossary/asava/)* emphasizes the fermenting, deep-seated toxicity of defilements, *ogha* highlights their overwhelming power to submerge beings beneath the waters of saṃsāra and destroy their spiritual potential, preventing them from reaching the safe "further shore" (*pāraṃ*) of [Nibbāna](/glossary/nibbana/).
+The commentaries (such as the *Visuddhimagga-mahāṭīkā*) define the floods (*ogha*) in the sense of "submerging and destroying" (*ohanantīti oghā*). While *[āsava](/glossary/asava/)* emphasizes the fermenting, deep-seated toxicity of defilements, *ogha* highlights their overwhelming power to submerge beings beneath the waters of [saṃsāra](/glossary/samsara/) and destroy their spiritual potential, preventing them from reaching the safe "further shore" (*pāraṃ*) of [Nibbāna](/glossary/nibbana/).
 
 ### Quote
 > **katame cattāro?**  

@@ -22,7 +22,7 @@ The commentaries state that a [Bodhisatta](/glossary/bodhisatta/) perfecting pat
 
 ### Quote
 > **puna rājā ‘‘kiṃvādī tvaṃ bhikkhū’’ti āha.**  
-> Again the king said, "What doctrine do you profess, bhikkhu?"  
+> Again the king said, "What doctrine do you profess, [bhikkhu](/glossary/bhikkhu/)?"  
 > 
 > **‘‘khantivādī, mahārāja’’.**  
 > "I am a proponent of patience, great king."  
@@ -51,12 +51,12 @@ The commentaries state that a [Bodhisatta](/glossary/bodhisatta/) perfecting pat
 > **‘‘khantivādī, mahārāja’’.**  
 > "I am a proponent of patience, great king."  
 > 
-> — *Jātakaṭṭhavaṇṇanā* (Ja 313: Khantivāda Jātaka)
+> — *[Jātakaṭṭhavaṇṇanā](/glossary/jatakatthavannana/)* (Ja 313: Khantivāda Jātaka)
 
-> **dānapāramī, sīlapāramī, nekkhammapāramī, paññāpāramī, vīriyapāramī, khantipāramī, saccapāramī, adhiṭṭhānapāramī, mettāpāramī, upekkhāpāramīti kappasatasahassādhikāni cattāri asaṅkhyeyyāni imā dasa pāramiyo pūrentopi bahujanahitāya paṭipanno.**  
+> **dānapāramī, sīlapāramī, nekkhammapāramī, paññāpāramī, vīriyapāramī, [khantipāramī](/glossary/khanti-parami/), saccapāramī, adhiṭṭhānapāramī, mettāpāramī, upekkhāpāramīti kappasatasahassādhikāni cattāri asaṅkhyeyyāni imā dasa pāramiyo pūrentopi bahujanahitāya paṭipanno.**  
 > Even while fulfilling these ten pāramīs—dāna-pāramī (perfection of generosity), sīla-pāramī (perfection of morality), nekkhamma-pāramī (perfection of renunciation), paññā-pāramī (perfection of wisdom), vīriya-pāramī (perfection of energy), khanti-pāramī (perfection of patience), sacca-pāramī (perfection of truthfulness), adhiṭṭhāna-pāramī (perfection of determination), mettā-pāramī (perfection of loving-kindness), upekkhā-pāramī (perfection of equanimity)—for four asaṅkheyya-kalpas and a hundred thousand kalpas, he practised for the welfare of many.  
 > 
-> — *Sumaṅgalavilāsinī* (Dīghanikāya-aṭṭhakathā / Mahāvagga-aṭṭhakathā, Aṭṭhayathābhuccavaṇṇanā)
+> — *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* (Dīghanikāya-aṭṭhakathā / Mahāvagga-aṭṭhakathā, Aṭṭhayathābhuccavaṇṇanā)
 
 ### Textual References
 * **Canonical**: *[Cariyāpiṭaka](/glossary/cariyapitaka/)* (Khantipāramitā) – Detailing the past lives where the [Bodhisatta](/glossary/bodhisatta/) demonstrated supreme forbearance.

@@ -26,7 +26,7 @@ In access concentration, the mind is radiantly clear, due to the suppression of 
 For many meditation subjects (like the recollection of the Buddha), this is the highest possible state achievable, serving as an incredibly pure platform from which to launch insight (*[vipassanā](/glossary/vipassana/)*) practice.
 
 ### Quote
-> **123. duvidho hi samādhi upacārasamādhi ca appanāsamādhi ca.**  
+> **123. duvidho hi samādhi upacārasamādhi ca [appanāsamādhi](/glossary/appanasamadhi/) ca.**  
 > "Indeed, concentration is of two kinds: access concentration (upacārasamādhi) and absorption concentration (appanāsamādhi)."  
 > 
 > **dvīhākārehi cittaṃ samādhiyati upacārabhūmiyaṃ vā paṭilābhabhūmiyaṃ vā.**  
@@ -39,7 +39,7 @@ For many meditation subjects (like the recollection of the Buddha), this is the 
 > "In the sphere of attainment, by the manifestation of the jhāna factors."  
 > 
 > **dvinnaṃ pana samādhīnaṃ idaṃ nānākāraṇaṃ, upacāre aṅgāni na thāmajātāni honti, aṅgānaṃ athāmajātattā, yathā nāma daharo kumārako ukkhipitvā ṭhapiyamāno punappunaṃ bhūmiyaṃ patati, evameva upacāre uppanne cittaṃ kālena nimittamārammaṇaṃ karoti, kālena bhavaṅgamotarati.**  
-> "But this is the distinction between the two concentrations: in access, the factors are not strong; because the factors are not strong, just as a young child repeatedly falls to the ground when lifted and placed, so too, when access concentration arises, the mind at times takes the nimitta as its object, and at times descends into the life-continuum (bhavaṅga)."  
+> "But this is the distinction between the two concentrations: in access, the factors are not strong; because the factors are not strong, just as a young child repeatedly falls to the ground when lifted and placed, so too, when access concentration arises, the mind at times takes the [nimitta](/glossary/nimitta/) as its object, and at times descends into the life-continuum (bhavaṅga)."  
 > 
 > — *[Visuddhimagga](/glossary/visuddhimagga/)* (IV, 123)
 

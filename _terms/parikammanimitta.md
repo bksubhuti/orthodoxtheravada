@@ -24,12 +24,12 @@ At this stage, the meditator's concentration is categorized as *parikamma-samād
 >"The sign which is the object of preparatory practice is called preparatory sign (parikammanimitta), such as an earth-kasiṇa disk."  
 > 
 > **tadeva cakkhunā diṭṭhaṃ viya manasā uggahetabbaṃ nimittaṃ, uggaṇhantassa vā nimittanti uggahanimittaṃ.**  
->"That same sign, to be grasped by the mind as if seen by the eye, or the sign for one who grasps it, is called grasping sign (uggahanimitta)."  
+>"That same sign, to be grasped by the mind as if seen by the eye, or the sign for one who grasps it, is called grasping sign ([uggahanimitta](/glossary/uggahanimitta/))."  
 > 
 > **tappaṭibhāgaṃ vaṇṇādikasiṇadosarahitaṃ nimittaṃ upacārappanānaṃ ārammaṇattāti paṭibhāganimittaṃ.**  
->"The counter-part sign (paṭibhāganimitta) is similar to the grasping sign, free from kasiṇa faults such as color, etc., and is the object of access and absorption."  
+>"The counter-part sign ([paṭibhāganimitta](/glossary/patibhaganimitta/)) is similar to the grasping sign, free from kasiṇa faults such as color, etc., and is the object of access and absorption."  
 > 
-> — *Abhidhammatthasaṅgaha (Chapter IX, Nimittabhedavaṇṇanā)*
+> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (Chapter IX, Nimittabhedavaṇṇanā)*
 
 ### Textual References
 * **Textual**: *Abhidhammattha-saṅgaha* (Chapter IX, Nimittabhedavaṇṇanā) – Defining the preparatory sign (parikammanimitta) as the object of preparatory practice.

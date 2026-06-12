@@ -26,5 +26,5 @@ The Abhidhamma provides a highly clinical, microscopic map of the mind’s opera
 
 ### Textual References
 * **Canonical**: The seven core books: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)*, *[Vibhaṅga](/glossary/vibhanga/)*, *[Dhātukathā](/glossary/dhatukatha/)*, *[Puggalapaññatti](/glossary/puggalapannatti/)*, *[Kathāvatthu](/glossary/kathavatthu/)*, *[Yamaka](/glossary/yamaka/)*, and *[Paṭṭhāna](/glossary/patthana/)*.
-* **Textual**: *Abhidhammattha-saṅgaha* – Ācariya Anuruddha’s later manual summarizing the entire Abhidhamma matrix.
+* **Textual**: *[Abhidhammattha-saṅgaha](/glossary/abhidhammatthasangaha/)* – Ācariya Anuruddha’s later manual summarizing the entire Abhidhamma matrix.
 * **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* and *[Sammohavinodanī](/glossary/sammohavinodani/)* – Foundational analytical commentaries.

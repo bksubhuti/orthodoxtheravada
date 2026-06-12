@@ -28,7 +28,7 @@ The commentary texts traditionally identify four specific āsavas:
 > "Herein, the āsava of sensuality is the lust related to the five strands of sensual pleasure."  
 > 
 > **bhavāsavoti rupārūpabhave chandarāgo, jhānanikanti ca sassatucchedadiṭṭhisahagatā.**  
-> "The āsava of existence is sensual desire and lust in the fine-material and immaterial existences, delight in jhāna, and that which is associated with the views of eternalism and annihilationism."  
+> "The āsava of existence is sensual desire and lust in the fine-material and immaterial existences, delight in [jhāna](/glossary/jhana/), and that which is associated with the views of eternalism and annihilationism."  
 > 
 > **evaṃ diṭṭhāsavopi bhavāsave eva samodhānaṃ gacchati.**  
 > "In this way, the āsava of views is also included in the āsava of existence."  

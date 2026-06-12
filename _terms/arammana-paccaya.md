@@ -22,7 +22,7 @@ Whenever a consciousness (*[citta](/glossary/citta/)*) arises, it must take an o
 The sub-commentaries to the *Compendium of Objects* use the simile of a walking stick for a frail person. Just as a weak person requires the support of a walking stick to stand up and move forward, consciousness and mental factors require the support of an object to arise and function. Absolutely any phenomenon (past, present, future, or [Nibbāna](/glossary/nibbana/)) can serve as an object condition.
 
 ### Quote
-> **vaṇṇavikāraṃ āpajjamānaṃ rūpayati hadayaṅgatabhāvaṃ pakāsetīti rūpaṃ, tadeva dubbalapurisena daṇḍādi viya cittacetasikehi ālambīyati, tāni vā āgantvā ettha ramantīti ārammaṇanti rūpārammaṇaṃ.** > That which, undergoing a change in appearance, makes manifest the state of being heart-entered, is *rūpa*. That very *rūpa* is grasped by *citta* and *cetasikas*, just as a weak man grasps a stick, etc.; or, *citta* and *cetasikas* come and delight in it, thus it is an object (*ārammaṇa*). This is rūpārammaṇa (visual object).  
+> **vaṇṇavikāraṃ āpajjamānaṃ rūpayati hadayaṅgatabhāvaṃ pakāsetīti rūpaṃ, tadeva dubbalapurisena daṇḍādi viya cittacetasikehi ālambīyati, tāni vā āgantvā ettha ramantīti ārammaṇanti rūpārammaṇaṃ.** > That which, undergoing a change in appearance, makes manifest the state of being heart-entered, is *[rūpa](/glossary/rupa/)*. That very *rūpa* is grasped by *[citta](/glossary/citta-base/)* and *cetasikas*, just as a weak man grasps a stick, etc.; or, *citta* and *cetasikas* come and delight in it, thus it is an object (*ārammaṇa*). This is rūpārammaṇa (visual object).  
 > 
 > — [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)-vibhāvinī-ṭīkā (Ālambaṇasaṅgahavaṇṇanā)
 

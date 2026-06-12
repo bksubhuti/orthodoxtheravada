@@ -22,7 +22,7 @@ Also known as the *kalandakanivāpa* (The Squirrels' Feeding Ground), it served 
 > **9. Piṇḍapātapārisuddhisuttaṃ**  
 > 9. Piṇḍapātapārisuddhi [Sutta](/glossary/sutta/)
 > 
-> **438. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.**  
+> **438. Evaṃ me sutaṃ – ekaṃ samayaṃ [bhagavā](/glossary/bhagava/) rājagahe viharati veḷuvane kalandakanivāpe.**  
 > 438. Thus have I heard: On one occasion the Blessed One was dwelling in Rājagaha, in the Bamboo Grove, at the Squirrels’ Feeding Place.  
 > 
 > **343. Atha kho āyasmā sāriputto sāyanhasamayaṃ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.**  
@@ -37,7 +37,7 @@ Also known as the *kalandakanivāpa* (The Squirrels' Feeding Ground), it served 
 > **Katamena kho tvaṃ, sāriputta, vihārena etarahi bahulaṃ viharasī’’ti?**  
 > With what abiding, Sāriputta, do you mostly dwell now?”  
 > 
-> **‘‘Suññatāvihārena kho ahaṃ, bhante, etarahi bahulaṃ viharāmī’’ti.**  
+> **‘‘Suññatāvihārena kho ahaṃ, [bhante](/glossary/bhante/), etarahi bahulaṃ viharāmī’’ti.**  
 > “Now, Venerable Sir, I mostly dwell with the abiding in emptiness.”  
 > 
 > **‘‘Sādhu, sādhu, sāriputta!**  

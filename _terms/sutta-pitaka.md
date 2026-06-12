@@ -21,7 +21,7 @@ In Orthodox Theravāda, the *Sutta-piṭaka* is classified as *vohāra-desanā* 
 
 This makes the *Sutta-piṭaka* very accessible. However, to understand these teachings deeply, a student must rely on the *[Abhidhamma-piṭaka](/glossary/abhidhamma-pitaka/)*. The Abhidhamma takes these conventional teachings and explains them in terms of ultimate realities (*paramattha-dhamma*).
 
-The Commentaries (*Aṭṭhakathā*) are also absolutely necessary. The suttas usually do not explain their own history. The Commentaries provide the background story for why a discourse was given. They identify the specific people involved. Most importantly, they preserve the exact definitions of the words used. Without the Commentaries, the deep context of the *Sutta-piṭaka* would be lost.
+The Commentaries (*[Aṭṭhakathā](/glossary/atthakatha/)*) are also absolutely necessary. The suttas usually do not explain their own history. The Commentaries provide the background story for why a discourse was given. They identify the specific people involved. Most importantly, they preserve the exact definitions of the words used. Without the Commentaries, the deep context of the *Sutta-piṭaka* would be lost.
 
 Structurally, the *Sutta-piṭaka* is divided into five massive collections called *Nikāyas*: *Dīgha*, *Majjhima*, *Saṃyutta*, *Aṅguttara*, and *Khuddaka*.
 

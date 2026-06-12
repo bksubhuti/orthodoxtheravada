@@ -21,7 +21,7 @@ Having lived closely together for three months, friction is inevitable. To ensur
 The standard formula is: *"Venerable friends, I invite the [Saṅgha](/glossary/sangha/). If you have seen, heard, or suspected any offense by me, out of compassion, please tell me. Seeing it, I will make amends."* It is the ultimate exercise in monastic humility and transparency.
 
 ### Quote
-> **Navakena bhikkhunā ekaṃsaṃ uttarāsaṅgaṃ karitvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo – ‘‘saṅghaṃ, bhante, pavāremi diṭṭhena vā sutena vā parisaṅkāya vā.**  
+> **Navakena bhikkhunā ekaṃsaṃ uttarāsaṅgaṃ karitvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo – ‘‘saṅghaṃ, [bhante](/glossary/bhante/), pavāremi diṭṭhena vā sutena vā parisaṅkāya vā.**  
 > The junior [bhikkhu](/glossary/bhikkhu/), having arranged his upper robe over one shoulder, sat on his haunches, clasped his hands in salutation, and should be addressed thus: "Venerable Sirs, I invite the Saṅgha by what was seen, by what was heard, or by what was suspected.  
 > 
 > **Vadantu maṃ āyasmanto anukampaṃ upādāya.**  

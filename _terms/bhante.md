@@ -22,13 +22,13 @@ The usage of this address is structurally bound up with the history of the [Vina
 He established that while senior monks could continue to address junior monks by their names, clan names, or the term *Āvuso*, junior monks must strictly address senior monks using either *Bhante* (Venerable Sir) or *Āyasmā* (Venerable). In modern execution, it serves as the ultimate linguistic boundary marker of monastic seniority and respect.
 
 ### Quote
-> **yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.**  
-> "The Dhamma and the Vinaya that I have taught and laid down for you, Ānanda, will be your Teacher after my passing."  
+> **yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena [satthā](/glossary/sattha/).**  
+> "The [Dhamma](/glossary/dhamma/) and the Vinaya that I have taught and laid down for you, Ānanda, will be your Teacher after my passing."  
 > 
 > **yathā kho panānanda, etarahi bhikkhū aññamaññaṃ āvusovādena samudācaranti, na kho mamaccayena evaṃ samudācaritabbaṃ.**  
 > "And, Ānanda, just as bhikkhus address each other with the term 'āvuso' (friend) now, they should not address each other in that way after my passing."  
 > 
-> **theratarena, ānanda, bhikkhunā navakataro bhikkhu nāmena vā gottena vā āvusovādena vā samudācaritabbo.**  
+> **theratarena, ānanda, bhikkhunā navakataro [bhikkhu](/glossary/bhikkhu/) nāmena vā gottena vā āvusovādena vā samudācaritabbo.**  
 > "A senior bhikkhu, Ānanda, should address a junior bhikkhu by name, by clan, or by the term 'āvuso'."  
 > 
 > **navakatarena bhikkhunā therataro bhikkhu ‘bhante’ti vā ‘āyasmā’ti vā samudācaritabbo.**  

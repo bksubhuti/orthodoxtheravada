@@ -23,7 +23,7 @@ Unlike the other three great elements, the water element cannot be directly felt
 > **purimā pana ‘āpodhātu’ paggharaṇalakkhaṇā, brūhanarasā, saṅgahapaccupaṭṭhānā.**  
 > "The former water element (āpodhātu), however, has the characteristic of flowing, the function of increasing, and the manifestation of cohesion."  
 > 
-> — *Dhammasaṅgaṇī-aṭṭhakathā (Atthasālinī)*
+> — *Dhammasaṅgaṇī-aṭṭhakathā ([Atthasālinī](/glossary/atthasalini/))*
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Rāhulovāda Sutta* (MN 62) – The Buddha instructing Rāhula to meditate like water, which receives both clean and foul things without aversion.

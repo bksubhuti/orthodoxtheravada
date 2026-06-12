@@ -25,7 +25,7 @@ The four bases are:
 The commentaries note that any supreme worldly or spiritual success requires one of these four factors acting as the dominant, driving force (*adhipati*). 
 
 ### Quote
-> **Idha, bhikkhave, bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti, vīriyasamādhi …pe… cittasamādhi … vīmaṁsāsamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti— ime kho, bhikkhave, cattāro iddhipādā.**  
+> **Idha, bhikkhave, [bhikkhu](/glossary/bhikkhu/) chandasamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti, vīriyasamādhi …pe… cittasamādhi … vīmaṁsāsamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti— ime kho, bhikkhave, cattāro iddhipādā.**  
 > Here, bhikkhus, a bhikkhu develops the base of spiritual power endowed with concentration founded on desire and the formations of striving; he develops the base of spiritual power founded on energy… founded on mind… founded on investigation and the formations of striving. These, bhikkhus, are the four bases of spiritual power.  
 > 
 > — [Saṃyutta Nikāya](/glossary/samyutta-nikaya/) (SN 51.23)

@@ -29,7 +29,7 @@ The orthodox tradition strictly rejects the heresy that viññāṇa is a perman
 
 ### Quote
 > **vijānanalakkhaṇaṃ viññāṇaṃ, pubbaṅgamamantarasaṃ, paṭisandhipaccupaṭṭhānaṃ, saṅkhārapadaṭṭhānaṃ, vatthārammaṇapadaṭṭhānaṃ vā.**  
-> "Consciousness (viññāṇaṃ) has the characteristic of knowing (vijānana); its function is to precede (pubbaṅgama); it manifests as rebirth-linking (paṭisandhi); its proximate cause is formations (saṅkhāra), or it is bases and objects (vatthārammaṇa)."  
+> "Consciousness (viññāṇaṃ) has the characteristic of knowing (vijānana); its function is to precede (pubbaṅgama); it manifests as rebirth-linking ([paṭisandhi](/glossary/patisandhi/)); its proximate cause is formations ([saṅkhāra](/glossary/sankhara/)), or it is bases and objects (vatthārammaṇa)."  
 > 
 > — *Visuddhimagga (Chapter XIV)*
 

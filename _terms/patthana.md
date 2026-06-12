@@ -30,7 +30,7 @@ It then cross-references these 24 conditions against every single reality in the
 > - - - - - **(1) Paccayuddeso**
 >
 > **hetupaccayo, ārammaṇapaccayo, adhipatipaccayo, anantarapaccayo, samanantarapaccayo, sahajātapaccayo, aññamaññapaccayo, nissayapaccayo, upanissayapaccayo, purejātapaccayo, pacchājātapaccayo, āsevanapaccayo, kammapaccayo, vipākapaccayo, āhārapaccayo, indriyapaccayo, jhānapaccayo, maggapaccayo, sampayuttapaccayo, vippayuttapaccayo, atthipaccayo, natthipaccayo, vigatapaccayo, avigatapaccayoti.**  
->Root condition, object condition, predominance condition, contiguity condition, immediacy condition, co-nascence condition, mutuality condition, support condition, sufficing condition, pre-nascence condition, post-nascence condition, repetition condition, kamma condition, result condition, nutriment condition, faculty condition, jhāna condition, path condition, association condition, dissociation condition, presence condition, absence condition, disappearance condition, non-disappearance condition.
+>Root condition, object condition, predominance condition, contiguity condition, immediacy condition, co-nascence condition, mutuality condition, support condition, sufficing condition, pre-nascence condition, post-nascence condition, repetition condition, kamma condition, result condition, nutriment condition, faculty condition, [jhāna](/glossary/jhana/) condition, path condition, association condition, dissociation condition, presence condition, absence condition, disappearance condition, non-disappearance condition.
 
 
 ### Textual References

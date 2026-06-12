@@ -26,8 +26,8 @@ In larger monasteries, a specific monk acts as the *Senāsanagāhāpaka* (distri
 > — *Majjhima Nikāya 2* (Sabbāsava Sutta)
 
 
-> **14. yo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.**  
->Should any bhikkhu, having spread out or had spread out a bed, a bench, a mattress, or a stool belonging to the Saṅgha in an open space, upon departing, neither put it away nor have it put away, or should go without asking leave, there is a pācittiya.  
+> **14. yo pana [bhikkhu](/glossary/bhikkhu/) saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.**  
+>Should any bhikkhu, having spread out or had spread out a bed, a bench, a mattress, or a stool belonging to the Saṅgha in an open space, upon departing, neither put it away nor have it put away, or should go without asking leave, there is a [pācittiya](/glossary/pacittiya/).  
 >   
 > **dutiyasenāsanasikkhāpadaṃ**  
 > The Second Training Rule on Lodgings  

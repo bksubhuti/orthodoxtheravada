@@ -20,7 +20,7 @@ It is widely considered one of the oldest collections of women's literature in t
 
 The text serves as the ultimate canonical proof of the Theravāda doctrine that women possess the exact same spiritual capacity to achieve Arahatship as men, experiencing the identical taste of liberation.
 
-To fully understand these verses, which are often deeply personal, one must rely on the traditional commentary, the *Therīgāthā-aṭṭhakathā*. Its formal title is the *[Paramatthadīpanī](/glossary/paramatthadipani/)* ("The Elucidation of the Ultimate Meaning"), traditionally attributed to Ācariya Dhammapāla. This commentary provides the essential biographical details and the specific events that prompted each bhikkhuni to speak her verses of realization.
+To fully understand these verses, which are often deeply personal, one must rely on the traditional commentary, the *Therīgāthā-aṭṭhakathā*. Its formal title is the *[Paramatthadīpanī](/glossary/paramatthadipani/)* ("The Elucidation of the Ultimate Meaning"), traditionally attributed to Ācariya Dhammapāla. This commentary provides the essential biographical details and the specific events that prompted each [bhikkhuni](/glossary/bhikkhuni/) to speak her verses of realization.
 
 ### Quote
 > **bhassarā surucirā yathā maṇī, nettahesumabhinīlamāyatā;**  

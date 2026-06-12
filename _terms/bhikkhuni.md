@@ -20,13 +20,13 @@ A Theravāda Bhikkhunī is bound by **311 [Pātimokkha](/glossary/patimokkha/) r
 
 Despite these structural differences in [Vinaya](/glossary/vinaya/), doctrinally, the capacity of a Bhikkhunī to attain Arahatship and full liberation is absolutely identical to that of a [Bhikkhu](/glossary/bhikkhu/).
 
-The rules are quite restrictive, and a bhikkhunī commits a saṅghādisesa rule requiring two weeks probation if she merely travels or sleeps alone.
+The rules are quite restrictive, and a bhikkhunī commits a [saṅghādisesa](/glossary/sanghadisesa/) rule requiring two weeks probation if she merely travels or sleeps alone.
 
 ### Quote
 > **691. ‘‘yā pana bhikkhunī ekā vā gāmantaraṃ gaccheyya, ekā vā nadīpāraṃ gaccheyya, ekā vā rattiṃ vippavaseyya, ekā vā gaṇamhā ohīyeyya, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesa’’nti.**  
 > "Whatever bhikkhuni goes to a village alone, or crosses a river alone, or spends a night alone away from her companions, or lags behind alone from her group, this bhikkhuni also has fallen into the first offense, a Saṅghādisesa requiring rehabilitation."  
 > 
-> — *Pācittiyapāḷi, Bhikkhunī Vibhaṅga, Saṅghādisesa 3*
+> — *Pācittiyapāḷi, Bhikkhunī [Vibhaṅga](/glossary/vibhanga/), Saṅghādisesa 3*
 
 ### Textual References
 * **Vinaya**: *Pācittiyapāḷi* (Bhikkhunī Vibhaṅga, Saṅghādisesa 3) – The rule detailing the saṅghādisesa offense for a bhikkhunī who travels, crosses a river, spends the night, or lags behind a group alone.

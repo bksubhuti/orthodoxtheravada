@@ -25,7 +25,7 @@ It represents the active force of synthesis and construction that keeps the illu
 
 ### Quote
 > **abhisaṅkharaṇalakkhaṇā saṅkhārā, āyūhanarasā, cetanāpaccupaṭṭhānā, avijjāpadaṭṭhānā.**  
-> "Formations (saṅkhārā) have the characteristic of fashioning (abhisaṅkharaṇa); their function is accumulation (āyūhana); they manifest as volition (cetanā); their proximate cause is ignorance (avijjā)."  
+> "Formations (saṅkhārā) have the characteristic of fashioning (abhisaṅkharaṇa); their function is accumulation (āyūhana); they manifest as volition (cetanā); their proximate cause is ignorance ([avijjā](/glossary/avijja/))."  
 > 
 > — *Visuddhimagga (Chapter XVII)*
 

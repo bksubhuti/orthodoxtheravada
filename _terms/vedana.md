@@ -26,7 +26,7 @@ In Dependent Origination, vedanā is conditioned directly by contact (*phassa-pa
 
 ### Quote
 > **anubhavanalakkhaṇā vedanā, visayarasasambhogarasā, sukhadukkhapaccupaṭṭhānā, phassapadaṭṭhānā.**  
-> "Feeling (vedanā) has the characteristic of experiencing (anubhavana); its function is the enjoyment of the taste of the object (visayarasasambhogarasa); it manifests as pleasure and pain (sukhadukkha); its proximate cause is contact (phassa)."  
+> "Feeling (vedanā) has the characteristic of experiencing (anubhavana); its function is the enjoyment of the taste of the object (visayarasasambhogarasa); it manifests as pleasure and pain (sukhadukkha); its proximate cause is contact ([phassa](/glossary/phassa/))."  
 > 
 > — *Visuddhimagga (Chapter XIV)*
 

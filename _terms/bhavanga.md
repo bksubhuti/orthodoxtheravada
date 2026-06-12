@@ -20,5 +20,5 @@ When a sensory object (like a sound) strikes the ear, the *bhavaṅga* stream vi
 
 ### Textual References
 * **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – Establishing the functional conditions of the life-continuum.
-* **Textual**: *Abhidhammattha-saṅgaha* (Chapter IV: *Vīthi-saṅgaha*) – The absolute standard manual detailing how many exact mind-moments the bhavaṅga vibrates before active cognition begins.
+* **Textual**: *[Abhidhammattha-saṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter IV: *Vīthi-saṅgaha*) – The absolute standard manual detailing how many exact mind-moments the bhavaṅga vibrates before active cognition begins.
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Defining its function as the preserver of the continuity of a single lifetime.

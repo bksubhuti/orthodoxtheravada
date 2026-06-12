@@ -28,4 +28,4 @@ The commentaries use the simile of the earth supporting trees, or a canvas suppo
 
 ### Textual References
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – "The eye base is related to eye-consciousness... by support condition."
-* **Commentary**: *Visuddhimagga* (Chapter XIV) – Providing the definitive structural description of foundational reliance through the classic earth and canvas comparisons (*pathavīpaṭādayo viya*).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Providing the definitive structural description of foundational reliance through the classic earth and canvas comparisons (*pathavīpaṭādayo viya*).

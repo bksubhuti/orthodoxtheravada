@@ -26,7 +26,7 @@ Dhammapāla's style is heavily indebted to Buddhaghosa, but he relies even more 
 > Many commentaries, extolled by the wise of old,  
 > 
 > **Dissanti idha lokamhi, abhidhammatthasaṅgahe.**  
-> Are seen in this world concerning the Abhidhammatthasaṅgaha.  
+> Are seen in this world concerning the [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/).  
 > 
 > **Na tāhi tuṭṭhiṃ vindanti, ye sāratthā bhimānino;**  
 > Those who delight in the essential meaning do not find satisfaction in them.  

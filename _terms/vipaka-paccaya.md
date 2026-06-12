@@ -18,7 +18,7 @@ Verified
 
 When a resultant consciousness arises (like the pain of being burned or the pleasure of seeing a beautiful sight), all the mental factors arising alongside it are mutually supported by this effortless, passive quality. Because they are the quiet results of past actions, they do not have to struggle to perform their functions; they simply experience the fruit.
 
-The sub-commentary clarifies that this unique tranquility is not the spiritual peacefulness that comes from destroying defilements. Rather, it is a structural, functional passivity (*nirussāhasantabhāva*) that occurs simply because these states are born effortlessly from past choices, making deep cognitive phases like the life-continuum (*bhavaṅga*) exceptionally difficult to discern.
+The sub-commentary clarifies that this unique tranquility is not the spiritual peacefulness that comes from destroying defilements. Rather, it is a structural, functional passivity (*nirussāhasantabhāva*) that occurs simply because these states are born effortlessly from past choices, making deep cognitive phases like the life-continuum (*[bhavaṅga](/glossary/bhavanga/)*) exceptionally difficult to discern.
 
 ### Quote
 > **Attano nirussāhasantabhāvena sahajātanāmarūpānaṃ nirussāhasantabhāvāya upakārakā vipākacittacetasikā vipākapaccayo.**  

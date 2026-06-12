@@ -36,5 +36,5 @@ It acts like the striking of a match that instantly sparks the feeling tone (*[v
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Madhipiṇḍika Sutta* (MN 18) – The foundational text detailing the profound psycho-dynamic chain where sense organ and object spark consciousness, producing contact, which then explodes into feeling and obsessive conceptual proliferation (*papañca*).
 * **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (The very first factor isolated in the dissection of a cognitive flash).
-* **Commentary**: *Atthasālinī* – Providing the classic similes comparing contact to the clashing of two rams or the striking of cymbals.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Providing the classic similes comparing contact to the clashing of two rams or the striking of cymbals.
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Detailed breakdown of the fourfold defining characteristics of contact.

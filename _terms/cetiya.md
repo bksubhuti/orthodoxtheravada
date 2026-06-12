@@ -19,7 +19,7 @@ While *[Thūpa](/glossary/thupa/)* specifically refers to the architectural dome
 The Theravāda tradition formally classifies *Cetiyas* into three categories of sacredness:
 1. **Sārīrikacetiya**: Shrines containing physical body relics of the Buddha (e.g., bone fragments, hair, the Sacred Tooth).
 2. **Pāribhogikacetiya**: Shrines or objects used by the Buddha during his lifetime (e.g., his alms bowl, his robes, and most importantly, the [Bodhi](/glossary/bodhi/) Tree).
-3. **Dhammaacetiya**: Shrines of Dhamma.
+3. **Dhammaacetiya**: Shrines of [Dhamma](/glossary/dhamma/).
 
 These shrines provide the laity and monastics with physical anchors to develop faith and concentrate the mind on the virtues of the Triple Gem.
 

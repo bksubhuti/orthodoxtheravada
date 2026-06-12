@@ -48,7 +48,7 @@ As a material phenomenon (*lakkhaṇa-rūpa*) in the [Abhidhamma](/glossary/abhi
 > "Impermanence" (*aniccatā*) is the arising, vanishing, and alteration of these very aggregates; or their non-existence after having come into being; or the meaning is the destruction by momentary dissolution, without staying in the same way after they have arisen.  
 > 
 > **Aniccānupassanāti tassā aniccatāya vasena rūpādīsu aniccanti anupassanā.**  
-> "Contemplation of impermanence" (*aniccānupassanā*) is the repeated contemplation of phenomena such as *rūpa* as impermanent, based on that impermanence (*aniccatā*).  
+> "Contemplation of impermanence" (*aniccānupassanā*) is the repeated contemplation of phenomena such as *[rūpa](/glossary/rupa/)* as impermanent, based on that impermanence (*aniccatā*).  
 > 
 > **Aniccānupassīti tāya anupassanāya samannāgato.**  
 > "Contemplator of impermanence" (*aniccānupassī*) is one endowed with that contemplation.  

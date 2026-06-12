@@ -27,9 +27,9 @@ The *[Visuddhimagga](/glossary/visuddhimagga/)* notes a critical diagnostic feat
 >"That same sign, to be grasped by the mind as if seen by the eye, or the sign for one who grasps it, is called grasping sign (uggahanimitta)."  
 > 
 > **tappaṭibhāgaṃ vaṇṇādikasiṇadosarahitaṃ nimittaṃ upacārappanānaṃ ārammaṇattāti paṭibhāganimittaṃ.**  
->"The counter-part sign (paṭibhāganimitta) is similar to the grasping sign, free from kasiṇa faults such as color, etc., and is the object of access and absorption."  
+>"The counter-part sign ([paṭibhāganimitta](/glossary/patibhaganimitta/)) is similar to the grasping sign, free from kasiṇa faults such as color, etc., and is the object of access and absorption."  
 > 
-> — *Abhidhammatthasaṅgaha (Chapter IX, Nimittabhedavaṇṇanā)*
+> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (Chapter IX, Nimittabhedavaṇṇanā)*
 
 ### Textual References
 * **Textual**: *Abhidhammattha-saṅgaha* (Chapter IX, Nimittabhedavaṇṇanā) – Defining the learning sign (uggahanimitta) as the sign to be grasped by the mind.

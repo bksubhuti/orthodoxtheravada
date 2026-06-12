@@ -25,11 +25,11 @@ The canonical texts define this condition as the operational force exerted by co
 > — *Paṭṭhānapāḷi 1*
 
 > **ekasmiṃ phassādisamudāye pavattamāne dutiyassa abhāvato attano ṭhitiyā okāsaṃ alabhantānaṃ anantaramuppajjamānakacittacetasikānaṃ okāsadānavasena upakārakā anantaraniruddhā cittacetasikā natthipaccayo.**  
-> The *citta* and *cetasikā* dhammas that have ceased immediately before, assist by providing opportunity for the *citta* and *cetasikā* dhammas that are about to arise immediately after, as these (latter) dhammas cannot find a place for their own existence due to the absence of a second aggregate of contact, and so forth, when one aggregate of contact, and so forth, is occurring. This is *Natthipaccayo* (the Absence Condition).  
+> The *[citta](/glossary/citta-base/)* and *cetasikā* dhammas that have ceased immediately before, assist by providing opportunity for the *citta* and *cetasikā* dhammas that are about to arise immediately after, as these (latter) dhammas cannot find a place for their own existence due to the absence of a second aggregate of contact, and so forth, when one aggregate of contact, and so forth, is occurring. This is *Natthipaccayo* (the Absence Condition).  
 > 
-> — *Abhidhammatthasaṅgaha*
+> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)*
 
 ### Textual References
-* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – Standardizing the mechanical rule that immediately ceased cognitive states (*samanantaraniruddhā*) stand as an active absence condition for concurrent, arising mental combinations.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – Standardizing the mechanical rule that immediately ceased cognitive states (*samanantaraniruddhā*) stand as an active absence condition for concurrent, arising mental combinations.
 * **Compendium**: *Abhidhammatthasaṅgaha* – Defining the condition's operational role as the systematic granting of structural opportunity (*okāsadāna*) via chronological vacancy.
 

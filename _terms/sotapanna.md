@@ -26,7 +26,7 @@ An orthodox *Sotāpanna* possesses unshakeable conviction (*aveccappasāda*) in 
 
 ### Quote
 > **sahāvassa dassanasampadāya, tayassu dhammā jahitā bhavanti;**  
-> **sakkāyadiṭṭhi vicikicchitañca, sīlabbataṃ vāpi yadatthi kiñci.**  
+> **[sakkāyadiṭṭhi](/glossary/sakkayaditthi/) vicikicchitañca, sīlabbataṃ vāpi yadatthi kiñci.**  
 > Together with his attainment of vision, three things are abandoned: self-identity view, doubt, and whatever adherence to rites and rituals there may be.  
 > 
 > **catūhapāyehi ca vippamutto, chaccābhiṭhānāni abhabba kātuṃ;**  

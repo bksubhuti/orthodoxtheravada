@@ -25,5 +25,5 @@ When you strip away names, language, and the mind's tendency to group things int
 These are the exclusive objects of Insight (*[vipassanā](/glossary/vipassana/)*). To achieve awakening, the meditator must stop observing conventional realities (like "my body") and directly perceive the rapid arising and passing away of ultimate realities.
 
 ### Textual References
-* **Historical**: *Abhidhammatthasaṅgaha* – The classic medieval manual that opens by defining these four ultimate realities.
+* **Historical**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* – The classic medieval manual that opens by defining these four ultimate realities.
 * **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* – Explaining that ultimate realities do not rely on linguistic conventions for their existence.

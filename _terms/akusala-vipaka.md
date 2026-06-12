@@ -22,4 +22,4 @@ Because *vipāka* is the passive experiencing of a past debt, the orthodox respo
 
 ### Textual References
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Defining the exactly seven types of unwholesome resultant consciousness (which are always rootless/ahetuka).
-* **Historical**: *Abhidhammatthasaṅgaha* (Chapter V) – The grim mapping of specific unwholesome actions to specific torments in the lower realms.
+* **Historical**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter V) – The grim mapping of specific unwholesome actions to specific torments in the lower realms.

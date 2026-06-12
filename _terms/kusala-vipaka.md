@@ -22,4 +22,4 @@ It is important to note that experiencing a pleasant *kusala-vipāka* can easily
 
 ### Textual References
 * **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Categorizing the specific types of resultant consciousness rooted in non-greed, non-hatred, and non-delusion.
-* **Historical**: *Abhidhammatthasaṅgaha* (Chapter V) – Outlining the mapping of wholesome kamma to specific human and heavenly rebirths.
+* **Historical**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter V) – Outlining the mapping of wholesome kamma to specific human and heavenly rebirths.

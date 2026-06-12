@@ -22,7 +22,7 @@ If a monk attempts to divide or appropriate [Saṅgha](/glossary/sangha/) heavy 
 
 ### Quote
 > **Puna caparaṁ, bhikkhave, idhekacco pāpabhikkhu yāni tāni saṅghassa garubhaṇḍāni garuparikkhārāni, seyyathidaṁ— ārāmo ārāmavatthu vihāro vihāravatthu mañco pīṭhaṁ bhisi bibbohanaṁ lohakumbhī lohabhāṇakaṁ ... mattikābhaṇḍaṃ, tehi gihīṃ saṅgaṇhāti upalāpeti.**  
-> Furthermore, bhikkhus, a certain evil bhikkhu here wins over and flatters householders with those things that are weighty articles and weighty requisites of the Sangha, that is to say: a monastery, monastery land, a dwelling, dwelling land, a couch, a chair, a mattress, a cushion, a bronze pot, a bronze vessel,... and earthenware. 
+> Furthermore, bhikkhus, a certain evil [bhikkhu](/glossary/bhikkhu/) here wins over and flatters householders with those things that are weighty articles and weighty requisites of the Sangha, that is to say: a monastery, monastery land, a dwelling, dwelling land, a couch, a chair, a mattress, a cushion, a bronze pot, a bronze vessel,... and earthenware. 
 > 
 > — [Vinaya Piṭaka](/glossary/vinaya-pitaka/) (Pārājikapāḷi Bu Pj 4)
 

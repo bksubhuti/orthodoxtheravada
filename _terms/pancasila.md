@@ -8,6 +8,9 @@ cross_links: ["sila", "upasaka", "dana", "kusala"]
 canonical_texts: ["Anguttara Nikaya", "Khuddakapatha"]
 commentaries: ["Khuddakapatha-Atthakatha", "Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Pañcasīla**: [nt.] The Five Precepts; Fivefold Virtue. Formed by *pañca* (five) + *[sīla](/glossary/sila/)* (moral conduct/discipline). 
 
@@ -21,7 +24,18 @@ The five training rules are formulated as deliberate volitional undertakings to 
 4. *Musāvādā veramaṇī*: Abstaining from false speech (cultivating truthfulness).
 5. *Surāmerayamajja-pamādaṭṭhānā veramaṇī*: Abstaining from intoxicating drinks and drugs that cause heedlessness (protecting mental clarity).
 
-The commentaries point out that these rules are called *Garija-[sīla](/glossary/sila/)* (natural morality) because breaking them violates universal moral laws and automatically deposits destructive unwholesome [kamma](/glossary/kamma/), regardless of whether one is a Buddhist or not.
+The commentaries point out that these rules are called dhammatāsiddha because breaking them violates universal moral laws and automatically deposits destructive unwholesome [kamma](/glossary/kamma/), regardless of whether one is a Buddhist or not.
+### Quote
+> **‘‘Dhammatāsiddhassa pañcasīlassa ānubhāvena te devaloke nibbattantī’’ti vadanti.**  
+> They say that ‘by the power of the Five Precepts, which are perfected by nature, they are reborn in the [deva](/glossary/deva/) world’.
+> 
+> **Vassasahassameva ca nesaṃ sabbakālaṃ āyuppamāṇaṃ.**  
+> And their lifespan is always one thousand years.
+> 
+> **Sabbametaṃ tesaṃ pañcasīlaṃ viya dhammatāsiddhaṃ evāti veditabbaṃ.**  
+> All this is to be understood as perfected by nature for them, just like the Five Precepts.
+> 
+> — *Pāthikavaggaṭīkā*
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Velasāma Sutta* (AN 9.20) – Detailing the immense karmic weight of keeping the five precepts perfectly, outranking massive material giving.

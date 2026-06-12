@@ -22,15 +22,15 @@ The traditional illustration of this condition is the classic simile of the youn
 
 ### Quote
 > **cha vatthūni, cha ārammaṇāni cāti ime paccayuppannato paṭhamaṃ uppajjitvā pavattamānabhāvena upakārako purejātapaccayo.**  
-> The six bases (*vatthu*) and the six objects (*ārammaṇa*) are *Purejātapaccaya* (the Pre-nascence Condition) because they arise first and remain active, thus supporting the resultant dhammas.  
+> The six bases (*vatthu*) and the six objects (*ārammaṇa*) are *[Purejātapaccaya](/glossary/purejata-paccaya/)* (the Pre-nascence Condition) because they arise first and remain active, thus supporting the resultant dhammas.  
 >   
 > **pacchājātapaccaye asati santānaṭṭhitihetubhāvaṃ āgacchantassa kāyassa upatthambhanabhāvena upakārakā pacchājātā cittacetasikā dhammā pacchājātapaccayo.**  
-> The *citta* and *cetasikā dhammā* that arise later, by supporting the body (*kāya*) so that it may not fail to maintain its continuity of existence in the absence of the *Pacchājātapaccaya*, are *Pacchājātapaccaya* (the Post-nascence Condition).  
+> The *[citta](/glossary/citta-base/)* and *cetasikā dhammā* that arise later, by supporting the body (*kāya*) so that it may not fail to maintain its continuity of existence in the absence of the *Pacchājātapaccaya*, are *Pacchājātapaccaya* (the Post-nascence Condition).  
 >   
-> **so gijjhapotakasarīrānaṃ āhārāsā cetanā viya daṭṭhabbo.**  
+> **so gijjhapotakasarīrānaṃ āhārāsā [cetanā](/glossary/cetana/) viya daṭṭhabbo.**  
 > It should be understood as the craving for food (*āhārāsā cetanā*) for the bodies of vulture fledglings.  
 > 
-> — *Abhidhammatthasaṅgaha* (Paccayasaṅgaho)
+> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Paccayasaṅgaho)
 
 ### Textual References
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* – "Post-nascent consciousness and mental factors are related to this pre-nascent body by post-nascence condition."

@@ -22,5 +22,5 @@ It is characterized as *suññata* (void of self/defilements), *[animitta](/glos
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Nibbāna Sutta* (Ud 8.1) – "There is, monks, that dimension where there is neither earth, nor water, nor fire, nor wind..."
-* **[Abhidhamma](/glossary/abhidhamma/)**: *Abhidhammattha-saṅgaha* (Chapter VI) – Structured as one of the four ultimate realities (*paramattha*).
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Abhidhammattha-saṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter VI) – Structured as one of the four ultimate realities (*paramattha*).
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVI) – Comprehensive refutation of unorthodox views regarding Nibbāna.

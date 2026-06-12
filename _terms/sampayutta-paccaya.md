@@ -24,8 +24,8 @@ Because they blend so perfectly, one cannot separate the feeling of pleasure fro
 > **vinibbhogaṃ kātuṃ asakkuṇeyyaṭṭhena hi sahuppannā dhammā sampayuttāpi atthi khīratelaṃ viya.**  
 > For, there are phenomena arisen together which are also *sampayutta* in the sense of being inseparable, like milk and oil.  
 > 
-> — *Mahāniddesa-aṭṭhakathā* (Saddhammapajjotikā)
+> — *Mahāniddesa-aṭṭhakathā* ([Saddhammapajjotikā](/glossary/saddhammapajjotika/))
 
 ### Textual References
-* **Compendium**: *Abhidhammatthasaṅgaha* – Outline of the fourfold mental identity (same arising, ceasing, object, and base) that qualifies an association condition.
+* **Compendium**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* – Outline of the fourfold mental identity (same arising, ceasing, object, and base) that qualifies an association condition.
 * **Commentary**: *Mahāniddesa-aṭṭhakathā* – Clarifying the precise functional meaning of structural inseparability (*avinibbhoga*) by applying the natural analogy of milk and oil to concurrent states.
