@@ -8,6 +8,9 @@ cross_links: ["saddhamma", "patipatti", "pativedha", "tipitaka"]
 canonical_texts: ["Anguttara Nikaya", "Milindapanha"]
 commentaries: ["Manorathapurani", "Samantapasadika"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Pariyatti**: [f.] The scriptures; theoretical learning; mastery of the texts. Derived from prefix *pari* (around, complete) + root *āp* (to attain, master). Literally "that which has been thoroughly learned."
 
@@ -18,6 +21,29 @@ Historically in Theravāda, there was a profound debate on whether *Pariyatti* (
 
 However, the Buddha warned against studying the Dhamma merely to win debates or gain fame (the "snake-catcher" simile), insisting that *Pariyatti* must only be used as a raft for liberation.
 
+### Quote
+> **Saddhammaṭṭhitiyāti tividho saddhammo – pariyattisaddhammo, paṭipattisaddhammo, adhigamasaddhammoti.**  
+> For the stability of the good Dhamma: The good Dhamma is of three kinds: the good Dhamma of the scriptures, the good Dhamma of the practice, and the good Dhamma of the attainment.  
+> 
+> **Tattha piṭakattayasaṅgahitaṃ sabbampi buddhavacanaṃ ‘‘pariyattisaddhammo’’ nāma.**  
+> Therein, all the words of the Buddha comprised in the three Piṭakas are called "the good Dhamma of the scriptures."  
+> 
+> — [Samantapāsādikā](/glossary/samantapasadika/) (Pārājikakaṇḍa-aṭṭhakathā) (pa)
+
+### Quote
+> **Tīṇi hi antaradhānāni nāma pariyattiantaradhānaṃ, paṭivedhaantaradhānaṃ, paṭipattiantaradhānanti.**  
+> The three disappearances are the disappearance of the Pariyatti, the disappearance of the [Paṭivedha](/glossary/pativedha/), and the disappearance of the Paṭipatti.  
+> 
+> **Tattha pariyattīti tīṇi piṭakāni.**  
+> Among these, Pariyatti means the three Piṭakas.  
+> 
+> **Paṭivedhoti saccapaṭivedho.**  
+> Paṭivedha means the penetration of the Truths.  
+> 
+> **Paṭipattīti paṭipadā.**  
+> Paṭipatti means the practice.  
+> 
+> — [Papañcasūdanī](/glossary/papancasudani/) (Uparipaṇṇāsa-aṭṭhakathā)
 ### Textual References
 * **Sutta**: *Alagaddūpama Sutta* (MN 22) – The simile of catching a snake; learning the texts for the wrong reasons leads to harm, while learning them for liberation leads to safety.
 * **Canonical**: *[Milindapañha](/glossary/milindapanha/)* – Explaining how the texts act as the repository of the Buddha's authority.
