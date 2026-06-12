@@ -8,6 +8,9 @@ cross_links: ["kusala", "akusala-mula", "kamma", "vipaka", "kilesa", "papa"]
 canonical_texts: ["Dhammasangani", "Majjhima Nikaya"]
 commentaries: ["Atthasalini", "Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Akusala**: [nt.; adj.] unwholesome; unskillful; blameworthy; unhealthy; kammically destructive. Formed by the negative prefix *a* (not) + *[kusala](/glossary/kusala/)* (wholesome/skillful).
 
@@ -17,6 +20,11 @@ commentaries: ["Atthasalini", "Visuddhimagga"]
 According to orthodox psychology, akusala consciousness is inherently diseased and unstable. It is driven directly by the three unwholesome roots (*[akusala-mūla](/glossary/akusala-mula/)*): greed (*[lobha](/glossary/lobha/)*), hatred (*[dosa](/glossary/dosa/)*), and delusion (*[moha](/glossary/moha/)*). 
 
 The [Abhidhamma](/glossary/abhidhamma/) maps exactly **twelve unwholesome cittas**: eight rooted in greed (*lobhamūla-citta*), two rooted in hatred (*dosamūla-citta*), and two rooted in sheer delusion (*mohamūla-citta*). These twelve states are responsible for all ten pathways of harmful action (*akusala-kammapatha*), locking the mind into lower frequencies and anchoring the momentum of [saṃsāra](/glossary/samsara/).
+### Quote
+> **Akusalacittuppādāti lobhamūlā aṭṭha dosamūlā dve mohamūlā dveti ime dvādasa.**  
+> Akusalacittuppādā (unwholesome consciousness-arising) are these twelve: eight rooted in lobha, two rooted in dosa, and two rooted in moha.
+> 
+> — *[Visuddhimagga](/glossary/visuddhimagga/)* (du)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Salevyaka Sutta* (MN 41) – Detailed analysis charting how the physical, verbal, and mental performance of akusala deeds drives beings directly into hell realms.
