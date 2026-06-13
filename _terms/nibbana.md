@@ -8,6 +8,9 @@ cross_links: ["dhamma", "dukkha", "arahat", "nirodha", "magga"]
 canonical_texts: ["Samyutta Nikaya", "Udana", "Khuddaka Nikaya"]
 commentaries: ["Visuddhimagga", "Paramatthadipani"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Nibbāna**: [nt.] liberation; extinction; the ultimate goal of Buddhist practice. Derived either from *ni* (negative prefix) + *vāna* (weaving, craving/binding), meaning the absence of the weaving or binding of craving; or from *ni* + *vā* (to blow), meaning the blowing out or extinguishing of the fires of defilements.
 
@@ -19,6 +22,40 @@ The texts define it through two primary aspects:
 2. *Anupādisesa-nibbāna*: The complete cessation of all conditioned aggregates (*khandha-parinibbāna*) at the death of an [Arahat](/glossary/arahat/), leading to no further rebirth in [saṃsāra](/glossary/samsara/).
 
 It is characterized as *suññata* (void of self/defilements), *[animitta](/glossary/animitta/)* (signless), and *[appaṇihita](/glossary/appanihita/)* (desireless). It is the absolute cessation of *[dukkha](/glossary/dukkha/)*.
+
+### Quote
+> **Atthi, bhikkhave, tadāyatanaṁ, yattha neva pathavī, na āpo, na tejo, na vāyo, na ākāsānañcāyatanaṁ, na viññāṇañcāyatanaṁ, na ākiñcaññāyatanaṁ, na nevasaññānāsaññāyatanaṁ, nāyaṁ loko, na paraloko, na ubho candimasūriyā.**  
+> There is, mendicants, that dimension where there is no earth, no water, no fire, no wind; no dimension of infinite space, no dimension of infinite consciousness, no dimension of nothingness, no dimension of neither perception nor non-perception; no this world, no other world, no moon or sun.  
+> 
+> **Tatrāpāhaṁ, bhikkhave, neva āgatiṁ vadāmi, na gatiṁ, na ṭhitiṁ, na cutiṁ, na upapattiṁ;**  
+> There, mendicants, I say there is no coming or going or remaining or passing away or reappearing.  
+> 
+> **Appatiṭṭhaṁ, appavattaṁ, anārammaṇamevetaṁ.**  
+> It is not established, does not proceed, and has no support.  
+> 
+> **Esevanto dukkhassā.**  
+> Just this is the end of suffering.  
+> 
+> — *Paṭhamanibbānapaṭisaṁyuttasutta* (Udāna 8.1, trans. Bhikkhu Sujato)
+> 
+> **Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ.**  
+> There is, mendicants, freedom from rebirth, freedom from what has been produced, made, and conditioned.  
+> 
+> **No cetaṁ, bhikkhave, abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha.**  
+> If there were no freedom from rebirth, freedom from what has been produced, made, and conditioned, then no escape would be found from what is born, produced, made, and conditioned.  
+> 
+> **Yasmā ca kho, bhikkhave, atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyati.**  
+> But since there is freedom from rebirth, freedom from what has been produced, made, and conditioned, an escape is found from what is born, produced, made, and conditioned.  
+> 
+> — *Tatiyanibbānapaṭisaṁyuttasutta* (Udāna 8.3, trans. Bhikkhu Sujato)
+> 
+> **Amatañca vo, bhikkhave, desessāmi amatagāmiñca maggaṁ.**  
+> Mendicants, I will teach you the deathless and the path that leads to the deathless.  
+> 
+> **Virāgañca vo, bhikkhave, desessāmi virāgagāmiñca maggaṁ.**  
+> Mendicants, I will teach you dispassion, or fading away, and the path that leads to dispassion.  
+> 
+> — *Anāsavādisutta* (SN 43.25, 43.36)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Nibbāna Sutta* (Ud 8.1) – "There is, monks, that dimension where there is neither earth, nor water, nor fire, nor wind..."
