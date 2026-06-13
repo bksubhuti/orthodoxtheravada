@@ -8,6 +8,9 @@ cross_links: ["avijja", "sankhara", "vinnana", "namarupa", "tanha", "upadana", "
 canonical_texts: ["Samyutta Nikaya", "Digha Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Sammohavinodani"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Paṭiccasamuppāda**: [m.] Dependent Origination; Conditioned Genesis. Formed by *paṭicca* (dependent upon, falling back on) + *samuppāda* (arising, origination). Meaning: the dependent co-arising of phenomena where nothing exists in isolation.
 
@@ -29,6 +32,18 @@ The standard structural formula consists of **twelve interlinked causal nodes**:
 12. Aging and Death (*[jarāmaraṇa](/glossary/jaramarana/)*)
 
 The [Mahāvihāra](/glossary/maha-vihara/) commentary emphasizes that this is a dynamic wheel, operating via specific modes of relation (*paccaya*). The forward chain (*anuloma*) shows how suffering accumulates, while the reverse chain (*paṭiloma*) charts how the complete cessation of ignorance causes the entire mass of suffering to break apart permanently.
+
+### Quote
+> **Tena samayena buddho bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho.**  
+> At that time, the Buddha, the Blessed One, having fully awakened, dwelt in Uruvelā, on the bank of the river Nerañjarā, at the foot of the Bodhi tree, for the first time after his enlightenment. 
+> 
+> **Atha kho bhagavā bodhirukkhamūle sattāhaṃ ekapallaṅkena nisīdi vimuttisukhapaṭisaṃvedī.**  
+> Then, the Blessed One sat for seven days in a single cross-legged posture at the foot of the Bodhi tree, experiencing the bliss of liberation. 
+> 
+> **Atha kho bhagavā rattiyā paṭhamaṃ yāmaṃ paṭiccasamuppādaṃ anulomapaṭilomaṃ manasākāsi – ‘‘avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti – evametassa kevalassa dukkhakkhandhassa samudayo hoti.’’**  
+> Then, the Blessed One, during the first watch of the night, contemplated the Dependent Origination in direct and reverse order thus: “With avijjā as condition, saṅkhārā arise; with saṅkhārā as condition, viññāṇa arises; with viññāṇa as condition, nāmarūpa arises; with nāmarūpa as condition, saḷāyatana arises; with saḷāyatana as condition, phassa arises; with phassa as condition, vedanā arises; with vedanā as condition, taṇhā arises; with taṇhā as condition, upādāna arises; with upādāna as condition, bhava arises; with bhava as condition, jāti arises; with jāti as condition, jarāmaraṇa, sorrow, lamentation, pain, displeasure, and despair arise—thus is the origin of this entire mass of suffering.”
+> 
+> — [Mahāvagga](/glossary/mahavagga/) (Bodhikathā)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Mahānidāna Sutta* (DN 15) – The foundational discourse exploring the profound depth and complexity of the conditional links.

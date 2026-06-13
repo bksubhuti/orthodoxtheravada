@@ -16,7 +16,7 @@ commentaries: ["Samantapasadika"]
 
 These two components are entirely interdependent. The *[Dhamma](/glossary/dhamma/)* is the psychological and philosophical teaching that explains reality, the nature of suffering, and the path to liberation. The *[Vinaya](/glossary/vinaya/)* is the behavioral architecture and monastic code that creates the optimal environment for the *[Dhamma](/glossary/dhamma/)* to be practiced.
 
-Just before his [Parinibbāna](/glossary/parinibbana/), the Buddha famously declared that he would not appoint a human successor. Instead, he stated: *"Yo vo, Ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena [satthā](/glossary/satthā/)"* — "Ānanda, the Doctrine and Discipline I have taught and laid down for you, let them be your Teacher after I am gone." Thus, the *[Dhamma](/glossary/dhamma/)-[vinaya](/glossary/vinaya/)* serves as the absolute, living authority for orthodox Theravāda.
+Just before his [Parinibbāna](/glossary/parinibbana/), the Buddha famously declared that he would not appoint a human successor. Instead, he stated: *"Yo vo, Ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena [satthā](/glossary/sattha/)"* — "Ānanda, the Doctrine and Discipline I have taught and laid down for you, let them be your Teacher after I am gone." Thus, the *[Dhamma](/glossary/dhamma/)-[vinaya](/glossary/vinaya/)* serves as the absolute, living authority for orthodox Theravāda.
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – The Buddha's final instruction elevating the Doctrine and Discipline to the status of Teacher.

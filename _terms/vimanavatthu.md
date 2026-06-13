@@ -12,7 +12,7 @@ commentaries: ["Paramatthadipani"]
 **Vimānavatthu**: [nt.] Stories of the Heavenly Mansions. Formed by *vimāna* (heavenly palace, mansion, flying chariot) + *vatthu* (story, basis, subject).
 
 ### Orthodox Definition
-The *Vimānavatthu* is the sixth book of the Khuddaka Nikāya. It is a collection of 85 poetic stories specifically demonstrating the direct, immediate, and magnificent karmic fruits of wholesome deeds (*[puñña](/glossary/puñña/)*).
+The *Vimānavatthu* is the sixth book of the Khuddaka Nikāya. It is a collection of 85 poetic stories specifically demonstrating the direct, immediate, and magnificent karmic fruits of wholesome deeds (*[puñña](/glossary/punna/)*).
 
 The structural premise of the book involves Venerable Mahāmoggallāna (the foremost disciple in psychic powers) traveling to the heavenly realms (*devaloka*). Upon seeing various devas living in spectacularly radiant mansions (*vimānas*), he asks them what specific merit they performed in their previous human life to earn such glory. The devas reply, revealing that even simple acts of giving a spoonful of rice, sweeping a monastery, or keeping the precepts lead to massive celestial rewards. 
 
