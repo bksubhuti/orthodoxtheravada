@@ -8,6 +8,9 @@ cross_links: ["nivarana", "samyojana", "sotapanna", "saddha"]
 canonical_texts: ["Dhammasangani", "Samyutta Nikaya"]
 commentaries: ["Atthasalini", "Visuddhimagga"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Vicikicchā**: [f.] skeptical doubt; indecision; perplexity. Traditionally derived from *vi* (vexed, apart) + root *cit* (to think), meaning a split mind or vexed thinking. Alternatively, from *vici* (investigating) + *kiccha* (tiresome), implying a tiring, unwholesome drifting that never arrives at a firm conclusion.
 
@@ -25,6 +28,18 @@ The orthodox definition separates wholesome, analytical questioning (seeking cla
 8. Doubt regarding the causal links of Dependent Origination.
 
 It acts like standing at a crossroads in a desert without a map. It is temporarily suppressed by the [jhāna](/glossary/jhana/) factor of sustained thought (*[vicāra](/glossary/vicara/)*) and is **completely eradicated forever at the moment of Stream-entry (*[Sotāpanna](/glossary/sotapanna/)*)**.
+
+### Quote
+> **490. Tattha cittaṭṭhitīti pavattiṭṭhitimatto dubbalo samādhi.**  
+> 490. Among these, cittaṭṭhiti (mental steadfastness) is a weak concentration, merely the steadfastness of occurrence.
+>
+> **Vigatā cikicchāti vicikicchā.**  
+> Vicikicchā (doubt) is that from which remedy has departed.
+>
+> **Sā saṃsayalakkhaṇā, kampanarasā, anicchayapaccupaṭṭhānā, anekaṃsagāhapaccupaṭṭhānā vā, vicikicchāyaṃ ayonisomanasikārapadaṭṭhānā, paṭipattiantarāyakarāti daṭṭhabbā.**  
+> It has the characteristic of uncertainty, its function is wavering, its manifestation is indecisiveness or the manifestation of grasping at multiple possibilities, its proximate cause is unwise attention concerning doubt, and it should be regarded as an impediment to practice.
+>
+> *visuddhimaggo (du)*
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Kālāma Sutta* (AN 3.65) – Where the Buddha validates natural, investigative perplexity but shows how to move through it to absolute certainty.
