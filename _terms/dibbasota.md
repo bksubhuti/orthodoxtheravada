@@ -10,6 +10,7 @@ commentaries: ["Visuddhimagga"]
 ---
 
 Verified
+
 ### Grammatical Analysis
 **Dibbasota**: [nt.] the divine ear; clairaudience. Formed by *dibba* (divine, heavenly, luminous) + *sota* (ear, stream of hearing). 
 

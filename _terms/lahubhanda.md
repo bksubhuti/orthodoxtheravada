@@ -8,6 +8,9 @@ cross_links: ["garubhanda", "civara", "pindapata", "bhesajja"]
 canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Lahubhaṇḍa**: [nt.] Light property; transferable requisites. Formed by *lahu* (light, quick, small) + *bhaṇḍa* (property, goods, equipment).
 
@@ -15,6 +18,18 @@ commentaries: ["Samantapasadika"]
 In monastic law, *Lahubhaṇḍa* refers to the personal, consumable, or easily transferable property of the [Saṅgha](/glossary/sangha/). It stands in direct contrast to *[Garubhaṇḍa](/glossary/garubhanda/)* (heavy property like land or buildings, which can never be alienated).
 
 *Lahubhaṇḍa* primarily consists of the basic requisites: robes (*[cīvara](/glossary/civara/)*), alms bowls (*patta*), food, medicines (*[bhesajja](/glossary/bhesajja/)*), and small personal items like needles, water filters, or razors. Because this property is "light," it can be legally divided, distributed, and formally given away by the Saṅgha to individual monks according to seniority or need. For example, when a monk passes away, his robes and bowl are classified as *lahubhaṇḍa* and are legally distributed among the monks who cared for him or the resident Saṅgha.
+
+### Quote
+> **Anujānāmi, bhikkhave, saṅghena ticīvarañca pattañca gilānupaṭṭhākānaṃ dātuṃ.**  
+> Monks, I allow the Sangha to give the triple robe and the bowl to those who attended on the sick bhikkhu.
+> 
+> **Yaṃ tattha lahubhaṇḍaṃ lahuparikkhāraṃ taṃ sammukhībhūtena saṅghena bhājetuṃ.**  
+> Whatever light goods and light equipment were there, that should be divided by the Sangha present.
+> 
+> **Yaṃ tattha garubhaṇḍaṃ garuparikkhāraṃ taṃ āgatānāgatassa cātuddisassa saṅghassa avissajjikaṃ avebhaṅgikanti.**  
+> Whatever heavy goods and heavy equipment were there, that is not to be disposed of or divided; it belongs to the Sangha of the four directions, those who have come and those who have not yet come.
+> 
+> — *Mahāvaggapāḷi* (Cīvarakkhandhaka)
 
 ### Textual References
 * **[Vinaya](/glossary/vinaya/)**: *[Mahāvagga](/glossary/mahavagga/)* (Cīvarakkhandhaka) – Detailing the rules for the inheritance and distribution of a deceased monk's light property.
