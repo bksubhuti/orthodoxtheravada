@@ -21,21 +21,21 @@ Currently, the [Bodhisatta](/glossary/bodhisatta/) Metteyya is said to reside in
 
 ### Quote
 > **Asītivassasahassāyukesu, bhikkhave, manussesu metteyyo nāma bhagavā loke uppajjissati arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā.**  
-> And the Blessed One named Metteyya will arise in the world, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those fit for training, teacher of gods and humans, awakened, blessed.  
+> Bhikkhus, when human beings have a lifespan of eighty thousand years, a Blessed One named Metteyya will arise in the world, an Arahant, a Perfectly Self-Awakened Buddha, accomplished in true knowledge and conduct, Well-Gone, Knower of the Worlds, unsurpassed trainer of persons to be tamed, teacher of devas and humans, awakened, blessed.  
 > 
 > **Seyyathāpāhametarahi loke uppanno arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā.**  
-> Just as I have arisen today, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those fit for training, teacher of gods and humans, awakened, blessed.  
+> Just as I have now arisen in the world as an Arahant, a Perfectly Self-Awakened Buddha, accomplished in true knowledge and conduct, Well-Gone, Knower of the Worlds, unsurpassed trainer of persons to be tamed, teacher of devas and humans, awakened, blessed.  
 > 
 > **So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedessati, seyyathāpāhametarahi imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedemi.**  
-> He will realize with his own insight this world with its gods, Māras, and Brahmās, this population with its ascetics and brahmins, gods and humans, and make it known to others, just as I do today.  
+> He will, having realized for himself through direct knowledge, make known this world with its devas, Māras, and Brahmās, this generation with its ascetics and brahmins, its devas and humans, just as I now, having realized for myself through direct knowledge, make known this world with its devas, Māras, and Brahmās, this generation with its ascetics and brahmins, its devas and humans.  
 > 
-> **So dhammaṁ desessati ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsessati.**  
-> He will teach the Dhamma that is good in the beginning, good in the middle, and good in the end, meaningful and well-phrased; and he will reveal a spiritual practice that is entirely full and pure.  
+> **So dhammaṁ desessati ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsessati; seyyathāpāhametarahi dhammaṁ desemi ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsemi.**  
+> He will teach the Dhamma that is good in the beginning, good in the middle, and good in the end, meaningful and well-expressed; he will proclaim the holy life that is completely perfect and entirely pure, just as I now teach the Dhamma that is good in the beginning, good in the middle, and good in the end, meaningful and well-expressed, and proclaim the holy life that is completely perfect and entirely pure.  
 > 
 > **So anekasahassaṁ bhikkhusaṅghaṁ pariharissati, seyyathāpāhametarahi anekasataṁ bhikkhusaṅghaṁ pariharāmi.**  
-> He will lead a Saṅgha of many thousand mendicants, just as I lead a Saṅgha of many hundreds today.  
+> He will lead and guide a Saṅgha of many thousands of bhikkhus, just as I now lead and guide a Saṅgha of many hundreds of bhikkhus.  
 > 
-> — *Cakkavattisutta* (DN 26, trans. Bhikkhu Sujato)
+> — *Cakkavattisutta* (DN 26)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Cakkavatti-Sīhanāda Sutta* (DN 26) – The single most explicit canonical reference where Gotama Buddha prophesies the arising of Metteyya, describing him as a leader of a massive [Saṅgha](/glossary/sangha/) of thousands.
