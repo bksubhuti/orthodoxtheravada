@@ -8,6 +8,9 @@ cross_links: ["paccekabuddha", "savaka", "bodhisatta", "parami"]
 canonical_texts: ["Digha Nikaya", "Samyutta Nikaya"]
 commentaries: ["Sumangalavilasini"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Sammā-sambuddha**: [m.] Fully Enlightened Buddha; Perfectly Awakened One. Formed by *sammā* (perfectly, fully, rightly) + *sam* (by oneself) + *buddha* (awakened).
 
@@ -15,6 +18,15 @@ commentaries: ["Sumangalavilasini"]
 A *Sammā-sambuddha* is the supreme class of awakened being. This is an individual who, driven by infinite compassion, completely penetrates the Four Noble Truths independently without the aid of a teacher in a time when the [Dhamma](/glossary/dhamma/) has been entirely lost to the world.
 
 Unlike a *[Paccekabuddha](/glossary/paccekabuddha/)* (who also awakens independently but cannot teach), a *Sammā-sambuddha* acquires the supreme capacity of Omniscience (*Sabbaññuta-ñāṇa*) and the Ten Powers (*Tathāgata-bala*). This allows him to flawlessly articulate the path and establish a universal Dispensation (*Sāsana*), enabling countless other beings to achieve liberation. Becoming a *Sammā-sambuddha* requires the unimaginably long development of the Ten Perfections (*[Pāramī](/glossary/parami/)*) over billions of lifetimes.
+
+### Quote
+> **Sammā sāmañca sabbadhammānaṃ buddhattā pana sammāsambuddho.**  
+> However, because he has rightly and fully awakened to all dhammas, he is a *Sammāsambuddha*.  
+> 
+> **Tathā hesa sabbadhamme sammā sāmañca buddho, abhiññeyye dhamme abhiññeyyato buddho, pariññeyye dhamme pariññeyyato buddho, pahātabbe dhamme pahātabbato buddho, sacchikātabbe dhamme sacchikātabbato buddho, bhāvetabbe dhamme bhāvetabbato buddho.**  
+> Thus he has rightly and fully awakened to all dhammas: what is to be directly known as to be directly known; what is to be fully understood as to be fully understood; what is to be abandoned as to be abandoned; what is to be realized as to be realized; and what is to be developed as to be developed.  
+> 
+> — *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* (Sīlakkhandhavagga-aṭṭhakathā)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Mahāpadāna Sutta* (DN 14) – The detailed biography of the six Fully Enlightened Buddhas who preceded Gotama Buddha, demonstrating the universal pattern of their lives.
