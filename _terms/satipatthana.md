@@ -8,6 +8,9 @@ cross_links: ["sati", "samadhi", "vipassana", "kandhavabhana"]
 canonical_texts: ["Majjhima Nikaya", "Digha Nikaya", "Vibhanga"]
 commentaries: ["Sumangalavilasini", "Papancasudani"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Satipaṭṭhāna**: [nt.] foundation of mindfulness; establishment of awareness. Can be etymologically broken down into two distinct ways by the commentaries:
 1. *[Sati](/glossary/sati/)* + *upaṭṭhāna*: The placing near, setting up, or establishing of mindfulness.
@@ -21,6 +24,18 @@ The system is split into four progressive, comprehensive observational matrices:
 2. *Vedanānupassanā* (Contemplation of Feelings): Clearly registering the affective quality of experience as pleasant (*[sukha](/glossary/sukha/)*), painful (*[dukkha](/glossary/dukkha/)*), or neutral (*adekkhamasūkham*), whether worldly or spiritual.
 3. *Cittānupassanā* (Contemplation of Mind): Noting the current state of consciousness, identifying whether it is accompanied by greed, anger, delusion, or concentrated integration.
 4. *Dhammānupassanā* (Contemplation of Phenomena/Mental Objects): Dissecting mental patterns under the framework of the five hindrances, five aggregates, six sense bases, seven enlightenment factors, and the Four Noble Truths.
+
+### Quote
+> **373. ‘‘Ekāyano ayaṃ, bhikkhave, maggo sattānaṃ visuddhiyā, sokaparidevānaṃ samatikkamāya dukkhadomanassānaṃ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṃ cattāro satipaṭṭhānā.**  
+> 373. “Monks, this is the one-way path for the purification of beings, for the overcoming of sorrow and lamentation, for the passing away of pain and displeasure, for the attainment of the path, for the realization of Nibbāna—namely, the four satipaṭṭhānā.
+> 
+> **‘‘Katame cattāro?**  
+> “Which four?
+> 
+> **Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ, citte cittānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ.**  
+> Here, monks, a bhikkhu dwells contemplating the body in the body, ardent, clearly comprehending, and mindful, removing covetousness and displeasure in the world. He dwells contemplating feelings in feelings, ardent, clearly comprehending, and mindful, removing covetousness and displeasure in the world. He dwells contemplating mind in mind, ardent, clearly comprehending, and mindful, removing covetousness and displeasure in the world. He dwells contemplating phenomena in phenomena, ardent, clearly comprehending, and mindful, removing covetousness and displeasure in the world.
+> 
+> — *Mahāsatipaṭṭhānasuttaṃ* (mula_di_02)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *Satipaṭṭhāna Sutta* (MN 10) / *Mahāsatipaṭṭhāna Sutta* (DN 22) – The supreme meditation discourses of the Pāḷi Canon.

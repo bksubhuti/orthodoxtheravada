@@ -8,6 +8,9 @@ cross_links: ["ariya", "magga", "arahat"]
 canonical_texts: ["Samyutta Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
+
+Verified
+
 ### Overview
 The Ten Fetters (*[Saṃyojana](/glossary/samyojana/)*) are the complete psychological chains that bind a being to the cycle of birth and death. The four stages of awakening are defined entirely by which of these ten fetters have been permanently broken. 
 
@@ -25,6 +28,11 @@ The Ten Fetters (*[Saṃyojana](/glossary/samyojana/)*) are the complete psychol
 8. **[Māna](/glossary/mana/)** - Conceit / "I am" measuring (Broken by Arahatship).
 9. **[Uddhacca](/glossary/uddhacca/)** - Restlessness (Broken by Arahatship).
 10. **[Avijjā](/glossary/avijja/)** - Ignorance of the Four Noble Truths (Broken by Arahatship).
+
+### Quote
+> **Dasa saṃyojanāni – kāmarāgasaṃyojanaṃ, paṭighasaṃyojanaṃ, mānasaṃyojanaṃ, diṭṭhisaṃyojanaṃ, vicikicchāsaṃyojanaṃ, sīlabbataparāmāsasaṃyojanaṃ, bhavarāgasaṃyojanaṃ, issāsaṃyojanaṃ, macchariyasaṃyojanaṃ, avijjāsaṃyojanaṃ.**  
+> 
+> — *Cūḷaniddesapāḷi*
 
 ### Textual References
 * **Canonical**: *Saṃyojana [Sutta](/glossary/sutta/)* (SN 45.179-180) – The explicit listing of the lower and higher fetters.
