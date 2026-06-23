@@ -8,6 +8,9 @@ cross_links: ["bodhi", "sati", "dhammavicaya", "viriya", "piti", "passaddhi", "s
 canonical_texts: ["Samyutta Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Sammohavinodani"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Bojjhaṅga**: [m.] factor of enlightenment. Formed by *[bodhi](/glossary/bodhi/)* (awakening/enlightenment) + *aṅga* (factor, limb, component). Meaning: the operational components or limbs that directly bring about spiritual awakening.
 
@@ -24,6 +27,13 @@ The seven factors are structured in a precise developmental sequence:
 7. *[Upekkhā](/glossary/upekkha/)-sambojjhaṅga*: Equanimity. Supreme, detached balance.
 
 The commentaries note that when the mind is sluggish, one should activate the active factors (investigation, energy, rapture). When the mind is restless, one should activate the calming factors (tranquility, concentration, equanimity). Mindfulness remains universally useful at all times to govern the entire system.
+
+
+### Quote
+> **35. Satta bojjhaṅgā – satisambojjhaṅgo dhammavicayasambojjhaṅgo vīriyasambojjhaṅgo pītisambojjhaṅgo passaddhisambojjhaṅgo samādhisambojjhaṅgo upekkhāsambojjhaṅgo.**  
+> 35. Seven factors of enlightenment – mindfulness factor of enlightenment, investigation of phenomena factor of enlightenment, energy factor of enlightenment, rapture factor of enlightenment, tranquility factor of enlightenment, concentration factor of enlightenment, equanimity factor of enlightenment.
+> 
+> — *Abhidhammatthasaṅgaho*
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *[Ānāpānasati](/glossary/anapanasati/) Sutta* (MN 118) – Detailing how the perfect development of the four foundations of mindfulness naturally fulfills the seven enlightenment factors.
