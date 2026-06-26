@@ -8,6 +8,9 @@ cross_links: ["patisandhi", "cuti-citta", "citta", "vinnana"]
 canonical_texts: ["Patthana", "Kathavatthu"]
 commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 ---
+
+Verified
+
 ### Grammatical Analysis
 **Bhavaṅga**: [nt.] life-continuum; factor of existence; subconscious life-stream. Formed by *bhava* (existence, becoming) + *aṅga* (factor, limb, cause). Meaning: the underlying mental factor that sustains existence.
 
@@ -17,6 +20,12 @@ commentaries: ["Visuddhimagga", "Abhidhammatthasangaha"]
 The *bhavaṅga* is identical in ethical quality and object to the rebirth-linking consciousness (*[paṭisandhi](/glossary/patisandhi/)-[citta](/glossary/citta/)*) of that specific lifetime. It is the state the mind drops into during deep, dreamless sleep. 
 
 When a sensory object (like a sound) strikes the ear, the *bhavaṅga* stream vibrates and arrests (*bhavaṅga-upaccheda*), allowing an active cognitive series (*[citta](/glossary/citta/)-vīthi*) to rise up, process the sound, generate wholesome or unwholesome [kamma](/glossary/kamma/), and then immediately sink back into the passive *bhavaṅga* state. It bridges the gaps between active thoughts, ensuring the mind-stream never breaks during a lifetime.
+
+### Quote
+> **Āvajjanassa anantarapaccayabhūtaṃ bhavaṅgacittaṃ manodvāraṃ vīthicittānaṃ pavattimukhabhāvato.**  
+> The bhavanga-citta (life-continuum consciousness) that is an immediate condition for advertising-consciousness is the manodvāra (mind-door), because it is the opening for the arising of process-consciousnesses.
+> 
+> — *Abhidhammatthasaṅgaho*
 
 ### Textual References
 * **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – Establishing the functional conditions of the life-continuum.
