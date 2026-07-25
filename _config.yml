@@ -10,6 +10,9 @@ url: "https://orthodoxtheravada.org"
 logo: /images/orthodox_theravada_logo.png
 og_image: /images/orthodox_theravada_logo.png
 
+# Set to true to only publish verified lists, terms, and articles
+publish_only_verified: true
+
 search: true
 search_provider: lunr
 
