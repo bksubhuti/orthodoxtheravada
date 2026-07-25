@@ -1,7 +1,7 @@
 module Jekyll
   class PublishVerifiedOnly < Generator
     safe true
-    priority :low
+    priority :highest
 
     def generate(site)
       # Only run if the setting is explicitly set to true

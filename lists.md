@@ -21,9 +21,10 @@ Welcome to the Numerical Dhamma Lists. Here you will find structured, doctrinal 
       <div class="ot-index-grid">
       {% assign current_count = list.list_count %}
     {% endif %}
-    
+    {% assign stripped_content = list.content | strip_html | strip %}
+    {% assign check_start = stripped_content | truncate: 10, "" | downcase %}
     <a href="{{ list.url | relative_url }}" class="ot-index-card">
-      <strong class="ot-index-card__title">{{ list.title }}</strong>
+      <strong class="ot-index-card__title">{{ list.title }}{% if check_start contains "verified" %} ✔️{% endif %}</strong>
       {% if list.pali_title %}
         <span class="ot-index-card__subtitle">({{ list.pali_title }})</span>
       {% endif %}
