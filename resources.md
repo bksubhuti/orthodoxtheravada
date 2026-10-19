@@ -7,8 +7,6 @@ description: "Resources for studying and practicing Orthodox Theravāda Buddhism
 excerpt: "Books, Pāḷi tools, videos, and useful links."
 ---
 
-Explore our curated resources for studying and practicing Orthodox Theravāda Buddhism.
-
 <div class="ot-card-grid">
 
   <a href="/books" class="ot-nav-card" id="books-card">
