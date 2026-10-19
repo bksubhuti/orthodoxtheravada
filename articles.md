@@ -7,7 +7,8 @@ permalink: /articles/
 Welcome to the articles section of Orthodox Theravāda.
 
 <div class="ot-article-list">
-  {% for post in site.articles %}
+  {% assign sorted_articles = site.articles | sort: "date" | reverse %}
+  {% for post in sorted_articles %}
   <a href="{{ post.url | relative_url }}" class="ot-article-card">
     {% if post.featured_image %}
       <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}" class="ot-article-card__thumb">
