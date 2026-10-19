@@ -11,7 +11,7 @@ toc_sticky: true
 
 **The question.** The Anattalakkhaṇa Sutta tells the monks to see every aggregate, "whatever it is", in eleven ways: past, future, present; internal, external; gross, subtle; inferior, superior; far, near. Can these eleven be understood and practised from the suttas alone, or do they need the Abhidhamma and the commentaries? This paper explains each way, compares the Vinaya and Saṃyutta versions of the sutta and its parallels, and ends with a practical method.
 
-All Pali and most translations come from the Tipitaka Pali Reader (TPR) databases. Where TPR's translation is wrong or garbled, I give my own, marked "(tr. Claude)". Passage codes such as Vibh 13:2 are TPR paragraph and line numbers.
+All Pali and most translations come from the Tipitaka Pali Reader (TPR) databases. Where TPR's translation is wrong or garbled, Claude retranslated the passage; these are marked "(retranslated by Claude)". Passage codes such as Vibh 13:2 are TPR paragraph and line numbers.
 
 ## Summary
 
@@ -107,7 +107,7 @@ The commentary adds a second scheme of four measures: extent (addhā, one life),
 
 > **Evaṃ santepi suttantabhājanīyampi abhidhammadesanāyeva suttante vuttadhamme vicinitvā vibhajanavasena pavattāti abhidhammaniddeseneva atītādibhāvo niddiṭṭhoti.**
 >
-> Even so, the Suttantabhājanīya too is Abhidhamma teaching, which proceeds by sifting and analysing the dhammas stated in the suttas; so past and so on are set out by the Abhidhamma exposition. (tr. Claude)
+> Even so, the Suttantabhājanīya too is Abhidhamma teaching, which proceeds by sifting and analysing the dhammas stated in the suttas; so past and so on are set out by the Abhidhamma exposition. (retranslated by Claude)
 >
 > [Vibhaṅga-mūlaṭīkā, p. 6 (TPR)](https://tpr.pali.tools/open?book_id=tika_bi_02_01&page_number=6&name=vibha%E1%B9%85gam%C5%ABla%E1%B9%AD%C4%ABk%C4%81+%28pa%29&note=&selected_text=RXZh4bmDIHNhbnRlcGkgc3V0dGFudGFiaMSBamFuxKt5YW1waSBhYmhpZGhhbW1hZGVzYW7EgXlldmEgc3V0dGFudGUgdnV0dGFkaGFtbWU%3D)
 
@@ -127,13 +127,13 @@ The Mahāṭīkā endorses the Visuddhimagga wording and gives the reason. In th
 >
 > [Visuddhimagga-mahāṭīkā II, p. 156 (TPR)](https://tpr.pali.tools/open?book_id=annya_bi_04&page_number=156&name=visuddhimaggamah%C4%81%E1%B9%AD%C4%ABk%C4%81+%28du%29&note=&selected_text=RXR0aGEgY2Ega2hh4bmHxIFkaWthdGjEgXlh4bmDIOKAmOKAmCB0YXRvIHB1YmJl)
 
-My reading is that both wordings are coherent. The Vibh-a wording counts other dhammas: those that arose before the present one are past, as in its other measures. The Visuddhimagga wording follows one dhamma through its own life. The texts do not say this; it is my reading, and I did not check other editions. The present itself is the same in both: the three sub-moments of arising, standing and dissolution. So this is not a doctrinal conflict.
+Read this way, both wordings are coherent. The Vibh-a wording counts other dhammas: those that arose before the present one are past, as in its other measures. The Visuddhimagga wording follows one dhamma through its own life. The texts do not say this; it is an interpretation, and other editions were not checked. The present itself is the same in both: the three sub-moments of arising, standing and dissolution. So this is not a doctrinal conflict.
 
 The Itivuttaka-aṭṭhakathā adds a point the drafts missed: past and future are divisions of dhammas, and "time" is only a convention built on them:
 
 > **Ayañhi atītādibhedo nāma dhammānaṃ hoti, na kālassa. Atītādibhede pana dhamme upādāya paramatthato avijjamānopi kālo idha teneva vohārena atītotiādinā vuttoti veditabbo.**
 >
-> For this division into past and so on belongs to dhammas, not to time. Time does not exist in the ultimate sense; but with reference to dhammas divided as past and so on, it is here called "past" and so on by that same convention. (tr. Claude)
+> For this division into past and so on belongs to dhammas, not to time. Time does not exist in the ultimate sense; but with reference to dhammas divided as past and so on, it is here called "past" and so on by that same convention. (retranslated by Claude)
 >
 > [Itivuttaka-aṭṭhakathā, p. 200 (TPR)](https://tpr.pali.tools/open?book_id=attha_ku_04&page_number=200&name=itivuttakaa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=QXlhw7FoaSBhdMSrdMSBZGliaGVkbyBuxIFtYSBkaGFtbcSBbmHhuYMgaG90aSwgbmE%3D)
 
@@ -319,7 +319,7 @@ Second, the practice itself is in the Mūla. The Paṭisambhidāmagga, a Khuddak
 
 > **Yasmā kalāpasammasanaṃ nāma ekavisuddhiyampi na antogadhaṃ, ekacce ca taṃ anāmasitvāva vipassanācāraṃ vaṇṇenti. Evaṃ santepi taṃ suttantesu ekadesena, anavasesato ca dassitaṃ. Paṭisambhidāyaṃ ādikammikānaṃ manasikārasukaratāya vipassanāya ādibhāvena ṭhapitaṃ.**
 >
-> Comprehension by groups is not included in any single purification, and some describe the course of insight without touching it at all. Even so, it is shown in the suttas, both partially and without remainder. In the Paṭisambhidā it is placed at the start of insight, because it is easy for beginners to attend to. (tr. Claude)
+> Comprehension by groups is not included in any single purification, and some describe the course of insight without touching it at all. Even so, it is shown in the suttas, both partially and without remainder. In the Paṭisambhidā it is placed at the start of insight, because it is easy for beginners to attend to. (retranslated by Claude)
 >
 > [Visuddhimagga-mahāṭīkā II, p. 387 (TPR)](https://tpr.pali.tools/open?book_id=annya_bi_04&page_number=387&name=visuddhimaggamah%C4%81%E1%B9%AD%C4%ABk%C4%81+%28du%29&note=&selected_text=WWFzbcSBIGthbMSBcGFzYW1tYXNhbmHhuYMgbsSBbWEgZWthdmlzdWRkaGl5YW1waSBuYSBhbnRvZ2FkaGHhuYMs)
 
@@ -345,7 +345,7 @@ SN 22.37 speaks of form "unborn, unmanifest" ([S-iii 196:1](https://tpr.pali.too
 
 **The answer.** The case proves that the formula can be practised from the suttas. It does not prove that each of the eleven can be understood from them.
 
-(a) *The five ways the suttas never define for an aggregate.* I searched the exact strings a definition would need. Results are sentences in TPR's index:
+(a) *The five ways the suttas never define for an aggregate.* The search covered the exact strings a definition would need. Results are sentences in TPR's index:
 
 | Search | Mūla | Where |
 | --- | --- | --- |
@@ -396,7 +396,7 @@ The Samantapāsādikā uses the same three "presents" in a Vinaya ruling on kill
 
 **The question.** Point 4 showed that no sutta defines the eleven ways *together with the formula*. A stronger objection remains. Could a careful reader gather definitions piece by piece from other suttas, and from the suttanta material in the Vinaya, and so build the list without the Abhidhamma? Is that really plausible?
 
-**Method.** I searched every Mūla book except the seven Abhidhamma books: the four Nikāyas, the Khuddaka (including Niddesa, Paṭisambhidāmagga, Netti, Peṭakopadesa and Milinda) and the whole Vinaya. For each slot I looked for any passage that could fill it, for each of the five aggregates. Then I compared each find with the Vibhaṅga's definition. That gives 5 groups (the three times count as one group) × 5 aggregates = 25 cells.
+**Method.** The search covered every Mūla book except the seven Abhidhamma books: the four Nikāyas, the Khuddaka (including Niddesa, Paṭisambhidāmagga, Netti, Peṭakopadesa and Milinda) and the whole Vinaya. For each slot, and for each of the five aggregates, it looked for any passage that could fill it. Each find was then compared with the Vibhaṅga's definition. That gives 5 groups (the three times count as one group) × 5 aggregates = 25 cells.
 
 ### 5.1 What the search finds, slot by slot
 
@@ -430,7 +430,7 @@ Other sutta uses point the other way. The nutriment formula says solid food is i
 
 > **bhesajjāni ceva bhesajjasammatāni ca lokassa, āhāratthañca pharanti, na ca oḷāriko āhāro paññāyati.**
 >
-> They are medicines and are agreed by the world to be medicines; they do the work of nutriment, yet no gross food shows in them. (tr. Claude)
+> They are medicines and are agreed by the world to be medicines; they do the work of nutriment, yet no gross food shows in them. (retranslated by Claude)
 >
 > [Mahāvaggapāḷi, p. 290 (TPR)](https://tpr.pali.tools/open?book_id=mula_vi_03&page_number=290&name=mah%C4%81vaggap%C4%81%E1%B8%B7i&note=&selected_text=Ymhlc2FqasSBbmkgY2V2YSBiaGVzYWpqYXNhbW1hdMSBbmkgY2EgbG9rYXNzYSwgxIFoxIFyYXR0aGHDsWNh)
 
@@ -448,7 +448,7 @@ So a reader who builds "gross form" from the nutriment line or the Vinaya would 
 
 > **Vivekajapītisukhasukhumasaccasaññā tasmiṃ samaye hoti, vivekajapītisukhasukhuma-saccasaññīyeva tasmiṃ samaye hoti.**
 >
-> On that occasion there is a subtle and true perception of the rapture and pleasure born of seclusion, and he is one who perceives that subtle truth. (tr. Claude)
+> On that occasion there is a subtle and true perception of the rapture and pleasure born of seclusion, and he is one who perceives that subtle truth. (retranslated by Claude)
 >
 > [DN1-Sīlakkhandhavaggapāḷi, p. 169 (TPR)](https://tpr.pali.tools/open?book_id=mula_di_01&page_number=169&name=s%C4%ABlakkhandhavaggap%C4%81%E1%B8%B7i&note=&selected_text=Vml2ZWthamFwxKt0aXN1a2hhc3VraHVtYXNhY2Nhc2HDscOxxIEgdGFzbWnhuYMgc2FtYXllIGhvdGksIHZpdmVrYWphcMSrdGlzdWtoYXN1a2h1bWEtc2FjY2FzYcOxw7HEq3lldmEgdGFzbWnhuYM%3D)
 
@@ -456,7 +456,7 @@ At the summit the monk declines to intend, "lest other, grosser perceptions aris
 
 > **Ahañceva kho pana ceteyyaṃ, abhisaṅkhareyyaṃ, imā ca me saññā nirujjheyyuṃ, aññā ca oḷārikā saññā uppajjeyyuṃ;**
 >
-> If I were to intend and will, these perceptions of mine would cease and other, grosser perceptions would arise. (tr. Claude)
+> If I were to intend and will, these perceptions of mine would cease and other, grosser perceptions would arise. (retranslated by Claude)
 >
 > [DN1-Sīlakkhandhavaggapāḷi, p. 171 (TPR)](https://tpr.pali.tools/open?book_id=mula_di_01&page_number=171&name=s%C4%ABlakkhandhavaggap%C4%81%E1%B8%B7i&note=&selected_text=QWhhw7FjZXZhIGtobyBwYW5hIGNldGV5eWHhuYMsIGFiaGlzYeG5hWtoYXJleXlh4bmDLCBpbcSB)
 
@@ -480,7 +480,7 @@ DN 15 names the contacts; it does not call one gross and the other subtle.
 
 *Formations.* The suttas speak of "gross bodily, verbal and mental formations" being calmed ([D-ii 794:4](https://tpr.pali.tools/open?book_id=mula_di_02&page_number=173&name=mah%C4%81vaggap%C4%81%E1%B8%B7i&note=&selected_text=VGFzc2Egb%2BG4t8SBcmlrxIFuYeG5gyBrxIF5YXNh4bmFa2jEgXLEgW5h4bmDIHBh4bmtaXBwYXNzYWRkaGl5xIEgb%2BG4t8SBcmlrxIFuYeG5gyB2YWPEq3Nh4bmFa2jEgXLEgW5h4bmD)), and of "the gradual stilling of formations" ([S-iv 1340:21](https://tpr.pali.tools/open?book_id=mula_sa_04&page_number=418&name=sa%E1%B8%B7%C4%81yatanavaggasa%E1%B9%83yuttap%C4%81%E1%B8%B7i&note=&selected_text=QXRoYSBraG8sIGJoaWtraHUsIG1hecSBIGFudXB1YmJhc2HhuYVraMSBcsSBbmHhuYMgdsWrcGFzYW1v), SN 36.11). This is the second trap. "Bodily formation" there is the breath, which belongs to the *form* aggregate, and "mental formation" is perception and feeling. The word saṅkhāra is the same; the aggregate is not.
 
-*Feeling and consciousness.* I found nothing. "Oḷārikā vedanā", "sukhumā vedanā", "oḷārikaṃ viññāṇaṃ" and "sukhumaṃ viññāṇaṃ" give 0 hits outside the Abhidhamma books. MN 59's ladder of ever finer happiness uses "paṇītatara" (more superior), not "sukhuma"; it belongs to the next pair.
+*Feeling and consciousness.* Nothing was found. "Oḷārikā vedanā", "sukhumā vedanā", "oḷārikaṃ viññāṇaṃ" and "sukhumaṃ viññāṇaṃ" give 0 hits outside the Abhidhamma books. MN 59's ladder of ever finer happiness uses "paṇītatara" (more superior), not "sukhuma"; it belongs to the next pair.
 
 **Inferior and superior.** Here the piecemeal reader does well.
 
@@ -500,7 +500,7 @@ The superior line follows ([S-ii 735:1](https://tpr.pali.tools/open?book_id=mula
 
 > **Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.**
 >
-> There is, Ānanda, another happiness more excellent and more superior than that happiness. (tr. Claude)
+> There is, Ānanda, another happiness more excellent and more superior than that happiness. (retranslated by Claude)
 >
 > [MN2-Majjhimapaṇṇāsapāḷi, p. 60 (TPR)](https://tpr.pali.tools/open?book_id=mula_ma_02&page_number=60&name=majjhimapa%E1%B9%87%E1%B9%87%C4%81sap%C4%81%E1%B8%B7i&note=&selected_text=QXR0aMSBbmFuZGEsIGV0YW1oxIEgc3VraMSBIGHDscOxYeG5gyBzdWtoYeG5gyBhYmhpa2thbnRhdGFyYcOxY2E%3D)
 
@@ -510,7 +510,7 @@ SN 36.31 adds "carnal, non-carnal, and more non-carnal than the non-carnal" ([S-
 
 > **Avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ hīnāya dhātuyā viññāṇaṃ patiṭṭhitaṃ evaṃ āyatiṃ punabbhavābhinibbatti hoti.**
 >
-> For beings hindered by ignorance and fettered by craving, consciousness is established in an inferior element; thus there is the production of renewed existence in the future. (tr. Claude)
+> For beings hindered by ignorance and fettered by craving, consciousness is established in an inferior element; thus there is the production of renewed existence in the future. (retranslated by Claude)
 >
 > [AN3-Tikanipātapāḷi, p. 224 (TPR)](https://tpr.pali.tools/open?book_id=mula_an_03&page_number=224&name=tikanip%C4%81tap%C4%81%E1%B8%B7i&note=&selected_text=QXZpamrEgW7Eq3ZhcmHhuYfEgW5h4bmDIHNhdHTEgW5h4bmDIHRh4bmHaMSBc2HhuYN5b2phbsSBbmHhuYMgaMSrbsSBeWEgZGjEgXR1ecSBIHZpw7HDscSB4bmHYeG5gw%3D%3D)
 
@@ -544,7 +544,7 @@ For the mind, the Vibhaṅga's "far" means *unlike*: unwholesome feeling is far 
 
 > **Satañca, bhikkhave, dhammo asatañca dhammo; idaṃ catutthaṃ suvidūravidūre.**
 >
-> The Dhamma of the good and the Dhamma of the bad, monks: this is the fourth pair that are very far apart. (tr. Claude)
+> The Dhamma of the good and the Dhamma of the bad, monks: this is the fourth pair that are very far apart. (retranslated by Claude)
 >
 > [AN4-Catukkanipātapāḷi, p. 360 (TPR)](https://tpr.pali.tools/open?book_id=mula_an_04&page_number=360&name=catukkanip%C4%81tap%C4%81%E1%B8%B7i&note=&selected_text=U2F0YcOxY2EsIGJoaWtraGF2ZSwgZGhhbW1vIGFzYXRhw7FjYSBkaGFtbW87)
 
@@ -638,7 +638,7 @@ On gross and subtle, Tipiṭaka Cūḷanāga refused to apply the pair to unwhol
 
 This is a late view in TPR's "Añña" layer. The Abhidhammatthasaṅgaha itself allows comprehension "by extent, by continuity, or by moment" ([Abhidh-s 822:1](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=64&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=NTMuIFRhdG8gcGFyYeG5gyBwYW5hIHRhdGjEgXBhcmlnZ2FoaXRlc3Ugc2FwcGFjY2F5ZXN1)). Present it as one teacher's caution, not as the commentarial rule.
 
-**My bias, stated openly.** This paper follows the orthodox method, so it gives the Aṭṭhakathā and Ṭīkā the final word where the Vibhaṅga leaves a choice. That is a decision of method, not a proof. Where a sutta speaks plainly, as MN 133 does on the life-span present, the commentaries themselves keep its sense as "addhāpaccuppanna".
+**The bias, stated openly.** This paper follows the orthodox method, so it gives the Aṭṭhakathā and Ṭīkā the final word where the Vibhaṅga leaves a choice. That is a decision of method, not a proof. Where a sutta speaks plainly, as MN 133 does on the life-span present, the commentaries themselves keep its sense as "addhāpaccuppanna".
 
 ## 7. The Vinaya and Saṃyutta Anattalakkhaṇa are one discourse in two settings, each with its own commentary chain.
 
@@ -689,7 +689,7 @@ The same ṭīkā then explains all eleven ways ([Sp-t-iii 963](https://tpr.pali
 
 > **Etaṃ mamātiādi yathākkamaṃ taṇhāmānadiṭṭhigāhānaṃ dassanaṃ.**
 >
-> "This is mine" and the rest show, in order, the graspings of craving, conceit and view. (tr. Claude)
+> "This is mine" and the rest show, in order, the graspings of craving, conceit and view. (retranslated by Claude)
 >
 > [Vimativinodnī-Mahāvagga, p. 92 (TPR)](https://tpr.pali.tools/open?book_id=tika_vi_06&page_number=92&name=vimativinodan%C4%AB%E1%B9%AD%C4%ABk%C4%81+%28du%29&note=&selected_text=RXRh4bmDIG1hbcSBdGnEgWRpIHlhdGjEgWtrYW1h4bmDIHRh4bmHaMSBbcSBbmFkaeG5reG5rWhpZ8SBaMSBbmHhuYMgZGFzc2FuYeG5gy4%3D)
 
@@ -757,7 +757,7 @@ This is the Visuddhimagga's kalāpasammasana (Vism XX), built on Paṭisambhidā
 
 > **Tasmā esa yaṃ atītaṃ rūpaṃ, taṃ yasmā atīteyeva khīṇaṃ, nayimaṃ bhavaṃ sampattanti aniccaṃ khayaṭṭhena.**
 >
-> So he comprehends: past form ended in the past itself and did not reach this existence; so it is impermanent in the sense of ending. (tr. Claude)
+> So he comprehends: past form ended in the past itself and did not reach this existence; so it is impermanent in the sense of ending. (retranslated by Claude)
 >
 > [Visuddhimaggo II, p. 245 (TPR)](https://tpr.pali.tools/open?book_id=annya_bi_02&page_number=245&name=visuddhimaggo+%28du%29&note=&selected_text=VGFzbcSBIGVzYSB5YeG5gyBhdMSrdGHhuYMgcsWrcGHhuYMsIHRh4bmD)
 
@@ -783,7 +783,7 @@ Use the commentarial senses from points 2 and 3 for each slot. For time, take co
 
 > **Yathā rūpakkhandhe abhedato tividhaṃ sammasanaṃ, bhedato tettiṃsavidhaṃ, evaṃ vedanākkhandhādīsupīti imamatthaṃ ‘‘ esa nayo ’’ti atidisati. Tena khandhavasena tāva bhedato pañcasaṭṭhiadhikā sataṃ sammasanavārā dassitā honti.**
 >
-> Just as the comprehension of the form aggregate is threefold undivided and thirty-threefold divided, so too for the feeling aggregate and the rest: "this is the method" extends that meaning. So, by aggregates, one hundred and sixty-five rounds of comprehension are shown by division. (tr. Claude)
+> Just as the comprehension of the form aggregate is threefold undivided and thirty-threefold divided, so too for the feeling aggregate and the rest: "this is the method" extends that meaning. So, by aggregates, one hundred and sixty-five rounds of comprehension are shown by division. (retranslated by Claude)
 >
 > [Visuddhimagga-mahāṭīkā II, p. 392 (TPR)](https://tpr.pali.tools/open?book_id=annya_bi_04&page_number=392&name=visuddhimaggamah%C4%81%E1%B9%AD%C4%ABk%C4%81+%28du%29&note=&selected_text=WWF0aMSBIHLFq3Bha2toYW5kaGUgYWJoZWRhdG8gdGl2aWRoYeG5gyBzYW1tYXNhbmHhuYMsIGJoZWRhdG8%3D)
 
