@@ -21,7 +21,7 @@ Meditation in the Orthodox Theravāda tradition follows the path laid out in the
     </div>
     <div class="ot-tool-card__body">
       <h3>Pa-Auk Society</h3>
-      <p>Pa-Auk Tawya is one of the foremost meditation monasteries in the world, teaching *samatha* and *vipassanā* strictly according to the Pāḷi Canon and *Visuddhimagga*. Courses and retreats are available for both monastics and laypeople.</p>
+      <p>Pa-Auk Tawya is one of the foremost meditation monasteries in the world, teaching <em>samatha</em> and <em>vipassanā</em> strictly according to the Pāḷi Canon and <em>Visuddhimagga</em>. Courses and retreats are available for both monastics and laypeople.</p>
       <span class="ot-tool-card__cta">Visit paauksociety.org →</span>
     </div>
   </a>

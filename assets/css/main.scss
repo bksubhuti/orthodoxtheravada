@@ -609,6 +609,14 @@ a { text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
 }
 
 /* --- Pāḷi Tools cards --- */
+/* Tool cards carry a paragraph each, so they run as full-width rows like the links page */
+.ot-card-grid:has(.ot-tool-card) {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  .ot-tool-card { margin-bottom: 0; }
+}
+
 .ot-tool-card {
   display: flex;
   align-items: flex-start;
@@ -909,6 +917,13 @@ a { text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
    ============================================================ */
 
 .btn { font-family: $ui-font; border-radius: 999px; font-weight: 600; }
+
+/* Buttons keep their own colours (the reading-text link style would turn the text maroon) */
+.page__content a.btn {
+  text-decoration: none;
+  &.btn--primary { color: #fff; background-color: $primary-color; }
+  &.btn--primary:hover { color: #fff; background-color: $primary-color-dark; }
+}
 
 .search-content .search-input { font-family: $ui-font; letter-spacing: -0.02em; }
 
