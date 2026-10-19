@@ -4,8 +4,6 @@ layout: single
 permalink: /articles/
 ---
 
-Welcome to the articles section of Orthodox Theravāda.
-
 <div class="ot-article-list">
   {% assign sorted_articles = site.articles | sort: "date" | reverse %}
   {% for post in sorted_articles %}
