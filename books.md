@@ -13,16 +13,16 @@ Explore free PDF books from the Buddhist Publication Society and other classical
 
 ### Orthodox Theravāda Reference Library (BPS Editions)
 
-You can find the complete BPS library at [BPS Online Library](https://www.bps.lk/library.php).
+BPS has moved its free books to a new [BPS Online Library](https://www.bps.lk/online-library), which so far holds only a few titles. The books below are BPS's own PDFs, kept by the Internet Archive.
 
 <div class="ot-index-grid">
 
-  <a href="https://www.bps.lk/olib/bp/bp207h_The-Path-of-Purification-(Visuddhimagga).pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20251028222246id_/https://www.bps.lk/olib/bp/bp207h_The-Path-of-Purification-(Visuddhimagga).pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Path of Purification (Visuddhimagga)</strong>
     <span class="ot-index-card__subtitle">Bhadantācariya Buddhaghosa (Trans. Bhikkhu Ñāṇamoli)</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp304s_Bfodhi_Comprehensive_Manual_of_Abhidhamma.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20260520082906id_/https://www.bps.lk/olib/bp/bp304s_Bfodhi_Comprehensive_Manual_of_Abhidhamma.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">A Comprehensive Manual of Abhidhamma</strong>
     <span class="ot-index-card__subtitle">Bhikkhu Bodhi</span>
   </a>
@@ -32,47 +32,47 @@ You can find the complete BPS library at [BPS Online Library](https://www.bps.lk
     <span class="ot-index-card__subtitle">Narada Thera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp102s_Narada-Buddha_and_His_Teachings.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20260730104000id_/https://www.bps.lk/olib/bp/bp102s_Narada-Buddha_and_His_Teachings.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Buddha and His Teachings</strong>
     <span class="ot-index-card__subtitle">Narada Mahathera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp201s_Nyanatiloka_life-Of-The-Buddha.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20240620181148id_/https://www.bps.lk/olib/bp/bp201s_Nyanatiloka_life-Of-The-Buddha.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Word of the Buddha</strong>
     <span class="ot-index-card__subtitle">Nyanatiloka Thera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp202s_Nyanatiloka_Buddhas-Path-To-Deliverance.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20250805230208id_/https://www.bps.lk/olib/bp/bp202s_Nyanatiloka_Buddhas-Path-To-Deliverance.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Path to Deliverance</strong>
     <span class="ot-index-card__subtitle">Nyanatiloka Thera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/wh/wh394_Nyanatiloka_Fundamentals-of-Buddhism--Four-Lectures.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20250123134220id_/https://www.bps.lk/olib/wh/wh394_Nyanatiloka_Fundamentals-of-Buddhism--Four-Lectures.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">Fundamentals of Buddhism</strong>
     <span class="ot-index-card__subtitle">Nyanatiloka Thera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp103s_Piyadassi_Buddhas-Ancient-Path.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20240630044800id_/https://www.bps.lk/olib/bp/bp103s_Piyadassi_Buddhas-Ancient-Path.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Buddha's Ancient Path</strong>
     <span class="ot-index-card__subtitle">Piyadassi Thera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp506s_Nyanarama_Seven-Stages-of-Purification.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20240519103911id_/https://www.bps.lk/olib/bp/bp506s_Nyanarama_Seven-Stages-of-Purification.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Seven Stages of Purification</strong>
     <span class="ot-index-card__subtitle">Matara Sri Nanarama</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/bp/bp101s_Nyanamoli_Life-Of-The-Buddha.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20250826200904id_/https://www.bps.lk/olib/bp/bp101s_Nyanamoli_Life-Of-The-Buddha.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Life of the Buddha</strong>
     <span class="ot-index-card__subtitle">Nanamoli Thera</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/wh/wh308_Bodhi_Noble-Eightfold-Path.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20250806000902id_/https://www.bps.lk/olib/wh/wh308_Bodhi_Noble-Eightfold-Path.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Noble Eightfold Path</strong>
     <span class="ot-index-card__subtitle">Bhikkhu Bodhi</span>
   </a>
 
-  <a href="https://www.bps.lk/olib/wh/wh054_Narada-Kassapa_Mirror-of-the-Dhamma.pdf" target="_blank" rel="noopener" class="ot-index-card">
+  <a href="https://web.archive.org/web/20250515133057id_/https://www.bps.lk/olib/wh/wh054_Narada-Kassapa_Mirror-of-the-Dhamma.pdf" target="_blank" rel="noopener" class="ot-index-card">
     <strong class="ot-index-card__title">The Mirror of the Dhamma</strong>
     <span class="ot-index-card__subtitle">Narada Thera & Bhikkhu Kassapa</span>
   </a>
