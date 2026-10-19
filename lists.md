@@ -12,6 +12,14 @@ Welcome to the Numerical Dhamma Lists. Here you will find structured, doctrinal 
   {% assign sorted_lists = sorted_by_title | sort: "list_count" %}
   {% assign current_count = 0 %}
 
+  {% comment %}--- Jump-bar of list numbers, frozen like the glossary letters ---{% endcomment %}
+  {% assign counts = sorted_lists | map: "list_count" | uniq %}
+  <nav class="glossary-letter-bar" aria-label="Jump to number">
+    {% for n in counts %}
+      <a href="#group-{{ n }}" class="glossary-letter-link">{{ n }}</a>
+    {% endfor %}
+  </nav>
+
   {% for list in sorted_lists %}
     {% if list.list_count != current_count %}
       {% if current_count != 0 %}

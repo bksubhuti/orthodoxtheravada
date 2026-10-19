@@ -812,6 +812,12 @@ body {
   z-index: 50;
 }
 
+/* Keep a jumped-to heading below the sticky bar (glossary letters, list numbers) */
+.glossary-index h2,
+.lists-index h2 {
+  scroll-margin-top: 190px;
+}
+
 .glossary-letter-link {
   display: inline-flex;
   align-items: center;
