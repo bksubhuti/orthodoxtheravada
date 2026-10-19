@@ -20,6 +20,12 @@ Like its counterpart, it operates in two ways:
 
 Because *vipāka* is the passive experiencing of a past debt, the orthodox response to painful *akusala-vipāka* is patient endurance (*[khanti](/glossary/khanti/)*), ensuring one does not generate new hatred (new kamma) in response to the pain.
 
+### Quote
+> **Upekkhāsahagataṃ cakkhuviññāṇaṃ, tathā sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, dukkhasahagataṃ kāyaviññāṇaṃ, upekkhāsahagataṃ sampaṭicchanacittaṃ, upekkhāsahagataṃ santīraṇacittañceti imāni sattapi akusalavipākacittāni nāma.**  
+> 9. Eye-consciousness accompanied by equanimity (cakkhuviññāṇaṃ); likewise ear-consciousness (sotaviññāṇaṃ), nose-consciousness (ghānaviññāṇaṃ), tongue-consciousness (jivhāviññāṇaṃ); body-consciousness accompanied by pain (dukkhasahagataṃ kāyaviññāṇaṃ); receiving consciousness accompanied by equanimity; and investigating consciousness accompanied by equanimity. These seven are called unwholesome-resultant consciousnesses.  
+>  
+> — [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (Ch. I §9; a later handbook, summarising Dhs §556ff) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=2&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=OS4gVXBla2toxIFzYWhhZ2F0YeG5gyBjYWtraHV2acOxw7HEgeG5h2HhuYMsIHRhdGjEgSBzb3RhdmnDscOxxIHhuYdh4bmDLCBnaMSBbmF2acOxw7HEgeG5h2HhuYMs)
+
 ### Textual References
-* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Defining the exactly seven types of unwholesome resultant consciousness (which are always rootless/ahetuka).
-* **Historical**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter V) – The grim mapping of specific unwholesome actions to specific torments in the lower realms.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – The unwholesome resultants (*akusalavipāka*) begin at the five-fold sense-consciousness in the *Cittuppādakaṇḍa* (Dhs §556–), then mind-element (*manodhātu*) and mind-consciousness-element (*manoviññāṇadhātu*): seven in all, as the *Abhidhammatthasaṅgaha* counts them. They are rootless (*ahetuka*).
+* **Historical**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter V) – Chapter V (Paṭisandhicatukka, Abhidh-s 399): the unwholesome-resultant investigating consciousness (*akusalavipākopekkhāsahagatasantīraṇaṃ*) is the rebirth-linking in the plane of woe (*apāyabhūmi*).

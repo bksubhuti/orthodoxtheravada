@@ -12,13 +12,19 @@ commentaries: ["Visuddhimagga"]
 **Anuppādāñāṇa**: [nt.] knowledge of non-arising; knowledge of non-origination. Formed by negative prefix *an* (not) + *uppāda* (arising, birth, generation) + *ñāṇa* (knowledge). 
 
 ### Orthodox Definition
-*Anuppādāñāṇa* is the inseparable twin to *[Khayāñāṇa](/glossary/khayanana/)* (knowledge of destruction). While *[Khayāñāṇa](/glossary/khayanana/)* is the realization that all existing defilements have been successfully killed, *Anuppādāñāṇa* is the absolute, verified knowledge that those defilements can **never arise again in the future**, and therefore, no future rebirth (*[jāti](/glossary/jati/)*) can ever be generated.
+*Anuppādāñāṇa* is the twin of *[Khayāñāṇa](/glossary/khayanana/)* (knowledge of destruction); the two are named together in the Dasuttara Sutta as the "two knowledges" (*dve ñāṇāni*) to be brought to pass.
 
-The commentaries use the simile of a tree struck by lightning. *[Khayāñāṇa](/glossary/khayanana/)* is seeing the tree burn to ash; *Anuppādāñāṇa* is knowing that the ashes can never sprout into a tree again. 
+The Atthasālinī distinguishes them by moment: *khaye ñāṇaṃ* is the knowledge on the Noble Path that makes an end of defilements (*kilesakkhayakare ariyamagge ñāṇaṃ*), while *anuppāde ñāṇaṃ* is the knowledge in the Noble Fruit (*ariyaphale ñāṇaṃ*), arisen at the conclusion of the non-arising of those defilements that are to be eliminated by the respective path (As 896:15-16). The Paṭisambhidāmagga commentary adds that it is "in the sense of calming" (*paṭippassaddhaṭṭhena*), since the effort of the path-duty has been calmed (Paṭis-a 444:13).
 
-Together, these two knowledges (*khaye ñāṇaṃ* and *anuppāde ñāṇaṃ*) constitute the absolute pinnacle of Buddhist epistemology, forming the complete "Knowledge of Enlightenment" (*Bodhi-ñāṇa*) that guarantees the [Arahat](/glossary/arahat/) is permanently immune to the physics of [saṃsāra](/glossary/samsara/).
+The Paṭisambhidāmagga itself pairs them: *samucchedaṭṭhena khaye ñāṇaṃ*, *paṭippassaddhaṭṭhena anuppāde ñāṇaṃ* (Paṭis 160:7-8).
+
+### Quote
+> **(Ja)“katame dve dhammā uppādetabbā ? Dve ñāṇāni – khaye ñāṇaṃ, anuppāde ñāṇaṃ. Ime dve dhammā uppādetabbā.**  
+> (h) 'What are the two things that are to be brought to pass?' Two knowledges: knowledge of destruction and knowledge of non-arising. These are the two things that are to be brought to pass.  
+>  
+> — [Dīgha Nikāya](/glossary/digha-nikaya/) (DN 34, Dasuttara Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_di_03&page_number=229&name=p%C4%81thikavaggap%C4%81%E1%B8%B7i&note=&selected_text=KEphKeKAmOKAmCBrYXRhbWUgZHZlIGRoYW1txIEgdXBwxIFkZXRhYmLEgSA%2F)
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Dasuttara Sutta* (DN 34) – Where Venerable Sāriputta lists the knowledge of destruction and the knowledge of non-arising as the two supreme phenomena to be realized.
-* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* – Technical dissection proving the absolute impossibility of defilements returning once the path has been traversed.
+* **[Sutta](/glossary/sutta/)**: *Dasuttara Sutta* (DN 34) – Where Venerable Sāriputta lists the knowledge of destruction and the knowledge of non-arising as the "two things to be brought to pass" (D-iii 1688).
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* – Uses *khaye ñāṇaṃ* and *anuppāde ñāṇaṃ* in its analyses of the path and fruit moments (Paṭis 160:7-8, 425, 427).
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Detailed mapping of the reviewing consciousness of the [Arahat](/glossary/arahat/).

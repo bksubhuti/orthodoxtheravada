@@ -5,77 +5,49 @@ pali_spelling: "Sugata"
 category: "historicalContext"
 frequency_rank: 260
 cross_links: ["tathagata", "samma-sambuddha", "bhagava"]
-canonical_texts: ["Digha Nikaya", "Majjhima Nikaya"]
+canonical_texts: ["Samyutta Nikaya", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 
-Verified
 ### Grammatical Analysis
-**Sugata**: [m.] Well-gone; Fortunate; He who has gone to a good destination. Formed by prefix *su* (well, good, beautiful) + *gata* (gone, reached).
+**Sugata**: [m.] Well-gone; Fortunate; He who has gone to a good destination. Formed by prefix *su* (well, good, beautiful) + *gata* (gone; reached), and, for the fourth sense below, *su* + *gada* (speaking, from *gadati*, "he speaks"), where the Paṭisambhidāmagga-aṭṭhakathā notes that the *d* of *gado* becomes *t* (Paṭis-a 1698: *sammā gado assāti sugato*). The Visuddhimagga says: "even the act of going is called *gata*" (*gamanampi hi gatanti vuccati*, Vism-i 1223).
 
 ### Orthodox Definition
-*Sugata* is one of the nine standard epithets of the Buddha found in the *[Buddhānussati](/glossary/buddhanussati/)* (Recollection of the Buddha) formula: *"...vijjācaraṇasampanno, Sugato, lokavidū..."*
+*Sugata* is one of the nine qualities of the Buddha in the stock formula of recollection of the Buddha (*buddhānussati*): *itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā* (SN 11.3; Vism VII).
 
-The Theravāda commentaries parse this title in three specific ways:
-1. **Gone to an excellent destination**: He has reached the deathless state, [Nibbāna](/glossary/nibbana/), which is the ultimate, secure destination.
-2. **Gone excellently**: He walked the pristine, middle path without falling into the extremes of sensual indulgence or painful self-mortification. He walked forward into liberation without ever turning back to defilements.
-3. **Speaking appropriately**: *Gata* can also imply speech. He speaks words that are "well-gone"—meaning his speech is always true, beneficial, and spoken at the exact right time, completely free from falsehood or malice.
+The *Visuddhimagga* (VII, Buddhānussatikathā) gives **four** reasons for the epithet, not three: *sobhanagamanattā, sundaraṃ ṭhānaṃ gatattā, sammā gatattā, sammā ca gadattā sugato* (Vism-i 1223):
+1. **Because of beautiful going** (*sobhanagamana*): his going is excellent, pure and blameless, the Noble Path, by which he went to the safe direction without attachment (*khemaṃ disaṃ asajjamāno*).
+2. **Because he went to a beautiful place** (*sundaraṃ ṭhānaṃ gatattā*): the Deathless, Nibbāna.
+3. **Because he went rightly** (*sammā gatattā*): he does not return to the defilements abandoned by each path (*sotāpattimaggena ye kilesā pahīnā, te kilese na puneti na pacceti na paccāgacchatīti sugato … arahattamaggena …*); or, from the foot of Dīpaṅkara to the Bodhi-maṇḍa, fulfilling the thirty perfections and working for the welfare and happiness of all the world, he went without approaching the extremes of eternalism, annihilationism, sensual pleasure and self-mortification.
+4. **Because he speaks rightly** (*sammā gadattā*): he speaks only the right word in the right place (*yuttaṭṭhāne yuttameva vācaṃ bhāsati*), as the sutta shows: speech that is untrue, untrue-but-unbeneficial or unpleasant he does not speak, and speech that is true, beneficial and pleasant or unpleasant he speaks when he knows the right time (MN 58).
 
-### Quote
-> **134. sobhanagamanattā, sundaraṃ ṭhānaṃ gatattā, sammā gatattā, sammā ca gadattā sugato.**  
-> 134. Due to his excellent going, having gone to a beautiful state, having gone correctly, and having spoken correctly, he is *Sugato* (Well-gone).  
-> 
-> **gamanampi hi gatanti vuccati.**  
-> Indeed, the act of going is also called 'gata'.  
-> 
-> **tañca bhagavato sobhanaṃ parisuddhamanavajjaṃ.**  
-> And that going of the Blessed One is excellent, perfectly pure, and blameless.  
-> 
-> **kiṃ pana tanti?**  
-> What is that?  
-> 
-> **ariyamaggo.**  
-> It is the Noble Path.  
-> 
-> **tena hesa gamanena khemaṃ disaṃ asajjamāno gatoti sobhanagamanattā sugato.**  
-> Therefore, because he went without hindrance by this going to the secure destination, he is *Sugato* on account of his excellent going.  
-> 
-> **sundarañcesa ṭhānaṃ gato amataṃ nibbānanti sundaraṃ ṭhānaṃ gatattāpi sugato.**  
-> And because he went to a beautiful state, the Deathless Nibbāna, he is *Sugato* also on account of having gone to a beautiful state.  
-> 
-> **sammā ca gato tena tena maggena pahīne kilese puna apaccāgacchanto.**  
-> And he went correctly, not returning again to the defilements abandoned by that path.  
-> 
-> **vuttañhetaṃ – ‘‘sotāpattimaggena ye kilesā pahīnā, te kilese na puneti na pacceti na paccāgacchatīti sugato…pe… arahattamaggena ye kilesā pahīnā, te kilese na puneti na pacceti na paccāgacchatīti sugato’’ti, sammā vā gato dīpaṅkarapādamūlato pabhuti yāva bodhimaṇḍā tāva samatiṃsapāramīpūrikāya sammāpaṭipattiyā sabbalokassa hitasukhameva karonto sassataṃ, ucchedaṃ, kāmasukhaṃ, attakilamathanti ime ca ante anupagacchanto gatoti sammā gatattāpi sugato.**  
-> It is said: "The defilements that have been abandoned by the path of stream-entry, he does not return to them, does not come back to them, does not re-enter them – therefore he is *Sugato*... and so on... The defilements that have been abandoned by the path of arahantship, he does not return to them, does not come back to them, does not re-enter them – therefore he is *Sugato*." Or, he went correctly from the foot of Dīpaṅkara Buddha onwards until the Bodhi-maṇḍa, performing acts of welfare and happiness for all the world through his correct practice of fulfilling the thirty perfections, without falling into these extremes of eternalism, annihilationism, sensual pleasure, and self-mortification. Thus, he is *Sugato* also on account of having gone correctly.  
-> 
-> **sammā cesa gadati yuttaṭṭhāne yuttameva vācaṃ bhāsatīti sammā gadattāpi sugato.**  
-> And because he speaks correctly, uttering only what is appropriate in an appropriate place, he is *Sugato* also on account of having spoken correctly.  
-> 
-> **tatridaṃ sādhakasuttaṃ ‘‘yaṃ tathāgato vācaṃ jānāti abhūtaṃ atacchaṃ anatthasañhitaṃ, sā ca paresaṃ appiyā amanāpā, na taṃ tathāgato vācaṃ bhāsati.**  
-> Herein, the sutta that supports this is: “Whatever speech the Tathāgata knows to be untrue, incorrect, unbeneficial, and is unliked and disagreeable to others, that speech the Tathāgata does not utter.  
-> 
-> **yampi tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ anatthasañhitaṃ, sā ca paresaṃ appiyā amanāpā, tampi tathāgato vācaṃ na bhāsati.**  
-> Whatever speech the Tathāgata knows to be true, correct, but unbeneficial, and is unliked and disagreeable to others, that speech too the Tathāgata does not utter.  
-> 
-> **yañca kho tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ atthasañhitaṃ, sā ca paresaṃ appiyā amanāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya.**  
-> But whatever speech the Tathāgata knows to be true, correct, and beneficial, and is unliked and disagreeable to others, in that case the Tathāgata is one who knows the proper time for speaking that speech.  
-> 
-> **yaṃ tathāgato vācaṃ jānāti abhūtaṃ atacchaṃ anatthasañhitaṃ, sā ca paresaṃ piyā manāpā, na taṃ tathāgato vācaṃ bhāsati.**  
-> Whatever speech the Tathāgata knows to be untrue, incorrect, unbeneficial, and is liked and agreeable to others, that speech the Tathāgata does not utter.  
-> 
-> **yampi tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ anatthasañhitaṃ, sā ca paresaṃ piyā manāpā, tampi tathāgato vācaṃ na bhāsati.**  
-> Whatever speech the Tathāgata knows to be true, correct, but unbeneficial, and is liked and agreeable to others, that speech too the Tathāgata does not utter.  
-> 
-> **yañca kho tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ atthasañhitaṃ, sā ca paresaṃ piyā manāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya’’ti (ma. ni. 2.86).**  
-> But whatever speech the Tathāgata knows to be true, correct, and beneficial, and is liked and agreeable to others, in that case the Tathāgata is one who knows the proper time for speaking that speech.”  
-> 
-> **evaṃ sammā gadattāpi sugatoti veditabbo.**  
-> Thus, he should be understood as *Sugato* also on account of having spoken correctly.  
-> 
-> — *Visuddhimagga* (Page 197)
+The *Suttanipāta-aṭṭhakathā* gives the same account in short: "gone well, not approaching the two extremes; endowed with the beautiful going of the noble path; gone to the good place called Nibbāna" (Pj-ii 191).
+
+### Quote (Mūla: Saṃyutta Nikāya, the formula)
+> **‘ sace tumhākaṃ, bhikkhave, araññagatānaṃ vā rukkhamūlagatānaṃ vā suññāgāragatānaṃ vā uppajjeyya bhayaṃ vā chambhitattaṃ vā lomahaṃso vā, mameva tasmiṃ samaye anussareyyātha – itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā ’ ti.**  
+> ‘If, bhikkhus, you have gone to a forest or to the foot of a tree or to an empty hut, and fear or trembling or terror should arise in you, on that occasion you should recollect me: “The Blessed One is an Arahant, perfectly enlightened, accomplished in true knowledge and conduct, fortunate, knower of the world, unsurpassed leader of persons to be tamed, teacher of devas and humans, the Enlightened One, the Blessed One.”’  
+>  
+> — [Saṃyutta Nikāya](/glossary/samyutta-nikaya/) (SN 11.3, Dhajagga Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_sa_01&page_number=221&name=sag%C4%81th%C4%81vaggasa%E1%B9%83yuttap%C4%81%E1%B8%B7i&note=&selected_text=4oCYIHNhY2UgdHVtaMSBa2HhuYMsIGJoaWtraGF2ZSwgYXJhw7HDsWFnYXTEgW5h4bmDIHbEgQ%3D%3D)
+
+### Quote (Mūla: Majjhima Nikāya, right speech)
+> **“Evameva kho, rājakumāra, yaṃ tathāgato vācaṃ jānāti abhūtaṃ atacchaṃ anatthasaṃhitaṃ sā ca paresaṃ appiyā amanāpā, na taṃ tathāgato vācaṃ bhāsati. Yampi tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ anatthasaṃhitaṃ sā ca paresaṃ appiyā amanāpā, tampi tathāgato vācaṃ na bhāsati. Yañca kho tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ atthasaṃhitaṃ sā ca paresaṃ appiyā amanāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya.**  
+> “Even so, prince, speech that the Tathāgata knows to be baseless, unfactual, and not connected with the goal, and which is unpleasant and disagreeable to others—that speech the Tathāgata does not speak. Speech that the Tathāgata knows to be truly and accurately spoken, but not connected with the goal, and which is unpleasant and disagreeable to others—that speech also the Tathāgata does not speak. But speech that the Tathāgata knows to be truly, accurately, and beneficially spoken, but which is unpleasant and disagreeable to others—in that case, the Tathāgata is one who knows the proper time for the explanation of that speech.  
+>  
+> — [Majjhima Nikāya](/glossary/majjhima-nikaya/) (MN 58, Abhayarājakumāra Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_ma_02&page_number=57&name=majjhimapa%E1%B9%87%E1%B9%87%C4%81sap%C4%81%E1%B8%B7i&note=&selected_text=4oCY4oCYIEV2YW1ldmEga2hvLCByxIFqYWt1bcSBcmEsIHlh4bmDIHRhdGjEgWdhdG8%3D)
+
+### Quote (Aṭṭhakathā: Visuddhimagga)
+> **Sobhanagamanattā, sundaraṃ ṭhānaṃ gatattā, sammā gatattā, sammā ca gadattā sugato. Gamanampi hi gatanti vuccati. Tañca bhagavato sobhanaṃ parisuddhamanavajjaṃ. Kiṃ pana tanti? Ariyamaggo. Tena hesa gamanena khemaṃ disaṃ asajjamāno gatoti sobhanagamanattā sugato. Sundarañcesa ṭhānaṃ gato amataṃ nibbānanti sundaraṃ ṭhānaṃ gatattāpi sugato. Sammā ca gato tena tena maggena pahīne kilese puna apaccāgacchanto. Vuttañhetaṃ – “sotāpattimaggena ye kilesā pahīnā, te kilese na puneti na pacceti na paccāgacchatīti sugato … pe … arahattamaggena ye kilesā pahīnā, te kilese na puneti na pacceti na paccāgacchatīti sugato” ti, sammā vā gato dīpaṅkarapādamūlato pabhuti yāva bodhimaṇḍā tāva samatiṃsapāramīpūrikāya sammāpaṭipattiyā sabbalokassa hitasukhameva karonto sassataṃ, ucchedaṃ, kāmasukhaṃ, attakilamathanti ime ca ante anupagacchanto gatoti sammā gatattāpi sugato. Sammā cesa gadati yuttaṭṭhāne yuttameva vācaṃ bhāsatīti sammā gadattāpi sugato.**  
+> He is sublime (sugato) because of beautiful going, because of having gone to a beautiful place, because of having gone rightly, and because of speaking rightly. For going is also called 'gone'. And that of the Blessed One is beautiful, purified, and blameless. And what is that? The Noble Path. Since he went unhindered to the safe direction by means of that going, he is sublime because of beautiful going (sobhanagamanattā sugato). And since he went to a beautiful place, which is the deathless Nibbāna, he is sublime also because of having gone to a beautiful place (sundaraṃ ṭhānaṃ gatattāpi sugato). And he went rightly, not returning again to the defilements abandoned by each respective path. For this was said: “He does not again return to, fall back on, or go back to the defilements abandoned by the path of stream-entry, thus he is sublime … he does not again return to, fall back on, or go back to the defilements abandoned by the path of Arahantship, thus he is sublime.” Or alternatively, he went rightly in that, from the feet of Dīpaṅkara up to the Bodhi tree, through right practice in fulfilling the thirty perfections, working solely for the welfare and happiness of the whole world, he went without approaching these extremes: the everlasting life theory, annihilationism, the happiness of sense-pleasures, and self-mortification—thus he is sublime also because of having gone rightly (sammā gatattāpi sugato). And he speaks rightly, in that he speaks only fitting speech in a fitting place—thus he is sublime also because of speaking rightly (sammā gadattāpi sugato).  
+>  
+> — *[Visuddhimagga](/glossary/visuddhimagga/)* (VII, Buddhānussatikathā, §134) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_01&page_number=197&name=visuddhimaggo+%28pa%29&note=&selected_text=MTM0LiBTb2JoYW5hZ2FtYW5hdHTEgSwgc3VuZGFyYeG5gyDhua1oxIFuYeG5gyBnYXRhdHTEgSwgc2FtbcSB)
+
+### Quote (Aṭṭhakathā: Visuddhimagga, the supporting sutta)
+> **Tatridaṃ sādhakasuttaṃ “yaṃ tathāgato vācaṃ jānāti abhūtaṃ atacchaṃ anatthasañhitaṃ, sā ca paresaṃ appiyā amanāpā, na taṃ tathāgato vācaṃ bhāsati. Yampi tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ anatthasañhitaṃ, sā ca paresaṃ appiyā amanāpā, tampi tathāgato vācaṃ na bhāsati. Yañca kho tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ atthasañhitaṃ, sā ca paresaṃ appiyā amanāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya. Yaṃ tathāgato vācaṃ jānāti abhūtaṃ atacchaṃ anatthasañhitaṃ, sā ca paresaṃ piyā manāpā, na taṃ tathāgato vācaṃ bhāsati. Yampi tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ anatthasañhitaṃ, sā ca paresaṃ piyā manāpā, tampi tathāgato vācaṃ na bhāsati. Yañca kho tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ atthasañhitaṃ, sā ca paresaṃ piyā manāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāyā” ti (ma. ni.2.86). Evaṃ sammā gadattāpi sugatoti veditabbo.**  
+> Herein, this is the supporting discourse: ‘Such speech as the Tathāgata knows to be baseless, unfactual, and frivolous, and which is unpleasant and disagreeable to others, that speech the Tathāgata does not speak. And such speech as the Tathāgata knows to be factual, true, but frivolous, and which is unpleasant and disagreeable to others, that speech too the Tathāgata does not speak. But such speech as the Tathāgata knows to be factual, true, and beneficial, and which is unpleasant and disagreeable to others, there the Tathāgata is one who knows the proper time for the explanation of that speech. Such speech as the Tathāgata knows to be baseless, unfactual, and frivolous, even though it is dear and agreeable to others, that speech the Tathāgata does not speak. And such speech as the Tathāgata knows to be factual, true, but frivolous, even though it is dear and agreeable to others, that speech too the Tathāgata does not speak. But such speech as the Tathāgata knows to be factual, true, and beneficial, and which is dear and agreeable to others, there the Tathāgata is one who knows the proper time for the explanation of that speech.’ Thus he should be understood as sublime also because of speaking rightly (sammā gadattāpi sugato).  
+>  
+> — *[Visuddhimagga](/glossary/visuddhimagga/)* (VII, Buddhānussatikathā, §134) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_01&page_number=197&name=visuddhimaggo+%28pa%29&note=&selected_text=VGF0cmlkYeG5gyBzxIFkaGFrYXN1dHRh4bmDIOKAmOKAmCB5YeG5gyB0YXRoxIFnYXRvIHbEgWNh4bmD)
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Dhajagga Sutta* (SN 11.3) – Listing Sugata among the unshakeable qualities of the Buddha.
-* **Sutta**: *Abhaya Sutta* (MN 58) – Demonstrating the Buddha's "well-gone" speech, explaining exactly what types of true and beneficial words the [Tathāgata](/glossary/tathagata/) chooses to utter.
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Page 197) – Detailed commentarial breakdown of the etymological and doctrinal parsing of *Sugata* as a recollection object.
+* **[Sutta](/glossary/sutta/)**: *Dhajagga Sutta* (SN 11.3, S-i 3205; the formula at S-i 3214) – the recollection of the Buddha with *sugato* in the stock formula.
+* **Sutta**: *Abhayarājakumāra Sutta* (MN 58, M-ii 248–260; M-ii 252) – the six kinds of speech and the Tathāgata's choice of speech, the support for *sammā gadattā*.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (VII, Buddhānussatikathā, Vism-i 1223, §134) – the four reasons for *sugato*; the same in Sp-i 532–533, Nidd-a-ii 207–212, It-a 1274; *Suttanipāta-aṭṭhakathā* (Pj-ii 191).

@@ -13,13 +13,19 @@ When Mahāpajāpatī Gotamī requested the establishment of the [Bhikkhunī](/gl
 
 ### The List
 1. A nun, even if ordained for a hundred years, must respectfully greet, rise for, and salute a monk ordained even that very day.
-2. A nun must not spend the rains retreat (*[vassa](/glossary/vassa/)*) in a place where there are no monks available to advise her.
-3. Every half-month, a nun must expect two things from the Order of Monks: the setting of the [Uposatha](/glossary/uposatha/) date and a monk assigned to deliver the exhortation (*ovāda*).
+2. A nun must not spend the rains retreat (*[vassa](/glossary/vassa/)*) in a dwelling where there are no monks.
+3. Every half-month, a nun must expect two things from the Order of Monks: asking about the [Uposatha](/glossary/uposatha/) day and approaching for exhortation (*ovāda*).
 4. After the rains retreat, a nun must invite criticism (*[pavāraṇā](/glossary/pavarana/)*) from both the Order of Nuns and the Order of Monks.
 5. A nun who commits a severe offense must undergo penance (*mānatta*) before both Orders for a fortnight.
-6. A female novice must train in six rules for two years, after which she must seek higher ordination (*[upasampadā](/glossary/upasampada/)*) from both Orders.
+6. A probationer (*sikkhamānā*) who has trained in the six rules for two years must seek higher ordination (*[upasampadā](/glossary/upasampada/)*) from both Orders.
 7. A nun must not abuse or revile a monk in any way.
-8. From this day forth, a nun is forbidden to formally admonish a monk, but a monk is not forbidden to formally admonish a nun.
+8. From this day forth the path of speech of nuns toward monks is closed, but the path of speech of monks toward nuns is open.
+
+### Quote
+> **Atha kho āyasmā ānando bhagavato santike aṭṭha garudhamme uggahetvā yena mahāpajāpati gotamī tenupasaṅkami, upasaṅkamitvā mahāpajāpatiṃ gotamiṃ etadavoca – “sace kho tvaṃ, gotami, aṭṭha garudhamme paṭiggaṇheyyāsi, sāva te bhavissati upasampadā.**  
+> Then the Venerable Ānanda, having learned the eight important principles in the presence of the Blessed One, approached Mahāpajāpatī Gotamī. Having approached, he said this to Mahāpajāpatī Gotamī: “If, Gotamī, you accept the eight important principles, let that be your higher ordination.  
+>  
+> — [Cūḷavagga](/glossary/culavagga/) (Cv 10, Bhikkhunikkhandhaka) · [TPR](https://tpr.pali.tools/open?book_id=mula_vi_04&page_number=445&name=c%C5%AB%E1%B8%B7avaggap%C4%81%E1%B8%B7i&note=&selected_text=QXRoYSBraG8gxIF5YXNtxIEgxIFuYW5kbyBiaGFnYXZhdG8gc2FudGlrZQ%3D%3D)
 
 ### Textual References
 * **Canonical**: *[Cūḷavagga](/glossary/culavagga/)* ([Vinaya](/glossary/vinaya/) 10.1) – The origin story of the Bhikkhunī Saṅgha, detailing Mahāpajāpatī's acceptance of these rules.

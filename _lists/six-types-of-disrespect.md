@@ -9,7 +9,7 @@ canonical_texts: ["Anguttara Nikaya"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-Reverence and respect (*gārava*) are foundational attitudes in Theravāda practice. A mind lacking respect is haughty, unteachable, and closed to spiritual progress. The Buddha explicitly identified six areas where a lack of respect guarantees that a practitioner will decline and fail to achieve liberation.
+Reverence and respect (*gārava*) are foundational attitudes in Theravāda practice. A mind lacking respect is haughty, unteachable, and closed to spiritual progress. The *Saṅgīti Sutta* (DN 33) lists six areas in which a bhikkhu dwells without reverence and without deference, and the *Dasuttara Sutta* (DN 34) counts these six among the things that belong to decline (*hānabhāgiyā*).
 
 ### The List
 1. **Satthari agāravo** - Disrespect toward the Teacher: Lacking reverence and deference for the Buddha.
@@ -19,5 +19,11 @@ Reverence and respect (*gārava*) are foundational attitudes in Theravāda pract
 5. **Appamāde agāravo** - Disrespect toward Heedfulness: Acting recklessly, letting mindfulness slip, and not valuing constant vigilance over the mind.
 6. **Paṭisanthāre agāravo** - Disrespect toward Hospitality: Failing to properly welcome, greet, and care for visiting monastics or guests. 
 
+### Quote
+> **“Cha agāravā . Idhāvuso, bhikkhu satthari agāravo viharati appatisso; dhamme agāravo viharati appatisso; saṅghe agāravo viharati appatisso; sikkhāya agāravo viharati appatisso; appamāde agāravo viharati appatisso; paṭisanthāre agāravo viharati appatisso.**  
+> “There are six forms of irreverence. Here, friends, a bhikkhu dwells without reverence and without deference toward the Teacher; without reverence and without deference toward the Dhamma; without reverence and without deference toward the Saṅgha; without reverence and without deference toward the training; without reverence and without deference toward heedfulness; without reverence and without deference toward hospitality.”  
+>  
+> — [Dīgha Nikāya](/glossary/digha-nikaya/) (DN 33, Saṅgīti Sutta, sixes) · [TPR](https://tpr.pali.tools/open?book_id=mula_di_03&page_number=202&name=p%C4%81thikavaggap%C4%81%E1%B8%B7i&note=&selected_text=MzI0LuKAmOKAmCBDaGEgYWfEgXJhdsSBIC4%3D)
+
 ### Textual References
-* **Canonical**: *Agārava [Sutta](/glossary/sutta/)* (AN 6.93) – The Buddha states that it is utterly impossible for a monk to reach Stream-entry, Once-returning, Non-returning, or Arahatship without abandoning these six forms of disrespect.
+* **Canonical**: *Saṅgīti [Sutta](/glossary/sutta/)* (DN 33) – The "Cha agāravā" (D-iii 1512, para 324), followed by the six reverences ("Cha gāravā", D-iii 1513). The same six are in DN 34 (D-iii 1750) and the Vibhaṅga (Vibh 2953).

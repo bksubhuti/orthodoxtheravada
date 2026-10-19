@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "The Dyad of Cognizable by Mind"
-pali_title: "Kena-viññeyya Duka"
+title: "The Dyad of Cognizable by Some Consciousness"
+pali_title: "Kenaci viññeyyā dhammā"
 category: "numerical_dhamma"
 list_count: 2
 cross_links: ["abhidhamma", "citta", "ayatana"]
@@ -9,11 +9,17 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Atthasalini"]
 ---
 ### Overview
-This Dyad asks a profound epistemological question: Can everything in existence be known by consciousness? The [Abhidhamma](/glossary/abhidhamma/) unequivocally answers yes. There is no reality hidden outside the potential range of awareness.
+This Dyad (Dhammasaṅgaṇī dyad 13) divides states by whether they are cognizable by some one kind of consciousness only. The Dhammasaṅgaṇī defines it by the sense-consciousnesses: what is cognizable by the eye is not cognizable by the ear, and what is cognizable by the ear is not cognizable by the eye, and so on for each pair. The Aṭṭhakathā says the two terms differ in meaning, so they make a dyad.
 
 ### The List
-1. **Kenaci viññeyyā dhammā** - States cognizable by a certain consciousness: Every single phenomenon in the universe. Whether it is past, future, present, internal, external, physical, mental, or [Nibbāna](/glossary/nibbana/), there exists a type of consciousness (particularly the omniscience of a Buddha or the path-consciousness) capable of taking it as an object.
-2. **Kenaci na viññeyyā dhammā** - States not cognizable by any consciousness: This category is mathematically empty. There is absolutely nothing in reality that is inherently unknowable.
+1. **Kenaci viññeyyā dhammā** - States cognizable by a certain consciousness: States that are to be known by some one of the consciousnesses, such as eye-consciousness or ear-consciousness (Aṭṭhakathā to the Dhammasaṅgaṇī).
+2. **Kenaci na viññeyyā dhammā** - States not cognizable by some consciousness: states that are not to be known by that same eye-consciousness or ear-consciousness (Aṭṭhakathā to the Dhammasaṅgaṇī).
+
+### Quote
+> **Katame dhammā kenaci viññeyyā, kenaci na viññeyyā? Ye te dhammā cakkhuviññeyyā, na te dhammā sotaviññeyyā; ye vā pana te dhammā sotaviññeyyā, na te dhammā cakkhuviññeyyā.**  
+> 1101. What states are cognizable by any (consciousness), and not cognizable by any (consciousness)? The mental phenomena that are cognizable by the eye are not cognizable by the ear; or the mental phenomena that are cognizable by the ear are not cognizable by the eye.  
+>  
+> — [Dhammasaṅgaṇī](/glossary/dhammasangani/) (Dhs, Dukanikkhepa, Cūḷantaradukaṃ) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_01&page_number=220&name=dhammasa%E1%B9%85ga%E1%B9%87%C4%ABp%C4%81%E1%B8%B7i&note=&selected_text=MTEwMS4gS2F0YW1lIGRoYW1txIEga2VuYWNpIHZpw7HDsWV5ecSBLCBrZW5hY2k%3D)
 
 ### Textual References
-* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Duka) – An essential philosophical baseline establishing that ultimate truth is accessible to the awakened mind.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Duka, §1101) – *Dhammasaṅgaṇī-aṭṭhakathā* on the Cūḷantaraduka.

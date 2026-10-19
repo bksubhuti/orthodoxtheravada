@@ -15,3 +15,7 @@ Thumbs.db
 
 # this happens on build.. remove
 assets/events.json
+
+# review app by-products
+__pycache__/
+.claude/quote-review/jekyll.log

@@ -16,6 +16,12 @@ The Three Characteristics (*[Tilakkhaṇa](/glossary/tilakkhana/)*) are the univ
 2. **[Dukkha](/glossary/dukkha/)** - Suffering / Unsatisfactoriness: Because all conditioned things are impermanent, they are inherently unreliable, flawed, and incapable of providing lasting happiness. They are essentially oppressive.
 3. **[Anattā](/glossary/anatta/)** - Non-self: The reality that no phenomenon, conditioned or unconditioned, possesses a permanent, independent soul, essence, or controller. All things are empty of self.
 
+### Quote
+> **“Sabbe saṅkhārā aniccā” ti, yadā paññāya passati; Atha nibbindati dukkhe, esa maggo visuddhiyā. 278. “Sabbe saṅkhārā dukkhā” ti, yadā paññāya passati; Atha nibbindati dukkhe, esa maggo visuddhiyā. 279. “Sabbe dhammā anattā” ti, yadā paññāya passati; Atha nibbindati dukkhe, esa maggo visuddhiyā.**  
+> “All volitional formations are impermanent,” when one sees with wisdom, Then one wearies of suffering; this is the path to purity. “All volitional formations are suffering,” when one sees with wisdom, Then one wearies of suffering; this is the path to purity. “All things are without self,” when one sees with wisdom, Then one wearies of suffering; this is the path to purity.  
+>  
+> — [Dhammapada](/glossary/dhammapada/) (Dhp 277–279, Maggavagga) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_02&page_number=53&name=dhammapadap%C4%81%E1%B8%B7i&note=&selected_text=Mjc3LiDigJjigJggU2FiYmUgc2HhuYVraMSBcsSBIGFuaWNjxIEg4oCZ4oCZ)
+
 ### Textual References
 * **Canonical**: *Anattalakkhaṇa [Sutta](/glossary/sutta/)* (SN 22.59) – The Buddha uses these three characteristics to guide the first five disciples to Arahatship.
 * **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (Verses 277-279) – "When one sees with wisdom that all conditioned things are impermanent... suffering... and all dhammas are non-self..."

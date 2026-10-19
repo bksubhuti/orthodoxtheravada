@@ -9,7 +9,6 @@ canonical_texts: ["Samyutta Nikaya", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 
-Verified
 
 ### Grammatical Analysis
 **Anattā**: [m.; adj.] non-self; soul-less; without essence; insubstantial. Formed by *an* (negative prefix) + *attā* (self, ego, soul). 
@@ -17,35 +16,37 @@ Verified
 ### Orthodox Definition
 *Anattā* is the most distinctive doctrine of Theravāda Buddhism, separating it completely from Hindu systems that posit an unchanging soul (*ātman*) and Mahāyāna systems that imply an inherent Buddha-nature. It asserts that nowhere in physical or mental phenomena can a permanent, independent, controlling self-entity be found.
 
-The *[Visuddhimagga](/glossary/visuddhimagga/)* and ancient commentaries clarify that all things are *Anattā* because:
-1. They are unmanageable and empty of autonomous power (*asāmikato* - lordless; you cannot command your body or mind never to age or experience pain).
-2. They are devoid of an abiding inner core, core substance, or soul (*asārato*).
-3. They exist solely dependent on transient conditions (*paccaya-paṭibaddhato*).
+The Anattalakkhaṇa Sutta gives the Mūla argument: if form were self, it would not lead to affliction and one could have it as one wishes; because it is not self, it leads to affliction and one cannot have it so (S-iii 324:1-5). The commentaries explain *anattā* as follows:
+1. **Not subject to control** (*avasavattanaṭṭhena*): one cannot make formations not age or break; the Dhammapada commentary says that, because one cannot wield power over them ("may they not age, may they not die"), they are *anattā*, "empty of self, lordless, without sovereignty" (*attasuññā assāmikā anissarā*, Dhp-a 3713:2).
+2. **The Visuddhimagga** (Ch. XX) gives four grounds: empty (*suññato*), lordless (*assāmikato*), not subject to control (*avasavattito*), and a denial of self (*attapaṭikkhepato*) (Vism-ii 1526:9).
 
-Crucially, the characteristic of non-self applies not only to conditioned things (*[saṅkhāra](/glossary/sankhara/)*) but also to the unconditioned element: *"Sabbe dhammā anattā"* (All phenomena, including [Nibbāna](/glossary/nibbana/), are non-self).
+The statement "Sabbe dhammā anattā" (Dhammapada verse 279; Dhp 905:1-906:1) has a wider and a narrower reading. The Dhammapada commentary says that in this verse "all dhammas" means just the five aggregates (Dhp-a 3713:1), while the Mahāniddesa commentary says the statement "all dhammas are not-self" is made including Nibbāna (*nibbānaṃ antokaritvā vuttaṃ*, Nidd-a-ii 42:1); and the Kathāvatthu commentary says that the characteristic of not-self is partly included in the aggregate of formations and, as to Nibbāna, not included in them (Kv-a 1489:2-3). So the characteristic of non-self applies to conditioned things (*[saṅkhāra](/glossary/sankhara/)*) as to the unconditioned element: all phenomena, including [Nibbāna](/glossary/nibbana/), are non-self.
 
-### Quote (Discourse on the Forty Aspects of Contemplation)
-> **Cattārīsākāraanupassanākathā.**  
-> Discourse on the Forty Aspects of Contemplation.  
-> 
-> **So tasseva pañcasu khandhesu aniccadukkhānattasammasanassa thirabhāvatthāya, yaṃ taṃ bhagavatā ‘‘katamehi cattārīsāya ākārehi anulomikaṃ khantiṃ paṭilabhati, katamehi cattārīsāya ākārehi sammattaniyāmaṃ okkamatī’’ti etassa vibhaṅge –**  
-> For the sake of firmly establishing the contemplation of impermanence, suffering, and not-self in those five aggregates, as the Blessed One said in the analysis of "By what forty aspects does one attain conformable patience? By what forty aspects does one enter the fixed course of rightness?"—  
-> 
-> **1. Aniccānupassanā (10 Aspects of Impermanence):**  
-> **‘‘Pañcakkhandhe aniccato, palokato, calato, pabhaṅguto, addhuvato, vipariṇāmadhammato, asārakato, vibhavato, saṅkhatato, maraṇadhammato’’ti.**  
-> "The five aggregates are impermanent, disintegrating, unstable, perishable, unreliable, subject to change, without essence, subject to dissolution, conditioned, subject to death."  
-> 
-> **2. Dukkhānupassanā (25 Aspects of Suffering):**  
-> **‘‘Dukkhato, rogato, gaṇḍato, sallato, aghato, ābādhato, ītito, upaddavato, bhayato, upasaggato, atāṇato, aleṇato, asaraṇato, ādīnavato, aghamūlato, vadhakato, sāsavato, mārāmisato, jātidhammato, jarādhammato, byādhidhammato, sokadhammato, paridevadhammato, upāyāsadhammato, saṃkilesikadhammato’’ti.**  
-> "[The five aggregates are] painful, a disease, a boil, a dart, a misfortune, an affliction, a calamity, a disaster, a danger, an obstacle, without refuge, without shelter, without protection, fraught with danger, the root of misfortune, a slayer, with fermentations, a bait of Māra, subject to birth, subject to aging, subject to sickness, subject to sorrow, subject to lamentation, subject to despair, subject to defilement."  
-> 
-> **3. Anattānupassanā (5 Aspects of Not-Self):**  
-> **‘‘Parato, rittato, tucchato, suññato, anattato’’ti.**  
-> "[The five aggregates are] alien, empty, void, hollow, not-self."  
-> 
-> — [Visuddhimagga](/glossary/visuddhimagga/) (du)
+### Quote
+> **“Rūpaṃ, bhikkhave, anattā. Rūpañca hidaṃ, bhikkhave, attā abhavissa, nayidaṃ rūpaṃ ābādhāya saṃvatteyya, labbhetha ca rūpe – ‘ evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī ’ ti. Yasmā ca kho, bhikkhave, rūpaṃ anattā, tasmā rūpaṃ ābādhāya saṃvattati, na ca labbhati rūpe – ‘ evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī”’ ti.**  
+> “Bhikkhus, form is nonself. For if, bhikkhus, form were self, this form would not lead to affliction, and it would be possible to have it of form: ‘Let my form be thus; let my form not be thus.’ But because form is nonself, form leads to affliction, and it is not possible to have it of form: ‘Let my form be thus; let my form not be thus.’  
+>  
+> — [Saṃyutta Nikāya](/glossary/samyutta-nikaya/) (SN 22.59, Anattalakkhaṇa Sutta; heading "7. Anattalakkhaṇasuttaṃ", S-iii 322:1) · [TPR](https://tpr.pali.tools/open?book_id=mula_sa_03&page_number=55&name=khandhavaggasa%E1%B9%83yuttap%C4%81%E1%B8%B7i&note=&selected_text=4oCY4oCYIFLFq3Bh4bmDLCBiaGlra2hhdmUsIGFuYXR0xIEu)
+
+### Quote
+> **“Sabbe dhammā anattā” ti, yadā paññāya passati; Atha nibbindati dukkhe, esa maggo visuddhiyā.**  
+> “All things are without self,” when one sees with wisdom, Then one wearies of suffering; this is the path to purity.  
+>  
+> — [Dhammapada](/glossary/dhammapada/) (v. 279, Maggavagga) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_02&page_number=53&name=dhammapadap%C4%81%E1%B8%B7i&note=&selected_text=Mjc5LiDigJjigJggU2FiYmUgZGhhbW3EgSBhbmF0dMSBIOKAmeKAmQ%3D%3D)
+
+### Quote
+> **Yasmā ca “uppannā saṅkhārā ṭhitiṃ mā pāpuṇantu, ṭhānappattā mā jīrantu, jarappattā mā bhijjantū” ti imesu tīsu ṭhānesu kassaci vasavattibhāvo natthi, suññā tena vasavattanākārena, tasmā suññato, assāmikato, avasavattito, attapaṭikkhepato ca anattāti.**  
+> And since there is no exercise of anyone's power in these three states—namely, 'Let arisen formations not reach presence, let those that have reached presence not grow old, let those that have reached old age not be broken'—they are empty of that mode of exercising power; therefore they are not-self because they are empty, ownerless, not subject to control, and because they deny a self.  
+>  
+> — [Visuddhimagga](/glossary/visuddhimagga/) (Ch. XX) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_02&page_number=253&name=visuddhimaggo+%28du%29&note=&selected_text=WWFzbcSBIGNhIOKAmOKAmCB1cHBhbm7EgSBzYeG5hWtoxIFyxIEg4bmtaGl0aeG5gw%3D%3D)
+
+### Quote
+> **Sabbe dhammā anattāti nibbānaṃ antokaritvā vuttaṃ.**  
+> ‘All things are not-self’ was said including Nibbana.  
+>  
+> — Mahāniddesa-aṭṭhakathā (on "sabbe dhammā anattā") · [TPR](https://tpr.pali.tools/open?book_id=attha_ku_17&page_number=8&name=c%C5%AB%E1%B8%B7aniddesaa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=U2FiYmUgZGhhbW3EgSBhbmF0dMSBdGkgbmliYsSBbmHhuYMgYW50b2thcml0dsSBIHZ1dHRh4bmDLg%3D%3D)
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Anattalakkhaṇa Sutta* (SN 22.59) – The historic second discourse of the Buddha, delivered to the group of five bhikkhus.
-* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (v. 279) – Affirming that all *dhammā* are non-self.
-* **Commentary**: *Visuddhimagga* (Chapter XX) – Detailed analysis of the emptiness of any soul or agent.
+* **[Sutta](/glossary/sutta/)**: *Anattalakkhaṇa Sutta* (SN 22.59; heading "7. Anattalakkhaṇasuttaṃ", S-iii 322:1; "59." at S-iii 323:1) – the Buddha's second discourse to the five bhikkhus at Isipatana (S-iii 323:1-2); "Rūpaṃ, bhikkhave, anattā" (S-iii 324:1).
+* **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (v. 279; Dhp 905:1-906:1) – "Sabbe dhammā anattā".
+* **Commentary**: *Dhammapadaṭṭhakathā* (Dhp-a 3713:1-2); *Mahāniddesa-aṭṭhakathā* (Nidd-a-ii 42:1); *Kathāvatthu-aṭṭhakathā* (Kv-a 1489:2-3); *[Visuddhimagga](/glossary/visuddhimagga/)* (Vism-ii 1526:9, in Chapter XX).

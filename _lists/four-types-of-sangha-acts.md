@@ -9,22 +9,22 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
 
-Verified
 ### Overview
-An official meeting or legal decree of the monastic order is called a *Saṅghakamma* ([Saṅgha](/glossary/sangha/) Act). For an act to be legally binding and valid, the monks must gather within a designated boundary (*sīmā*), meet a specific quorum, and utilize one of four standardized parliamentary legislative procedures, depending on the gravity of the business.
+A formal act of the monastic order is a *Saṅghakamma* ([Saṅgha](/glossary/sangha/) Act). The Vinaya lists four: the act of announcement, the act of a motion alone, the act with a motion and one announcement, and the act with a motion and three announcements (Vin-v 2011:14). The Aṭṭhakathā says that these acts are valid, *dhammika* (in accordance with Dhamma and Vinaya, the Teacher's instruction), only when each is done with its own formula, and when the matter, the motion, the announcement, the boundary (*sīmā*) and the assembly are all complete (*vatthuñattianussāvanāsīmāparisāsampatti*, Kkh 1932:5-6). Each of the four must be done as itself and not by way of another (Kkh 1932:1-5).
 
 ### The List
-1. **Apalokanakamma** - Act of Announcement: The simplest administrative act. It requires no formal legal motion, but involves simply announcing an action to the gathered monks three times aloud to seek their silent, informal consent (e.g., distributing minor monastery property).
-2. **Ñattikamma** - Act of Motion Alone: An act executed by presenting a single formal proposal or declaration (*ñatti*) to the assembly, immediately followed by final agreement, with no secondary arguments required.
-3. **Ñattidutiyakamma** - Act with One Motion and One Announcement: A two-part parliamentary procedure. A motion is read once, followed by a single announcement (*anusāvana*) where the monks are asked to voice any objections. If all remain silent, the act is carried.
-4. **Ñatticatutthakamma** - Act with One Motion and Three Announcements: The most severe and solemn legal procedure, used for high-level business like ordination or rehabilitation from suspension. A motion is read once, followed by three separate, successive announcements. Objections can be made at any point; absolute silence throughout all three rounds is required for passage.
+1. **Apalokanakamma** - Act of Announcement: an act done with the consent of the harmonious Saṅgha, by stating the matter and having it announced three times, "Does the Saṅgha approve?" (*ruccati saṅghassā ti tikkhattuṃ sāvetvā*, Kkh 1927:2). Before it, the Saṅgha within the boundary is cleared and the consent (*chanda*) of those entitled is brought (Sp-iv 200:4). It is used for five matters: readmission (*osāraṇa*), expulsion (*nissāraṇa*), the shaving of a candidate's hair (*bhaṇḍukamma*), the *brahmadaṇḍa*, and the "characteristic of an act" (*kammalakkhaṇa*) (Kkh 1928:1-6).
+2. **Ñattikamma** - Act of Motion Alone: an act done with the consent of the harmonious Saṅgha by a single motion (*ñatti*) (Kkh 1927:3). It is used for nine matters: readmission, expulsion, the Uposatha, the Pavāraṇā, appointments (*sammuti*), giving, accepting, withdrawing, and the characteristic of an act (Kkh 1929:1-11).
+3. **Ñattidutiyakamma** - Act with a Motion and One Announcement: an act done with one motion and one announcement (*anussāvanā*) (Kkh 1927:4). It is used for seven matters: readmission, expulsion, appointments, giving, taking up (*uddhāra*, the removal of the kathina), declaring (*desanā*, a hut or monastery site), and the characteristic of an act (Kkh 1930:1-8).
+4. **Ñatticatutthakamma** - Act with a Motion and Three Announcements: an act done with one motion and three announcements (Kkh 1927:5). It is used for seven matters: readmission, expulsion, appointments, giving (such as probation and penance), censure (*niggaha*), the reproof (*samanubhāsanā*), and the characteristic of an act, which includes ordination (*upasampadā*) and rehabilitation (*abbhāna*) (Kkh 1931:1-3).
 
-## Quote
->**tattha katamaṃ kiccādhikaraṇaṃ?**   
->“What is a Kiccādhikaraṇa there?  
->**yā saṅghassa kiccayatā, karaṇīyatā, apalokanakammaṃ, ñattikammaṃ, ñattidutiyakammaṃ, ñatticatutthakammaṃ – idaṃ vuccati kiccādhikaraṇaṃ.**   
->Whatever is a Saṅgha-act, a matter to be done, an announcement, a motion-act, a motion-second act, a motion-fourth act—this is called Kiccādhikaraṇa.   
- 
+
+### Quote
+> **Cattāri kammāni – apalokanakammaṃ, ñattikammaṃ, ñattidutiyakammaṃ, ñatticatutthakammaṃ.**  
+> There are four formal acts – an act of announcement, an act of motion, an act of motion with one following, and an act of motion with three following.  
+>  
+> — [Vinaya Piṭaka](/glossary/vinaya-pitaka/) (Parivāra, Catukkavāra) · [TPR](https://tpr.pali.tools/open?book_id=mula_vi_05&page_number=226&name=pariv%C4%81rap%C4%81%E1%B8%B7i&note=&selected_text=Q2F0dMSBcmkga2FtbcSBbmkg4oCTIGFwYWxva2FuYWthbW1h4bmDLCDDsWF0dGlrYW1tYeG5gywgw7FhdHRpZHV0aXlha2FtbWHhuYMs)
 
 ### Textual References
-* **Canonical**: *Kammakkhandha* ([Cūḷavagga](/glossary/culavagga/), [Vinaya](/glossary/vinaya/)) – Outlines the exact formula and phrasing required for every type of official monastic decree.
+* **Canonical**: *Parivāra*, Catukkavāra (Vin-v 2007:1 "4. Catukkavāro", 2011:14, the four formal acts); *[Cūḷavagga](/glossary/culavagga/)*, Samathakkhandhaka (Vin-iv 1072:1), where the Kiccādhikaraṇa is the Saṅgha's duty, "the act of announcement, the act of a motion, ..."; and the Pācittiya on obstructing a formal act (Kkh 1926:1 "9. Kammappaṭibāhanasikkhāpadavaṇṇanā"; Vin-ii 1438:1, 1440:1), where a *dhammika* formal act is defined as one of these four done according to Dhamma and Vinaya.
+* **Commentary**: *Kaṅkhāvitaraṇī* (Kkh 1927:1-1932:6) and *Samantapāsādikā* (Sp-iv 200:4).

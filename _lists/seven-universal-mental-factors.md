@@ -20,6 +20,12 @@ The Seven Universal Mental Factors (*Sabbacittasādhāraṇa Cetasikā*) are the
 6. **Jīvitindriya** - Mental Life-faculty: The vital psychic force that sustains the life and continuity of the associated mental factors during their brief existence.
 7. **Manasikāra** - Attention: The factor that drives the mind toward the object, turning the cognitive wheel to face the incoming data.
 
+### Quote
+> **Phasso vedanā saññā cetanā ekaggatā jīvitindriyaṃ manasikāro ceti sattime cetasikā sabbacittasādhāraṇā nāma.**  
+> Contact, feeling, perception, volition, one-pointedness, life faculty, and attention—these seven mental factors are universal to every consciousness.  
+>  
+> — [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (Ch. II, Abhidh-s 84) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=7&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=UGhhc3NvIHZlZGFuxIEgc2HDscOxxIEgY2V0YW7EgSBla2FnZ2F0xIEgasSrdml0aW5kcml5YeG5gw%3D%3D)
+
 ### Textual References
-* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Establishes the presence of these seven factors at the beginning of the breakdown of the very first wholesome state of consciousness.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Dhs 391:2, the first sense-sphere wholesome consciousness) – lists phasso, vedanā, saññā, cetanā, cittassekaggatā and jīvitindriyaṃ; manasikāra is not in that list. The grouping "sabbacittasādhāraṇā" is not in the Mūla (see Quote).
 * **Commentary**: *Abhidhammattha Saṅgaha* (Chapter II) – Classifies these seven as the first group of the ethically variable factors (*aññasamānā*).

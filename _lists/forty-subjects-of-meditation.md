@@ -20,5 +20,11 @@ To guide meditators systematically, Venerable Buddhaghosa collated all the medit
 39: **The 1 Perception** (The perception of repulsiveness in food).
 40: **The 1 Defining** (The analysis of the four elements).
 
+### Quote
+> **Tattha saṅkhātaniddesatoti cattālīsāya kammaṭṭhānesūti hi vuttaṃ, tatrimāni cattālīsa kammaṭṭhānāni dasa kasiṇā, dasa asubhā, dasa anussatiyo, cattāro brahmavihārā, cattāro āruppā, ekā saññā, ekaṃ vavatthānanti.**  
+> Herein, 'as to enumeration': it was indeed said 'from among the forty meditation subjects.' Therein, the forty meditation subjects (kammaṭṭhāna) are these: ten kasiṇas, ten kinds of foulness (asubha), ten recollections (anussati), four divine abidings (brahmavihāra), four immaterial states (āruppa), one perception (saññā), and one defining (vavatthāna).  
+>  
+> — [Visuddhimagga](/glossary/visuddhimagga/) (Vism III, Aṭṭhakathā) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_01&page_number=107&name=visuddhimaggo+%28pa%29&note=&selected_text=VGF0dGhhIHNh4bmFa2jEgXRhbmlkZGVzYXRvdGkgY2F0dMSBbMSrc8SBeWEga2FtbWHhua3hua1oxIFuZXPFq3RpIGhpIHZ1dHRh4bmDLA%3D%3D)
+
 ### Textual References
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter III) – Introduces the 40 subjects, maps them to the six temperaments (lustful, hating, deluded, faithful, intelligent, speculative), and explains which level of absorption each subject can reach.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter III; the forty are listed at Vism-i 770:1 and each group at 771:1-775:3) – Introduces the 40 subjects, maps them to the six temperaments (lustful, hating, deluded, faithful, intelligent, speculative), and explains which level of absorption each subject can reach.

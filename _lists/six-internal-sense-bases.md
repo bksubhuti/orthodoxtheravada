@@ -5,7 +5,7 @@ pali_title: "Cha Ajjhattikāyatanāni"
 category: "numerical_dhamma"
 list_count: 6
 cross_links: ["ayatana", "vipassana", "khandha"]
-canonical_texts: ["Samyutta Nikaya", "Majjhima Nikaya"]
+canonical_texts: ["Digha Nikaya", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
@@ -17,7 +17,13 @@ In Buddhist psychology, there is no central "soul" acting as an observer. Instea
 3. **Ghānāyatana** - The Nose Base: The sensitive physical organ of smelling.
 4. **Jivhāyatana** - The Tongue Base: The sensitive physical organ of tasting.
 5. **Kāyāyatana** - The Body Base: The sensitive physical organ of touch (distributed throughout the organism).
-6. **Manāyatana** - The Mind Base: The cognitive faculty that cognizes ideas, thoughts, and memories, and coordinates the inputs from the other five doors.
+6. **Manāyatana** - The Mind Base: The mind as a sense base, which cognizes mental objects (*dhammā*).
+
+### Quote
+> **“Cha ajjhattikāni āyatanāni – cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, manāyatanaṃ.**  
+> “The six internal sense bases: the eye sense base, the ear sense base, the nose sense base, the tongue sense base, the body sense base, and the mind sense base.”  
+>  
+> — [Dīgha Nikāya](/glossary/digha-nikaya/) (DN 33, Saṅgīti Sutta, Chakka) · [TPR](https://tpr.pali.tools/open?book_id=mula_di_03&page_number=202&name=p%C4%81thikavaggap%C4%81%E1%B8%B7i&note=&selected_text=4oCY4oCYIENoYSBhampoYXR0aWvEgW5pIMSBeWF0YW7EgW5pIOKAkyBjYWtraMSBeWF0YW5h4bmDLA%3D%3D)
 
 ### Textual References
-* **Canonical**: *Salāyatana Saṃyutta* (SN 35) – Hundreds of discourses detailing how these six bases are impermanent, suffering, and non-self, and must be guarded.
+* **Canonical**: *Chachakka [Sutta](/glossary/sutta/)* (MN 148) – The six internal sense bases are the first of the six sets of six ("Cha ajjhattikāni āyatanāni veditabbāni"). The same list is in the *Saṅgīti Sutta* (DN 33).

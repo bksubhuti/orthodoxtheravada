@@ -14,17 +14,13 @@ Merit (*[puñña](/glossary/punna/)*) is the spiritually purifying force generat
 ### The List
 1. **Dānamaya puññakiriyavatthu** - Merit achieved through giving: The generosity of offering material goods, time, or the [Dhamma](/glossary/dhamma/). It overcomes stinginess and attachment.
 2. **Sīlamaya puññakiriyavatthu** - Merit achieved through moral discipline: The observance of the five or eight precepts. It overcomes harming others and purifies behavior.
-3. **Bhāvanāmaya puññakiriyavatthu** - Merit achieved through mental development: The practice of meditation ([samatha](/glossary/samatha/) and [vipassanā](/glossary/vipassana/)). This is the highest form of merit, as it directly purifies the mind and leads to wisdom.
+3. **Bhāvanāmaya puññakiriyavatthu** - Merit achieved through mental development: The practice of meditation ([samatha](/glossary/samatha/) and [vipassanā](/glossary/vipassana/)).
 
 ### Quote
->### Puññakiriyavatthusuttaṃ 
->### Discourse on the Bases of Meritorious Action
->**tīṇimāni, bhikkhave, puññakiriyavatthūni.**   
->“Monks, there are these three bases of meritorious action.  
->**katamāni tīṇi?**  
->Which three?  
->**dānamayaṃ puññakiriyavatthu , sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu.**   
-The base of meritorious action consisting of giving, the base of meritorious action consisting of virtue, the base of meritorious action consisting of development.  
+> **“Tīṇimāni, bhikkhave, puññakiriyavatthūni. Katamāni tīṇi? Dānamayaṃ puññakiriyavatthu, sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu – imāni kho, bhikkhave, tīṇi puññakiriyavatthūnī” ti.**  
+> “Monks, there are these three bases of meritorious activity. What are the three? The basis of meritorious activity consisting in giving, the basis of meritorious activity consisting in virtuous behavior, the basis of meritorious activity consisting in meditative development—these, indeed, monks, are the three bases of meritorious activity.”  
+>  
+> — [Itivuttaka](/glossary/itivuttaka/) (Iti 60, Puññakiriyavatthu Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_04&page_number=230&name=itivuttakap%C4%81%E1%B8%B7i&note=&selected_text=4oCY4oCYIFTEq%2BG5h2ltxIFuaSwgYmhpa2toYXZlLCBwdcOxw7Fha2lyaXlhdmF0dGjFq25pLg%3D%3D)
 
 ### Textual References
 * **Canonical**: *Puññakiriyavatthu [Sutta](/glossary/sutta/)* (Iti 60) – The Buddha lists these three bases and urges practitioners to cultivate them for long-lasting happiness.

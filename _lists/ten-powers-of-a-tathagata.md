@@ -23,5 +23,11 @@ A Fully Awakened Buddha possesses specific intellectual and psychic powers that 
 9. **Knowledge of the passing away and rebirth of beings:** The Divine Eye, seeing how beings fare according to their kamma.
 10. **Knowledge of the destruction of the taints:** The absolute experiential realization that his own defilements are permanently eradicated.
 
+### Quote
+> **“Dasa kho panimāni, sāriputta, tathāgatassa tathāgatabalāni yehi balehi samannāgato tathāgato āsabhaṃ ṭhānaṃ paṭijānāti, parisāsu sīhanādaṃ nadati, brahmacakkaṃ pavatteti. Katamāni dasa? “Idha, sāriputta, tathāgato ṭhānañca ṭhānato aṭṭhānañca aṭṭhānato yathābhūtaṃ pajānāti. Yampi, sāriputta, tathāgato ṭhānañca ṭhānato aṭṭhānañca aṭṭhānato yathābhūtaṃ pajānāti, idampi, sāriputta, tathāgatassa tathāgatabalaṃ hoti yaṃ balaṃ āgamma tathāgato āsabhaṃ ṭhānaṃ paṭijānāti, parisāsu sīhanādaṃ nadati, brahmacakkaṃ pavatteti.**  
+> 148. “Sāriputta, the Tathāgata has these ten Tathāgata’s powers, possessing which he claims the herd-leader’s place, roars his lion’s roar in the assemblies, and sets rolling the Brahma-wheel. What are the ten? “Here, Sāriputta, the Tathāgata understands as it really is the possible as possible and the impossible as impossible. Sāriputta, that the Tathāgata understands as it really is the possible as possible and the impossible as impossible, this too is a Tathāgata’s power that the Tathāgata has, by virtue of which he claims the herd-leader’s place, roars his lion’s roar in the assemblies, and sets rolling the Brahma-wheel.  
+>  
+> — [Majjhima Nikāya](/glossary/majjhima-nikaya/) (MN 12, Mahāsīhanāda Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_ma_01&page_number=99&name=m%C5%ABlapa%E1%B9%87%E1%B9%87%C4%81sap%C4%81%E1%B8%B7i&note=&selected_text=MTQ4LuKAmOKAmCBEYXNhIGtobyBwYW5pbcSBbmksIHPEgXJpcHV0dGEsIHRhdGjEgWdhdGFzc2E%3D)
+
 ### Textual References
 * **Canonical**: *Mahāsīhanāda [Sutta](/glossary/sutta/)* (MN 12) – The Buddha lists these ten powers to Ven. Sāriputta to prove his unsurpassed awakening.

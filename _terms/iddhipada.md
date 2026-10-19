@@ -5,33 +5,50 @@ pali_spelling: "Iddhipāda"
 category: "doctrinalConcept"
 frequency_rank: 144
 cross_links: ["bodhipakkhiyadhamma", "chanda", "citta", "viriya", "vimamsa"]
-canonical_texts: ["Samyutta Nikaya", "Digha Nikaya"]
-commentaries: ["Visuddhimagga", "Papancasudani"]
+canonical_texts: ["Samyutta Nikaya", "Digha Nikaya", "Vibhanga"]
+commentaries: ["Visuddhimagga"]
 ---
 
-Verified
 ### Grammatical Analysis
-**Iddhipāda**: [m.] base of spiritual power; pathway to success. Formed by *iddhi* (success, psychic power, spiritual accomplishment) + *pāda* (foot, base, foundation). 
+**Iddhipāda**: [m.] base of success; basis of psychic power. Formed by *iddhi* (success, psychic power) + *pāda* (base, foot). The Visuddhimagga gives two explanations: *iddhi* in the sense of succeeding (*ijjhanaṭṭhena*), "because by means of it beings succeed, flourish and reach excellence", and *pāda* as the remaining mass of consciousness and mental factors that serves as the base (*adhiṭṭhānaṭṭhena pādabhūtaṃ*) for the concentration and formations of striving associated with the consciousness of higher knowledge (Vism-ii 58:11); or "it is reached by this, thus a base (*pajjate anenāti pādo*); a base for success is *iddhipāda*", and this is a designation for zeal and the others (Vism-ii 59:1-4).
 
 ### Orthodox Definition
-The *Iddhipādas* are the **Four Bases of Spiritual Power**, constituting a core quadrant of the 37 wings to awakening. They are the primary psychological foundations required to achieve absolute success in meditation, whether one is aiming for deep absorption (*[jhāna](/glossary/jhana/)*), psychic powers (*[abhiññā](/glossary/abhinna/)*), or supreme liberation (*[Nibbāna](/glossary/nibbana/)*).
+The *iddhipādas* are four (*cattāro iddhipādā*): a bhikkhu develops the base of psychic power that possesses concentration due to desire (*chanda*) and the formations of striving, likewise concentration due to energy (*vīriya*), mind (*citta*) and investigation (*vīmaṃsā*) (S-v 1566:1-4, SN 51.8; Vibh 1435:1). When developed and cultivated they are "noble and emancipating" and lead to the complete destruction of suffering (S-v 1553:1, SN 51.3), and the Buddha says it is by developing them that the Tathāgata is called "Arahant, Perfectly Self-Awakened One" (S-v 1566:5).
 
-The four bases are:
-1. *Chandasamādhi-padhānasaṅkhārasamannāgataṃ iddhipādaṃ*: The base of power endowed with concentration founded on **Desire/Zeal** and the formations of striving.
-2. *Viriyasamādhi-padhānasaṅkhārasamannāgataṃ iddhipādaṃ*: The base of power founded on **Energy**.
-3. *Cittasamādhi-padhānasaṅkhārasamannāgataṃ iddhipādaṃ*: The base of power founded on **Consciousness/Mind**.
-4. *Vīmaṃsāsamādhi-padhānasaṅkhārasamannāgataṃ iddhipādaṃ*: The base of power founded on **Investigation/Ingenuity**.
+The Vibhaṅga defines the first: if a bhikkhu, "having taken desire as his authority" (*chandaṃ adhipatiṃ karitvā*), obtains concentration and one-pointedness of mind, this is "concentration due to desire"; his effort to prevent, abandon, arouse and maintain are the "formations of striving"; and the two together are *chandasamādhipadhānasaṅkhāra* (Vibh 1437:2-6). Success (*iddhi*) is "the success, perfection, accomplishment … of those states" (Vibh 1449:2); the *iddhipāda* itself is, for one thus come to be, the feeling aggregate … up to the consciousness aggregate (Vibh 1450:1-2), and "develops an *iddhipāda*" means he cultivates, develops and makes much of those states (Vibh 1451:1-3).
 
-The commentaries note that any supreme worldly or spiritual success requires one of these four factors acting as the dominant, driving force (*adhipati*). 
+In the Mahāparinibbāna Sutta the Buddha says to Ānanda that anyone who has developed the four *iddhipādas*, made them a vehicle and a basis, could if he wished remain for an aeon or the remainder of an aeon (D-ii 413:3, para 167; also S-v 1574:2, SN 51.10).
 
-### Quote
-> **Idha, bhikkhave, [bhikkhu](/glossary/bhikkhu/) chandasamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti, vīriyasamādhi …pe… cittasamādhi … vīmaṁsāsamādhippadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti— ime kho, bhikkhave, cattāro iddhipādā.**  
-> Here, bhikkhus, a bhikkhu develops the base of spiritual power endowed with concentration founded on desire and the formations of striving; he develops the base of spiritual power founded on energy… founded on mind… founded on investigation and the formations of striving. These, bhikkhus, are the four bases of spiritual power.  
-> 
-> — [Saṃyutta Nikāya](/glossary/samyutta-nikaya/) (SN 51.23)
+### Quote (Mūla: Saṃyutta Nikāya)
+> **“Cattārome, bhikkhave, iddhipādā. Katame cattāro? Idha, bhikkhave, bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhi … pe … cittasamādhi … pe … vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Ime kho, bhikkhave, cattāro iddhipādā.**  
+> “Monks, there are these four bases for psychic potency. What four? Here, monks, a bhikkhu develops the basis of psychic power that possesses concentration due to desire, with energy and volitional formations; he develops the basis of psychic power that possesses concentration due to energy …pe… concentration due to mind …pe… and he develops the basis of psychic power that possesses concentration due to investigation, with energy and volitional formations. These, monks, are the four bases for psychic potency.  
+>  
+> — [Saṃyutta Nikāya](/glossary/samyutta-nikaya/) (SN 51.8, Buddhasutta, S-v 1565) · [TPR](https://tpr.pali.tools/open?book_id=mula_sa_05&page_number=225&name=mah%C4%81vaggasa%E1%B9%83yuttap%C4%81%E1%B8%B7i&note=&selected_text=ODIwLuKAmOKAmCBDYXR0xIFyb21lLCBiaGlra2hhdmUsIGlkZGhpcMSBZMSBLg%3D%3D)
+
+
+### Quote (Abhidhamma: Vibhaṅga)
+> **Cattāro iddhipādā – idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Chandaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ, labhati cittassekaggataṃ– ayaṃ vuccati “chandasamādhi”. Yā tesaṃ dhammānaṃ iddhi samiddhi ijjhanā samijjhanā lābho paṭilābho patti sampatti phusanā sacchikiriyā upasampadā. Iddhipādoti. Tathābhūtassa vedanākkhandho … pe … viññāṇakkhandho.**  
+> 431. There are four bases for psychic potency (cattāro iddhipādā). Here (idha), a bhikkhu (bhikkhu) develops (bhāveti) the basis of psychic power that has immersion due to zeal and the volitional formation to endeavour (chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ); he develops the basis of psychic power that has immersion due to energy and the volitional formation to endeavour (vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ); he develops the basis of psychic power that has immersion due to mind and the volitional formation to endeavour (cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ); he develops the basis of psychic power that has immersion due to inquiry and the volitional formation to endeavour (vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ). If (ce) a bhikkhu (bhikkhu), having taken desire as his authority (chandaṃ adhipatiṃ karitvā), obtains concentration (labhati samādhiṃ) and obtains one-pointedness of mind (labhati cittassekaggataṃ) — this (ayaṃ) is called (vuccati) ‘concentration due to zeal’ (chandasamādhi). Whatever success (yā ... iddhi), perfection (samiddhi), accomplishment (ijjhanā), full accomplishment (samijjhanā), gain (lābho), acquisition (paṭilābho), attainment (patti), spiritual attainment (sampatti), touching (phusanā), realization (sacchikiriyā), or perfecting (upasampadā) of those states (tesaṃ dhammānaṃ). What is ‘a base for psychic potency’ (iddhipādoti)? For one who has thus come to be (tathābhūtassa): the feeling aggregate (vedanākkhandho) ... and so on ... the consciousness aggregate (viññāṇakkhandho).  
+>  
+> — [Vibhaṅga](/glossary/vibhanga/) (Iddhipādavibhaṅga, Suttantabhājanīya, Vibh 1433-1450) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_02&page_number=225&name=vibha%E1%B9%85gap%C4%81%E1%B8%B7i&note=&selected_text=NDMxLiBDYXR0xIFybyBpZGRoaXDEgWTEgSDigJMgaWRoYSBiaGlra2h1)
+
+
+### Quote (Aṭṭhakathā: Visuddhimagga (the four bases))
+> **Cattāro pādāti cattāro iddhipādā veditabbā. Vuttañhetaṃ “iddhiyā katame cattāro pādā? Idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Vīriya … citta … vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Iddhiyā ime cattāro pādā iddhilābhāya … pe … iddhivesārajjāya saṃvattantī” ti (paṭi. ma.3.9). Ettha ca chandahetuko chandādhiko vā samādhi chandasamādhi. Kattukamyatāchandaṃ adhipatiṃ karitvā paṭiladdhasamādhissetaṃ adhivacanaṃ. Padhānabhūtā saṅkhārā padhānasaṅkhārā. Catukiccasādhakassa sammappadhānavīriyassetaṃ adhivacanaṃ. Samannāgatanti chandasamādhinā ca padhānasaṅkhārehi ca upetaṃ. Iddhipādanti nipphattipariyāyena vā ijjhanaṭṭhena, ijjhanti etāya sattā iddhā vuddhā ukkaṃsagatā hontīti iminā vā pariyāyena iddhīti saṅkhaṃ gatānaṃ abhiññācittasampayuttānaṃ chandasamādhipadhānasaṅkhārānaṃ adhiṭṭhānaṭṭhena pādabhūtaṃ sesacittacetasikarāsinti attho. Vuttañhetaṃ “iddhipādoti tathābhūtassa vedanākkhandho … pe … viññāṇakkhandho” ti (vibha.434).**  
+> 382. The four bases should be understood as the four bases of psychic power. For this was said: “What are the four bases for success? Here, a bhikkhu develops the basis for psychic power that has immersion due to zeal and the volitional formation to endeavour. He develops the basis for psychic power that has immersion due to energy... mind... investigation and the volitional formation to endeavour. These four bases for success lead to the attainment of success... pe... to assurance in success” (Paṭis. II 205). And here, the concentration that has zeal as its cause or has zeal as its dominant factor is concentration due to zeal. This is a designation for concentration obtained by having taken the desire to do as one’s authority. Formations that are of a striving nature are volitional formations of striving. This is a designation for the energy of right effort that accomplishes its fourfold function. Possesses means entered into both concentration due to zeal and the volitional formations of striving. Basis of psychic power means the collection of remaining mental states and mental factors which, in the sense of steadying, act as a base for concentration due to zeal and volitional formations of striving associated with the consciousness of higher knowledge; these are reckoned as “success” either by way of accomplishment, or in the sense of succeeding, or because beings succeed, flourish, increase, and reach excellence by means of it; this is the meaning. For this was said: “Basis of psychic power is the feeling aggregate... pe... the consciousness aggregate in one thus come to be” (Vibh. 434).  
+>  
+> — [Visuddhimagga](/glossary/visuddhimagga/) (Iddhividhaniddesa, Chapter XII, Vism-ii 58) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_02&page_number=13&name=visuddhimaggo+%28du%29&note=&selected_text=MzgyLiBDYXR0xIFybyBwxIFkxIF0aSBjYXR0xIFybyBpZGRoaXDEgWTEgSB2ZWRpdGFiYsSBLg%3D%3D)
+
+
+### Quote (Aṭṭhakathā: Visuddhimagga (meaning of pāda))
+> **Atha vā pajjate anenāti pādo. Pāpuṇīyatīti attho. Iddhiyā pādo iddhipādo. Chandādīnametaṃ adhivacanaṃ. Yathāha – “chandañce, bhikkhave, bhikkhu nissāya labhati samādhiṃ, labhati cittassekaggataṃ, ayaṃ vuccati chandasamādhi. So anuppannānaṃ pāpakānaṃ … pe … padahati, ime vuccanti padhānasaṅkhārā. Iti ayañca chando ayañca chandasamādhi ime ca padhānasaṅkhārā, ayaṃ vuccati, bhikkhave, chandasamādhipadhānasaṅkhārasamannāgato iddhipādo” ti (saṃ. ni.5.825). Evaṃ sesiddhipādesupi attho veditabbo.**  
+> Alternatively, it is reached by means of this, thus it is a “base.” It is attained, is the meaning. A base for success is a “basis of psychic power.” This is a designation for zeal and the others. Just as he said: “Mendicants, if a bhikkhu, relying on zeal, obtains concentration, obtains one-pointedness of mind, this is called concentration due to zeal. He makes an effort for the non-arising of unarisen bad... pe... these are called volitional formations of striving. Thus, this zeal, this concentration due to zeal, and these volitional formations of striving are called, mendicants, the basis of psychic power that possesses both concentration due to zeal and the volitional formation to endeavour” (S. V 268). The meaning should be understood in this way for the other bases of psychic power too.  
+>  
+> — [Visuddhimagga](/glossary/visuddhimagga/) (Iddhividhaniddesa, Chapter XII, Vism-ii 59) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_02&page_number=14&name=visuddhimaggo+%28du%29&note=&selected_text=QXRoYSB2xIEgcGFqamF0ZSBhbmVuxIF0aSBwxIFkby4%3D)
 
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – Where the Buddha states that anyone who has perfectly developed the four iddhipādas could, if they wished, live for an entire aeon.
-* **Canonical**: *Samyutta Nikaya* (Iddhipāda-saṃyutta).
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XII) – Detailing how these bases are utilized to generate the supernormal psychic powers.
+* **[Sutta](/glossary/sutta/)**: *Iddhipādasaṃyutta* (SN 51; S-v 1546 "7. Iddhipādasaṃyuttaṃ"): SN 51.3 Ariyasutta (S-v 1552), SN 51.8 Buddhasutta (S-v 1565), SN 51.10 Cetiyasutta (S-v 1572), and S-v 1609 "3. Chandasamādhisuttaṃ".
+* **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – D-ii 413:3 (para 167).
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* – Iddhipādavibhaṅga (Vibh 1433, "9. Iddhipādavibhaṅgo").
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* – Chapter XII Iddhividhaniddesa (Vism-ii 4), Vism-ii 58-59.

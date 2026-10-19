@@ -21,6 +21,13 @@ The three wholesome roots are:
 
 Any thought, word, or deed motivated by one or more of these roots produces positive karmic results (*vipāka*) and leads toward liberation.
 
+### Quote
+> **Katamañcāvuso, kusalamūlaṃ? Alobho kusalamūlaṃ, adoso kusalamūlaṃ, amoho kusalamūlaṃ – idaṃ vuccatāvuso, kusalamūlaṃ.**  
+> And what, friends, is the root of the wholesome? Non-greed is a root of the wholesome; non-hatred is a root of the wholesome; non-delusion is a root of the wholesome. This, friends, is called the root of the wholesome.  
+>  
+> — [Majjhima Nikāya](/glossary/majjhima-nikaya/) (MN 9, Sammādiṭṭhi Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_ma_01&page_number=58&name=m%C5%ABlapa%E1%B9%87%E1%B9%87%C4%81sap%C4%81%E1%B8%B7i&note=&selected_text=S2F0YW1hw7FjxIF2dXNvLCBrdXNhbGFtxatsYeG5gz8%3D)
+
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *[Sammādiṭṭhi](/glossary/sammaditthi/) Sutta* (MN 9) – Venerable Sāriputta states that understanding the wholesome roots is the absolute foundation of Right View.
-* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Defining the roots as the primary conditions for all wholesome consciousness.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – "Tattha katame tayo kusalahetū?" (Dhs 1831:1), then each root defined: alobha (Dhs 1832:2), adosa, which includes mettā (Dhs 1833:2), and amoho as knowledge of the four truths and the wisdom faculty, *paññā* (Dhs 1834:2).
+* **Sutta**: The same three roots are given in AN 3 (A-iii 729:1-3, "Tīṇimāni, bhikkhave, kusalamūlāni").

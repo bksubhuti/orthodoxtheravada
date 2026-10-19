@@ -15,5 +15,11 @@ In Theravāda doctrine, [Nibbāna](/glossary/nibbana/) is a single, unconditione
 1. **Sa-upādisesa-nibbānadhātu** - Nibbāna with residue remaining: This is experienced by an Arahat during their lifetime. All defilements (greed, hatred, delusion) are completely extinguished, but the "residue" of the five aggregates continues to operate, allowing them to experience physical pleasure and pain until their karmic lifespan ends.
 2. **Anupādisesa-nibbānadhātu** - Nibbāna with no residue remaining: Also known as *[Parinibbāna](/glossary/parinibbana/)*. This occurs at the exact moment of an Arahat's biological death. The five aggregates break apart entirely and are never generated again. 
 
+### Quote
+> **“Dvemā, bhikkhave, nibbānadhātuyo. Katame dve? Saupādisesā ca nibbānadhātu, anupādisesā ca nibbānadhātu.**  
+> “Bhikkhus, there are these two Nibbāna elements. What are the two? The Nibbāna element with residue left and the Nibbāna element with no residue left.  
+>  
+> — [Itivuttaka](/glossary/itivuttaka/) (Iti 44) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_04&page_number=220&name=itivuttakap%C4%81%E1%B8%B7i&note=&selected_text=4oCY4oCYIER2ZW3EgSwgYmhpa2toYXZlLCBuaWJixIFuYWRoxIF0dXlvLg%3D%3D)
+
 ### Textual References
 * **Canonical**: *Nibbānadhātu [Sutta](/glossary/sutta/)* (Iti 44) – The Buddha provides the explicit definitions of these two elements.

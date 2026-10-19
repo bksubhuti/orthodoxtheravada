@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The 8 Kinds of Wholesome Sense-Sphere Consciousness"
-pali_title: "Aṭṭha Mahākusala Cittāni"
+pali_title: "Aṭṭha Kāmāvacarakusalacittāni"
 category: "numerical_dhamma"
 list_count: 8
 cross_links: ["citta", "kusala", "kamma"]
@@ -20,6 +20,12 @@ Whenever an ordinary human being performs a good deed (giving, keeping precepts,
 6. Accompanied by equanimity, associated with wisdom, prompted.
 7. Accompanied by equanimity, dissociated from wisdom, unprompted.
 8. Accompanied by equanimity, dissociated from wisdom, prompted.
+
+### Quote
+> **Somanassasahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, somanassasahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ, upekkhāsahagataṃ ñāṇasampayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekaṃ. Upekkhāsahagataṃ ñāṇavippayuttaṃ asaṅkhārikamekaṃ, sasaṅkhārikamekanti imāni aṭṭhapi kāmāvacarakusalacittāni nāma.**  
+> 15. (1) One consciousness accompanied by happiness, associated with wisdom (ñāṇasampayuttaṃ), unprompted; (2) one prompted; (3) one consciousness accompanied by happiness, disassociated from wisdom (ñāṇavippayuttaṃ), unprompted; (4) one prompted; (5) one consciousness accompanied by equanimity, associated with wisdom, unprompted; (6) one prompted. (7) One consciousness accompanied by equanimity, disassociated from wisdom, unprompted; (8) one prompted. These eight are called sense-sphere wholesome consciousnesses.  
+>  
+> — [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (Abhidh-s 1.15, Kāmāvacarasobhanacitta) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=3&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=MTUuIFNvbWFuYXNzYXNhaGFnYXRh4bmDIMOxxIHhuYdhc2FtcGF5dXR0YeG5gyBhc2HhuYVraMSBcmlrYW1la2HhuYMsIHNhc2HhuYVraMSBcmlrYW1la2HhuYMsIHNvbWFuYXNzYXNhaGFnYXRh4bmD)
 
 ### Textual References
 * **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Provides the exhaustive list of mental factors that arise in each of these eight consciousnesses.

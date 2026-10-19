@@ -9,23 +9,29 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Abhidhammatthasangaha"]
 ---
 ### Overview
-In Theravāda [Abhidhamma](/glossary/abhidhamma/), consciousness (*[citta](/glossary/citta-base/)*) is never idle. Every single moment of consciousness performs one of fourteen highly specific psychological functions (*kicca*). This mechanical breakdown proves the doctrine of non-self (*[anattā](/glossary/anatta/)*) by showing that cognition is an automated, causal process, not the work of a soul.
+In Theravāda [Abhidhamma](/glossary/abhidhamma/), consciousness (*[citta](/glossary/citta-base/)*) is never idle. The Abhidhammatthasaṅgaha (§18, in the *kiccasaṅgaha*) sets out fourteen kinds of function (*kicca*) of consciousness, and the following sections say which cittas perform each (Abhidh-s 221–232).
 
 ### The List
-1. **[Paṭisandhi](/glossary/patisandhi/)** - Rebirth-linking: Connecting the past life to the new life at the moment of conception.
-2. **[Bhavaṅga](/glossary/bhavanga/)** - Life-continuum: The passive, resting state of mind that maintains the existence of the being when no active cognition is occurring (e.g., in deep sleep).
-3. **Āvajjana** - Adverting: Turning the mind's attention toward an object that has struck a sense door.
+1. **[Paṭisandhi](/glossary/patisandhi/)** - Rebirth-linking: The function of rebirth-linking.
+2. **[Bhavaṅga](/glossary/bhavanga/)** - Life-continuum: The life-continuum function (*bhavaṅga*).
+3. **Āvajjana** - Adverting: Adverting; there are two cittas that perform it, the five-door and the mind-door adverting (Abhidh-s 223).
 4. **Dassana** - Seeing: The bare function of eye-consciousness.
 5. **Savana** - Hearing: The bare function of ear-consciousness.
 6. **Ghāyana** - Smelling: The bare function of nose-consciousness.
 7. **Sāyana** - Tasting: The bare function of tongue-consciousness.
 8. **Phusana** - Touching: The bare function of body-consciousness.
-9. **Sampaṭicchana** - Receiving: Accepting the raw data from the five sense doors.
-10. **Santīraṇa** - Investigating: Briefly examining the received sensory data.
-11. **Voṭṭhapana** - Determining: Identifying the object and preparing the mind to react to it.
-12. **Javana** - Impulsion / Running: The crucial, active phase where the mind reacts to the object (with greed, hate, or wisdom), generating new [kamma](/glossary/kamma/). This usually lasts for 7 mind-moments.
-13. **Tadārammaṇa** - Registration: Briefly lingering on the object after the javana phase finishes.
-14. **Cuti** - Death: The final function, the absolute last mind-moment of the current life.
+9. **Sampaṭicchana** - Receiving: The function of receiving.
+10. **Santīraṇa** - Investigating: The function of investigating; three cittas perform it (Abhidh-s 225).
+11. **Voṭṭhabbana** - Determining: The function of determining; in the five-door process the mind-door adverting performs it (Abhidh-s 226).
+12. **Javana** - Impulsion / Running: Performed by 55 cittas, the wholesome, unwholesome, resultant (*phala*) and functional (*kiriya*) cittas except the two adverting cittas (Abhidh-s 227). In the sense-door process the Abhidhammatthasaṅgaha says it mostly runs seven times (*sattakkhattuṃ javati*, Abhidh-s 308:2).
+13. **Tadārammaṇa** - Registration: Performed by 11 cittas: the eight great resultants and the three investigating cittas (Abhidh-s 228); it follows the javana (*javanānubandhāni*, Abhidh-s 308:2).
+14. **Cuti** - Death: The function of death (*cuti*).
+
+### Quote
+> **Kiccasaṅgahe kiccāni nāma paṭisandhibhavaṅgāvajjanadassanasavanaghāyanasāyanaphusanasampaṭicchanasantīraṇavoṭṭhabbanajavanatadārammaṇacutivasena cuddasavidhāni bhavanti.**  
+> 18. In the compendium of functions (kiccasaṅgahe), there are fourteen kinds of functions (kiccāni): by way of rebirth-linking, life-continuum, adverting, seeing, hearing, smelling, tasting, touching, receiving, investigating, determining, impulsion, registration, and death.  
+>  
+> — [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (Ch. III, Kiccasaṅgaha §18; Ṭīkā-layer handbook) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=17&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=MTguIEtpY2Nhc2HhuYVnYWhlIGtpY2PEgW5pIG7EgW1hIHBh4bmtaXNhbmRoaWJoYXZh4bmFZ8SBdmFqamFuYWRhc3NhbmFzYXZhbmFnaMSBeWFuYXPEgXlhbmFwaHVzYW5hc2FtcGHhua1pY2NoYW5hc2FudMSrcmHhuYdhdm%2Fhua3hua1oYWJiYW5hamF2YW5hdGFkxIFyYW1tYeG5h2FjdXRpdmFzZW5hIGN1ZGRhc2F2aWRoxIFuaQ%3D%3D)
 
 ### Textual References
-* **Commentary**: *Abhidhammattha Saṅgaha* (Chapter III) – The definitive text outlining the cognitive series (*cittavīthi*) and how these 14 functions operate in a millisecond.
+* **Commentary**: *Abhidhammattha Saṅgaha* (Chapter III) (Chapter III, §18 ff., Abhidh-s 220 ff.) – The fourteen functions and the cittas that perform each. The process of cognition (*cittavīthi*) is described in Chapter IV (Abhidh-s 308).

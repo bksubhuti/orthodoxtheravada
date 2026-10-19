@@ -9,55 +9,35 @@ canonical_texts: ["Buddhavamsa", "Cariyapitaka", "Jataka"]
 commentaries: ["Paramatthadipani"]
 ---
 
-Verified
 ### Grammatical Analysis
-**Khantipāramī**: [f.] The Perfection of Patience; the Perfection of Forbearance. Formed by *khanti* (patience, endurance, forgiveness) + *[pāramī](/glossary/parami/)* (perfection, completeness).
+**Khantipāramī**: [f.] the perfection of patience. A compound of *khanti* (patience, endurance) + *[pāramī](/glossary/parami/)* (perfection). The Cariyāpiṭaka-aṭṭhakathā defines it as "the enduring of offenses by sentient beings and formations, with non-aversion as primary, and the arising of the mind operating in that way, encompassed by compassion and skill in means" (*karuṇūpāyakosallapariggahitaṃ sattasaṅkhārāparādhasahanaṃ adosappadhāno tadākārappavattacittuppādo khantipāramitā*, Cp-a 1909:3).
 
 ### Orthodox Definition
-*Khanti-[pāramī](/glossary/parami/)* is the sixth of the Ten Perfections required for a [Bodhisatta](/glossary/bodhisatta/) to achieve full Buddhahood. 
+*Khanti-pāramī* is the sixth of the ten perfections of the Bodhisatta. In the Buddhavaṃsa the Bodhisatta, searching for the qualities that ripen enlightenment, sees "the sixth perfection of patience" (*chaṭṭhamaṃ khantipāramiṃ*), cultivated by earlier great sages, and is told to undertake it firmly and with an undivided mind (Bv 686:1-690:1).
 
-In Theravāda, *[khanti](/glossary/khanti/)* is not merely passive waiting. It is the heroic, active psychological endurance of extreme physical pain, harsh criticism, insults, and the deepest injustices, without allowing a single moment of anger or ill-will (*[dosa](/glossary/dosa/)*) to arise in the mind. It is rooted in the wholesome mental factor of non-hatred (*[adosa](/glossary/adosa/)*). 
+The commentary on the Cariyāpiṭaka gives its definition (Cp-a 1909:3). It also gives the general characteristic of all the perfections: all have benefiting others as their characteristic (*parānuggahalakkhaṇā*) (Cp-a 1908:1).
 
-The commentaries state that a [Bodhisatta](/glossary/bodhisatta/) perfecting patience must be willing to have their limbs cut off without feeling malice toward their executioner, understanding that the attackers are merely acting out of their own karmic blindness.
+The Atthasālinī (Nidānakathā) illustrates it with the Khantivādī Jātaka: "Even as he struck me with a sharp axe as if I were a piece of wood, I was not angry with the King of Kāsi; this is my perfection of patience", and it says that for one thus enduring great suffering as if insensible, the perfection of patience became "the ultimate perfection" (*paramatthapāramī*) (As 795:1-798:1). See also *[khanti](/glossary/khanti/)*.
 
-### Quote
-> **puna rājā ‘‘kiṃvādī tvaṃ bhikkhū’’ti āha.**  
-> Again the king said, "What doctrine do you profess, [bhikkhu](/glossary/bhikkhu/)?"  
-> 
-> **‘‘khantivādī, mahārāja’’.**  
-> "I am a proponent of patience, great king."  
-> 
-> **‘‘tvaṃ pana mayhaṃ cammantare khantī’’ti maññasi, natthi mayhaṃ cammantare khanti, tayā pana daṭṭhuṃ asakkuṇeyye hadayabbhantare mama khanti patiṭṭhitā. ‘‘mahārājā’’ti.**  
-> "But you think that my patience is within my skin; there is no patience within my skin. My patience is established within my heart, which you cannot see, great king."  
-> 
-> **puna coraghātako ‘‘kiṃ karomī’’ti pucchi.**  
-> Again the executioner asked, "What shall I do?"  
-> 
-> **‘‘imassa kūṭajaṭilassa ubho hatthe chindā’’ti.**  
-> "Cut off both hands of this fraudulent ascetic."  
-> 
-> **so pharasuṃ gahetvā gaṇḍiyaṃ ṭhapetvā hatthe chindi.**  
-> He took the axe, placed it on the joint, and cut off the hands.  
-> 
-> **atha naṃ ‘‘pāde chindā’’ti āha, pādepi chindi.**  
-> Then he said to him, "Cut off his feet," and he cut off the feet.  
-> 
-> **hatthapādakoṭīhi ghaṭachiddehi lākhāraso viya lohitaṃ paggharati.**  
-> Blood flowed from the stumps of his hands and feet like lac juice from holes in a pot.  
-> 
-> **puna rājā ‘‘kiṃvādīsī’’ti pucchi.**  
-> Again the king asked, "What doctrine do you profess?"  
-> 
-> **‘‘khantivādī, mahārāja’’.**  
-> "I am a proponent of patience, great king."  
-> 
-> — *[Jātakaṭṭhavaṇṇanā](/glossary/jatakatthavannana/)* (Ja 313: Khantivāda Jātaka)
+### Quote (Mūla: Buddhavaṃsa)
+> **Vicinanto tadā dakkhiṃ, chaṭṭhamaṃ khantipāramiṃ; Pubbakehi mahesīhi, āsevitanisevitaṃ. 142. “Imaṃ tvaṃ chaṭṭhamaṃ tāva, daḷhaṃ katvā samādiya; Tattha advejjhamānaso, sambodhiṃ pāpuṇissasi.**  
+> 141. Searching, then, I saw the sixth perfection of patience; which was cultivated and repeatedly practiced by earlier great sages. 142. “You, then, having firmly undertaken this sixth (perfection): Therein, with an undivided mind, you will attain enlightenment.  
+>  
+> — [Buddhavaṃsa](/glossary/buddhavamsa/) (Sumedhapatthanākathā) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_12&page_number=317&name=buddhava%E1%B9%83sap%C4%81%E1%B8%B7i&note=&selected_text=MTQxLiBWaWNpbmFudG8gdGFkxIEgZGFra2hp4bmDLCBjaGHhua3hua1oYW1h4bmDIGtoYW50aXDEgXJhbWnhuYM7)
 
-> **dānapāramī, sīlapāramī, nekkhammapāramī, paññāpāramī, vīriyapāramī, khantipāramī, saccapāramī, adhiṭṭhānapāramī, mettāpāramī, upekkhāpāramīti kappasatasahassādhikāni cattāri asaṅkhyeyyāni imā dasa pāramiyo pūrentopi bahujanahitāya paṭipanno.**  
-> Even while fulfilling these ten pāramīs—dāna-pāramī (perfection of generosity), sīla-pāramī (perfection of morality), nekkhamma-pāramī (perfection of renunciation), paññā-pāramī (perfection of wisdom), vīriya-pāramī (perfection of energy), khanti-pāramī (perfection of patience), sacca-pāramī (perfection of truthfulness), adhiṭṭhāna-pāramī (perfection of determination), mettā-pāramī (perfection of loving-kindness), upekkhā-pāramī (perfection of equanimity)—for four asaṅkheyya-kalpas and a hundred thousand kalpas, he practised for the welfare of many.  
-> 
-> — *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* (Dīghanikāya-aṭṭhakathā / Mahāvagga-aṭṭhakathā, Aṭṭhayathābhuccavaṇṇanā)
+### Quote (Aṭṭhakathā: Cariyāpiṭaka-aṭṭhakathā, the definition)
+> **Karuṇūpāyakosallapariggahito kāyacittehi parahitārambho vīriyapāramitā , karuṇūpāyakosallapariggahitaṃ sattasaṅkhārāparādhasahanaṃ adosappadhāno tadākārappavattacittuppādo khantipāramitā , karuṇūpāyakosallapariggahitaṃ viraticetanādibhedaṃ avisaṃvādanaṃ saccapāramitā , karuṇūpāyakosallapariggahitaṃ acalasamādānādhiṭṭhānaṃ tadākārappavatto cittuppādo adhiṭṭhānapāramitā , karuṇūpāyakosallapariggahito lokassa hitasukhūpasaṃhāro atthato abyāpādo mettāpāramitā , karuṇūpāyakosallapariggahitā anunayapaṭighaviddhaṃsanī iṭṭhāniṭṭhesu sattasaṅkhāresu samappavatti upekkhāpāramitā.**  
+> The perfection of energy (vīriyapāramitā) is the undertaking for the benefit of others by body and mind, encompassed by compassion and skill in means; the perfection of patience (khantipāramitā) is the enduring of offenses by sentient formations, with non-aversion as primary, and the arising of the mind operating in that way, encompassed by compassion and skill in means; the perfection of truth (saccapāramitā) is non-deception, which is a distinction of intentions of abstinence and so on, encompassed by compassion and skill in means; the perfection of determination (adhiṭṭhānapāramitā) is unwavering determination to undertake, and the arising of the mind operating in that way, encompassed by compassion and skill in means; the perfection of loving-kindness (mettāpāramitā) is the bringing about of welfare and happiness for the world, in essence non-ill will, encompassed by compassion and skill in means; and the perfection of equanimity (upekkhāpāramitā) is the equal attitude towards agreeable and disagreeable sentient formations, destroying attachment and aversion, encompassed by compassion and skill in means.  
+>  
+> — Cariyāpiṭaka-aṭṭhakathā (Paramatthadīpanī) · [TPR](https://tpr.pali.tools/open?book_id=attha_ku_13&page_number=273&name=cariy%C4%81pi%E1%B9%ADakaa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=S2FydeG5h8WrcMSBeWFrb3NhbGxhcGFyaWdnYWhpdG8ga8SBeWFjaXR0ZWhpIHBhcmFoaXTEgXJhbWJobyB2xKtyaXlhcMSBcmFtaXTEgSAsIGthcnXhuYfFq3DEgXlha29zYWxsYXBhcmlnZ2FoaXRh4bmD)
+
+### Quote (Aṭṭhakathā: Atthasālinī, Khantivādī Jātaka)
+> **Khantivādījātake – “Acetanaṃva koṭṭente, tiṇhena pharasunā mamaṃ; Kāsirāje na kuppāmi, esā me khantipāramī” ti. Evaṃ acetanabhāvena viya mahādukkhaṃ adhivāsentassa khantipāramitā paramatthapāramī nāma jātā.**  
+> In the Khantivādī Jātaka— “Even as he struck me with a sharp axe as if I were a piece of wood, I was not angry with the King of Kāsi; this is my perfection of patience.” Thus, for him who was enduring great suffering as if he were a piece of wood, the perfection of patience (khantipāramitā) became what is called the ultimate perfection.  
+>  
+> — [Atthasālinī](/glossary/atthasalini/) (Nidānakathā, Khantivādī Jātaka) · [TPR](https://tpr.pali.tools/open?book_id=attha_bi_01&page_number=74&name=dhammasa%E1%B9%85ga%E1%B9%87%C4%ABa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=S2hhbnRpdsSBZMSrasSBdGFrZSDigJM%3D)
 
 ### Textual References
-* **Canonical**: *[Cariyāpiṭaka](/glossary/cariyapitaka/)* (Khantipāramitā) – Detailing the past lives where the [Bodhisatta](/glossary/bodhisatta/) demonstrated supreme forbearance.
-* **Canonical**: *Khantivādī [Jātaka](/glossary/jataka/)* (No. 313) – The famous, brutal story where the [Bodhisatta](/glossary/bodhisatta/), as the "Preacher of Patience," allows a drunken king to slowly cut off his nose, ears, hands, and feet, maintaining absolute loving-kindness throughout.
+* **Canonical**: *[Buddhavaṃsa](/glossary/buddhavamsa/)* (Bv 686-690) – the sixth perfection, *khantipāramī*.
+* **Commentary**: *Cariyāpiṭaka-aṭṭhakathā* (Cp-a 1908-1909) – the characteristic and the definition.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* (As 795-798) – the Khantivādī Jātaka as the example (see also *[Jātakaṭṭhavaṇṇanā](/glossary/jatakatthavannana/)*, Ja-a-i 646-648).

@@ -9,13 +9,19 @@ canonical_texts: ["Abhidhamma"]
 commentaries: ["Visuddhimagga"]
 ---
 ### Overview
-In the orthodox Theravāda commentarial tradition, [kamma](/glossary/kamma/) is analyzed highly systematically. Every intentional action operates in one of four ways regarding its function (*kicca*). This explains the complex web of causes and conditions that dictate a being's lifespan, fortune, and sudden death.
+In the Visuddhimagga (XIX, §687) [kamma](/glossary/kamma/) is classified in a fourfold way by what it does (*kicca*): reproductive, supportive, oppressive and destructive. The list is commentarial; the same four are in the Abhidhammatthasaṅgaha (Abhidh-s 437) and the Paṭisambhidāmagga-aṭṭhakathā (Paṭis-a 2026).
 
 ### The List
-1. **Janaka-kamma** - Productive Kamma: The primary kamma that produces rebirth-linking consciousness and the physical body at the moment of conception. It "generates" the existence.
-2. **Upatthambhaka-kamma** - Supportive Kamma: Kamma that cannot produce rebirth on its own, but steps in to support the Productive Kamma. It prolongs the lifespan or increases the happiness (or suffering) of the being.
-3. **Upapīḷaka-kamma** - Obstructive Kamma: Kamma that opposes the Productive Kamma. It frustrates happiness, causes illness, or suppresses the painful results of bad kamma, keeping a being from experiencing the full force of their destiny.
-4. **Upaghātaka-kamma** - Destructive Kamma: A massive, powerful kamma from the past that suddenly intercepts and entirely cuts off the Productive Kamma, causing sudden death or a total reversal of fortune before the natural lifespan is exhausted.
+1. **Janaka-kamma** - Reproductive kamma: it is both wholesome and unwholesome, and it generates the material and immaterial resultant aggregates both at rebirth-linking and during the course of existence.
+2. **Upatthambhaka-kamma** - Supportive kamma: it is not able to produce a result itself; when a result has been produced by another kamma that provided rebirth-linking, it supports the pleasure or pain that arises and maintains it for a long period of time.
+3. **Upapīḷaka-kamma** - Oppressive kamma: when a result has been produced by another kamma that provided rebirth-linking, it oppresses and afflicts the pleasure or pain that arises and does not allow it to last for a long period of time.
+4. **Upaghātaka-kamma** - Destructive kamma: being itself either wholesome or unwholesome, it cuts off another weak kamma, thwarts its result, and makes an opportunity for its own result.
+
+### Quote
+> **Aparampi catubbidhaṃ kammaṃ – janakaṃ, upatthambhakaṃ, upapīḷakaṃ, upaghātakanti.**  
+> 687. Another fourfold classification of kamma is: reproductive kamma, supportive kamma, oppressive kamma, and destructive kamma.  
+>  
+> — [Visuddhimagga](/glossary/visuddhimagga/) (Vism XIX, §687, Aṭṭhakathā) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_02&page_number=236&name=visuddhimaggo+%28du%29&note=&selected_text=Njg3LiBBcGFyYW1waSBjYXR1YmJpZGhh4bmDIGthbW1h4bmDIOKAkyBqYW5ha2HhuYMs)
 
 ### Textual References
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIX) – The master matrix detailing how these functions interlock to control the destiny of a being.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIX) – Vism-ii 1410 (§687) defines the four.

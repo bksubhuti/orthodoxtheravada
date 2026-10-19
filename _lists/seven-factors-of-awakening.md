@@ -20,5 +20,11 @@ The Seven Factors of Awakening (*[Bojjhaṅga](/glossary/bojjhanga/)*) represent
 6. **[Samādhi](/glossary/samadhi/)** - Concentration: The profound unification of the tranquilized mind on its object.
 7. **[Upekkhā](/glossary/upekkha/)** - Equanimity: The highest state of balanced observation, where the mind looks upon all phenomena with absolute impartiality, free from both attachment and aversion.
 
+### Quote
+> **“Sattime, āvuso, bojjhaṅgā. Katame satta? Satisambojjhaṅgo, dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, pītisambojjhaṅgo, passaddhisambojjhaṅgo, samādhisambojjhaṅgo, upekkhāsambojjhaṅgo – ime kho, āvuso, satta bojjhaṅgā.**  
+> “Friends, there are these seven factors of enlightenment. What seven? The mindfulness enlightenment factor, the investigation-of-states enlightenment factor, the energy enlightenment factor, the rapture enlightenment factor, the tranquility enlightenment factor, the concentration enlightenment factor, and the equanimity enlightenment factor—these, friends, are the seven factors of enlightenment.  
+>  
+> — [Saṃyutta Nikāya](/glossary/samyutta-nikaya/) (SN 46.4, Vattha Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_sa_05&page_number=64&name=mah%C4%81vaggasa%E1%B9%83yuttap%C4%81%E1%B8%B7i&note=&selected_text=4oCY4oCYIFNhdHRpbWUsIMSBdnVzbywgYm9qamhh4bmFZ8SBLg%3D%3D)
+
 ### Textual References
 * **Canonical**: *Bojjhaṅga Saṃyutta* (SN 46) – Over a hundred discourses detailing how these factors lead to the deathless. The Buddha often recited them to heal sick monastics.

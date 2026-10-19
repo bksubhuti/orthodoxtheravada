@@ -26,5 +26,11 @@ The *[Saṅghādisesa](/glossary/sanghadisesa/)* offenses are the second most se
 12. **Being obstinate and difficult to admonish**, refusing to accept lawful correction, and ignoring three formal warnings.
 13. **Corrupting lay families** by giving them gifts or acting inappropriately to gain their favor, and refusing to leave the area after three formal warnings.
 
+### Quote
+> **“Ahaṃ, bhante, sambahulā saṅghādisesā āpattiyo āpajjiṃ ekaṃ sukkavissaṭṭhiṃ, ekaṃ kāyasaṃsaggaṃ, ekaṃ duṭṭhullavācaṃ, ekaṃ attakāmaṃ, ekaṃ sañcarittaṃ, ekaṃ kuṭikāraṃ, ekaṃ vihārakāraṃ, ekaṃ duṭṭhadosaṃ, ekaṃ aññabhāgiyaṃ, ekaṃ saṅghabhedaṃ, ekaṃ bhedānuvattakaṃ, ekaṃ dubbacaṃ, ekaṃ kuladūsakaṃ, sohaṃ, bhante, saṅghaṃ tāsaṃ āpattīnaṃ samodhānaparivāsaṃ yācāmī” ti –**  
+> 'Venerable sirs, I have incurred many saṅghādisesa offenses: one of intentional emission of semen, one of physical contact, one of lewd words, one of self-gratification, one of acting as a go-between, one of house-construction, one of monastery-construction, one of malicious hate, one of belonging to another, one of schism, one of following a schismatic, one of being hard to speak to, and one of corrupting families. Venerable sirs, I ask the Sangha for a composite probation for those offenses.'  
+>  
+> — [Vinaya Piṭaka](/glossary/vinaya-pitaka/), Samantapāsādikā (Vinaya Aṭṭhakathā, Cūḷavagga: samodhānaparivāsa formula; Aṭṭhakathā layer) · [TPR](https://tpr.pali.tools/open?book_id=attha_vi_04&page_number=28&name=c%C5%AB%E1%B8%B7avaggaa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=4oCY4oCYIEFoYeG5gywgYmhhbnRlLCBzYW1iYWh1bMSBIHNh4bmFZ2jEgWRpc2VzxIEgxIFwYXR0aXlv)
+
 ### Textual References
 * **Canonical**: *[Suttavibhaṅga](/glossary/suttavibhanga/)* ([Vinaya](/glossary/vinaya/)) – The 13 rules are exhaustively analyzed with origin stories and case law.

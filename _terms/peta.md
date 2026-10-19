@@ -12,13 +12,19 @@ commentaries: ["Paramatthadipani"]
 **Peta**: [m.] departed spirit; hungry ghost; the deceased. Derived from prefix *pa* (forth/away) + root *i* (to go). Literally means "one who has gone away" or departed.
 
 ### Orthodox Definition
-In Theravāda cosmology, a *Peta* refers to a specific class of beings reborn into the Realm of Hungry Ghosts (*peta-loka*), which is one of the four planes of misery (*[apāya](/glossary/apaya/)*). 
+In Theravāda cosmology, a *Peta* refers to a being reborn in the ghost realm (*pettivisaya*, also *petaloka*), which is one of the four planes of misery (*[apāya](/glossary/apaya/)*): "hell, the animal realm, the ghost realm and the Asura group" (*nirayo tiracchānayoni pettivisayo asurakāyo*, Abhidh-s 383:1). It is among the five destinations in the Mūla (M-i 474:3; A-ix 456:3).
 
-Unlike hell-beings who suffer constant physical torture, petas primarily suffer from intense, unquenchable physical and psychological deprivation—most notably extreme hunger, thirst, and exhaustion. According to the texts, this specific rebirth is the direct karmic result (*vipāka*) of heavy unwholesome actions rooted in stinginess (*[macchariya](/glossary/macchariya/)*), extreme greed, and denying alms to the virtuous. 
+The Aṅguttara says the ghost realm, like hell and the animal realm, is made known by kamma born of greed, hatred or delusion (A-vi 273:11). In the Jāṇussoṇi Sutta (AN 10.177) the Buddha says that one who kills, steals and so on, and holds wrong view, reappears in the ghost realm after death, and there lives by the food of the beings of that realm or by what friends and relatives send from here (A-x 1378:1-3). The Petavatthu commentary describes petas as "beings who did evil, reborn among the petas, for whom that evil deed has a bitter fruit" (Pv-a 3214:1-3215:1). The Khuddakapāṭha commentary on the Tirokuṭṭa Sutta, quoting AN 10.177, speaks of the ghost realm as divided into kinds such as the hungry-thirsty, vomit-eaters, those who live on others' gifts, and those consumed by thirst (*khuppipāsika-vantāsika-paradattūpajīvi-nijjhāmataṇhika*, Pj-i 1006:4).
 
-They exist on the fringes of the human realm, often in forests, abandoned houses, or graveyards, but are generally invisible to the human eye. Crucially, petas can be relieved of their suffering when living relatives perform meritorious deeds (*[puñña](/glossary/punna/)*)—such as offering alms to the [Saṅgha](/glossary/sangha/)—and explicitly share or transfer the merit (*pattidāna*) to them.
+Crucially, petas can benefit when living relatives give and dedicate the gift to them: "what has been given here is of benefit to the departed" (Khp 179:1; Pv 79:1; A-x 1373:3, 1378:3). The Petavatthu commentary adds that people give for the sake of their departed kin, saying "may this be for our relatives", and the petas receive the benefit (Pv-a 126:2).
+
+### Quote
+> **Yathā vārivahā pūrā, paripūrenti sāgaraṃ; Evameva ito dinnaṃ, petānaṃ upakappati.**  
+> Just as rivers that are full flow and fill up the ocean, so too what has been given here is of benefit to the departed.  
+>  
+> — [Khuddakapāṭha](/glossary/khuddakapatha/) (Khp 7, Tirokuṭṭa Sutta; same verses at Pv 1.5) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_01&page_number=8&name=khuddakap%C4%81%E1%B9%ADhap%C4%81%E1%B8%B7i&note=&selected_text=OC4gWWF0aMSBIHbEgXJpdmFoxIEgcMWrcsSBLCBwYXJpcMWrcmVudGkgc8SBZ2FyYeG5gzs%3D)
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Tirokuḍḍa Sutta* (KhP 7) – The foundational discourse detailing how ghosts wait outside the walls of their former homes, hoping their relatives will share merit with them.
-* **Canonical**: *[Petavatthu](/glossary/petavatthu/)* – An entire canonical book containing 51 narratives of past bad [kamma](/glossary/kamma/) and corresponding peta rebirths.
-* **Commentary**: *[Paramatthadīpanī](/glossary/paramatthadipani/)* – Detailed exegesis on the specific types of ghosts and the mechanics of merit transfer.
+* **[Sutta](/glossary/sutta/)**: *Tirokuṭṭa Sutta* (Khp 7, "7. Tirokuṭṭasuttaṃ", Khp 153:1; the same verses are in Pv 1.5, "5. Tirokuṭṭapetavatthu", Pv 56:1) – ghosts stand outside walls, at crossroads and by doorposts (Khp 155:1-156:1), and what is given here benefits them (Khp 178:1-179:1). *Jāṇussoṇi Sutta* (AN 10.177, A-x 1371:1).
+* **Canonical**: *[Petavatthu](/glossary/petavatthu/)* – "Fifty-one stories in all, divided into four recitation portions" (*vatthūni ekapaññāsaṃ*, Pv 2654:1).
+* **Commentary**: *[Paramatthadīpanī](/glossary/paramatthadipani/)* (Pv-a; its closing verse names it "paramatthadīpanī", Pv-a 3223:1) – on the occasions and the kinds of petas (e.g. Pv-a 26:1-4, 54:2, 126:2).

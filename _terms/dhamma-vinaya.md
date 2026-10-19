@@ -18,6 +18,12 @@ These two components are entirely interdependent. The *[Dhamma](/glossary/dhamma
 
 Just before his [Parinibbāna](/glossary/parinibbana/), the Buddha famously declared that he would not appoint a human successor. Instead, he stated: *"Yo vo, Ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena [satthā](/glossary/sattha/)"* — "Ānanda, the Doctrine and Discipline I have taught and laid down for you, let them be your Teacher after I am gone." Thus, the *[Dhamma](/glossary/dhamma/)-[vinaya](/glossary/vinaya/)* serves as the absolute, living authority for orthodox Theravāda.
 
+### Quote
+> **Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi – “siyā kho panānanda, tumhākaṃ evamassa – ‘ atītasatthukaṃ pāvacanaṃ, natthi no satthā ’ ti. Na kho panetaṃ, ānanda, evaṃ daṭṭhabbaṃ. Yo vo, ānanda, mayā dhammo ca vinayo ca desito paññatto, so vo mamaccayena satthā.**  
+> Then the Gracious One addressed venerable Ānanda, saying: “It may be, Ānanda, that some of you may think in this way: ‘Past is the Teacher’s word, there is now no Teacher for us.’ But it should not be seen like that, Ānanda. Whatever Teaching and Discipline has been taught by me or laid down, Ānanda, that is your Teacher after my passing away.  
+>  
+> — [Dīgha Nikāya](/glossary/digha-nikaya/) (DN 16, Mahāparinibbāna Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_di_02&page_number=126&name=mah%C4%81vaggap%C4%81%E1%B8%B7i&note=&selected_text=MjE2LiBBdGhhIGtobyBiaGFnYXbEgSDEgXlhc21hbnRh4bmDIMSBbmFuZGHhuYM%3D)
+
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – The Buddha's final instruction elevating the Doctrine and Discipline to the status of Teacher.
 * **Sutta**: *Pahārāda Sutta* (AN 8.19) – Comparing the vastness, depth, and unique taste (the taste of liberation) of the [Dhamma](/glossary/dhamma/)-[vinaya](/glossary/vinaya/) to the great ocean.

@@ -1,0 +1,39 @@
+batch-00: 172,073 tokens, 44 tool uses, 6.8 min
+batch-02: 163,079 tokens, 70 tool uses, 8.6 min
+batch-01: 174,890 tokens, 99 tool uses, 11.6 min
+batch-05: 143,770 tokens, 69 tool uses, 8.4 min (after resume)
+batch-03: 161,397 tokens, 74 tool uses, 9.3 min (after resume)
+batch-04: 175,611 tokens, 110 tool uses, 15.9 min (incl. resume)
+batch-06: 190,378 tokens, 118 tool uses, 15.9 min
+batch-07: 208,789 tokens, 131 tool uses, 58.5 min (outage waits)
+batch-08: 202,944 tokens, 144 tool uses, 54.8 min (outage waits)
+batch-10: 119,465 tokens, 45 tool uses, 10.3 min
+batch-11: 161,954 tokens, 62 tool uses, 10.8 min
+batch-09: 135,868 tokens, 89 tool uses, 9.6 min (retry)
+content-L00: 163,518 tokens, 66 tool uses, 12.3 min
+content-L01: 209,517 tokens, 98 tool uses, 16.5 min
+content-L02: 231,201 tokens, 138 tool uses, 19.4 min
+content-L04: 207,759 tokens, 97 tool uses, 12 min
+paper upacara-naya: 235,928 tokens, 128 tool uses, 22.3 min
+content-L05: 181,733 tokens, 79 tool uses, 12 min
+content-L03: 245,668 tokens, 151 tool uses, 19.3 min
+content-L06: 215,017 tokens, 120 tool uses, 15.5 min
+content-L07: 201,663 tokens, 81 tool uses, 13.8 min
+content-L08: 221,645 tokens, 92 tool uses, 13.3 min
+content-L11: 157,200 tokens, 72 tool uses, 9.9 min
+content-L14: 179,912 tokens, 81 tool uses, 10.8 min
+content-L12: ~130 tool uses
+content-L13: ~150 tool uses
+content-TU_00: ~220 tool uses
+content-TU_01: ~250 tool uses
+content-TU_02: ~190 tool uses
+content-TU_03: ~330 tool uses
+content-TU_04 (rerun): 346,026 tokens, 218 tool uses, 29.9 min
+content-OWNER_FIX: 32 pages
+content-OWNER_FIX: 413,372 tokens, 223 tool uses, 33.9 min
+content-TU_05 (rerun): 372,239 tokens, 239 tool uses, 35.8 min
+content-KAMMA: 83,335 tokens, 25 tool uses, 4.3 min
+content-TV_04a: 205,881 tokens, 106 tool uses, 19.4 min
+content-TV_01 (rest, 25 pages): ~450 tool uses
+content-TV_02 (rest, 30 pages): ~400 tool uses
+content-TV_03 (rest, 28 pages): ~450 tool uses

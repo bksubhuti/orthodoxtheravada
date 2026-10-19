@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The 52 Mental Factors"
-pali_title: "Dvepaññāsa Cetasikā"
+pali_title: "Dvipaññāsa Cetasikā"
 category: "numerical_dhamma"
 list_count: 52
 cross_links: ["abhidhamma", "citta", "khandha"]
@@ -27,6 +27,12 @@ In Theravāda [Abhidhamma](/glossary/abhidhamma/), consciousness (*[citta](/glos
 *   **3 Abstinences:** Right speech, Right action, Right livelihood.
 *   **2 Illimitables:** Compassion, Sympathetic Joy.
 *   **1 Wisdom:** The faculty of wisdom (Non-delusion).
+
+### Quote
+> **Ettāvatā ca – Terasaññasamānā ca, cuddasākusalā tathā; Sobhanā pañcavīsāti, dvipaññāsa pavuccare.**  
+> 9. And in this respect: Thirteen are ethically variable, and fourteen are unwholesome. Twenty-five are beautiful; thus fifty-two are enumerated.  
+>  
+> — [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (Abhidh-s 2.9, Cetasikasaṅgaha) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=8&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=OS4gRXR0xIF2YXTEgSBjYSDigJM%3D)
 
 ### Textual References
 * **Commentary**: *Abhidhammattha Saṅgaha* (Chapter II) – The definitive manual detailing every single one of these 52 factors, their characteristics, and exactly which types of consciousness they associate with.

@@ -14,11 +14,17 @@ commentaries: ["Sumangalavilasini", "Dhammapada-Atthakatha"]
 ### Orthodox Definition
 *Appamāda* is arguably the single most important practical exhortation in the Theravāda tradition. It represents the constant, unwavering presence of mindfulness (*[sati](/glossary/sati/)*) coupled with the energetic drive (*[viriya](/glossary/viriya/)*) to protect the mind from defilements and urgently cultivate wholesome states.
 
-The commentaries define its characteristic as the non-relaxing of attention toward wholesome states (*kusaladhammesu avossagga-lakkhaṇo*). It is the psychological opposite of spiritual drifting, laziness, and sensory intoxication. 
+The commentary on the Khuddakapāṭha (Pj-i 692) defines diligence in wholesome states by its opposite, negligence (*pamāda*): not acting with respect, not acting continuously, not acting firmly, a shrinking attitude, putting aside the burden, not cultivating. It is the psychological opposite of spiritual drifting, laziness, and sensory intoxication. 
 
-The profound weight of this term is cemented by the fact that it was the core of the Buddha’s final instructions before his passing: *"Vayadhammā saṅkhārā, appamādena sampādetha"* (Conditioned things are subject to decay; strive on with heedfulness). The Buddha also stated that just as the footprints of all animals fit within the footprint of the elephant, all wholesome mental states are encompassed by *appamāda*.
+The profound weight of this term is cemented by the fact that it was the core of the Buddha’s final instructions before his passing: *"Vayadhammā saṅkhārā, appamādena sampādetha"* (Conditioned things are subject to decay; strive on with heedfulness). The Buddha also stated that just as the footprints of all walking animals fit within the footprint of the elephant, so all wholesome states are rooted in and converge upon *appamāda* (SN 45.140, S-v 297).
+
+### Quote
+> **Appamādo amatapadaṃ, pamādo maccuno padaṃ; Appamattā na mīyanti, ye pamattā yathā matā.**  
+> Diligence is the path to the Deathless, negligence is the path to death; The diligent do not die; the negligent are as if already dead.  
+>  
+> — [Dhammapada](/glossary/dhammapada/) (Dhp 21, Appamāda Vagga) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_02&page_number=16&name=dhammapadap%C4%81%E1%B8%B7i&note=&selected_text=MjEuIEFwcGFtxIFkbyBhbWF0YXBhZGHhuYMgW2FtYXRh4bmDIHBhZGHhuYMgKGthLildLA%3D%3D)
 
 ### Textual References
 * **[Sutta](/glossary/sutta/)**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) Sutta* (DN 16) – The final words of the [Tathāgata](/glossary/tathagata/) emphasizing diligence.
 * **Canonical**: *[Dhammapada](/glossary/dhammapada/)* (Appamāda Vagga - Chapter 2) – "Heedfulness is the path to the Deathless; heedlessness is the path to death."
-* **Commentary**: *Dhammapada-Aṭṭhakathā* – Analyzing diligence as the foundational root of all spiritual success.
+* **Commentary**: *Dhammapada-Aṭṭhakathā* (Dhp-a 686) – Explains that the word *appamāda* conveys a great meaning.

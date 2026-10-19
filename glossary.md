@@ -5,17 +5,6 @@ permalink: /glossary/
 author_profile: false
 ---
 
-{% assign verified_count = 0 %}
-{% for term in site.terms %}
-  {% assign stripped_content = term.content | strip_html | strip %}
-  {% assign check_start = stripped_content | truncate: 10, "" %}
-  {% if check_start contains "Verified" %}
-    {% assign verified_count = verified_count | plus: 1 %}
-  {% endif %}
-{% endfor %}
-
- **{{ verified_count }} out of {{ site.terms.size }}** are verified. Verified entries are marked.
-
 <div class="glossary-index">
   {% assign sorted_terms = site.terms | sort: "title" %}
 
@@ -53,10 +42,8 @@ author_profile: false
       {% assign current_letter = first_letter %}
     {% endif %}
     
-    {% assign stripped_content = term.content | strip_html | strip %}
-    {% assign check_start = stripped_content | truncate: 10, "" %}
     <a href="{{ term.url | relative_url }}" class="ot-index-card">
-      <strong class="ot-index-card__title">{{ term.title }}{% if check_start contains "Verified" %} ✔️{% endif %}</strong>
+      <strong class="ot-index-card__title">{{ term.title }}</strong>
       {% if term.pali_spelling %}
         <span class="ot-index-card__subtitle">({{ term.pali_spelling }})</span>
       {% endif %}

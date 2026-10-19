@@ -9,28 +9,30 @@ canonical_texts: ["Digha Nikaya", "Majjhima Nikaya"]
 commentaries: ["Visuddhimagga"]
 ---
 
-verified
 ### Overview
-The Kasinas ("Totalities") are the most famous objects of *[Samatha](/glossary/samatha/)* (tranquility) meditation. By focusing on a single, pure physical element or color until a mental replica (the *[nimitta](/glossary/nimitta/)*) arises in the mind, the meditator can achieve all four fine-material jhānas and lay the foundation for psychic powers.
+In the Mahāsakuludāyi Sutta the Buddha says that he has explained the path by which his disciples develop the ten *kasiṇa* bases (*dasa kasiṇāyatanāni*, M-ii 686:1). The commentary explains that they are *kasiṇa* in the sense of "whole" (*sakalaṭṭhena*) and *āyatana* as the field or basis for the states that take them as object; each is perceived "upwards, downwards and across, without duality, immeasurable", that is, extended in all directions, with no other kasiṇa mixed in, and pervaded by the mind without measure (Ps-ii 780:1-14). One who is practised in the attainments goes on to the supernormal powers (Ps-ii 780:19).
 
 ### The List
-1. **Pathavīkasiṇa** - The Earth Kasina: Gazing at a disk of pure, neutral-colored clay or earth.
-2. **Āpokasiṇa** - The Water Kasina: Gazing at a bowl of clear, still water.
-3. **Tejokasiṇa** - The Fire Kasina: Gazing at the flame of a fire through a hole in a screen.
-4. **Vāyokasiṇa** - The Wind Kasina: Observing the motion of wind through the swaying of trees or feeling it strike the body.
-5. **Nīlakasiṇa** - The Blue/Brown/Black Kasina: Gazing at a disk made of blue flowers or cloth.
-6. **Pītakasiṇa** - The Yellow Kasina: Gazing at a disk of yellow flowers or cloth.
-7. **Lohitakasiṇa** - The Red Kasina: Gazing at a disk of red flowers or cloth.
-8. **Odātakasiṇa** - The White Kasina: Gazing at a disk of white material or bright sunlight on a wall.
-9. **Ālokakasiṇa** - The Light Kasina: Gazing at a circle of light cast on a wall through a hole in a roof.
-10. **Paricchinnākāsakasiṇa** - The Limited Space Kasina: Gazing at a patch of sky seen through a small opening.
+1. **Pathavīkasiṇa** - The Earth Kasiṇa.
+2. **Āpokasiṇa** - The Water Kasiṇa.
+3. **Tejokasiṇa** - The Fire Kasiṇa.
+4. **Vāyokasiṇa** - The Air Kasiṇa.
+5. **Nīlakasiṇa** - The Blue Kasiṇa.
+6. **Pītakasiṇa** - The Yellow Kasiṇa.
+7. **Lohitakasiṇa** - The Red Kasiṇa.
+8. **Odātakasiṇa** - The White Kasiṇa.
+9. **Ākāsakasiṇa** - The Space Kasiṇa.
+10. **Viññāṇakasiṇa** - The Consciousness Kasiṇa: the consciousness that occurs in the space left when a kasiṇa is removed (*kasiṇugghāṭimākāse pavattaṃ viññāṇaṃ*, Ps-ii 780:15).
 
-### Quote mahāsakuludāyisuttaṃ 
->**250. puna caparaṃ, udāyi, akkhātā mayā sāvakānaṃ paṭipadā, yathāpaṭipannā me sāvakā dasa kasiṇāyatanāni bhāventi.**   
->“Furthermore, Udāyi, I have explained the path for my disciples, by which path my disciples develop the ten *kasiṇa* bases.   
->**pathavīkasiṇameko sañjānāti uddhamadho tiriyaṃ advayaṃ appamāṇaṃ; āpokasiṇameko sañjānāti…pe… tejokasiṇameko sañjānāti… vāyokasiṇameko sañjānāti… nīlakasiṇameko sañjānāti… pītakasiṇameko sañjānāti… lohitakasiṇameko sañjānāti… odātakasiṇameko sañjānāti… ākāsakasiṇameko sañjānāti … viññāṇakasiṇameko sañjānāti uddhamadho tiriyaṃ advayaṃ appamāṇaṃ.**   
-One perceives the earth *kasiṇa* upwards, downwards, and across, without duality, immeasurable; one perceives the water *kasiṇa*… one perceives the fire *kasiṇa*… one perceives the air *kasiṇa*… one perceives the blue *kasiṇa*… one perceives the yellow *kasiṇa*… one perceives the red *kasiṇa*… one perceives the white *kasiṇa*… one perceives the space *kasiṇa*… one perceives the consciousness *kasiṇa* upwards, downwards, and across, without duality, immeasurable. 
+**The Visuddhimagga's list of ten.** The sutta list is that of the Mūla (MN 77, M-ii 686:1). The Visuddhimagga gives a different tenth and ninth: after the white kasiṇa it has the light kasiṇa (*ālokakasiṇa*) and the limited-space kasiṇa (*paricchinnākāsakasiṇa*) in place of the space and consciousness kasiṇas (Vism-i 771:1). The commentaries explain the difference. The consciousness kasiṇa is not a kasiṇa for the fine-material jhānas; it is the object of the base of infinite consciousness, "the consciousness that occurs in the space kasiṇa", spoken of by way of object, not by way of attainment, so it is not included in the discussion of the fine-material jhānas (Mp-i 1587:3-5; As 1510:4-5; Paṭis-a 1585:3). The limited-space kasiṇa is the space kasiṇa of the fine-material jhānas, but it is not called simply "space kasiṇa" so that it is not confused with the "space from which a kasiṇa has been removed", the object of the formless jhānas (Paṭis-a 1585:2).
+
+
+### Quote
+> **“Puna caparaṃ, udāyi, akkhātā mayā sāvakānaṃ paṭipadā, yathāpaṭipannā me sāvakā dasa kasiṇāyatanāni bhāventi. Pathavīkasiṇameko sañjānāti uddhamadho tiriyaṃ advayaṃ appamāṇaṃ; āpokasiṇameko sañjānāti … pe … tejokasiṇameko sañjānāti … vāyokasiṇameko sañjānāti … nīlakasiṇameko sañjānāti … pītakasiṇameko sañjānāti … lohitakasiṇameko sañjānāti … odātakasiṇameko sañjānāti … ākāsakasiṇameko sañjānāti … viññāṇakasiṇameko sañjānāti uddhamadho tiriyaṃ advayaṃ appamāṇaṃ.**  
+> “Again, Udāyin, I have proclaimed to my disciples the way to develop the ten kasiṇa bases. One contemplates the earth-kasiṇa above, below, and across, undivided and immeasurable; another contemplates the water-kasiṇa…another contemplates the fire-kasiṇa…another contemplates the air-kasiṇa…another contemplates the blue-kasiṇa…another contemplates the yellow-kasiṇa…another contemplates the red-kasiṇa…another contemplates the white-kasiṇa…another contemplates the space-kasiṇa…another contemplates the consciousness-kasiṇa above, below, and across, undivided and immeasurable.  
+>  
+> — [Majjhima Nikāya](/glossary/majjhima-nikaya/) (MN 77, Mahāsakuludāyi Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_ma_02&page_number=207&name=majjhimapa%E1%B9%87%E1%B9%87%C4%81sap%C4%81%E1%B8%B7i&note=&selected_text=MjUwLuKAmOKAmCBQdW5hIGNhcGFyYeG5gywgdWTEgXlpLCBha2toxIF0xIEgbWF5xIE%3D)
 
 ### Textual References
-* **Canonical**: *Mahāsakuludāyi [Sutta](/glossary/sutta/)* (MN 77) – The Buddha lists the ten kasinas.
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapters IV & V) – Provides the definitive, step-by-step instructions on how to construct and meditate on every kasina.
+* **Canonical**: *Mahāsakuludāyi [Sutta](/glossary/sutta/)* (MN 77, M-ii 686:1, para 250) lists the ten kasiṇas with ākāsa and viññāṇa. The same list occurs in AN 10 (A-x 250:1-3, where the consciousness kasiṇa is called the foremost, A-x 251:1) and in the Saṅgīti Sutta (DN 33, D-iii 1644:1-2).
+* **Commentary**: *Papañcasūdanī* (Ps-ii 780:1-21); *Visuddhimagga* (Vism-i 771:1); *Manorathapūraṇī* (Mp-i 1587:1-5); *Aṭṭhasālinī* (As 1510:1-5); *Paṭisambhidāmagga-aṭṭhakathā* (Paṭis-a 1585:1-3).

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The Dyad of Taints"
-pali_title: "Āsava Duka"
+pali_title: "Āsavā dhammā"
 category: "numerical_dhamma"
 list_count: 2
 cross_links: ["abhidhamma", "asava", "kilesa"]
@@ -14,6 +14,12 @@ The [Abhidhamma](/glossary/abhidhamma/) organizes the various lists of defilemen
 ### The List
 1. **Āsavā dhammā** - States that are taints: This refers specifically to the mental factors operating as taints. Structurally, these are reduced to three specific mental factors: Greed (*[lobha](/glossary/lobha/)* - covering sensual and existence taints), Wrong View (*[diṭṭhi](/glossary/ditthi/)*), and Delusion (*[moha](/glossary/moha/)* - covering ignorance).
 2. **No āsavā dhammā** - States that are not taints: Everything else. All other unwholesome factors (like hatred or restlessness), all wholesome factors, all consciousnesses, matter, and [Nibbāna](/glossary/nibbana/). While they might be the *object* of a taint, they are not the taint itself.
+
+### Quote
+> **Katame dhammā āsavā? Cattāro āsavā – kāmāsavo, bhavāsavo, diṭṭhāsavo, avijjāsavo.**  
+> 1102. What states are taints? There are four taints: the taint of sensual desire, the taint of being, the taint of views, and the taint of ignorance.  
+>  
+> — [Dhammasaṅgaṇī](/glossary/dhammasangani/) (Dhs, Dukanikkhepa, Āsavagocchaka) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_01&page_number=221&name=dhammasa%E1%B9%85ga%E1%B9%87%C4%ABp%C4%81%E1%B8%B7i&note=&selected_text=MTEwMi4gS2F0YW1lIGRoYW1txIEgxIFzYXbEgT8%3D)
 
 ### Textual References
 * **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Duka) – The master matrix begins grouping the defilements, establishing the precise psychological components of corruption.

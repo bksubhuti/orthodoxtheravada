@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The 31 Realms of Existence"
-pali_title: "Ekatimsati Bhūmiyo"
+pali_title: "Catasso Bhūmiyo"
 category: "numerical_dhamma"
 list_count: 31
 cross_links: ["bhava", "deva", "samsara"]
@@ -31,5 +31,11 @@ Combining details scattered throughout the Suttas, the Theravāda [Abhidhamma](/
 30. The Realm of Nothingness.
 31. The Realm of Neither-Perception-Nor-Non-Perception.
 
+### Quote
+> **Tattha apāyabhūmi kāmasugatibhūmi rūpāvacarabhūmi arūpāvacarabhūmi ceti catasso bhūmiyo nāma. 4. Tāsu nirayo tiracchānayoni pettivisayo asurakāyo ceti apāyabhūmi catubbidhā hoti. 5. Manussā cātumahārājikā tāvatiṃsā yāmā tusitā nimmānarati paranimmitavasavattī ceti kāmasugatibhūmi sattavidhā hoti. 6. Sā panāyamekādasavidhāpi kāmāvacarabhūmicceva saṅkhaṃ gacchati.**  
+> 3. Therein, the four planes are called: the plane of misery, the sense-sphere plane of happiness, the fine-material sphere plane, and the immaterial sphere plane. 4. Among those, the plane of misery is of four kinds (apāyabhūmi catubbidhā): hell, the animal realm, the ghost realm (pettivisayo), and the Asura group (asurakāyo). 5. Humans, the devas of the Four Great Kings, Tāvatiṃsa, Yama devas, Tusita devas, Nimmānarati, and Paranimmitavasavattī—the sense-sphere plane of happiness is of seven kinds (kāmasugatibhūmi sattavidhā). 6. This elevenfold plane is reckoned (saṅkhaṃ gacchati) simply as the sense-sphere plane.  
+>  
+> — [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (Abhidh-s, Vīthimuttasaṅgaha, Bhūmicatukka §3–6) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=29&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=My4gVGF0dGhhIGFwxIF5YWJoxattaSBrxIFtYXN1Z2F0aWJoxattaSByxatwxIF2YWNhcmFiaMWrbWkgYXLFq3DEgXZhY2FyYWJoxattaQ%3D%3D)
+
 ### Textual References
-* **Commentary**: *Abhidhammattha Saṅgaha* (Chapter V) – The definitive summary of Buddhist cosmology, explicitly mapping out the lifespans and kammic causes for rebirth into each of these 31 realms.
+* **Commentary**: *Abhidhammattha Saṅgaha* (Chapter 5, Vīthimuttaparicchedo, Abhidh-s 377; Bhūmicatukka, Abhidh-s 381-391) – Gives the four planes (apāya, kāmasugati, rūpāvacara, arūpāvacara) and their kinds: 4 + 7 + 16 + 4. The total of 31 is the sum; the phrase "ekatiṃsa bhūmi" itself was not found in the texts.

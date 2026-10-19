@@ -23,5 +23,11 @@ The Ten Perfections (*[Pāramī](/glossary/parami/)*) are the absolute prerequis
 9. **[Mettā](/glossary/metta/) Pāramī** - The Perfection of Loving-kindness: Boundless goodwill toward all beings, even toward one's murderers.
 10. **[Upekkhā](/glossary/upekkha/) Pāramī** - The Perfection of Equanimity: Perfect mental balance, remaining unshaken by praise, blame, pleasure, or pain.
 
+### Quote
+> **“Dānaṃ sīlañca nekkhammaṃ, paññāvīriyañca kīdisaṃ; Khantisaccamadhiṭṭhānaṃ, mettupekkhā ca kīdisā. 77. “Dasa pāramī tayā dhīra, kīdisī lokanāyaka; Kathaṃ upapāramī puṇṇā, paramatthapāramī kathaṃ”.**  
+> What kind were your giving, virtue, renunciation, wisdom, and effort? What kind were your patience, truthfulness, determination, loving-kindness, and equanimity? Wise One, World's Chief Leader, what kind of ten perfections were fulfilled by you? How were the secondary perfections fulfilled, and how were the supreme perfections fulfilled?”  
+>  
+> — [Khuddaka Nikāya](/glossary/khuddaka-nikaya/), Buddhavaṃsa (Ratanacaṅkamanakaṇḍa, verses 76–77) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_12&page_number=306&name=buddhava%E1%B9%83sap%C4%81%E1%B8%B7i&note=&selected_text=NzYuIOKAmOKAmCBExIFuYeG5gyBzxKtsYcOxY2EgbmVra2hhbW1h4bmDLCBwYcOxw7HEgXbEq3JpeWHDsWNh)
+
 ### Textual References
 * **Canonical**: *[Buddhavaṃsa](/glossary/buddhavamsa/) & [Cariyāpiṭaka](/glossary/cariyapitaka/)* – The canonical texts detailing the Bodhisatta's fulfillment of these perfections in previous lives.

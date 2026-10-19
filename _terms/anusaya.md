@@ -9,59 +9,42 @@ canonical_texts: ["Samyutta Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga", "Sammohavinodani", "Paramatthadipani"]
 ---
 
-Verified
 ### Grammatical Analysis
-**Anusaya**: [m.] latent tendency; underlying disposition; dormant defilement. Formed by prefix *anu* (along, with) + root *si* (to lie down, sleep). Literally means "that which lies dormant."
+**Anusaya**: [m.] latent tendency; underlying tendency; dormant defilement. From *anu* + root *si* (to lie). The Visuddhimagga explains: *te hi thāmagatattā punappunaṃ kāmarāgādīnaṃ uppattihetubhāvena anusentiyevāti anusayā*, "because of their strength they lie dormant as the cause for the arising of sensual passion and the rest again and again, therefore they are anusayas" (Vism-ii 1961:2). The Mahāniddesa-aṭṭhakathā glosses *anusayanaṭṭhena* as *appahīnaṭṭhena*, "in the sense of being unabandoned" (Nidd-a-i 880:4-7).
 
 ### Orthodox Definition
-*Anusayas* represent the deepest, sleeping substratum of defilements (*kilesas*) in Theravāda psychology. While active defilements (*pariyuṭṭhāna*) boil up into conscious thought, and transgressive defilements (*vītikkama*) erupt into physical action, *anusayas* are the hidden, latent potentials lying quietly in the mental stream, waiting for the right sensory trigger to wake them up.
+The Mūla gives seven *anusayas* (S-v 390:3; also D-iii 1778:2 and Vibh 2478:2):
+1. Sensual passion (*kāmarāgānusayo*)
+2. Resistance (*paṭighānusayo*)
+3. Views (*diṭṭhānusayo*)
+4. Uncertainty (*vicikicchānusayo*)
+5. Conceit (*mānānusayo*)
+6. Passion for becoming (*bhavarāgānusayo*)
+7. Ignorance (*avijjānusayo*)
 
-The tradition identifies **seven latent tendencies**:
-1. Sensual passion (*kāmarāgānusaya*)
-2. Aversion/Ill-will (*paṭighānusaya*)
-3. Views (*diṭṭhānusaya*)
-4. Doubt (*vicikicchānusaya*)
-5. Conceit (*mānānusaya*)
-6. Craving for existence (*bhavarāgānusaya*)
-7. Ignorance (*avijjānusaya*)
+The Abhidhamma lists the same seven (Vibh 2478:2, in the Ñāṇavibhaṅga, where they are the "underlying tendency of beings", *sattānaṃ anusayo*, §816).
 
-Because they are dormant, they cannot be destroyed by morality (*[sīla](/glossary/sila/)*) or even by deep concentration (*[samādhi](/glossary/samadhi/)*). They are only permanently uprooted when struck by the lightning flash of supramundane path-wisdom (*[magga](/glossary/magga/)-ñāṇa*).
+The commentary defines the *anusaya* as a defilement that has gained strength because it is unabandoned: *appahīnākāro anusayo, anusayoti pana appahīnaṭṭhena thāmagatā kilesā vuccanti* (Nidd-a-i 880:11), and *anusentīti anurūpaṃ kāraṇaṃ labhitvā uppajjantīti attho*, "they lie dormant" means they arise when they find a suitable condition (Nidd-a-i 880:9). The Visuddhimagga gives the same explanation of the seven (Vism-ii 1961:1-2), and the Netti says that they are abandoned by wisdom: *paññāya anusayā pahīyanti, anusayesu pahīnesu pariyuṭṭhānā pahīyanti*, "when the underlying tendencies are abandoned, the obsessions are abandoned" (Nett 223:1). In the Paṭisambhidāmagga, the stream-entry path cuts off the underlying tendencies of views and of uncertainty (Paṭis 415:2). The Visuddhimagga sets out which path-knowledge abandons which states (Vism-ii 1965:3, Ch. XXII).
 
-### Quote
-> **evañca katvā pāḷiyaṃ puthujjanassa sattapi anusayā anusayavāre saha anusentīti uppajjanavāre saha uppajjantīti vuttā.**  
-> Therefore, in the Pali, it is stated that for an ordinary person, all seven latent tendencies lie dormant together in the "latent tendency section" (*anusayavāra*), and arise together in the "arising section" (*uppajjanavāra*).  
->   
-> **yathāha puthujjanassa avijjānusayoca anuseti.**  
-> As it is said, the latent tendency of ignorance lies latent in an ordinary person.  
->   
-> **[kāmarāga](/glossary/kamaraga/).**  
-> Sensual lust.  
->   
-> **[paṭigha](/glossary/patigha/).**  
-> Resistance.  
->   
-> **[māna](/glossary/mana/).**  
-> Conceit.  
->   
-> **[diṭṭhi](/glossary/ditthi/).**  
-> Wrong view.  
->   
-> **[vicikicchā](/glossary/vicikiccha/).**  
-> Sceptical doubt.  
->   
-> **bhavarāganusayoca anusetīti.**  
-> And the latent tendency of lust for existence lie latent.  
->   
-> **tathā uppajjanavārepīti.**  
-> Likewise in the section on arising (*uppajjanavāra*).  
->   
-> **apica, sarūpato pariyuṭṭhānaṃ apatvā santāne pavattamānehi kusalākusalā byākatacittuppādehi saha anurūpā aviruddhā hutvā senti.**  
-> Furthermore, without reaching a state of manifestation (*pariyuṭṭhāna*) in their own nature, they lie latent, being compatible and not conflicting with the arisen wholesome, unwholesome, and indeterminate mental states in the mental continuum.  
-> 
-> — *[Paramatthadīpanī](/glossary/paramatthadipani/)*
+### Quote (Mūla: Saṃyutta Nikāya)
+> **“Sattime, bhikkhave, anusayā. Katame satta? Kāmarāgānusayo, paṭighānusayo, diṭṭhānusayo, vicikicchānusayo, mānānusayo, bhavarāgānusayo, avijjānusayo – ime kho, bhikkhave, sattānusayā. Imesaṃ kho, bhikkhave, sattannaṃ anusayānaṃ abhiññāya pariññāya parikkhayāya pahānāya … pe … ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo” ti.**  
+> “Bhikkhus, there are these seven underlying tendencies. What seven? The underlying tendency to sensual passion, the underlying tendency to resistance, the underlying tendency to views, the underlying tendency to uncertainty, the underlying tendency to conceit, the underlying tendency to passion for becoming, and the underlying tendency to ignorance—these, bhikkhus, are the seven underlying tendencies. This Noble Eightfold Path is to be developed for direct knowledge, for full understanding, for the utter destruction, and for the abandonment of these seven underlying tendencies.”  
+>  
+> — [Saṃyutta Nikāya](/glossary/samyutta-nikaya/) (SN 45.176, Anusaya Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_sa_05&page_number=55&name=mah%C4%81vaggasa%E1%B9%83yuttap%C4%81%E1%B8%B7i&note=&selected_text=MTc2LuKAmOKAmCBTYXR0aW1lLCBiaGlra2hhdmUsIGFudXNhecSBLg%3D%3D)
+
+### Quote (Abhidhamma: Vibhaṅga)
+> **Katamo ca sattānaṃ anusayo? Sattānusayā – kāmarāgānusayo, paṭighānusayo, mānānusayo, diṭṭhānusayo, vicikicchānusayo, bhavarāgānusayo, avijjānusayo.**  
+> 816. And what is the underlying tendency of beings? The underlying tendencies of beings are: the underlying tendency of sensual passion, the underlying tendency of resistance, the underlying tendency of conceit, the underlying tendency of views, the underlying tendency of uncertainty, the underlying tendency of passion for becoming, and the underlying tendency of ignorance.  
+>  
+> — [Vibhaṅga](/glossary/vibhanga/) (Ñāṇavibhaṅga, §816) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_02&page_number=353&name=vibha%E1%B9%85gap%C4%81%E1%B8%B7i&note=&selected_text=ODE2LiBLYXRhbW8gY2Egc2F0dMSBbmHhuYMgYW51c2F5bz8%3D)
+
+### Quote (Aṭṭhakathā: Visuddhimagga)
+> **Anusayāti thāmagataṭṭhena kāmarāgānusayo, paṭigha, māna, diṭṭhi, vicikicchā, bhavarāga, avijjānusayoti evaṃ vuttā kāmarāgādayo satta. Te hi thāmagatattā punappunaṃ kāmarāgādīnaṃ uppattihetubhāvena anusentiyevāti anusayā.**  
+> The seven underlying tendencies (anusayā) are lust for sense-objects and so on, stated thus: the underlying tendency of sensual passion, of aversion, conceit, view, uncertainty, lust for existence, and ignorance. Because of their strength, they are called underlying tendencies since they lie dormant as the causes for the arising of lust for sense-objects and so on again and again.  
+>  
+> — [Visuddhimagga](/glossary/visuddhimagga/) (Vism-ii 1961, Ch. XXII) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_02&page_number=324&name=visuddhimaggo+%28du%29&note=&selected_text=QW51c2F5xIF0aSB0aMSBbWFnYXRh4bmt4bmtaGVuYSBrxIFtYXLEgWfEgW51c2F5bywgcGHhua1pZ2hhLCBtxIFuYSwgZGnhua3hua1oaSw%3D)
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Anusaya Sutta* (SN 45.175) – Brief discourse instructing monks to cultivate the Noble Eightfold Path specifically for the uprooting of the seven latent tendencies.
-* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Anusaya-vibhaṅga).
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Detailing which specific path-moments kill which specific dormant tendencies.
-* **Commentary**: *Paramatthadīpanī* – Detailing how latent tendencies lie dormant in the mental stream compatible with arisen wholesome, unwholesome, and indeterminate states.
+* **[Sutta](/glossary/sutta/)**: *Anusayasutta* (SN 45.176, S-v 389 "5. Anusayasuttaṃ", para 176) – the seven underlying tendencies, and the Noble Eightfold Path to be developed for their abandonment (S-v 390:3-4).
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Ñāṇavibhaṅga, Vibh 2478:2, §816; the list again at Vibh 2975:2).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Vism-ii 1961:1-2, 1965:3, Chapter XXII); *Mahāniddesa-aṭṭhakathā* (Nidd-a-i 880:1-12).

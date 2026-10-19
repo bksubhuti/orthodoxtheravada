@@ -20,7 +20,14 @@ The texts define it through two primary aspects:
 
 It is characterized as *suññata* (void of self/defilements), *[animitta](/glossary/animitta/)* (signless), and *[appaṇihita](/glossary/appanihita/)* (desireless). It is the absolute cessation of *[dukkha](/glossary/dukkha/)*.
 
+### Quote
+> **“Atthi, bhikkhave, ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ. No cetaṃ, bhikkhave, abhavissa ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyetha. Yasmā ca kho, bhikkhave, atthi ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ, tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyatī” ti.**  
+> “There is, monks, an unborn, unbecome, unmade, unconditioned. If, monks, there did not exist that unborn, unbecome, unmade, unconditioned, then no escape from the born, become, made, and conditioned would be discerned here. But because there is, monks, an unborn, unbecome, unmade, unconditioned, therefore an escape from the born, become, made, and conditioned is discerned.”  
+>  
+> — [Udāna](/glossary/udana/) (Ud 8.3, Tatiyanibbānapaṭisaṃyutta Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_03&page_number=178&name=ud%C4%81nap%C4%81%E1%B8%B7i&note=&selected_text=4oCY4oCYIEF0dGhpLCBiaGlra2hhdmUsIGFqxIF0YeG5gyBhYmjFq3Rh4bmDIGFrYXRh4bmD)
+
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Nibbāna Sutta* (Ud 8.1) – "There is, monks, that dimension where there is neither earth, nor water, nor fire, nor wind..."
-* **[Abhidhamma](/glossary/abhidhamma/)**: *[Abhidhammattha-saṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter VI) – Structured as one of the four ultimate realities (*paramattha*).
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVI) – Comprehensive refutation of unorthodox views regarding Nibbāna.
+* **[Sutta](/glossary/sutta/)**: *Paṭhamanibbānapaṭisaṃyutta Sutta* (Ud 8.1, CST heading Ud 821:1) – "Atthi, bhikkhave, tadāyatanaṃ, yattha neva pathavī, na āpo, na tejo, na vāyo …" (Ud 824:1): "There is, monks, that dimension where there is neither earth, nor water, nor fire, nor wind..."
+* **Sutta**: *Itivuttaka* 44 (two *nibbānadhātu*, saupādisesa and anupādisesa, It 399:1-3; see the page two-types-of-nibbana) and the "unborn, unbecome, unmade, unconditioned" also at It 389:1.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Abhidhammattha-saṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter VI, Samuccayasaṅgaha, which ends at Abhidh-s 684:1) – Nibbāna is supramundane, realised by the knowledge of the four paths (Abhidh-s 594:1); onefold by nature, twofold as saupādisesa and anupādisesa (Abhidh-s 595:1), threefold as suññata, animitta, appaṇihita (Abhidh-s 596:1).
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVI, Indriyasaccaniddesa, Vism-ii 591:1) – discussion of objections that Nibbāna is non-existent or impermanent (e.g. Vism-ii 777:5, 780:5, 782:1).

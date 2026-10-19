@@ -9,23 +9,35 @@ canonical_texts: ["Digha Nikaya", "Majjhima Nikaya"]
 commentaries: ["Papañcasudani"]
 ---
 
-Verified
 ### Grammatical Analysis
-**Gijjhakūṭa**: [m.] Vulture Peak. Formed by *gijjha* (vulture) + *kūṭa* (peak, mountain top, crag). 
+**Gijjhakūṭa**: [m.] Vulture Peak. A compound of *gijjha* (vulture) + *kūṭa* (peak). The Papañcasūdanī gives two explanations: the mountain has a peak similar to a vulture (*gijjhasadisaṃ kūṭaṃ*), or vultures live on its peaks (*gijjhā vā tassa kūṭesu nivasanti*) (Ps-i 1723:1-2).
 
 ### Orthodox Definition
-*Gijjhakūṭa* is a prominent mountain overlooking the city of Rājagaha. It was one of the Buddha's favorite secluded retreats. Unlike the structured monasteries of [Jetavana](/glossary/jeta-vana/) or [Veḷuvana](/glossary/velu-vana/), Vulture Peak was a rugged, natural environment containing small caves where the Buddha and his senior disciples would reside for intense meditation.
+*Gijjhakūṭa* is a mountain at Rājagaha where the Buddha stayed: "the Blessed One was dwelling at Rājagaha on Gijjhakūṭa mountain" (*rājagahe viharati gijjhakūṭe pabbate*, e.g. M-i 1057:1, M-i 550:1).
 
-In Theravāda history, Vulture Peak is famously associated with the assassination attempt by the Buddha's cousin, Devadatta, who hurled a massive boulder down the mountain slope in an effort to kill the [Tathāgata](/glossary/tathagata/). The rock struck a ledge, and a splinter struck the Buddha's foot, drawing blood—an act of immediate, heavy karmic consequence (*ānantarika-kamma*). 
+In the Vinaya (Cūḷavagga, Saṅghabhedakakkhandhaka, "The Deed of Causing Blood to Flow"), Devadatta climbed Gijjhakūṭa and hurled a large rock to kill the Buddha, who was walking in the shadow of the mountain. Two peaks intercepted the rock, and a splinter from it caused the Buddha's foot to bleed (Vin-iv 1884:1-4).
 
-(Note: In Mahāyāna traditions, Vulture Peak is the mythological setting for the delivery of massive cosmic sutras like the Lotus Sutra, but in Theravāda, it remains a historical, geographic site of ascetic practice.)
+The Mahāsāropama Sutta (MN 29) was given at Gijjhakūṭa "not long after Devadatta had gone away" (*acirapakkante devadatte*). The Papañcasūdanī explains this as: not long after Devadatta, having caused a schism in the Saṅgha and committed the deed of causing blood to flow, had departed (Ps-i 2277:2).
 
-### Quote
-> **Tena kho pana samayena [bhagavā](/glossary/bhagava/) gijjhakūṭassa pabbatassa chāyāyaṃ caṅkamati. Atha kho devadatto gijjhakūṭaṃ pabbataṃ āruhitvā mahatiṃ silaṃ pavijjhi – imāya samaṇaṃ gotamaṃ jīvitā voropessāmīti. Dve pabbatakūṭā samāgantvā taṃ silaṃ sampaṭicchiṃsu. Tato papatikā uppatitvā bhagavato pāde ruhiraṃ uppādesi.**  
-> Now at that time the Blessed One was walking up and down in the shadow of Mount Gijjhakūṭa. Then Devadatta, having climbed Mount Gijjhakūṭa, hurled a large rock, thinking: "By this I will deprive Gotama the recluse of his life." Two mountain peaks met and intercepted that rock. From that, a splinter flew up and caused blood to appear on the Blessed One's foot. 
-> 
-> — [Vinaya Piṭaka](/glossary/vinaya-pitaka/) (Cūḷavagga, VII.3.9)
+### Quote (Mūla: Vinaya Piṭaka, Cūḷavagga)
+> **Tena kho pana samayena bhagavā gijjhakūṭassa pabbatassa chāyāyaṃ caṅkamati. Atha kho devadatto gijjhakūṭaṃ pabbataṃ āruhitvā mahatiṃ silaṃ pavijjhi – imāya samaṇaṃ gotamaṃ jīvitā voropessāmīti. Dve pabbatakūṭā samāgantvā taṃ silaṃ sampaṭicchiṃsu. Tato papatikā uppatitvā bhagavato pāde ruhiraṃ uppādesi.**  
+> Now on that occasion the Blessed One was walking mindfully in the shadow of Vulture Peak. Then Devadatta, having climbed Vulture Peak, threw down a huge rock, thinking: 'With this I will deprive Ascetic Gotama of life.' Two mountain peaks, coming together, intercepted that rock. A splinter from it, flying off, caused the Blessed One's foot to bleed.  
+>  
+> — [Vinaya Piṭaka](/glossary/vinaya-pitaka/) (Cūḷavagga, Saṅghabhedakakkhandhaka, Lohituppādakakamma) · [TPR](https://tpr.pali.tools/open?book_id=mula_vi_04&page_number=354&name=c%C5%AB%E1%B8%B7avaggap%C4%81%E1%B8%B7i&note=&selected_text=MzQxLiBUZW5hIGtobyBwYW5hIHNhbWF5ZW5hIGJoYWdhdsSB)
+
+### Quote (Mūla: Majjhima Nikāya, Mahāsāropama Sutta)
+> **Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate acirapakkante devadatte.**  
+> Thus have I heard. On one occasion the Blessed One was dwelling at Rājagaha on Vulture Peak Mountain; it was not long after Devadatta had gone away.  
+>  
+> — [Majjhima Nikāya](/glossary/majjhima-nikaya/) (MN 29, Mahāsāropama Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_ma_01&page_number=250&name=m%C5%ABlapa%E1%B9%87%E1%B9%87%C4%81sap%C4%81%E1%B8%B7i&note=&selected_text=MzA3LiBFdmHhuYMgbWUgc3V0YeG5gyDigJMgZWth4bmD)
+
+### Quote (Aṭṭhakathā: Papañcasūdanī)
+> **Gijjhakūṭe pabbateti tassa pabbatassa gijjhasadisaṃ kūṭaṃ atthi, tasmā gijjhakūṭoti vuccati. Gijjhā vā tassa kūṭesu nivasantītipi gijjhakūṭoti vuccati.**  
+> “On Vulture Peak Mountain” (gijjhakūṭe pabbate): that mountain has a peak similar to a vulture, therefore it is called “Vulture Peak.” Or, it is called Vulture Peak because vultures live on its peaks.  
+>  
+> — [Papañcasūdanī](/glossary/papancasudani/) (Majjhimanikāya-aṭṭhakathā, MN 14, Cūḷadukkhakkhandha Sutta) · [TPR](https://tpr.pali.tools/open?book_id=attha_ma_01_01&page_number=368&name=m%C5%ABlapa%E1%B9%87%E1%B9%87%C4%81saa%E1%B9%AD%E1%B9%ADhakath%C4%81+%28pa%29&note=&selected_text=R2lqamhha8Wr4bmtZSBwYWJiYXRldGkgdGFzc2EgcGFiYmF0YXNzYSBnaWpqaGFzYWRpc2HhuYMga8Wr4bmtYeG5gw%3D%3D)
 
 ### Textual References
-* **[Vinaya](/glossary/vinaya/)**: *[Cūḷavagga](/glossary/culavagga/)* (Saṅghabhedakkhandhaka) – The historical account of Devadatta rolling the boulder down Vulture Peak.
-* **[Sutta](/glossary/sutta/)**: *Mahāsāropama Sutta* (MN 29) – Delivered on Vulture Peak shortly after Devadatta caused a schism in the [Saṅgha](/glossary/sangha/).
+* **[Vinaya](/glossary/vinaya/)**: *[Cūḷavagga](/glossary/culavagga/)* (Saṅghabhedakakkhandhaka) – Devadatta hurls the rock from Gijjhakūṭa (Vin-iv 1884).
+* **[Sutta](/glossary/sutta/)**: *Mahāsāropama Sutta* (MN 29) – given at Gijjhakūṭa not long after Devadatta had gone away (M-i 1057:1).
+* **Commentary**: *[Papañcasūdanī](/glossary/papancasudani/)* on the Cūḷadukkhakkhandha Sutta (MN 14) – the etymology of the name (Ps-i 1723).

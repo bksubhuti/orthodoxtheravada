@@ -5,44 +5,43 @@ pali_spelling: "Indriyapaccaya"
 category: "patthana"
 frequency_rank: 366
 cross_links: ["patthana", "indriya", "saddha", "panna"]
-canonical_texts: ["Patthana"]
-commentaries: ["Abhidhammatthasaṅgaha", "Visuddhimagga"]
+canonical_texts: ["Patthana", "Vibhanga"]
+commentaries: ["Patthana-atthakatha", "Abhidhammatthasangaha", "Visuddhimagga"]
 ---
 
-Verified
 ### Grammatical Analysis
-**Indriyapaccaya**: [m.] Faculty condition; Controlling condition. Formed by *[indriya](/glossary/indriya/)* (faculty, controlling power, ruler) + *paccaya* (condition).
+**Indriyapaccaya**: [m.] faculty condition. Formed by *[indriya](/glossary/indriya/)* (faculty) + *paccaya* (condition). The Paṭṭhāna Aṭṭhakathā says the twenty faculties (excluding the feminine and masculine faculties) are the faculty condition by "helping in the sense of predominance" (*adhipatiyaṭṭhena upakārakā*, Paṭṭh-a 1936:1).
 
 ### Orthodox Definition
-*[Indriya](/glossary/indriya/)-paccaya* is the sixteenth of the 24 Conditions. It describes a relationship where a specific phenomenon acts as a highly specialized controller or sovereign over its specific domain, forcing associated states to comply with its function.
+*Indriyapaccaya* is the sixteenth of the twenty-four conditions in the Paṭṭhāna (Paṭṭh-i 49:1, "16. Indriyapaccayoti"). The Mūla gives it thus: the eye faculty is related to the eye-consciousness element and its associated states by faculty condition, and likewise the ear, nose, tongue and body faculties; the material life faculty (*rūpajīvitindriya*) to kamma-produced materiality; the immaterial faculties (*arūpino indriyā*) to their associated states and the materiality produced by them (Paṭṭh-i 49:1-6, 50:1).
 
-There are 22 faculties in [Abhidhamma](/glossary/abhidhamma/), ranging from physical faculties (the eye, ear, vitality) to mental/spiritual faculties (faith, energy, mindfulness, concentration, wisdom). When the eye faculty operates, it completely controls the domain of seeing; hearing cannot interfere. When the faculty of Wisdom (*paññindriya*) is active, it completely controls the domain of analyzing reality, forcing all associated mental factors to align with clarity and non-delusion.
+The Aṭṭhakathā says: "The twenty faculties, excluding the feminine and masculine faculties, which help in the sense of predominance, are the faculty condition. Of these the five beginning with the eye faculty are conditions only for immaterial states; the rest are conditions for both material and immaterial states" (Paṭṭh-a 1936:1-2; same Vism-ii 938:1-2). In the Question Section it is also said that at the moment of rebirth the resultant indeterminate faculties are a condition for their associated aggregates and for kamma-produced matter (Paṭṭh-a 1936:6; Paṭṭh-i 1532:1 for the wholesome faculties).
 
-The texts classify this condition into a threefold division: the five physical sensitivities (*pasāda*) directing their respective sense-consciousnesses; the physical life-faculty (*rūpajīvitindriya*) sustaining kamma-born material groups; and the immaterial faculties exercising conascent dominance over associated mental states and their co-arisen bodily expressions. While twenty of the traditional twenty-two faculties exercise this direct conditioning role through the mode of localized supremacy (*adhipatiyaṭṭha*), the two sex faculties (masculinity and femininity) are explicitly excluded from this structural role as they lack active conascent steering power over concurrent phenomena.
+The Abhidhammattha-saṅgaha summarises it as threefold: the five sensitive organs for the five kinds of consciousness; the material life faculty for kamma-produced matter; the immaterial faculties for co-arisen mind-and-matter (Abhidh-s 730:1). The Vibhaṅga lists the twenty-two faculties (*bāvīsatindriyāni*): eye, ear, nose, tongue, body, mind, feminine, masculine, life, pleasure, pain, mental pleasure, displeasure, equanimity, faith, energy, mindfulness, concentration, wisdom, and the three faculties of the path (Vibh 831:1).
 
-### Quote
-> **pañca pasādā pañcannaṃ viññāṇānaṃ, rūpajīvitindriyaṃ upādinnarūpānaṃ, arūpino indriyā sahajātānaṃ nāmarūpānanti ca tividho hoti indriyapaccayo.**  
-> The faculty condition (*indriya-paccaya*) is of three kinds: the five sensitive material phenomena for the five consciousnesses; the material life faculty for grasped material phenomena; and immaterial faculties for co-arisen name-and-form.  
-> 
-> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)*
+### Quote (Mūla: Paṭṭhāna)
+> **Indriyapaccayoti – cakkhundriyaṃ cakkhuviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Sotindriyaṃ sotaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Ghānindriyaṃ ghānaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Jivhindriyaṃ jivhāviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Kāyindriyaṃ kāyaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo. Arūpino indriyā sampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo.**  
+> 16. Faculty condition: Eye faculty is related to eye-consciousness-element and its associated states by faculty condition. Ear faculty is related to ear-consciousness-element and its associated states by faculty condition. Nose faculty is related to nose-consciousness-element and its associated states by faculty condition. Tongue faculty is related to tongue-consciousness-element and its associated states by faculty condition. Body faculty is related to body-consciousness-element and its associated states by faculty condition. Material life faculty is related to kamma-produced materiality by faculty condition. Immaterial faculties are related to their associated states and to the materiality produced by them, by faculty condition.  
+>  
+> — [Paṭṭhāna](/glossary/patthana/) (Tikapaṭṭhāna, Paccayaniddeso, Paṭṭh-i 49-50) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_07_01&page_number=7&name=pa%E1%B9%AD%E1%B9%ADh%C4%81nap%C4%81%E1%B8%B7i+%28pa%29&note=&selected_text=MTYuIEluZHJpeWFwYWNjYXlvdGkg4oCTIGNha2todW5kcml5YeG5gyBjYWtraHV2acOxw7HEgeG5h2FkaMSBdHV5xIEgdGHhuYNzYW1wYXl1dHRha8SBbmHDsWNh)
 
-> **adhipatiyaṭṭhena upakārakā itthindriyapurisindriyavajjā vīsatindriyā indriyapaccayo.**  
-> The twenty faculties (*indriya*), excluding the feminine and masculine faculties, that render assistance by way of dominance are the faculty condition (*indriya-paccaya*).  
->   
-> **tattha cakkhundriyādayo arūpadhammānaṃyeva, sesā rūpārūpānaṃ paccayā honti.**  
-> Among these, the eye-faculty and so on are conditions only for non-material phenomena, while the rest are conditions for both material and non-material phenomena.  
->   
-> **yathāha – ‘‘cakkhundriyaṃ cakkhUniññāṇadhātuyā…pe… sota… ghāna… jivhā… kāyindriyaṃ kāyviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo.**  
-> As it is said: “The eye-faculty is a condition for the eye-consciousness element… etc. … the ear-faculty… nose-faculty… tongue-faculty… body-faculty are conditions for the body-consciousness element and its associated phenomena by way of the faculty condition.  
->   
-> **rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo.**  
-> The *[rūpa](/glossary/rupa/)* life-faculty is a condition for kamma-born *rūpa* by way of the faculty condition.  
->   
-> **arūpino indriyā sampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo’’ti (paṭṭhā. 1.1.16).**  
-> Non-material faculties are conditions for their associated phenomena and their concomitantly arisen *rūpa* by way of the faculty condition,” (*[Paṭṭhāna](/glossary/patthana/)* 1.1.16).  
-> 
-> — *[Visuddhimagga](/glossary/visuddhimagga/)*
+
+### Quote (Aṭṭhakathā: Paṭṭhāna-aṭṭhakathā)
+> **Adhipatiyaṭṭhena upakārakā itthindriyapurisindriyavajjā vīsatindriyā indriyapaccayo. Tattha cakkhundriyādayo pañca arūpadhammānaṃyeva, sesā rūpārūpānaṃ paccayā honti. Yathāha – cakkhundriyaṃ cakkhuviññāṇadhātuyā, sota … ghāna … jivhā … kāyindriyaṃ kāyaviññāṇadhātuyā taṃsampayuttakānañca dhammānaṃ indriyapaccayena paccayo. Rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo. Arūpino indriyā sampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayoti.**  
+> The twenty faculties that help in the sense of predominance (adhipatiyaṭṭhena), excluding the female faculty and the male faculty, are faculty condition (indriyapaccayo). Therein, the five like the eye faculty (cakkhundriyādayo) are conditions only for immaterial phenomena (arūpadhammānaṃ); the remaining are conditions for material and immaterial phenomena (rūpārūpānaṃ). Just as he said: ‘The eye faculty (cakkhundriyaṃ) is a condition for the eye-consciousness element; the ear... nose... tongue... body faculty (kāyindriyaṃ) is a condition for the body-consciousness element and its associated phenomena by way of faculty condition.’ ‘The material life faculty (rūpajīvitindriyaṃ) is a condition for kamma-produced matter (kaṭattārūpānaṃ) by way of faculty condition.’ ‘The formless faculties (arūpino indriyā) are a condition for their associated phenomena and materiality rooted in thought by way of faculty condition.’  
+>  
+> — Paṭṭhāna-aṭṭhakathā (Paṭṭh-a 1936) · [TPR](https://tpr.pali.tools/open?book_id=attha_bi_03&page_number=350&name=pa%C3%B1capakara%E1%B9%87aa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=QWRoaXBhdGl5YeG5reG5rWhlbmEgdXBha8SBcmFrxIEgaXR0aGluZHJpeWFwdXJpc2luZHJpeWF2YWpqxIEgdsSrc2F0aW5kcml5xIEgaW5kcml5YXBhY2NheW8u)
+
+
+### Quote (Abhidhammattha-saṅgaha: Paṭṭhānanayo)
+> **Pañca pasādā pañcannaṃ viññāṇānaṃ, rūpajīvitindriyaṃ upādinnarūpānaṃ, arūpino indriyā sahajātānaṃ nāmarūpānanti ca tividho hoti indriyapaccayo.**  
+> 32. Faculty condition is threefold: the five sensitive organs are a condition for the five kinds of consciousness; the material life faculty is a condition for kamma-produced matter; and the immaterial faculties are a condition for co-arisen mind-and-matter.  
+>  
+> — [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (Abhidh-s 730, Paṭṭhānanayo) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=56&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=MzIuIFBhw7FjYSBwYXPEgWTEgSBwYcOxY2FubmHhuYMgdmnDscOxxIHhuYfEgW5h4bmDLCByxatwYWrEq3ZpdGluZHJpeWHhuYM%3D)
+
 
 ### Textual References
-* **Compendium**: *Abhidhammatthasaṅgaha* – Outlining the structural three-tiered classification of the condition.
-* **Commentary**: *Visuddhimagga* – Defining how twenty faculties exert dominance (*adhipatiyaṭṭha*) over concurrent material and immaterial expressions while explicitly isolating the distinct scopes of physical sensitivities, physical vitality, and immaterial faculties.
+* **Abhidhamma**: *[Paṭṭhāna](/glossary/patthana/)* – Paṭṭh-i 49:1-6, 50:1; Paṭṭh-i 1532:1 (wholesome faculties).
+* **Abhidhamma**: *[Vibhaṅga](/glossary/vibhanga/)* – Vibh 831:1 (the twenty-two faculties).
+* **Commentary**: *Paṭṭhāna-aṭṭhakathā* Paṭṭh-a 1936; *Visuddhimagga* Vism-ii 937-938 (the same passage).
+* **Textual**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* – Abhidh-s 730:1.

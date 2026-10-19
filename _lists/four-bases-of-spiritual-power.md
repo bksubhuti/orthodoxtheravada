@@ -9,30 +9,25 @@ canonical_texts: ["Samyutta Nikaya"]
 commentaries: ["Saratthappakasini"]
 ---
 
-Verified
 
 ### Overview
-The Bases of Spiritual Power (*[Iddhipāda](/glossary/iddhipada/)*) are the foundations for achieving extraordinary concentration and psychic mastery, but more importantly, they are essential factors for attaining [Nibbāna](/glossary/nibbana/). They represent four distinct dominant mental forces that can drive a practitioner to complete success in mental cultivation.
+The Bases of Spiritual Power (*[Iddhipāda](/glossary/iddhipada/)*) are four kinds of concentration, each joined with the volitional formations of striving (*padhānasaṅkhārā*). A basis (*pāda*) is the foot or ground for psychic power (*iddhi*): the Aṭṭhakathā explains *iddhipāda* as "the foot of psychic power, or the foot that has itself become psychic power" (Spk-v 640:4). The Apāra Sutta says that developed and made much of, they lead from the near shore to the far shore (S-v 1549:1), and another sutta that they lead to disenchantment, dispassion, cessation, peace, direct knowledge, awakening and [Nibbāna](/glossary/nibbana/) (S-v 1555:1).
 
 ### The List
-1. **Chandasamādhi** - Concentration driven by desire/zeal: Achieving deep unified concentration because one has an overwhelming, pure aspiration and love for the [Dhamma](/glossary/dhamma/) and the goal of liberation.
-2. **Viriyasamādhi** - Concentration driven by energy: Achieving deep unified concentration through sheer, unrelenting effort, persistence, and courageous striving.
-3. **Cittasamādhi** - Concentration driven by mind: Achieving deep unified concentration through a naturally powerful, pure, and highly focused consciousness.
-4. **Vīmaṃsāsamādhi** - Concentration driven by investigation: Achieving deep unified concentration through sharp wisdom, profound inquiry, and analytical penetration of the Dhamma.
+1. **Chandasamādhi** - Concentration due to desire: "if a bhikkhu, relying on desire (*chanda*), obtains concentration, obtains unification of mind" (S-v 1610:1). The Ṭīkā says it is concentration obtained by making the desire to act the chief factor (Spk-t-v 552:1).
+2. **Vīriyasamādhi** - Concentration due to energy: concentration obtained by relying on energy (*vīriya*) (S-v 1611:1; Spk-t-v 552:7).
+3. **Cittasamādhi** - Concentration due to mind: "if a bhikkhu, relying on the mind (*citta*), obtains concentration, obtains unification of mind" (S-v 1612:1).
+4. **Vīmaṃsāsamādhi** - Concentration due to investigation: "if a bhikkhu, relying on investigation (*vīmaṃsā*), obtains concentration, obtains unification of mind" (S-v 1613:1).
+
+In each case the concentration is joined with the *padhānasaṅkhārā*: the monk generates desire, makes an effort, arouses energy, exerts his mind and strives, for the non-arising of unarisen unwholesome states and the arising, maintenance and fulfilment of wholesome ones (S-v 1613:2-3). The Ṭīkā says that the "formations of striving" are a name for the energy of right effort, which accomplishes the four functions (Spk-t-v 552:2).
 
 
 ### Quote
-> **7. iddhipādasaṃyuttaṃ**  
-> **1. cāpālavaggo**  
-> **1. apārasuttaṃ**  
-> **813. cattārome bhikkhave, iddhipādā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattanti.**   
-> These four bases of spiritual power, bhikkhus, when developed and made abundant, lead to going from this shore to the other shore.  
-> **katame cattāro?**    
-> Which four?  
-> **idhā, bhikkhave, bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, cittasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti.**  
-> Here, bhikkhus, a bhikkhu develops the basis of spiritual power endowed with concentration due to desire and volitional formations of striving; he develops the basis of spiritual power endowed with concentration due to energy and volitional formations of striving; he develops the basis of spiritual power endowed with concentration due to mind and volitional formations of striving; he develops the basis of spiritual power endowed with concentration due to investigation and volitional formations of striving.  
-> **ime kho, bhikkhave, cattāro iddhipādā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattantī’’ti.**   
-> These four bases of spiritual power, bhikkhus, when developed and made abundant, lead to going from this shore to the other shore.’’ 
+> **“Cattārome bhikkhave, iddhipādā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattanti. Katame cattāro? Idha, bhikkhave, bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, cittasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Ime kho, bhikkhave, cattāro iddhipādā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattantī” ti.**  
+> “Mendicants, when these four bases for psychic potency are developed and pursued, they lead to going from the near shore to the far shore. What four? Here, mendicants, a bhikkhu develops the basis of psychic power that possesses concentration due to desire, with energy and volitional formations; he develops the basis of psychic power that possesses concentration due to energy, with energy and volitional formations; he develops the basis of psychic power that possesses concentration due to mind, with energy and volitional formations; and he develops the basis of psychic power that possesses concentration due to investigation, with energy and volitional formations. These, mendicants, are the four bases for psychic potency that, when developed and pursued, lead to going from the near shore to the far shore.”  
+>  
+> — [Saṃyutta Nikāya](/glossary/samyutta-nikaya/) (SN 51.1, Apāra Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_sa_05&page_number=222&name=mah%C4%81vaggasa%E1%B9%83yuttap%C4%81%E1%B8%B7i&note=&selected_text=ODEzLuKAmOKAmCBDYXR0xIFyb21lIGJoaWtraGF2ZSwgaWRkaGlwxIFkxIEgYmjEgXZpdMSBIGJhaHVsxKtrYXTEgQ%3D%3D)
 
 ### Textual References
-* **Canonical**: *Iddhipāda Saṃyutta* (SN 51) – The Buddha explains that whoever neglects these four bases neglects the path to the end of suffering.
+* **Canonical**: *Apāra Sutta* (SN 51.1, S-v 1546:1 "7. Iddhipādasaṃyuttaṃ", 1547:1 "1. Cāpālavaggo", 1548:1 "1. Apārasuttaṃ", para 813). Whoever has neglected the four bases has neglected the noble path that leads rightly to the destruction of suffering (S-v 1551:1, para 814).
+* **Commentary**: *Sāratthappakāsinī* (Spk-v 640:1-8) and its Ṭīkā (Spk-t-v 552:1-9). The full account is in the *Iddhipādavibhaṅga* (Vibh 431 ff., as Spk-v 640:6 says).

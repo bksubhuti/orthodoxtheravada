@@ -9,13 +9,19 @@ canonical_texts: ["Anguttara Nikaya", "Puggalapannatti"]
 commentaries: ["Manorathapurani"]
 ---
 ### Overview
-The Buddha assessed human beings based not on their current wealth or social status, but on their moral trajectory. Using the metaphors of darkness (poverty, low birth, suffering) and light (wealth, high birth, happiness), he mapped out four possible destinies based on an individual's current [kamma](/glossary/kamma/).
+The Buddha assessed human beings based not on their current wealth or social status, but on their moral trajectory. Using the metaphors of darkness (low birth, poverty, ugliness and illness) and light (high birth, wealth, beauty), he mapped out four possible destinies based on an individual's current [kamma](/glossary/kamma/).
 
 ### The List
-1. **Tamotamaparāyaṇo** - One in darkness bound for darkness: A person born into poverty, ugliness, or severe hardship who reacts with bitterness, commits bad kamma (killing, stealing), and will be reborn in an even lower hell realm.
-2. **Tamojotiparāyaṇo** - One in darkness bound for light: A person born into severe hardship who nevertheless maintains moral virtue, acts generously, and through this good kamma will be reborn in a heavenly realm.
-3. **Jotitamaparāyaṇo** - One in light bound for darkness: A person born into great wealth, beauty, and status who becomes arrogant, commits immoral acts, and abuses others. Their bad kamma will drag them down to hell in the next life.
-4. **Jotijotiparāyaṇo** - One in light bound for light: A person born into wealth and privilege who uses their advantages to practice vast generosity and strict morality. Their good kamma will propel them to even higher heavenly realms.
+1. **Tamo tamaparāyaṇo** - One in darkness bound for darkness: born into a low, poor family, ugly and sickly, he engages in misconduct by body, speech and mind and reappears in a state of deprivation, in hell (A-iv 880).
+2. **Tamo jotiparāyaṇo** - One in darkness bound for light: born into the same low, poor circumstances, he engages in good conduct by body, speech and mind and reappears in a pleasant destination, a heavenly realm (A-iv 881).
+3. **Joti tamaparāyaṇo** - One in light bound for darkness: born into a high, wealthy family, handsome and well provided, he engages in misconduct by body, speech and mind and reappears in a state of deprivation, in hell (A-iv 882).
+4. **Joti jotiparāyaṇo** - One in light bound for light: born into the same high, wealthy circumstances, he engages in good conduct by body, speech and mind and reappears in a pleasant destination, a heavenly realm (A-iv 883).
+
+### Quote
+> **“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Tamo tamaparāyaṇo, tamo jotiparāyaṇo, joti tamaparāyaṇo, joti jotiparāyaṇo.**  
+> “Monks, these four kinds of individuals are found existing in the world. What four? The one in darkness who is headed for darkness, the one in darkness who is headed for light, the one in light who is headed for darkness, and the one in light who is headed for light.  
+>  
+> — [Aṅguttara Nikāya](/glossary/anguttara-nikaya/) (AN 4.85, Tamotama Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_an_04&page_number=397&name=catukkanip%C4%81tap%C4%81%E1%B8%B7i&note=&selected_text=ODUu4oCY4oCYIENhdHTEgXJvbWUsIGJoaWtraGF2ZSwgcHVnZ2FsxIEgc2FudG8gc2HhuYN2aWpqYW3EgW7EgQ%3D%3D)
 
 ### Textual References
-* **Canonical**: *Tamo [Sutta](/glossary/sutta/)* (AN 4.85) – The Buddha uses this framework to show that current circumstances do not determine future destiny; moral choices do.
+* **Canonical**: *Tamotama [Sutta](/glossary/sutta/)* (AN 4.85, A-iv 878 "5. Tamotamasuttaṃ"; also DN 33, D-iii 1464:1, and Puggalapaññatti, Pp 137:1) – The Buddha uses this framework to show that current circumstances do not determine future destiny; moral choices do.

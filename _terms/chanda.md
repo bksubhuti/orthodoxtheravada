@@ -18,7 +18,13 @@ When *chanda* is directed toward sense pleasures, it becomes the unwholesome hin
 
 As the first Base of Spiritual Power (*[iddhipāda](/glossary/iddhipada/)*), wholesome *chanda* acts as a massive engine for spiritual progress. The *[Atthasālinī](/glossary/atthasalini/)* describes its characteristic as the desire to act (*kattukamyatā-lakkhaṇa*), comparing it to the stretching out of a hand to grasp a target. Without this fundamental, driving desire to achieve awakening, no meditation practice can succeed.
 
+### Quote
+> **Tattha katamo chando? Yo chando chandikatā kattukamyatā kusalo dhammacchando – ayaṃ vuccati “chando”.**  
+> 433. There (tattha), what (katamo) is desire (chando)? Whatever desire (yo chando), wishing (chandikatā), desire to do (kattukamyatā), wholesome desire for qualities (kusalo dhammacchando) — this (ayaṃ) is called ‘desire’ (chando).  
+>  
+> — [Vibhaṅga](/glossary/vibhanga/) (Iddhipādavibhaṅga, Chandiddhipāda, Vibh §433) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_02&page_number=225&name=vibha%E1%B9%85gap%C4%81%E1%B8%B7i&note=&selected_text=NDMzLiBUYXR0aGEga2F0YW1vIGNoYW5kbz8%3D)
+
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Brāhmaṇa Sutta* (SN 51.15) – The beautiful dialogue where Venerable Ānanda explains to a Brahmin that the path is not endless desire; rather, the wholesome desire (*chanda*) to reach the destination naturally ceases the moment the destination (Arahatship) is reached.
+* **[Sutta](/glossary/sutta/)**: *Uṇṇābhabrāhmaṇa Sutta* (SN 51.15) – The beautiful dialogue where Venerable Ānanda explains to a Brahmin that the path is not endless desire; rather, the wholesome desire (*chanda*) to reach the destination naturally ceases the moment the destination (Arahatship) is reached.
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Classification of occasional mental factors).
 * **Commentary**: *Atthasālinī* – Differentiating the mechanics of neutral zeal versus toxic greed.

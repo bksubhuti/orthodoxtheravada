@@ -1,0 +1,23 @@
+{
+ "base": "bed1c99",
+ "renames": {
+  "_lists/eight-kinds-of-giving.md": "_lists/eight-bases-of-giving.md",
+  "_lists/fifteen-form-sphere-consciousnesses.md": "_lists/nine-form-sphere-consciousnesses.md",
+  "_lists/five-ages-of-the-dispensation.md": "_lists/three-periods-of-the-dispensation.md",
+  "_lists/five-ascetic-practices-regarding-dwellings.md": "_lists/three-ascetic-practices-regarding-dwellings.md",
+  "_lists/five-great-gifts.md": "_lists/five-great-sacrifices.md",
+  "_lists/five-powers-of-a-trainee.md": "_lists/ten-powers-of-a-trainee.md",
+  "_lists/five-qualities-of-a-resident-monk.md": "_lists/six-qualities-of-a-resident-monk.md",
+  "_lists/four-lower-realms.md": "_lists/six-kinds-of-rebirth-in-the-lower-realms.md",
+  "_lists/four-tooth-relics-of-the-buddha.md": "_lists/forty-tooth-relics-of-the-buddha.md",
+  "_lists/six-occasional-mental-factors.md": "_lists/passions-and-occasionals.md",
+  "_lists/six-unsuitable-alms-resorts.md": "_lists/eight-types-of-alms-resort.md",
+  "_lists/ten-ascetic-protections.md": "_lists/nine-ascetic-protections.md",
+  "_lists/three-types-of-uposatha-days.md": "_lists/three-types-of-full-moon-uposatha-days.md",
+  "_lists/twenty-four-types-of-derived-materiality.md": "_lists/twenty-one-types-of-derived-materiality.md",
+  "_lists/two-ascetic-practices-regarding-robes.md": "_lists/five-ascetic-practices-regarding-robes.md",
+  "_terms/kayakamma.md": "_terms/kayadhamma.md",
+  "_terms/manokamma.md": "_terms/manodhamma.md",
+  "_terms/vacikamma.md": "_terms/vacidhamma.md"
+ }
+}

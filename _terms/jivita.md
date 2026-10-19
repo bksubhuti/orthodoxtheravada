@@ -19,7 +19,13 @@ In the clinical architecture of the [Abhidhamma](/glossary/abhidhamma/), *Jīvit
 
 The *[Atthasālinī](/glossary/atthasalini/)* compares the life faculty to the water in a lotus pond; just as the water sustains the lotuses so they do not wither, *jīvita* sustains the physical and mental aggregates so they do not prematurely dissolve.
 
+### Quote
+> **Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti.**  
+> 19. What is the faculty of vitality at that time? Whatever life, continuance, sustenance, sustenance, movement, occurrence, protection, life, or faculty of vitality of those non-material states exists at that time—this is the faculty of vitality at that time.  
+>  
+> — [Dhammasaṅgaṇī](/glossary/dhammasangani/) (Dhs §19, jīvitindriya in the first kāmāvacara citta; the same definition for matter is Dhs §634, "Katamaṃ taṃ rūpaṃ jīvitindriyaṃ") · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_01&page_number=20&name=dhammasa%E1%B9%85ga%E1%B9%87%C4%ABp%C4%81%E1%B8%B7i&note=&selected_text=MTkuIEthdGFtYeG5gyB0YXNtaeG5gyBzYW1heWUgasSrdml0aW5kcml5YeG5gyBob3RpPw%3D%3D)
+
 ### Textual References
 * **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Detailed isolation of both the material and immaterial life faculties).
 * **Commentary**: *Atthasālinī* – Explaining how the life faculty only maintains what has already arisen, but cannot cause new phenomena to arise or prevent inevitable death.
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Mapping the precise moment *[rūpa](/glossary/rupa/)-jīvita* is cut off during the death process.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XIV) – Giving the life faculty's characteristic (*anupālanalakkhaṇa*, guarding what arises together with it), function and similes (the water that sustains lotuses, a nurse, a boatman, lamp oil), and noting that it does not act beyond the moment of dissolution.

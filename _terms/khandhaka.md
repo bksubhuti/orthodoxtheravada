@@ -18,6 +18,12 @@ It provides the precise legal frameworks for how the Saṅgha governs itself. It
 
 The *Khandhaka* is famously divided into two massive volumes: the *[Mahāvagga](/glossary/mahavagga/)* (The Great Division) and the *[Cūḷavagga](/glossary/culavagga/)* (The Minor Division).
 
+### Quote
+> **Tattha paṭhamasaṅgītiyaṃ saṅgītañca asaṅgītañca sabbampi samodhānetvā ubhayāni pātimokkhāni, dve vibhaṅgā, dvāvīsati khandhakā, soḷasaparivārāti – idaṃ vinayapiṭakaṃ nāma.**  
+> Therein, having combined everything recited in the first council and everything not recited, the two Pātimokkhas, the two Vibhaṅgas, the twenty-two Khandhakas, and the sixteen Parivāras—this is called the Vinayapiṭaka.  
+>  
+> — [Sumaṅgalavilāsinī](/glossary/sumangalavilasini/) (Dīgha Nikāya commentary, on the three piṭakas) · [TPR](https://tpr.pali.tools/open?book_id=attha_di_01&page_number=17&name=s%C4%ABlakkhandhavagga%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=VGF0dGhhIHBh4bmtaGFtYXNh4bmFZ8SrdGl5YeG5gyBzYeG5hWfEq3Rhw7FjYSBhc2HhuYVnxKt0YcOxY2Egc2FiYmFtcGkgc2Ftb2RoxIFuZXR2xIE%3D)
+
 ### Textual References
 * **Vinaya**: *Khandhaka* – Contains 22 distinct chapters (10 in the [Mahāvagga](/glossary/mahavagga/), 12 in the [Cūḷavagga](/glossary/culavagga/)).
 * **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Essential for understanding the complex geometric and geographical requirements for establishing a valid monastic boundary (*sīmā*) mentioned in these chapters.

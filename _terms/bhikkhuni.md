@@ -9,27 +9,28 @@ canonical_texts: ["Vinaya Pitaka", "Anguttara Nikaya", "Therigatha"]
 commentaries: ["Samantapasadika"]
 ---
 
-Verified
 ### Grammatical Analysis
-**Bhikkhunī**: [f.] Fully ordained Buddhist nun; almswoman. Feminine form of *[bhikkhu](/glossary/bhikkhu/)*, derived from the root *bhikkh* (to beg, to ask for alms).
+**Bhikkhunī**: [f.] a nun, the feminine of *bhikkhu*. The Vinaya's word-analysis of the term in the Bhikkhunīvibhaṅga gives: "*bhikkhunīti bhikkhikāti bhikkhunī*", a bhikkhunī is a woman who begs for alms; "*bhikkhācariyaṃ ajjhupagatāti bhikkhunī*", one who has entered the practice of begging; "*bhinnapaṭadharāti bhikkhunī*", one who wears torn robes (Vin-ii-b 2172:1-3).
 
 ### Orthodox Definition
-A *Bhikkhunī* is a fully ordained female monastic in the Buddhist tradition. To achieve this status, a woman must undergo a rigorous dual-ordination process (*ubhatosaṅgha-upasampadā*): first receiving ordination from a quorum of Bhikkhunīs, and then receiving it again from a quorum of Bhikkhus.
+The Vinaya lists the senses of the word: a bhikkhunī by convention (*samaññāya*), by declaration (*paṭiññāya*), by the call "come, bhikkhunī", by ordination through the three refuges, the good (*bhadrā*), the essential (*sārā*), the trainee (*sekhā*), the adept (*asekhā*), and one "who has been fully ordained by a harmonious community of both Saṅghas, by a formal act with one motion and three announcements, unshakable and fit for the case"; this last is the bhikkhunī intended in the rule (Vin-ii-b 2172:4-13). The Vinaya also says "*bhikkhunī nāma ubhatosaṅghe upasampannā*", "a bhikkhunī is one fully ordained in both Saṅghas" (Vin-i 2000:1).
 
-A Theravāda Bhikkhunī is bound by **311 [Pātimokkha](/glossary/patimokkha/) rules**, compared to the 227 rules for monks. Furthermore, at the inception of the order, Mahāpajāpatī Gotamī (the Buddha's foster mother) had to accept the Eight Heavy Rules (*[Garudhamma](/glossary/garudhamma/)*) to establish the order, structurally placing the Bhikkhunī [Saṅgha](/glossary/sangha/) in a position of respect toward the [Bhikkhu](/glossary/bhikkhu/) Saṅgha, regardless of seniority. 
+For the founding of the order, the Cūḷavagga says that Mahāpajāpatī Gotamī was told "if you accept these eight important principles (*aṭṭha garudhamme*), that will be your higher ordination" (Vin-iv 2446:1), and the Buddha said that from the day she accepted them she was ordained (Vin-iv 2459:1). A probationer who has trained in the six rules for two years must seek higher ordination in both Saṅghas (Vin-iv 2443:1), and the Buddha allowed a woman ordained on one side, cleared in the bhikkhunī Saṅgha, to be ordained in the bhikkhu Saṅgha (Vin-iv 2519:4). Women who have gone forth in the Dhamma and discipline are capable of realizing the fruits of stream-entry, once-returning, non-returning and arahantship (Vin-iv 2425:6).
 
-Despite these structural differences in [Vinaya](/glossary/vinaya/), doctrinally, the capacity of a Bhikkhunī to attain Arahatship and full liberation is absolutely identical to that of a [Bhikkhu](/glossary/bhikkhu/).
+The Aṭṭhakathā to the Therīgāthā remarks that, although the word-analysis in the Bhikkhunīvibhaṅga lists "come, bhikkhunī" (*ehi bhikkhunī*), this kind of ordination did not exist for bhikkhunīs; it was included "by way of its falling into the flow of the method of the teaching" (Thī-a 4511:1-4).
 
-The rules are quite restrictive, and a bhikkhunī commits a [saṅghādisesa](/glossary/sanghadisesa/) rule requiring two weeks probation if she merely travels or sleeps alone.
+### Quote (Mūla: Vinaya Piṭaka)
+> **Bhikkhunīti bhikkhikāti bhikkhunī; bhikkhācariyaṃ ajjhupagatāti bhikkhunī; bhinnapaṭadharāti bhikkhunī; samaññāya bhikkhunī; paṭiññāya bhikkhunī; ehi bhikkhunīti bhikkhunī; tīhi saraṇagamanehi upasampannāti bhikkhunī; bhadrā bhikkhunī; sārā bhikkhunī; sekhā bhikkhunī; asekhā bhikkhunī; samaggena ubhatosaṅghena ñatticatutthena kammena akuppena ṭhānārahena upasampannāti bhikkhunī. Tatra yāyaṃ bhikkhunī samaggena ubhatosaṅghena ñatticatutthena kammena akuppena ṭhānārahena upasampannā, ayaṃ imasmiṃ atthe adhippetā bhikkhunīti.**  
+> ‘Nun’ means: a bhikkhunī; one who has entered the practice of begging is a bhikkhunī; one who wears torn robes is a bhikkhunī; by convention, a bhikkhunī; by declaration, a bhikkhunī; a bhikkhunī by the call ‘come, bhikkhunī’; one who has obtained full ordination by the three refuges is a bhikkhunī; a virtuous bhikkhunī; an essential bhikkhunī; a trainee bhikkhunī; an adept bhikkhunī; one who has obtained full ordination by a harmonious community of both Sanghas, through a legal procedure consisting of one motion and three announcements, irreversibly, and fittingly, is a bhikkhunī. Among these, the nun who has obtained full ordination by a harmonious community of both Sanghas, through a legal procedure consisting of one motion and three announcements, irreversibly, and fittingly, is the nun intended in this matter.  
+>  
+> — [Vinaya Piṭaka](/glossary/vinaya-pitaka/) (Bhikkhunīvibhaṅga, Paṭhamapārājika, Vin-ii-b 2163-2172) · [TPR](https://tpr.pali.tools/open?book_id=mula_vi_02&page_number=276&name=p%C4%81cittiyap%C4%81%E1%B8%B7i&note=&selected_text=Qmhpa2todW7Eq3RpIGJoaWtraGlrxIF0aSBiaGlra2h1bsSrOw%3D%3D)
 
-### Quote
-> **691. ‘‘yā pana bhikkhunī ekā vā gāmantaraṃ gaccheyya, ekā vā nadīpāraṃ gaccheyya, ekā vā rattiṃ vippavaseyya, ekā vā gaṇamhā ohīyeyya, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesa’’nti.**  
-> "Whatever bhikkhuni goes to a village alone, or crosses a river alone, or spends a night alone away from her companions, or lags behind alone from her group, this bhikkhuni also has fallen into the first offense, a Saṅghādisesa requiring rehabilitation."  
-> 
-> — *Pācittiyapāḷi, Bhikkhunī [Vibhaṅga](/glossary/vibhanga/), Saṅghādisesa 3*
+### Quote (Aṭṭhakathā: Therīgāthā-aṭṭhakathā)
+> **Evampi bhikkhunivibhaṅge ehi bhikkhunīti idaṃ kathanti? Ehibhikkhunibhāvena bhikkhunīnaṃ upasampadāya asabhāvajotanavacanaṃ tathā upasampadāya bhikkhunīnaṃ abhāvato. Yadi evaṃ, kathaṃ ehibhikkhunīti vibhaṅge niddeso katoti? Desanānayasotapatitabhāvena.**  
+> Even so, how does the phrase ‘come, bhikkhunī’ in the Bhikkhunī Vibhaṅga make sense? It is a statement indicating the non-existence of such ordination for bhikkhunis by way of the call ‘come, bhikkhunī’, due to the absence of such ordination for bhikkhunis. If that is so, why is there an exposition as ‘come, bhikkhunī’ in the Vibhaṅga? By way of its inclusion in the flow of the method of the teaching.  
+>  
+> — Therīgāthā-aṭṭhakathā (Thī-a 4511) · [TPR](https://tpr.pali.tools/open?book_id=attha_ku_09&page_number=302&name=ther%C4%ABg%C4%81th%C4%81a%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=RXZhbXBpIGJoaWtraHVuaXZpYmhh4bmFZ2UgZWhpIGJoaWtraHVuxKt0aSBpZGHhuYMga2F0aGFudGk%2F)
 
 ### Textual References
-* **Vinaya**: *Pācittiyapāḷi* (Bhikkhunī Vibhaṅga, Saṅghādisesa 3) – The rule detailing the saṅghādisesa offense for a bhikkhunī who travels, crosses a river, spends the night, or lags behind a group alone.
-* **Vinaya**: *[Cūḷavagga](/glossary/culavagga/)* (Bhikkhunīkhandhaka) – The historical account of Ānanda's intercession and the founding of the nun's order.
-* **Canonical**: *[Therīgāthā](/glossary/therigatha/)* – The verses of the elder nuns, testifying to their supreme spiritual attainments.
-* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – The detailed legal framework governing the dual-ordination process.
+* **Mūla**: *Bhikkhunīvibhaṅga*, "1. Pārājikakaṇḍaṃ (bhikkhunīvibhaṅgo)", "1. Paṭhamapārājikaṃ" (Vin-ii-b 2163:1-2164:1), word-analysis of *bhikkhunī* (Vin-ii-b 2172:1-13); *Cūḷavagga*, "10. Bhikkhunikkhandhakaṃ" (Vin-iv 2419:1): the eight garudhammas (Vin-iv 2446:1, 2459:1), ordination in both Saṅghas (Vin-iv 2443:1, 2519:4), women's capacity (Vin-iv 2425:6; also A-viii 685:5).
+* **Aṭṭhakathā**: *Therīgāthā-aṭṭhakathā* (Thī-a 4511:1-5).

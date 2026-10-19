@@ -19,5 +19,11 @@ The Buddha placed immense value on the harmony of the monastic [Saṅgha](/gloss
 5. **Pāpiccho/[Micchādiṭṭhi](/glossary/micchaditthi/)** - Having evil desires and wrong view: A person who secretly desires fame and holds views contrary to the [Dhamma](/glossary/dhamma/).
 6. **Sandiṭṭhiparāmāsī/Ādhānaggāhī/Duppaṭinissaggī** - Adhering to one's own views, obstinate, and difficult to correct: A person who is fiercely dogmatic, refusing to let go of their opinions even when corrected by the wise.
 
+### Quote
+> **“Chayimāni, ānanda, vivādamūlāni. Katamāni cha? Idhānanda, bhikkhu kodhano hoti upanāhī. 45.“Puna caparaṃ, ānanda, bhikkhu makkhī hoti paḷāsī … pe … issukī hoti maccharī … pe … saṭho hoti māyāvī … pe … pāpiccho hoti micchādiṭṭhi… pe … sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī.**  
+> “Ānanda, there are these six roots of disputes. What six? Here, Ānanda, a bhikkhu is angry and resentful. “Again, a bhikkhu is contemptuous and insolent… envious and avaricious… fraudulent and deceitful… has evil wishes and wrong view… adheres to his own views, holds on to them tenaciously, and relinquishes them with difficulty.  
+>  
+> — [Majjhima Nikāya](/glossary/majjhima-nikaya/) (MN 104, Sāmagāma Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_ma_03&page_number=33&name=uparipa%E1%B9%87%E1%B9%87%C4%81sap%C4%81%E1%B8%B7i&note=&selected_text=NDQu4oCY4oCYIENoYXlpbcSBbmksIMSBbmFuZGEsIHZpdsSBZGFtxatsxIFuaS4%3D)
+
 ### Textual References
-* **Canonical**: *Sāmagāma [Sutta](/glossary/sutta/)* (MN 104) – The Buddha instructs monks that if they see any of these six roots in themselves or others, they must strive diligently to abandon them to prevent schism.
+* **Canonical**: *Sāmagāma [Sutta](/glossary/sutta/)* (MN 104) – The Buddha tells Ānanda that if he sees any of these six roots of dispute in himself or in others, he should strive to abandon that evil root.

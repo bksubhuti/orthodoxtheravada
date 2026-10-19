@@ -18,6 +18,12 @@ Beyond its legal importance, the *Mahāvagga* is one of the most historically si
 
 Subsequent chapters lay down the strict legal procedures for the [Uposatha](/glossary/uposatha/), the rains retreat, the [Kathina](/glossary/kathina/) robe offering, and the medicines allowed for sick monks.
 
+### Quote
+> **Tena samayena buddho bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho. Atha kho bhagavā bodhirukkhamūle sattāhaṃ ekapallaṅkena nisīdi vimuttisukhapaṭisaṃvedī.**  
+> At one time the awakened one, the Lord, having just attained supreme awakening, was dwelling at Uruvelā on the bank of the river Nerañjarā at the foot of the Tree of Awakening. Then the Lord sat cross-legged in one posture for seven days at the foot of the Tree of Awakening, experiencing the bliss of freedom.  
+>  
+> — [Vinaya Piṭaka](/glossary/vinaya-pitaka/) (Mahāvagga, Mahākhandhaka, Bodhikathā) · [TPR](https://tpr.pali.tools/open?book_id=mula_vi_03&page_number=1&name=mah%C4%81vaggap%C4%81%E1%B8%B7i&note=&selected_text=MS5bdWTEgS4xIMSBZGF5b10gVGVuYSBzYW1heWVuYSBidWRkaG8gYmhhZ2F2xIE%3D)
+
 ### Textual References
-* **Vinaya**: *Mahāvagga* – The foundational text for understanding both the early history of the dispensation and the core rituals of the monastic calendar.
-* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – Clarifying the intricate procedural steps required to make Saṅgha acts (*saṅghakamma*) legally valid.
+* **Vinaya**: *Mahāvagga* ("Mahāvaggapāḷi", Vin-iii 3:1) – the ten khandhakas: 1. Mahākhandhaka (Vin-iii 4:1), 2. Uposathakkhandhaka (765:1), 3. Vassūpanāyikakkhandhaka (1060:1), 4. Pavāraṇākkhandhaka (1226:1), 5. Cammakkhandhaka (1459:1), 6. Bhesajjakkhandhaka (1563:1), 7. Kathinakkhandhaka (1811:1), 8. Cīvarakkhandhaka (2029:1), 9. Campeyyakkhandhaka (2319:1), 10. Kosambakakkhandhaka (2603:1).
+* **Commentary**: *[Samantapāsādikā](/glossary/samantapasadika/)* – the Mahāvagga-aṭṭhakathā (Sp-iii 3:1), whose Mahākhandhakavaṇṇanā ends at Sp-iii 378:1.

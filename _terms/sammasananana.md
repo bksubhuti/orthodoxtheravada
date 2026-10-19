@@ -9,43 +9,61 @@ canonical_texts: ["Patisambhidamagga"]
 commentaries: ["Visuddhimagga", "Saddhammappakasini"]
 ---
 
-Verified
 
 ### Grammatical Analysis
-**Sammasanañāṇa**: [nt.] Knowledge of comprehension; knowledge of exploring. Formed by *sammasana* (handling, exploring, grasping thoroughly) + *ñāṇa* (knowledge).
+**Sammasanañāṇa**: [nt.] Knowledge of comprehension. Formed by *sammasana* (comprehending, examining) + *ñāṇa* (knowledge). The Aṭṭhakathā: "*sammasane ñāṇanti sammā āmasane anumajjane pekkhaṇe ñāṇaṃ, kalāpasammasanañāṇanti attho*", i.e. knowledge in rightly touching, rubbing over and looking at (Paṭis-a 119). The Ṭīkā: "the knowledge occurring by way of comprehending the aggregates and so on by groups (*kalāpato*)" (Abhidh-s-t, para. 46); hence the Visuddhimagga's *kalāpasammasana*.
 
 ### Orthodox Definition
-*Sammasanañāṇa* is the third insight knowledge. It marks the formal beginning of proper insight (*[vipassanā](/glossary/vipassana/)*). Having defined mind and matter and their causes, the meditator now actively "handles" or "groups" these phenomena in terms of the Three Characteristics (*[Tilakkhaṇa](/glossary/tilakkhana/)*): impermanence (*[anicca](/glossary/anicca/)*), suffering (*[dukkha](/glossary/dukkha/)*), and non-self (*[anattā](/glossary/anatta/)*).
+*Sammasanañāṇa* is the knowledge by which the meditator, "whatever materiality there is, past, future or present, internal or external, gross or subtle, inferior or superior, far or near, defines all of it as impermanent (one comprehension), as suffering (one comprehension), as non-self (one comprehension)", and likewise feeling, perception, formations and consciousness (Paṭis 275-276).
 
-At this stage, the meditator applies these marks generally to all past, future, present, internal, and external formations. It is an inductive, comprehensive investigation. However, because the practitioner does not yet see the rapid, microscopic arising and passing away of individual mind-moments, this knowledge is considered "tender" or preparatory insight (*taruṇa-vipassanā*).
+The Paṭisambhidāmagga-aṭṭhakathā places it: it arises "immediately after the knowledge of defining name-and-form (*nāmarūpavavatthāna*)", for one standing in the knowledge of the conditions (*dhammaṭṭhitiñāṇa*, *nāmarūpapaccayapariggaha*), by putting the three marks on each aggregate defined before; it is called *kalāpasammasanañāṇa* (Paṭis-a 119). The Visuddhimagga (XX) says "comprehension by groups is the beginning of insight (*vipassanāya ādi*)", and was set out after the overcoming of doubt (*kaṅkhāvitaraṇa*); it is the first stage of the *nayavipassanā* that precedes the knowledge of path and not-path (Vism-ii 1462). The Abhidhammatthasaṅgaha lists it first among the ten insight knowledges: *sammasana, udayabbaya, bhaṅga, bhaya, ādīnava, nibbidā, muccitukamyatā, paṭisaṅkhā, saṅkhārupekkhā, anuloma* (para. 46).
 
-### Quote
-> **Keci pana ‘‘etaṃ mamāti mamaṃkārakappanā, esohamasmīti ahaṃkārakappanā, eso me attāti ahaṃkāramamaṃkārakappito attābhinivesoti ca, tathā yathākkameneva taṇhāmūlaniveso mānapaggāho, taṇhāmūlaniviṭṭho mānapaggahito, attābhinivesoti ca, saṅkhārānaṃ dukkhalakkhaṇādassanaṃ, saṅkhārānaṃ aniccalakkhaṇādassanaṃ, saṅkhārānaṃ tilakkhaṇādassanahetuko attābhinivesoti ca, dukkhe asubhe ca sukhaṃ subhanti vipallāsagatassa, anicce niccanti vipallāsagatassa, catubbidhavipallāsagatassa ca attābhinivesoti ca, pubbenivāsañāṇassa ākārakappanā, dibbacakkhuñāṇassa anāgatapaṭilābhakappanā, pubbantāparantaidappaccayatāpaṭiccasamuppannesu dhammesu kappanissitassa attābhinivesoti ca, nandiyā atītamanvāgameti, nandiyā anāgataṃ paṭikaṅkhati, paccuppannesu dhammesu saṃhīrati attābhinivesoti ca, pubbante aññāṇahetukā [diṭṭhi](/glossary/ditthi/), aparante aññāṇahetukā diṭṭhi, pubbantāparante idappaccayatāpaṭiccasamuppannesu dhammesu aññāṇahetuko attābhiniveso’’ti ca etesaṃ tiṇṇaṃ vacanānaṃ atthaṃ vaṇṇayanti.**  
-> "But some explain the meaning of these three phrases thus: 'This is mine' is the fabrication of 'mineness'; 'This I am' is the fabrication of 'I-ness'; 'This is my self' is the adherence to self fabricated through 'I-ness' and 'mineness.' Also: 'Respectively, it is adherence rooted in craving, a grasping upheld by conceit, and an adherence rooted in craving and upheld by conceit.' Also: 'It is adherence to self due to not seeing the characteristic of suffering in formations, not seeing the characteristic of impermanence in formations, and not seeing the three characteristics in formations.' Also: 'For one who has fallen into perversion, seeing pleasure and beauty in what is suffering and foul, it is adherence to self; for one who has fallen into perversion, seeing permanence in what is impermanent, it is adherence to self; and for one who has fallen into the fourfold perversion, it is adherence to self.' Also: 'It is the fabrication of modes of the knowledge of previous existences, the fabrication of future attainment of the divine eye, and the adherence to self for one dependent on fabrications concerning dhammas arisen from dependent origination with its specific conditionality in the past and future.' Also: 'Through delight one pursues the past, through delight one longs for the future, and in present dhammas one is carried away by adherence to self.' And also: 'It is a view caused by ignorance of the past, a view caused by ignorance of the future, and adherence to self caused by ignorance of dhammas arisen from dependent origination with its specific conditionality in the past and future.'"  
-> 
-> — *Paṭisambhidāmagga-aṭṭhakathā* ([Saddhammappakāsinī](/glossary/saddhammappakasini/))
-> 
-> **Cattārīsākāraanupassanākathā.**  
-> Discourse on the Forty Aspects of Contemplation.  
-> 
-> **So tasseva pañcasu khandhesu aniccadukkhānattasammasanassa thirabhāvatthāya, yaṃ taṃ bhagavatā ‘‘katamehi cattārīsāya ākārehi anulomikaṃ khantiṃ paṭilabhati, katamehi cattārīsāya ākārehi sammattaniyāmaṃ okkamatī’’ti etassa vibhaṅge –**  
-> For the sake of firmly establishing the contemplation of impermanence, suffering, and not-self in those five aggregates, as the Blessed One said in the analysis of "By what forty aspects does one attain conformable patience? By what forty aspects does one enter the fixed course of rightness?"—  
-> 
-> *1. Aniccānupassanā (10 Aspects of Impermanence)*  
-> **‘‘Pañcakkhandhe aniccato, palokato, calato, pabhaṅguto, addhuvato, vipariṇāmadhammato, asārakato, vibhavato, saṅkhatato, maraṇadhammato’’ti.**  
-> "The five aggregates are impermanent, disintegrating, unstable, perishable, unreliable, subject to change, without essence, subject to dissolution, conditioned, subject to death."  
-> 
-> *2. Dukkhānupassanā (25 Aspects of Suffering)*  
-> **‘‘Dukkhato, rogato, gaṇḍato, sallato, aghato, ābādhato, ītito, upaddavato, bhayato, upasaggato, atāṇato, aleṇato, asaraṇato, ādīnavato, aghamūlato, vadhakato, sāsavato, mārāmisato, jātidhammato, jarādhammato, byādhidhammato, sokadhammato, paridevadhammato, upāyāsadhammato, saṃkilesikadhammato’’ti.**  
-> "[The five aggregates are] painful, a disease, a boil, a dart, a misfortune, an affliction, a calamity, a disaster, a danger, an obstacle, without refuge, without shelter, without protection, fraught with danger, the root of misfortune, a slayer, with fermentations, a bait of Māra, subject to birth, subject to aging, subject to sickness, subject to sorrow, subject to lamentation, subject to despair, subject to defilement."  
-> 
-> *3. Anattānupassanā (5 Aspects of Not-Self)*  
-> **‘‘Parato, rittato, tucchato, suññato, anattato’’ti.**  
-> "[The five aggregates are] alien, empty, void, hollow, not-self."  
-> 
-> — *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XX)
+For stabilising this comprehension the Visuddhimagga gives the forty aspects (*cattārīsākāra*) under which the five aggregates are seen: as impermanent, as suffering, a disease, a boil, a dart, a misery, an affliction, alien, perishing, and so on to "empty, not-self" (Vism-ii 1494-1495). The Aṭṭhakathā calls the insight that begins from the knowledge of distinguishing name-and-form "tender insight" (*taruṇavipassanā*, Mp-v 47).
+
+### Quote (Mūla: Paṭisambhidāmagga)
+> **Kathaṃ atītānāgatapaccuppannānaṃ dhammānaṃ saṅkhipitvā vavatthāne paññā sammasane ñāṇaṃ?**  
+> 48. How is it that understanding of defining past, future, and present ideas after generalization is knowledge of comprehension?  
+>  
+> — [Paṭisambhidāmagga](/glossary/patisambhidamagga/) (Sammasanañāṇaniddesa, para. 48) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_18&page_number=51&name=pa%E1%B9%ADisambhid%C4%81maggap%C4%81%E1%B8%B7i&note=&selected_text=NDguIEthdGhh4bmDIGF0xKt0xIFuxIFnYXRhcGFjY3VwcGFubsSBbmHhuYMgZGhhbW3EgW5h4bmDIHNh4bmFa2hpcGl0dsSBIHZhdmF0dGjEgW5l)
+
+### Quote (Mūla: Paṭisambhidāmagga, the method)
+> **Yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ aniccato vavattheti ekaṃ sammasanaṃ, dukkhato vavattheti ekaṃ sammasanaṃ, anattato vavattheti ekaṃ sammasanaṃ.**  
+> Whatever materiality there is—past, future, or present, internal or external, gross or subtle, inferior or superior, far or near—he defines all materiality as impermanent: this is one kind of comprehension. He defines it as suffering: this is one kind of comprehension. He defines it as not-self: this is one kind of comprehension.  
+>  
+> — [Paṭisambhidāmagga](/glossary/patisambhidamagga/) (Sammasanañāṇaniddesa, para. 48) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_18&page_number=51&name=pa%E1%B9%ADisambhid%C4%81maggap%C4%81%E1%B8%B7i&note=&selected_text=WWHhuYMga2nDsWNpIHLFq3Bh4bmDIGF0xKt0xIFuxIFnYXRhcGFjY3VwcGFubmHhuYMgYWpqaGF0dGHhuYMgdsSB)
+
+### Quote (Abhidhammatthasaṅgaha)
+> **Sammasanañāṇaṃ udayabbayañāṇaṃ bhaṅgañāṇaṃ bhayañāṇaṃ ādīnavañāṇaṃ nibbidāñāṇaṃ muccitukamyatāñāṇaṃ paṭisaṅkhāñāṇaṃ saṅkhārupekkhāñāṇaṃ anulomañāṇañceti dasa vipassanāñāṇāni.**  
+> 46. There are ten insight knowledges: knowledge of comprehension, knowledge of rise and fall, knowledge of dissolution, knowledge of appearance as fearful, knowledge of danger, knowledge of disenchantment, knowledge of desire for deliverance, knowledge of reflecting contemplation, knowledge of equanimity about formations, and knowledge of conformity.  
+>  
+> — [Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/) (para. 46) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=63&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=NDYuIFNhbW1hc2FuYcOxxIHhuYdh4bmDIHVkYXlhYmJheWHDscSB4bmHYeG5gyBiaGHhuYVnYcOxxIHhuYdh4bmDIGJoYXlhw7HEgeG5h2HhuYMgxIFkxKtuYXZhw7HEgeG5h2HhuYM%3D)
+
+### Quote (Ṭīkā-layer handbook definition)
+> **Khandhādīnaṃ kalāpato sammasanavasappavattaṃ ñāṇaṃ sammasanañāṇaṃ.**  
+> 46. Knowledge occurring by way of comprehending (sammasana) aggregates and so forth by groups (kalāpato) is knowledge of comprehension.  
+>  
+> — Abhidhammatthavibhāvinīṭīkā (para. 46) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_06&page_number=268&name=abhidhammatthavibh%C4%81vin%C4%AB%E1%B9%AD%C4%ABk%C4%81&note=&selected_text=NDYuIEtoYW5kaMSBZMSrbmHhuYMga2FsxIFwYXRvIHNhbW1hc2FuYXZhc2FwcGF2YXR0YeG5gyDDscSB4bmHYeG5gyBzYW1tYXNhbmHDscSB4bmHYeG5gy4%3D)
+
+### Quote (Aṭṭhakathā: Saddhammappakāsinī)
+> **Idañhi nāmarūpavavatthānañāṇānantaraṃ nāmarūpapaccayapariggahe dhammaṭṭhitiñāṇe ṭhitassa “yaṃkiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ taṃ rūpaṃ aniccato vavatthapeti, ekaṃ sammasanaṃ, dukkhato vavatthapeti, ekaṃ sammasanaṃ, anattato vavatthapeti, ekaṃ sammasanan” tiādinā (paṭi. ma.1.48) nayena vuttasammasanavasena pubbe vavatthāpite ekekasmiṃ khandhe tilakkhaṇaṃ āropetvā aniccato dukkhato anattato vipassantassa kalāpasammasanañāṇaṃ uppajjati.**  
+> For this arises for one standing in the knowledge of the stability of the Dhamma, having embraced the conditions of mentality-materiality immediately after the knowledge of defining mentality-materiality, by methodically defining as impermanent—'whatever materiality there is, past, future, or present, internal or external, gross or subtle, inferior or superior, far or near, all that materiality one defines as impermanent'—this is one contemplation; 'one defines as suffering'—this is one contemplation; 'one defines as not-self'—this is one contemplation; and by thus having placed the three marks upon each of the aggregates previously defined, the knowledge of contemplation by grouping arises for one who is observing.  
+>  
+> — [Paṭisambhidāmagga-aṭṭhakathā](/glossary/saddhammappakasini/) (Saddhammappakāsinī, Paṭis-a 119) · [TPR](https://tpr.pali.tools/open?book_id=attha_ku_18_01&page_number=18&name=pa%E1%B9%ADisambhid%C4%81maggaa%E1%B9%AD%E1%B9%ADhakath%C4%81+%28pa%29&note=&selected_text=SWRhw7FoaSBuxIFtYXLFq3BhdmF2YXR0aMSBbmHDscSB4bmHxIFuYW50YXJh4bmDIG7EgW1hcsWrcGFwYWNjYXlhcGFyaWdnYWhlIGRoYW1tYeG5reG5rWhpdGnDscSB4bmHZSDhua1oaXRhc3NhIOKAmOKAmA%3D%3D)
+
+### Quote (Aṭṭhakathā: Visuddhimagga XX)
+> **Taṃ sampādetukāmena kalāpasammasana saṅkhātāya nayavipassanāya tāva yogo karaṇīyo. Kasmā? Āraddhavipassakassa obhāsādisambhave maggāmaggañāṇasambhavato. Āraddhavipassakassa hi obhāsādīsu sambhūtesu maggāmaggañāṇaṃ hoti, vipassanāya ca kalāpasammasanaṃ ādi. Tasmā etaṃ kaṅkhāvitaraṇānantaraṃ uddiṭṭhaṃ.**  
+> One who desires to accomplish that should first apply effort (yogo karaṇīyo) to inductive insight (nayavipassanā), known as comprehension by groups (kalāpasammasana). Why? Because the knowledge of path and not-path arises when illumination and so on appear in a vipassanā meditator who has begun his practice. For it is when illumination and so on have appeared in a vipassanā meditator who has begun his practice that knowledge of path and not-path occurs, and comprehension by groups is the beginning of insight (vipassanāya ādi). Therefore, this was designated immediately after the overcoming of doubt.  
+>  
+> — [Visuddhimagga](/glossary/visuddhimagga/) (XX, Sammasanañāṇakathā, Vism-ii 1462) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_02&page_number=241&name=visuddhimaggo+%28du%29&note=&selected_text=VGHhuYMgc2FtcMSBZGV0dWvEgW1lbmEga2FsxIFwYXNhbW1hc2FuYSBzYeG5hWtoxIF0xIF5YSBuYXlhdmlwYXNzYW7EgXlhIHTEgXZh)
+
+### Quote (Aṭṭhakathā: Visuddhimagga XX, forty aspects)
+> **“Pañcakkhandhe aniccato, dukkhato, rogato, gaṇḍato, sallato, aghato, ābādhato, parato, palokato, ītito, upaddavato, bhayato, upasaggato, calato, pabhaṅguto, addhuvato, atāṇato, aleṇato, asaraṇato, rittato, tucchato, suññato, anattato, ādīnavato, vipariṇāmadhammato, asārakato, aghamūlato, vadhakato, vibhavato, sāsavato, saṅkhatato, mārāmisato, jātidhammato, jarādhammato, byādhidhammato, maraṇadhammato, sokadhammato, paridevadhammato, upāyāsadhammato, saṃkilesikadhammato” ti (paṭi. ma.3.37)–**  
+> “One contemplates the five aggregates as impermanent, as suffering, as a disease (rogato), as a cancer (gaṇḍato), as an arrow (sallato), as a misery (aghato), as an affliction (ābādhato), as alien (parato), as a disintegration (palokato), as a calamity (ītito), as oppression (upaddavato), as peril (bhayato), as trouble (upasaggato), as fluctuating (calato), as dissolving (pabhaṅguto), as transient (addhuvato), as shelterless (atāṇato), as no-shelter (aleṇato), as no refuge (asaraṇato), as empty (rittato), as bare and void (tucchato), as void (suññato), as not-self, as danger (ādīnavato), as mutable (vipariṇāmadhammato), as having no core (asārakato), as a root of evil (aghamūlato), as a killer (vadhakato), as non-existence (vibhavato), as tainted (sāsavato), as conditioned (saṅkhatato), as Māra’s bait (mārāmisato), as subject to birth (jātidhammato), as subject to old age (jarādhammato), as subject to sickness (byādhidhammato), as subject to death (maraṇadhammato), as subject to sorrow (sokadhammato), as subject to lamentation (paridevadhammato), as subject to despair (upāyāsadhammato), and as subject to defilement (saṃkilesikadhammato)” (Paṭis. 3.37)—  
+>  
+> — [Visuddhimagga](/glossary/visuddhimagga/) (XX, Cattārīsākāraanupassanākathā, Vism-ii 1495) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_02&page_number=246&name=visuddhimaggo+%28du%29&note=&selected_text=4oCY4oCYIFBhw7FjYWtraGFuZGhlIGFuaWNjYXRvLCBkdWtraGF0bywgcm9nYXRvLCBnYeG5h%2BG4jWF0byw%3D)
 
 ### Textual References
-* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* – Describing the inductive methodology of exploring the aggregates.
-* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XX) – Located within the "Purification by Knowledge and Vision of What is and What is Not the Path", detailing the methodological application of the three characteristics.
-* **Commentary**: *Paṭisambhidāmagga-aṭṭhakathā* ([Saddhammappakāsinī](/glossary/saddhammappakasini/)) – Explains the fabrications of self-adherence and perversions regarding formations.
+* **Canonical**: *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* ("5. Sammasanañāṇaniddeso", Paṭis 273-281; para. 48 at Paṭis 274-276) – the definition and method.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (XX, "20. Maggāmaggañāṇadassanavisuddhiniddeso", Vism-ii 1459-1649; Sammasanañāṇakathā at 1460; the forty aspects, Cattārīsākāraanupassanākathā at 1493-1495).
+* **Commentary**: *Paṭisambhidāmagga-aṭṭhakathā* ([Saddhammappakāsinī](/glossary/saddhammappakasini/)) (Paṭis-a 119, 1009-1013) – its place after the knowledge of conditions; the eleven-fold distinctions (Paṭis-a 1013).
+* **Handbook**: *Abhidhammatthasaṅgaha* (para. 46) and its Ṭīkā – the ten insight knowledges.

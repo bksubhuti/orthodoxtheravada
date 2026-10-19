@@ -9,16 +9,15 @@ canonical_texts: ["Visuddhimagga", "Atthasalini"]
 commentaries: ["Visuddhimagga"]
 ---
 
-Verified
 ### Overview
-Rapture or Joy (*[Pīti](/glossary/piti/)*) is a crucial factor of concentration and an awakening factor. As a meditator deepens their practice (especially through subjects like the recollection of the Buddha or breath meditation), joy arises progressively. The commentarial tradition categorizes this physical and mental thrill into five distinct intensities.
+Rapture or Joy (*[Pīti](/glossary/piti/)*) is "that which gladdens" (*pīṇayatīti pīti*): its characteristic is endearing, its function is to refresh body and mind or to pervade, and it is manifested as elation (Vism-i 941:1-2). The Visuddhimagga and the Aṭṭhasālinī divide it into five kinds (Vism-i 941:3, As 1180:5). Fivefold joy, as it matures, fulfils tranquility of body and mind, then pleasure, then the three concentrations (momentary, access and absorption); of the five, the pervading joy that is the root of absorption concentration is the one meant in the jhāna formula (Vism-i 944:1-4).
 
 ### The List
-1. **Khuddakā pīti** - Minor Joy: A slight thrill that raises the hairs on the body, resembling a sudden shower of rain.
-2. **Khaṇikā pīti** - Momentary Joy: Flashes of joy that appear and disappear repeatedly, like flashes of lightning in a dark sky.
-3. **Okkantikā pīti** - Showering / Descending Joy: A stronger wave of joy that washes over the body again and again, like waves breaking on a seashore.
-4. **Ubbegā pīti** - Uplifting Joy: A highly intense, exhilarating rapture that can cause physical levitation or make the body feel incredibly light, as if leaping into the air.
-5. **Pharaṇā pīti** - Pervading Joy: The most refined state of joy. It completely suffuses, fills, and permeates the entire physical body like a blown bladder filling with air. This is the rapture associated with full absorption ([jhāna](/glossary/jhana/)).
+1. **Khuddikā pīti** - Minor Joy: it can only raise the hairs on the body (*lomahaṃsamattameva*; Vism-i 941:4).
+2. **Khaṇikā pīti** - Momentary Joy: like flashes of lightning moment by moment (Vism-i 941:5).
+3. **Okkantikā pīti** - Showering / Descending Joy: like a wave on the seashore, it breaks over the body again and again (Vism-i 941:6).
+4. **Ubbegā pīti** - Uplifting Joy: powerful, able to lift the body and make it leap into the air (Vism-i 941:7); the Elder Mahātissa of Puṇṇavallika and a pregnant girl at Girikaṇḍaka leapt through the air this way (Vism-i 941, 942:1-8).
+5. **Pharaṇā pīti** - Pervading Joy: when it arises the whole body is pervaded, like a filled bladder or like a mountain cavern invaded by a great flood of water (Vism-i 943:2). The pervading joy that grows into association with concentration is the joy meant here, the root of absorption concentration (Vism-i 944:4).
 
 
 ### Quote
@@ -46,7 +45,7 @@ Rapture or Joy (*[Pīti](/glossary/piti/)*) is a crucial factor of concentration
 > **Tathā hi puṇṇavallikavāsī mahātissatthero puṇṇamadivase sāyaṃ cetiyaṅgaṇaṃ gantvā candālokaṃ disvā mahācetiyābhimukho hutvā ‘‘imāya vata velāya catasso parisā mahācetiyaṃ vandantī’’ti pakatiyā diṭṭhārammaṇavasena buddhārammaṇaṃ ubbegāpītiṃ uppādetvā sudhātale pahaṭacitrageṇḍuko viya ākāse uppatitvā mahācetiyaṅgaṇeyeva patiṭṭhāsi.**  
 > Indeed, Mahātissa Thera, residing in Puṇṇavallika, on the full moon evening, went to the pagoda courtyard, saw the moonlight, faced the Great Pagoda, and thought, “At this very time, the four assemblies will be venerating the Great Pagoda.” By means of a previously seen object, he generated a strong uplifting joy (ubbegā pīti) with the Buddha as its object, and like a skillful ball player striking a ball on a smooth surface, he flew up into the air and landed precisely within the Great Pagoda courtyard.  
 > 
-> — *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter IV, 72)
+> — *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter IV, 72) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_01&page_number=139&name=visuddhimaggo+%28pa%29&note=&selected_text=VGF0aMSBIGhpIHB14bmH4bmHYXZhbGxpa2F2xIFzxKsgbWFoxIF0aXNzYXR0aGVybyBwdeG5h%2BG5h2FtYWRpdmFzZSBzxIF5YeG5gw%3D%3D)
 
 ### Textual References
-* **Commentary**: *Visuddhimagga* (Chapter IV) – Buddhaghosa provides the definitive explanation and similes for these five ascending levels of meditative joy.
+* **Commentary**: *Visuddhimagga* (Chapter IV, para 72, Vism-i 941:1-944:4) and *Aṭṭhasālinī* (As 1180:5) give the five kinds with their similes.

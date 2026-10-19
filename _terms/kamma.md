@@ -9,36 +9,35 @@ canonical_texts: ["Majjhima Nikaya", "Anguttara Nikaya"]
 commentaries: ["Visuddhimagga", "Atthasalini"]
 ---
 
-Verified
 ### Grammatical Analysis
-**Kamma**: [nt.] action; deed; volitional activity. From root *kar* (to do, make, perform). Literally means "something done."
+**Kamma**: [nt.] action; deed. From the verb *karoti* (he does). In the discourses the word is explained by the Buddha himself as intention: "I say that intention is kamma" (AN 6.63, A-vi 650:2).
 
 ### Orthodox Definition
-In the orthodox Theravāda framework, *kamma* refers specifically to volitional or intentional actions performed through body (*kāya-kamma*), speech (*vacī-kamma*), or mind (*mano-kamma*). Crucially, mechanical, involuntary, or purely accidental actions do not constitute kamma because they lack the definitive element of mental intention.
+In the orthodox Theravāda framework, *kamma* is intention (*cetanā*): "Monks, I say that intention is kamma. Having intended, one does kamma by body, speech and mind" (*cetayitvā kammaṃ karoti – kāyena vācāya manasā*, A-vi 650:2-3). So the three kinds are bodily (*kāyakamma*), verbal (*vacīkamma*) and mental (*manokamma*) action. The Atthasālinī defines bodily action as the volition established at the body-door, by which one kills, takes the not-given, or does sexual misconduct, or abstains from killing and the like (As 1037:1).
 
-As the Buddha stated: *"Cetanāhaṃ, bhikkhave, kammaṃ vadāmi"* (Intention, O monks, is what I call kamma). 
+The Atthasālinī asks what kamma does and answers: it accumulates (*āyūhati*), generates (*abhisaṅkharoti*), gathers into a mass (*piṇḍaṃ karoti*), chooses (*ceteti*), conceives (*kappeti*) and formulates (*pakappeti*), and even the volition of the five sense-consciousnesses does so for its conascent associated aggregates (As 1061:2-5).
 
-Kamma is strictly categorized by its ethical quality and its resultant potential:
-1. *[Kusala](/glossary/kusala/)-kamma*: Wholesome or skillful actions rooted in non-greed (*[alobha](/glossary/alobha/)*), non-hatred (*[adosa](/glossary/adosa/)*), and non-delusion (*[amoha](/glossary/amoha/)*).
-2. *[Akusala](/glossary/akusala/)-kamma*: Unwholesome or unskillful actions rooted in greed (*[lobha](/glossary/lobha/)*), hatred (*[dosa](/glossary/dosa/)*), and delusion (*[moha](/glossary/moha/)*).
+In the Paṭṭhāna, kamma is a condition (*[kamma-paccaya](/glossary/kamma-paccaya/)*): wholesome and unwholesome kamma is related to resultant aggregates and to kamma-produced materiality by kamma condition, and volition is related to its associated states and the materiality produced by them (Paṭṭh-i 46:1-2). Kamma is wholesome (*[kusala](/glossary/kusala/)*) or unwholesome (*[akusala](/glossary/akusala/)*); its result is *vipāka* (see *[kamma-vipāka](/glossary/kamma-vipaka/)*).
 
-Every intentional act deposits a seed of potential energy that, when conditions mature, inevitably produces its corresponding result (*vipāka*). It is the cosmic moral law operating without any divine arbiter or judge.
+### Quote (Mūla: Aṅguttara Nikāya, Nibbedhika Sutta)
+> **Kiñcetaṃ paṭicca vuttaṃ? Cetanāhaṃ, bhikkhave, kammaṃ vadāmi. Cetayitvā kammaṃ karoti – kāyena vācāya manasā.**  
+> In reference to what was this stated? Monks, I say that intention is kamma. Having intended, one does kamma bodily, verbally, or mentally.  
+>  
+> — [Aṅguttara Nikāya](/glossary/anguttara-nikaya/) (AN 6.63, Nibbedhika Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_an_06&page_number=363&name=chakkanip%C4%81tap%C4%81%E1%B8%B7i&note=&selected_text=S2nDsWNldGHhuYMgcGHhua1pY2NhIHZ1dHRh4bmDP1trYXRoxIEuNTM5XSBDZXRhbsSBaGHhuYMsIGJoaWtraGF2ZSwga2FtbWHhuYM%3D)
 
+### Quote (Abhidhamma: Paṭṭhāna, kamma condition)
+> **Kammapaccayoti – kusalākusalaṃ kammaṃ vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. Cetanā sampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo.**  
+> 13. Kamma condition: Wholesome and unwholesome kamma is related to resultant aggregates and to kamma-produced materiality by kamma condition. Volition is related to its associated states and to the materiality produced by them, by kamma condition.  
+>  
+> — [Paṭṭhāna](/glossary/patthana/) (Paccayaniddesa, §13) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_07_01&page_number=7&name=pa%E1%B9%AD%E1%B9%ADh%C4%81nap%C4%81%E1%B8%B7i+%28pa%29&note=&selected_text=MTMuIEthbW1hcGFjY2F5b3RpIOKAkyBrdXNhbMSBa3VzYWxh4bmDIGthbW1h4bmDIHZpcMSBa8SBbmHhuYM%3D)
 
-### Quote
-> **‘‘ko nu kho, bho gotama, hetu ko paccayo yena manussānaṃyeva sataṃ manussabhūtānaṃ dissanti hīnappaṇītatā?**  
-> “What, good Gotama, is the reason, what is the cause, that among human beings themselves, born as humans, one observes inferiority and superiority?  
-> 
-> **dissanti hi, bho gotama, manussā appāyukā, dissanti dīghāyukā; dissanti bavhābādhā , dissanti appābādhā; dissanti dubbaṇṇā, dissanti vaṇṇavanto; dissanti appesakkhā, dissanti mahesakkhā; dissanti appabhogā, dissanti mahābhogā; dissanti nīcakulīnā, dissanti uccākulīnā; dissanti duppaññā, dissanti paññavanto .**  
-> Indeed, good Gotama, one observes humans who are short-lived, one observes humans who are long-lived; one observes humans who are sickly, one observes humans who are healthy; one observes humans who are ill-favored, one observes humans who are good-looking; one observes humans who have little influence, one observes humans who have great influence; one observes humans who have little wealth, one observes humans who have great wealth; one observes humans who are of low birth, one observes humans who are of high birth; one observes humans who are foolish, one observes humans who are wise.  
-> 
-> **ko nu kho, bho gotama, hetu ko paccayo yena manussānaṃyeva sataṃ manussabhūtānaṃ dissanti hīnappaṇītatā’’ti?**  
-> What, good Gotama, is the reason, what is the cause, that among human beings themselves, born as humans, one observes inferiority and superiority?”  
-> 
-> — *Cūḷakammavibhaṅga Sutta* (MN 135)
-
+### Quote (Aṭṭhakathā: Atthasālinī)
+> **Yā pana tasmiṃ dvāre siddhā cetanā yāya pāṇaṃ hanati, adinnaṃ ādiyati, micchācāraṃ carati, pāṇātipātādīhi viramati, idaṃ kāyakammaṃ nāma.**  
+> But that volition established in that door, by which one destroys life, takes what has not been given, engages in wrong conduct, or abstains from destroying life and so on—this is called bodily action.  
+>  
+> — [Atthasālinī](/glossary/atthasalini/) (Dhammasaṅgaṇī-aṭṭhakathā) · [TPR](https://tpr.pali.tools/open?book_id=attha_bi_01&page_number=126&name=dhammasa%E1%B9%85ga%E1%B9%87%C4%ABa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=WcSBIHBhbmEgdGFzbWnhuYMgZHbEgXJlIHNpZGRoxIEgY2V0YW7EgQ%3D%3D)
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Cūḷakammavibhaṅga Sutta* (MN 135) – Detailed explanation of how individual differences among human beings are caused by past kamma.
-* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* ([Kamma-paccaya](/glossary/kamma-paccaya/) section) – Detailed analysis of how kamma condition interacts with mental states.
-* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* (Exposition on volitional actions).
+* **[Sutta](/glossary/sutta/)**: *Nibbedhika Sutta* (AN 6.63) – "I say that intention is kamma" (A-vi 650:2-3).
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Paṭṭhāna](/glossary/patthana/)* ([Kamma-paccaya](/glossary/kamma-paccaya/), Paṭṭh-i 46) – kamma as a condition.
+* **Commentary**: *[Atthasālinī](/glossary/atthasalini/)* (As 1037, As 1061) – bodily action as volition at the door, and what kamma does.

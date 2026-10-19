@@ -9,47 +9,41 @@ canonical_texts: ["Majjhima Nikaya", "Samyutta Nikaya"]
 commentaries: ["Visuddhimagga", "Papancasudani"]
 ---
 
-Verified
 
 ### Grammatical Analysis
 **Ānāpānasati**: [f.] mindfulness of breathing. Formed by *āna* (in-breath) + *apāna* (out-breath) + *[sati](/glossary/sati/)* (mindfulness). Meaning: anchoring the presence of mind explicitly onto the sensation of the breath.
 
 ### Orthodox Definition
-*Ānāpānasati* is one of the most widely praised and structurally complete meditation objects (*kammaṭṭhāna*) in the Pāḷi Canon, serving as the vehicle through which the Buddha himself attained supreme enlightenment. It is uniquely capable of fulfilling both tranquility (*[samatha](/glossary/samatha/)*) down to the fourth *[jhāna](/glossary/jhana/)* and insight (*[vipassanā](/glossary/vipassana/)*) culminating in Arahatship.
+*Ānāpānasati* is mindfulness of in-breathing and out-breathing. The Visuddhimagga explains the compound: *ānāpānassati* is the mindfulness that arises with the in-breaths and out-breaths as object (*ānāpāne ārabbha uppannā sati*, Vism-i 1185:9), and *ānāpānassatisamādhi* is the concentration associated with that mindfulness (*ānāpānapariggāhikāya satiyā saddhiṃ sampayutto samādhi*, Vism-i 1600:5). It is one of the ten recollections (*anussati*) and of the forty meditation subjects (Abhidh-s 766:1), and the Abhidhammattha-saṅgaha says that, together with the ten kasiṇas, it leads to all five jhānas of the fivefold scheme (Abhidh-s 782:1). In the Saṃyutta the Buddha says that before his awakening, as a Bodhisatta, he mostly dwelt in the dwelling of the *ānāpānassatisamādhi* (S-v 1901:1, in the Padīpopama Sutta).
 
-The canonical execution is structured strictly into **four tetrads (sixteen total steps)**:
-* **The First Tetrad (Body):** Experiencing long breaths, short breaths, the entire breath body, and calming the bodily formation.
-* **The Second Tetrad (Feeling):** Experiencing rapture (*[pīti](/glossary/piti/)*), pleasure (*[sukha](/glossary/sukha/)*), mental formations, and calming the mental formation.
-* **The Third Tetrad (Mind):** Experiencing the mind, gladdening the mind, concentrating the mind, and liberating the mind.
-* **The Fourth Tetrad ([Dhamma](/glossary/dhamma/)):** Contemplating impermanence (*[anicca](/glossary/anicca/)*), fading away (*virāga*), cessation (*[nirodha](/glossary/nirodha/)*), and relinquishment (*paṭinissagga*).
+The canonical execution is in four tetrads (sixteen steps) (MN 118, M-iii 446:1-450:4), and "thus developed and cultivated, mindfulness of breathing is of great fruit and great benefit" (M-iii 450:5):
+* **The First Tetrad (Body):** Knowing long breaths and short breaths, "experiencing the whole body", and "calming the bodily formation" (M-iii 447:1-4).
+* **The Second Tetrad (Feeling):** Experiencing rapture (*[pīti](/glossary/piti/)*), pleasure (*[sukha](/glossary/sukha/)*), the mental formation, and calming the mental formation (M-iii 448:1-4).
+* **The Third Tetrad (Mind):** Experiencing the mind, gladdening the mind, concentrating the mind, and liberating the mind (M-iii 449:1-4).
+* **The Fourth Tetrad ([Dhamma](/glossary/dhamma/)):** Contemplating impermanence (*[anicca](/glossary/anicca/)*), fading away (*virāga*), cessation (*[nirodha](/glossary/nirodha/)*), and relinquishment (*paṭinissagga*) (M-iii 450:1-4).
 
-The *[Visuddhimagga](/glossary/visuddhimagga/)* details the exact technical stages of development at the physical touchpoint (*nasikagga* or *oṭṭhabedha*): counting (*gaṇanā*), following (*anubandhanā*), touching (*phusanā*), fixing (*ṭhapana*), and moving into the counterpart sign (*[paṭibhāganimitta](/glossary/patibhaganimitta/)*).
+The *[Visuddhimagga](/glossary/visuddhimagga/)* (Ch. VIII, *Ānāpānassatikathā*, heading Vism-i 1596:1) gives the stages of development as eight: counting (*gaṇanā*), following (*anubandhanā*), touching (*phusanā*), fixing (*ṭhapanā*), discernment (*sallakkhaṇā*), turning away (*vivaṭṭanā*), purification (*pārisuddhi*), and the contemplation of those (*tesañca paṭipassanā*) (Vism-i 1650:1-1651:1); the Ṭīkā glosses *phusanā* as the place of touching, such as the tip of the nose, and *ṭhapanā* as concentration or absorption (Vism-mht-i 1185:1-5).
 
 ### Quote
-> **223. Anuvahanāti assāsapassāsānaṃ anugamanavasena satiyā nirantaraṃ anupavattanā.**  
-> 'Following' (anuvahanā) means the continuous uninterrupted flow of mindfulness, following the in-breaths and out-breaths.
-> 
-> **Phusanāti assāsapassāse gaṇentassa gaṇanaṃ paṭisaṃharitvā te satiyā anubandhantassa yathā appanā hoti, tathā cittaṃ ṭhapentassa ca nāsikaggādiṭṭhānassa nesaṃ phusanā.**  
-> 'Touching' (phusanā) refers to the touching of the in-breaths and out-breaths at the tip of the nose and other locations, for the meditator who, having withdrawn from counting the in-breaths and out-breaths, follows them with mindfulness, and for one who establishes the mind in such a way that absorption (appanā) occurs.
-> 
-> **Yasmā pana gaṇanādivasena viya phusanāvasena visuṃ manasikāro natthi, phuṭṭhaphuṭṭhaṭṭhāneyeva gaṇanādi kātabbanti dassetuṃ idha phusanāgahaṇanti dīpento ‘‘phusanāti phuṭṭhaṭṭhāna’’nti āha.**  
-> However, because there is no separate mental advertence (manasikāra) through touching (phusanā) as there is through counting, etc., to show that counting, etc., should be done only at the very place of touching, it is said here that the taking of *phusanā* clarifies this, and he said, "phusanā means the place of contact."
-> 
-> **Ṭhapanāti samādhānaṃ.**  
-> Ṭhapanā means settling (samādhāna).
-> 
-> **Taṃ hi sammadeva ārammaṇe cittassa ādhānaṃ ṭhapanaṃ hoti.**  
-> For that firm placing of the mind correctly on the object is *ṭhapanā*.
-> 
-> **Tathā hi samādhi ‘‘cittassa ṭhiti saṇṭhitī’’ti (dha. sa. 11.15) niddiṭṭho.**  
-> Thus, samādhi is described as "the mind's steadfastness, its settled state."
-> 
-> **Samādhippadhānā pana appanāti āha ‘‘ṭhapanāti appanā’’ti.**  
-> But since appanā is prominent in samādhi, he said, "ṭhapanā means appanā."
-> 
-> — *Visuddhimaggamahāṭīkā (pa)*
+> **“Kathaṃ bhāvitā ca, bhikkhave, ānāpānassati kathaṃ bahulīkatā mahapphalā hoti mahānisaṃsā? Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. So satova assasati satova passasati. “Dīghaṃ vā assasanto ‘ dīghaṃ assasāmī ’ ti pajānāti, dīghaṃ vā passasanto ‘ dīghaṃ passasāmī ’ ti pajānāti; rassaṃ vā assasanto ‘ rassaṃ assasāmī ’ ti pajānāti, rassaṃ vā passasanto ‘ rassaṃ passasāmī ’ ti pajānāti; ‘ sabbakāyapaṭisaṃvedī assasissāmī ’ ti sikkhati,‘ sabbakāyapaṭisaṃvedī passasissāmī ’ ti sikkhati; ‘ passambhayaṃ kāyasaṅkhāraṃ assasissāmī ’ ti sikkhati,‘ passambhayaṃ kāyasaṅkhāraṃ passasissāmī ’ ti sikkhati. ‘“Pītipaṭisaṃvedī assasissāmī ’ ti sikkhati,‘ pītipaṭisaṃvedī passasissāmī ’ ti sikkhati; ‘ sukhapaṭisaṃvedī assasissāmī ’ ti sikkhati,‘ sukhapaṭisaṃvedī passasissāmī ’ ti sikkhati; ‘ cittasaṅkhārapaṭisaṃvedī assasissāmī ’ ti sikkhati,‘ cittasaṅkhārapaṭisaṃvedī passasissāmī ’ ti sikkhati; ‘ passambhayaṃ cittasaṅkhāraṃ assasissāmī ’ ti sikkhati,‘ passambhayaṃ cittasaṅkhāraṃ passasissāmī ’ ti sikkhati. ‘“Cittapaṭisaṃvedī assasissāmī ’ ti sikkhati,‘ cittapaṭisaṃvedī passasissāmī ’ ti sikkhati; ‘ abhippamodayaṃ cittaṃ assasissāmī ’ ti sikkhati,‘ abhippamodayaṃ cittaṃ passasissāmī ’ ti sikkhati; ‘ samādahaṃ cittaṃ assasissāmī ’ ti sikkhati,‘ samādahaṃ cittaṃ passasissāmī ’ ti sikkhati; ‘ vimocayaṃ cittaṃ assasissāmī ’ ti sikkhati,‘ vimocayaṃ cittaṃ passasissāmī ’ ti sikkhati. ‘“Aniccānupassī assasissāmī ’ ti sikkhati,‘ aniccānupassī passasissāmī ’ ti sikkhati; ‘ virāgānupassī assasissāmī ’ ti sikkhati,‘ virāgānupassī passasissāmī ’ ti sikkhati; ‘ nirodhānupassī assasissāmī ’ ti sikkhati,‘ nirodhānupassī passasissāmī ’ ti sikkhati; ‘ paṭinissaggānupassī assasissāmī ’ ti sikkhati,‘ paṭinissaggānupassī passasissāmī ’ ti sikkhati. Evaṃ bhāvitā kho, bhikkhave, ānāpānassati evaṃ bahulīkatā mahapphalā hoti mahānisaṃsā.**  
+> 148. “And how, bhikkhus, is mindfulness of breathing developed and cultivated, so that it is of great fruit and great benefit? Here a bhikkhu, gone to the forest or to the root of a tree or to an empty hut, sits down; having folded his legs crosswise, set his body erect, and established mindfulness in front of him, ever mindful he breathes in, mindful he breathes out. Ever mindful he breathes in, mindful he breathes out. “Breathing in long, he understands: ‘I breathe in long’; or breathing out long, he understands: ‘I breathe out long.’ Breathing in short, he understands: ‘I breathe in short’; or breathing out short, he understands: ‘I breathe out short.’ He trains thus: ‘I shall breathe in experiencing the whole body of breath’; he trains thus: ‘I shall breathe out experiencing the whole body of breath.’ He trains thus: ‘I shall breathe in tranquillising the bodily formation’; he trains thus: ‘I shall breathe out tranquillising the bodily formation.’ “He trains thus: ‘I shall breathe in experiencing rapture’; he trains thus: ‘I shall breathe out experiencing rapture.’ He trains thus: ‘I shall breathe in experiencing pleasure’; he trains thus: ‘I shall breathe out experiencing pleasure.’ He trains thus: ‘I shall breathe in experiencing the mental formation’; he trains thus: ‘I shall breathe out experiencing the mental formation.’ He trains thus: ‘I shall breathe in tranquillising the mental formation’; he trains thus: ‘I shall breathe out tranquillising the mental formation.’ “He trains thus: ‘I shall breathe in experiencing the mind’; he trains thus: ‘I shall breathe out experiencing the mind.’ He trains thus: ‘I shall breathe in gladdening the mind’; he trains thus: ‘I shall breathe out gladdening the mind.’ He trains thus: ‘I shall breathe in concentrating the mind’; he trains thus: ‘I shall breathe out concentrating the mind.’ He trains thus: ‘I shall breathe in liberating the mind’; he trains thus: ‘I shall breathe out liberating the mind.’ “He trains thus: ‘I shall breathe in contemplating impermanence’; he trains thus: ‘I shall breathe out contemplating impermanence.’ He trains thus: ‘I shall breathe in contemplating fading away’; he trains thus: ‘I shall breathe out contemplating fading away.’ He trains thus: ‘I shall breathe in contemplating cessation’; he trains thus: ‘I shall breathe out contemplating cessation.’ He trains thus: ‘I shall breathe in contemplating relinquishment’; he trains thus: ‘I shall breathe out contemplating relinquishment.’ Bhikkhus, that is how mindfulness of breathing is developed and cultivated, so that it is of great fruit and great benefit.  
+>  
+> — [Majjhima Nikāya](/glossary/majjhima-nikaya/) (MN 118, Ānāpānassati Sutta; heading "8. Ānāpānassatisuttaṃ", M-iii 439:1) · [TPR](https://tpr.pali.tools/open?book_id=mula_ma_03&page_number=124&name=uparipa%E1%B9%87%E1%B9%87%C4%81sap%C4%81%E1%B8%B7i&note=&selected_text=MTQ4LuKAmOKAmCBLYXRoYeG5gyBiaMSBdml0xIEgY2EsIGJoaWtraGF2ZSwgxIFuxIFwxIFuYXNzYXRp)
+
+### Quote
+> **Gaṇanā anubandhanā, phusanā ṭhapanā sallakkhaṇā; Vivaṭṭanā pārisuddhi, tesañca paṭipassanāti.**  
+> 223. Counting, following, touching, fixing, discernment, turning away, purification, and the reviewing of these.  
+>  
+> — [Visuddhimagga](/glossary/visuddhimagga/) (Ch. VIII, Ānāpānassatikathā) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_01&page_number=270&name=visuddhimaggo+%28pa%29&note=&selected_text=MjIzLiBHYeG5h2FuxIEgYW51YmFuZGhhbsSBLCBwaHVzYW7EgSDhua1oYXBhbsSBIHNhbGxha2toYeG5h8SBOw%3D%3D)
+
+### Quote
+> **Anuvahanāti assāsapassāsānaṃ anugamanavasena satiyā nirantaraṃ anupavattanā. Phusanāti assāsapassāse gaṇentassa gaṇanaṃ paṭisaṃharitvā te satiyā anubandhantassa yathā appanā hoti, tathā cittaṃ ṭhapentassa ca nāsikaggādiṭṭhānassa nesaṃ phusanā. Yasmā pana gaṇanādivasena viya phusanāvasena visuṃ manasikāro natthi, phuṭṭhaphuṭṭhaṭṭhāneyeva gaṇanādi kātabbanti dassetuṃ idha phusanāgahaṇanti dīpento “phusanāti phuṭṭhaṭṭhānan”ti āha. Ṭhapanāti samādhānaṃ. Taṃ hi sammadeva ārammaṇe cittassa ādhānaṃ ṭhapanaṃ hoti.**  
+> 223. ‘Following’ (anubandhanā) is the continuous non-interrupted occurrence of mindfulness by way of following the in-and-out breaths. ‘Touching’ (phusanā) is the touching of those by one counting the in-and-out breaths, having withdrawn the counting, and by one following them with mindfulness, just as absorption arises for one fixing the mind, and the touching of those in the place such as the nose-tip. But since there is no separate attention for ‘touching’ as there is for ‘counting’ and so on, he mentions ‘touching’ herein to show that counting and so on should be done in the very place touched, and therefore he said, ‘Touching is the place touched.’ ‘Fixing’ (ṭhapanā) is coordinating. For that is truly the fixing of the mind upon the subject for meditation—this is called fixing (ṭhapanaṃ).  
+>  
+> — *Visuddhimagga-mahāṭīkā* (on the stages: touching and fixing) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_03&page_number=327&name=visuddhimaggamah%C4%81%E1%B9%AD%C4%ABk%C4%81+%28pa%29&note=&selected_text=MjIzLiBBbnV2YWhhbsSBdGkgYXNzxIFzYXBhc3PEgXPEgW5h4bmDIGFudWdhbWFuYXZhc2VuYSBzYXRpecSBIG5pcmFudGFyYeG5gw%3D%3D)
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Ānāpānasati Sutta* (MN 118) – The definitive structural discourse detailing the sixteen progressive steps of the meditation.
-* **Canonical**: *Samyutta Nikaya* (Ānāpāna-saṃyutta) – Doctrinal framework for practicing breathing awareness.
-* **Commentary**: *Visuddhimagga* (Chapter VIII) – The immense, highly specific manual managing the technical execution of breath focus.
+* **[Sutta](/glossary/sutta/)**: *Ānāpānassati Sutta* (MN 118; heading "8. Ānāpānassatisuttaṃ", M-iii 439:1) – the sixteen steps in four tetrads (M-iii 446:1-450:5), and how mindfulness of breathing fulfils the four foundations of mindfulness (M-iii 455:1).
+* **Canonical**: *Saṃyutta Nikāya* (*Ānāpānasaṃyutta*, heading "10. Ānāpānasaṃyuttaṃ", S-v 1875:1-2019:1) – including the Padīpopama Sutta (S-v 1898:1; the Bodhisatta's dwelling at S-v 1901:1) and the passages where *ayameva ānāpānassatisamādhi sādhukaṃ manasi kātabbo* is said of the wishes for jhāna and more (S-v 1902:2-1909:2); and *[Paṭisambhidāmagga](/glossary/patisambhidamagga/)* (*Ānāpānassatikathā*, heading "3. Ānāpānassatikathā", Paṭis 829:1-1007:1).
+* **Abhidhamma handbook**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Abhidh-s 766:1, 782:1) – among the ten recollections; leading to five jhānas.
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter VIII, *Ānāpānassatikathā*, Vism-i 1596:1; the eight stages at Vism-i 1650:1-1651:1) and its *Mahāṭīkā* (Vism-mht-i 1185:1-5).

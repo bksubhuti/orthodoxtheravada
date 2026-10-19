@@ -9,14 +9,20 @@ canonical_texts: ["Vinaya Pitaka"]
 commentaries: ["Samantapasadika"]
 ---
 ### Overview
-Theravāda monks are strictly forbidden from consuming any food or nutritive substances after solar noon. However, to sustain the body during illness or exhaustion, the Buddha designated five specific fat and sugar substances as "Medicines" (*[Bhesajja](/glossary/bhesajja/)*). These five items are unique because they can be stored for up to seven days and consumed in the afternoon without breaking the monastic fasting rule.
+Monks may not eat solid food after noon, but the five medicines may be taken at any time. In the Bhesajjakkhandhaka the Buddha, seeing monks emaciated by an autumn illness (*sāradikena ābādhena*) who vomited their rice gruel and rice, thought of five things that are medicines, are accepted as medicines in the world, and nourish without appearing as coarse food (Vin-iii 1565:2-15). He first allowed them to be received and eaten at the right time (*kāle*). When the monks grew thinner still, he allowed them to be received and taken at the right time or the wrong time (*kālepi vikālepi*, Vin-iii 1566:10). For sick monks they may be kept and used for at most seven days (Pācittiya, Nissaggiya 23, Vin-i 2352:1).
 
 ### The List
-1. **Sappi** - Ghee: Clarified butter made from the milk of cows, buffaloes, or goats, providing heavy physical sustenance and therapeutic heat.
-2. **Navanīta** - Fresh Butter: Unclarified butter fat, accepted and used for physical lubrication and strength.
-3. **Tela** - Oil: Vegetable and seed oils (such as sesame oil, mustard oil, or tallow fats) used to treat physical emaciation and skin disorders.
-4. **Madhu** - Honey: Pure wild or cultivated honey, acting as an instant, potent source of glucose and an antibiotic vehicle.
-5. **Phaṇita** - Molasses / Sugar: Boiling juice extracted from sugar cane or palm trees, boiled down into a thick syrup or solid blocks to relieve fatigue.
+1. **Sappi** - Ghee: The ghee of cow, goat or buffalo, of animals whose flesh is allowable (Vin-i 2353:1; VinSaṅg-a 328:2).
+2. **Navanīta** - Fresh Butter: The fresh butter of the same animals (Vin-i 2353:2; VinSaṅg-a 328:3).
+3. **Tela** - Oil: Sesame oil, mustard oil, madhuka oil, castor oil or fat oil (*tilatelaṃ sāsapatelaṃ madhukatelaṃ eraṇḍatelaṃ vasātelaṃ*, Vin-i 2353:3).
+4. **Madhu** - Honey: Bee honey (*makkhikāmadhu*, Vin-i 2353:4).
+5. **Phāṇita** - Sugar-cane Syrup: What is produced from sugar cane (*ucchumhā nibbattaṃ*, Vin-i 2353:5; Sp-i 2871:1 adds that it covers any unfinished product of sugar-cane juice).
+
+### Quote
+> **“imāni kho pañca bhesajjāni, seyyathidaṃ – sappi, navanītaṃ, telaṃ, madhu, phāṇitaṃ; bhesajjāni ceva bhesajjasammatāni ca lokassa, āhāratthañca pharanti, na ca oḷāriko āhāro paññāyati. Yaṃnūnāhaṃ bhikkhūnaṃ imāni pañca bhesajjāni anujāneyyaṃ, kāle paṭiggahetvā kāle paribhuñjitun” ti.**  
+> “These five medicines, that is to say: ghee, fresh butter, oil, honey, and molasses; these are medicines and are also agreed upon as medicines, and although they serve as nutriment for people, yet they cannot be reckoned as substantial food. What if I were to allow the monks to make use of these five medicines, if they have accepted them at the right time, to be used at the right time?”  
+>  
+> — [Vinaya Piṭaka](/glossary/vinaya-pitaka/) ([Mahāvagga](/glossary/mahavagga/), Bhesajjakkhandhaka, Pañcabhesajjakathā) · [TPR](https://tpr.pali.tools/open?book_id=mula_vi_03&page_number=290&name=mah%C4%81vaggap%C4%81%E1%B8%B7i&note=&selected_text=4oCY4oCYIGltxIFuaSBraG8gcGHDsWNhIGJoZXNhamrEgW5pLCBzZXl5YXRoaWRh4bmD)
 
 ### Textual References
-* **Canonical**: *Bhesajja [Khandhaka](/glossary/khandhaka/)* ([Mahāvagga](/glossary/mahavagga/), [Vinaya](/glossary/vinaya/)) – The Buddha formally permits these five tonics after noticing that monks traveling during the hot season were becoming dangerously emaciated and weak.
+* **Canonical**: *Bhesajja [Khandhaka](/glossary/khandhaka/)* ([Mahāvagga](/glossary/mahavagga/), [Vinaya](/glossary/vinaya/)) – The Buddha permits these five medicines after seeing monks, afflicted by an autumn illness, become thin and pale (Vin-iii 1565:1-15, 1566:10). The seven-day rule is in Nissaggiya Pācittiya 23 (Vin-i 2352:1).

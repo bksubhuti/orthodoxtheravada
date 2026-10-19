@@ -9,62 +9,39 @@ canonical_texts: ["Majjhima Nikaya", "Vibhanga"]
 commentaries: ["Visuddhimagga"]
 ---
 
-Verified
 
 ### Grammatical Analysis
 **Ākāsānañcāyatana**: [nt.] the base of infinite space; the sphere of boundless space. Formed by *ākāsa* (space) + *ananta* (infinite) + *āyatana* (base, sphere, realm).
 
 ### Orthodox Definition
-*Ākāsānañcāyatana* is the first of the four immaterial absorptions (*[arūpajhāna](/glossary/arupajhana/)*). It is achieved by completely overcoming the perception of physical form (*rūpa-saññā*) and ignoring the perception of sensory resistance (*paṭigha-saññā*).
+*Ākāsānañcāyatana* is the first of the four immaterial absorptions (*[arūpajhāna](/glossary/arupajhana/)*). It is achieved by completely surmounting perceptions of form (*rūpasaññā*), with the disappearance of perceptions of sensory impact (*paṭighasaññā*), and by not attending to perceptions of diversity (*nānattasaññā*), aware that "space is infinite" (*ananto ākāso*) (A-iii 1077:3; Vibh 1630:15).
 
-According to the *[Visuddhimagga](/glossary/visuddhimagga/)*, the meditator begins in the fourth fine-material [jhāna](/glossary/jhana/) using a kasiṇa (like an earth disc). They mentally extend the kasiṇa to the boundaries of the universe, and then abruptly remove the disk conceptually, leaving only the empty space where the disc used to be. The mind then locks onto this boundless void, repeating "infinite space, infinite space."
+The Abhidhamma defines the terms: space (*ākāso*) is "unobstructed, a state of aperture, untouched by the four great elements", and one "places the mind in that space and spreads it as infinite"; the *ākāsānañcāyatana* itself is "the mind and mental factors of one who has attained the dimension of infinite space, or one who has been reborn in it, or one dwelling happily in this very life" (Vibh 1775:1-4, 1776:1).
 
-When the mind successfully absorbs into this concept, it transcends the physical universe. Rebirth resulting from this attainment leads to the Realm of Infinite Space, where beings exist with lifespans of 20,000 aeons, possessing only mental aggregates with zero physical matter.
+According to the *[Visuddhimagga](/glossary/visuddhimagga/)* (Ch. X, *Āruppaniddeso*), the meditator who has seen the danger in the fine-material fourth [jhāna](/glossary/jhana/) (Vism-i 1985:1) attends to the infinite space, extends the kasiṇa as far as the world-system or as far as he wishes, and "removes" it, not by rolling it up like a mat but by not adverting to it and attending only to the space it pervaded as "space, space" or "infinite space" (Vism-i 1986:1-2). When he repeats this, the mind of the dimension of infinite space is absorbed in that space (Vism-i 1987:1-4).
 
+When the mind successfully absorbs into this concept, it transcends the physical universe. The Mūla gives the result of dwelling there: the devas who have reached the dimension of infinite space have a lifespan of twenty thousand aeons (A-iii 1077:5), and, being immaterial, they have only mental aggregates.
 
 ### Quote
-> **Yathā ahibhīruko puriso araññe sappena anubaddho vegena palāyitvā palātaṭṭhāne lekhācittaṃ tālapaṇṇaṃ vā valliṃ vā rajjuṃ vā phalitāya vā pana pathaviyā phalitantaraṃ disvā bhāyateva uttasateva, neva naṃ dakkhitukāmo hoti.**  
-> Just as a person afraid of snakes, being pursued by a snake in the forest, flees quickly and, in the place where he has fled, seeing a drawing, a palm leaf, a creeper, a rope, or a fissure in cracked earth, becomes afraid and terrified, and does not wish to see it; and just as a person living in the same village with a hostile enemy, being afflicted by that enemy with acts of striking, binding, burning down houses, and so forth, goes to another village to live, and even there, seeing a person whose appearance, voice, and conduct are similar to his enemy, becomes afraid and terrified, and does not wish to see him.
-> 
-> **Yathā ca anatthakārinā veripurisena saddhiṃ ekagāme vasamāno puriso tena vadhabandhagehajhāpanādīhi upadduto aññaṃ gāmaṃ vasanatthāya gantvā tatrāpi verinā samānarūpasaddasamudācāraṃ purisaṃ disvā bhāyateva uttasateva, neva naṃ dakkhitukāmo hoti.**  
-> Just as a man living in the same village with a hostile person who causes harm, being afflicted by that enemy with beatings, imprisonment, house-burning, and so on, goes to another village to live, and even there, seeing a person whose appearance, voice, and conduct are similar to that enemy, he is afraid and terrified, and does not wish to see him.
-> 
-> **Tatridaṃ opammasaṃsandanaṃ – tesaṃ hi purisānaṃ ahinā verinā vā upaddutakālo viya bhikkhuno ārammaṇavasena karajarūpasamaṅgikālo.**  
-> Here is the comparison and correlation: The time when those persons were afflicted by a snake or an enemy is like the time when the bhikkhu is associated with gross material form by way of the object.
-> 
-> **Tesaṃ vegena palāyanaaññagāmagamanāni viya bhikkhuno rūpāvacaracatutthajjhānavasena karajarūpasamatikkamanakālo.**  
-> Their fleeing quickly and going to another village is like the bhikkhu's transcending gross material form by means of the fourth rūpāvacara jhāna.
-> 
-> **Tesaṃ palātaṭṭhāne ca aññagāme ca lekhācittatālapaṇṇādīni ceva verisadisaṃ purisañca disvā bhayasantāsaadassanakāmatā viya bhikkhuno kasiṇarūpampi tappaṭibhāgameva idanti sallakkhetvā tampi samatikkamitukāmatā.**  
-> Their fear, terror, and unwillingness to see the drawings, palm leaves, etc., in the place they fled to, and the person resembling the enemy in the other village, is like the bhikkhu's discerning that "This kasiṇa-material form is also similar to that," and desiring to transcend even that.
-> 
-> **Sūkarābhihatasunakhapisācabhīrukādikāpi cettha upamā veditabbā.**  
-> Other similes here are also to be understood, such as a dog struck by a wild boar, or one who is afraid of ogres and goblins.
-> 
-> **321276. Evaṃ so tasmā catutthajjhānassa ārammaṇabhūtā kasiṇarūpā nibbijja pakkamitukāmo pañcahākārehi ciṇṇavasī hutvā paguṇarūpāvacaracatutthajjhānato vuṭṭhāya tasmiṃ jhāne ‘‘imaṃ mayā nibbiṇṇaṃ rūpaṃ ārammaṇaṃ karotī’’ti ca, ‘‘āsannasomanassapaccatthika’’nti ca, ‘‘santavimokkhato oḷārika’’nti ca ādīnavaṃ passati.**  
-> Thus, desiring to escape from the kasiṇa-material form which is the object of the fourth Jhāna, that meditator, having become skilled in the five ways of mastery, rises from the well-practiced fourth rūpāvacara jhāna. He then sees danger in that Jhāna, thinking, "This Jhāna takes as its object the material form that I am disenchanted with," and "It has near-happiness as its enemy," and "It is gross compared to the tranquil emancipation ."
-> 
-> **Aṅgoḷārikatā panettha natthi.**  
-> Here, there is no grossness of factors.
-> 
-> **Yatheva hetaṃ rūpaṃ duvaṅgikaṃ, evaṃ āruppānipīti.**  
-> For just as this rūpa-jhāna has two factors, so too do the āruppas.
-> 
-> **So tattha evaṃ ādīnavaṃ disvā nikantiṃ pariyādāya ākāsānañcāyatanaṃ santato anantato manasikaritvā cakkavāḷapariyantaṃ vā yattakaṃ icchati tattakaṃ vā kasiṇaṃ pattharitvā tena phuṭṭhokāsaṃ ‘‘ākāso ākāso’’ti vā, ‘‘ananto ākāso’’ti vā manasikaronto ugghāṭeti kasiṇaṃ.**  
-> Having thus seen the danger in that , and having completely eradicated craving, he attends to the Sphere of Infinite Space as tranquil and infinite. He then expands the kasiṇa as far as the world-system or as far as he desires, and contemplating the pervaded space as "Space, space" or "Infinite space," he removes the kasiṇa.
-> 
-> **Ugghāṭento hi neva kilañjaṃ viya saṃvelleti, na kapālato pūvaṃ viya uddharati, kevalaṃ pana taṃ neva āvajjeti, na manasi karoti, na paccavekkhati, anāvajjento amanasikaronto apaccavekkhanto ca aññadatthu tena phuṭṭhokāsaṃ ‘‘ākāso ākāso’’ti manasikaronto kasiṇaṃ ugghāṭeti nāma.**  
-> Indeed, when removing it, he does not roll it up like a mat, nor does he lift it out like a cake from a pot. Rather, he simply does not advert to it, does not attend to it, and does not review it; and by not adverting, not attending, and not reviewing it, he merely attends to the space pervaded by it as "Space, space," and that is called removing the kasiṇa.
-> 
-> **Kasiṇampi ugghāṭiyamānaṃ neva ubbaṭṭati na vivaṭṭati, kevalaṃ imassa amanasikārañca ‘‘ākāso ākāso’’ti manasikārañca paṭicca ugghāṭitaṃ nāma hoti, kasiṇugghāṭimākāsamattaṃ paññāyati.**  
-> The kasiṇa being removed does not actually swell up or sink down; it is simply said to be removed by virtue of his non-attention to it and his attention to "Space, space," and only the space from which the kasiṇa was removed becomes manifest.
-> 
-> **Kasiṇugghāṭimākāsanti vā kasiṇaphuṭṭhokāsoti vā kasiṇavivittākāsanti vā sabbametaṃ ekameva.**  
-> The phrases "space cleared of kasiṇa," "space pervaded by kasiṇa," or "space empty of kasiṇa" all mean the same.
-> 
-> — *Visuddhimaggo (pa)*
+> **“Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Idha, bhikkhave, ekacco puggalo sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ ananto ākāso ’ ti ākāsānañcāyatanaṃ upasampajja viharati. So tadassādeti taṃ nikāmeti tena ca vittiṃ āpajjati, tatra ṭhito tadadhimutto tabbahulavihārī aparihīno kālaṃ kurumāno ākāsānañcāyatanūpagānaṃ devānaṃ sahabyataṃ upapajjati. Ākāsānañcāyatanūpagānaṃ, bhikkhave, devānaṃ vīsati kappasahassāni āyuppamāṇaṃ.**  
+> “Monks, these three kinds of individuals are found existing in the world. What three? Here, monks, someone, with the complete surmounting of perceptions of form, with the disappearance of perceptions of sensory impact, and by not attending to perceptions of diversity, aware that ‘space is infinite’, enters and dwells in the dimension of infinite space. He savors that, longs for it, and finds satisfaction through it; established there, fixed on that, dwelling there often, and not falling away, when he dies he reappears in companionship with the devas who have reached the dimension of infinite space. The lifespan of the devas who have reached the dimension of infinite space, monks, is twenty thousand eons.  
+>  
+> — [Aṅguttara Nikāya](/glossary/anguttara-nikaya/) (AN 3, Āneñja Sutta; heading "4. Āneñjasuttaṃ", A-iii 1076:1) · [TPR](https://tpr.pali.tools/open?book_id=mula_an_03&page_number=270&name=tikanip%C4%81tap%C4%81%E1%B8%B7i&note=&selected_text=MTE3LuKAmOKAmCBUYXlvbWUsIGJoaWtraGF2ZSwgcHVnZ2FsxIEgc2FudG8gc2HhuYN2aWpqYW3EgW7EgQ%3D%3D)
+
+### Quote
+> **“Ananto ākāso” ti, tattha katamo ākāso? Yo ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro vivaragataṃ asamphuṭṭhaṃ catūhi mahābhūtehi – ayaṃ vuccati “ākāso”. Tasmiṃ ākāse cittaṃ ṭhapeti saṇṭhapeti anantaṃ pharati. Tena vuccati “ananto ākāso” ti. 606.“Ākāsānañcāyatanan” ti ākāsānañcāyatanaṃ samāpannassa vā upapannassa vā diṭṭhadhammasukhavihārissa vā cittacetasikā dhammā.**  
+> 605. Regarding “space is infinite”: what space is there? Whatever space is space known, unobstructed, a state of unobstructedness, an aperture, a state of aperture, untouched by the four great elements—this is called “space.” In that space, one places and firmly establishes the mind; one spreads the infinite. Because of that, it is called “space is infinite.” 606. Regarding “the dimension of infinite space”: it is the mind and mental factors of one who has attained the dimension of infinite space, or one who has been reborn in it, or one dwelling happily in this very life.  
+>  
+> — [Vibhaṅga](/glossary/vibhanga/) (Jhānavibhaṅga, Abhidhammabhājanīya, §605-606) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_02&page_number=272&name=vibha%E1%B9%85gap%C4%81%E1%B8%B7i&note=&selected_text=NjA1LuKAmOKAmCBBbmFudG8gxIFrxIFzbyDigJnigJkgdGksIHRhdHRoYQ%3D%3D)
+
+### Quote
+> **So tattha evaṃ ādīnavaṃ disvā nikantiṃ pariyādāya ākāsānañcāyatanaṃ santato anantato manasikaritvā cakkavāḷapariyantaṃ vā yattakaṃ icchati tattakaṃ vā kasiṇaṃ pattharitvā tena phuṭṭhokāsaṃ “ākāso ākāso” ti vā,“ananto ākāso” ti vā manasikaronto ugghāṭeti kasiṇaṃ. So taṃ kasiṇugghāṭimākāsanimittaṃ “ākāso ākāso” ti punappunaṃ āvajjeti, takkāhataṃ vitakkāhataṃ karoti. Tassevaṃ punappunaṃ āvajjayato manasikaroto pathavīkasiṇādīsu rūpāvacaracittaṃ viya ākāse ākāsānañcāyatanacittaṃ appeti. Ettāvatā cesa “sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ ananto ākāso ’ ti ākāsānañcāyatanaṃ upasampajja viharatī” ti vuccati (vibha.508; dī. ni.2.129).**  
+> Having seen the danger in it in this way and having ended his attachment to it, he gives his attention to the dimension of infinite space as peaceful and infinite. Then, having spread out the kasiṇa to the limit of the world-sphere, or as far as he wishes, he removes the kasiṇa by giving his attention to the space touched by it, contemplating: ‘space, space’ or ‘infinite space.’ He adverts again and again to the sign of the space left by the removal of the kasiṇa as ‘space, space,’ and strikes at it with thought and applied thought. As he thus adverts to it and attends to it again and again, the consciousness of the dimension of infinite space arises in absorption in space, just as the fine-material sphere consciousness did in the case of the earth kasiṇa and so on. At this point it is said: ‘With the complete surmounting of perceptions of form, with the disappearance of perceptions of sensory impact, with non-attention to perceptions of diversity, aware that “space is infinite,” he enters upon and dwells in the dimension of infinite space.’  
+>  
+> — *[Visuddhimagga](/glossary/visuddhimagga/)* (Ch. X, Paṭhamāruppavaṇṇanā) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_01&page_number=321&name=visuddhimaggo+%28pa%29&note=&selected_text=U28gdGF0dGhhIGV2YeG5gyDEgWTEq25hdmHhuYMgZGlzdsSBIG5pa2FudGnhuYM%3D)
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Mahāsatipaṭṭhāna Sutta* (DN 22) / *Anupada Sutta* (MN 111) – The standard canonical formula for bypassing the perceptions of form to enter infinite space.
-* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Mapping the Arūpāvacara spheres).
-* **Commentary**: *Visuddhimagga* (Chapter X) – Detailed instructions on mathematically removing the kasiṇa sign to expose the underlying spatial concept.
+* **[Sutta](/glossary/sutta/)**: *Āneñja Sutta* (AN 3; heading "4. Āneñjasuttaṃ", A-iii 1076:1) – the formula and the lifespan of twenty thousand aeons (A-iii 1077:3-5).
+* **[Sutta](/glossary/sutta/)**: *Anupada Sutta* (MN 111; heading "1. Anupadasuttaṃ", M-iii 236:1) – Sāriputta's progress through the formless attainments, the formula at M-iii 243:1; and *Poṭṭhapāda Sutta* (DN 9), D-i 782:1 – the same formula.
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Vibh 1630:15, §508, the formula; Vibh 1775:1-1776:1, §605-606, the definitions); *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Dhs 736:1-2, §265, the first formless wholesome citta, "ākāsānañcāyatanasaññāsahagataṃ").
+* **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Ch. X, *Āruppaniddeso*, heading Vism-i 1980:1; Paṭhamāruppavaṇṇanā, Vism-i 1981:1-1988:2) – the preparation by the fourth jhāna, the danger in the fine-material object, and the removal of the kasiṇa to reveal space.

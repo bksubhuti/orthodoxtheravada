@@ -9,45 +9,48 @@ canonical_texts: ["Buddhavamsa"]
 commentaries: ["Madhuratthavilasini"]
 ---
 
-Verified
 
 ### Grammatical Analysis
 **Buddhavaṃsa**: [m.] The Lineage of the Buddhas; The Chronicle of Buddhas. Formed by *buddha* (awakened) + *vaṃsa* (lineage, race, chronicle).
 
 ### Orthodox Definition
-The *Buddhavaṃsa* is the fourteenth book of the Khuddaka Nikāya. It is a highly formalized, poetic text narrated by Gotama Buddha himself, detailing his own spiritual lineage. 
+The *Buddhavaṃsa* is a book of the Khuddaka Nikāya; the Paramatthajotikā, in listing the Khuddaka Nikāya, places it fourteenth: Khuddakapāṭha, Dhammapada, Udāna, Itivuttaka, Suttanipāta, Vimānavatthu, Petavatthu, Theragāthā, Therīgāthā, Jātaka, Niddesa, Paṭisambhidā, Apadāna, Buddhavaṃsa, Cariyāpiṭaka. It is in verse and is the Buddha's own account of the lineage of Buddhas, given when the Commander of the Dhamma (Sāriputta) asked him: the Aṭṭhakathā says that, when asked, he "recounted the entire Buddha-lineage (*buddhavaṃsa*), from his own aspiration up to his complete enlightenment".
 
-The text outlines the lives of the 24 Fully Enlightened Buddhas who preceded him in the distant past. It begins with the story of the ascetic Sumedha (the [Bodhisatta](/glossary/bodhisatta/) who would become Gotama) making his original vow before the Buddha Dīpaṅkara. For each of the 24 Buddhas, the text provides structured data: their lifespan, height, chief disciples, the tree under which they attained awakening, and the specific moment they prophesied Gotama's future Buddhahood. It concludes with a summary of Gotama Buddha's own life and the distribution of his relics. 
+The text has a chapter for each Buddha, headed "*X-ssa bhagavato vaṃso*" ("the account of the Blessed One X"): the first is Dīpaṅkara, the second Koṇḍañña, then Maṅgala, and so on to Kassapa, and last Gotama (Bv, "27. Gotamabuddhavaṃso"). The Aṭṭhakathā counts these past Buddhas as twenty-four, "starting with Dīpaṅkara", Gotama's own account then follows. The chapters give, among other things, a Buddha's lifespan, his height (for example Dīpaṅkara "eighty cubits tall") and his chief disciples. The book begins with Brahmā Sahampati's request that the Buddha teach (Ratanacaṅkamanakaṇḍa) and the story of the brahmin Sumedha, and it ends with the Discourse on the Distribution of Relics (*Dhātubhājanīyakathā*), after which comes the colophon "Buddhavaṃso niṭṭhito".
 
-This text solidifies the Theravāda doctrine that Buddhahood is not a spontaneous cosmic accident, but the result of a rigorous, historically verifiable lineage of continuous effort spanning billions of aeons.
+The Aṭṭhakathā, the Madhuratthavilāsinī, says that its explanation relies on "the Pāḷi tradition handed down from the Great Monastery" (*Mahāvihārāgatapāḷimagga*).
 
-### Quote
-> **Anantañāṇaṃ karuṇālayaṃ layaṃ, malassa buddhaṃ susamāhitaṃ hitaṃ;**  
-> I pay homage to the Buddha, who possesses infinite wisdom, is an abode of compassion, who can remove attachment, and is completely immersed for the welfare of beings, having abandoned defilements;  
-> 
-> **Namāmi dhammaṃ bhavasaṃvaraṃ varaṃ, guṇākarañceva niraṅgaṇaṃ gaṇaṃ.**  
-> And to the [Dhamma](/glossary/dhamma/), which perfectly restrains existence and is supreme; and to the [Saṅgha](/glossary/sangha/), who is a mine of virtues and is free from blemish.  
-> 
-> **Paññāya seṭṭho jinasāvakānaṃ, yaṃ dhammasenāpati dhammarājaṃ;**  
-> Among the disciples of the Conqueror, the foremost in wisdom, the General of the Dhamma asked the King of Dhamma;  
-> 
-> **Apucchi satthāramapārapāraguṃ, niraṅgaṇaṃ ñātigaṇassa majjhe.**  
-> He asked the Teacher, who had crossed to the far shore, free from defilements, in the midst of the assembly of relatives.  
-> 
-> **Subuddhavaṃsenidha buddhavaṃso, visuddhavaṃsena vināyakena;**  
-> Herein, this Buddhavaṃsa of the noble lineage of the Buddhas was proclaimed by the Vināyaka, whose lineage is pure;  
-> 
-> **Hatāvakāsena pakāsito yo, samādhivāsena tathāgatena.**  
-> Which was proclaimed by the [Tathāgata](/glossary/tathagata/), who abides in perfect concentration, and has destroyed the opportunity for rebirth.  
-> 
-> **Yāvajjakālā avināsayantā, pāḷikkamañceva ca pāḷiyatthaṃ;**  
-> Preserving the sequence of the Pāḷi and its meaning until today,  
-> 
-> **Kathānusandhiṃ sugatassa puttā, yathāsutaṃyeva samāhariṃsu.**  
-> The sons of the [Sugata](/glossary/sugata/) compiled the continuity of the discourse just as they heard it.  
-> 
-> — *[Madhuratthavilāsinī](/glossary/madhuratthavilasini/)* (Buddhavaṃsa-aṭṭhakathā, Ganthārambhakathā)
+### Quote (Mūla: Buddhavaṃsa)
+> **Dhātubhājanīyakathā niṭṭhitā. Buddhavaṃsoniṭṭhito.**  
+> The Discourse on the Distribution of Relics is completed. The Buddhavamsa is completed.  
+>  
+> — [Buddhavaṃsa](/glossary/buddhavamsa/) (Bv, colophon) · [TPR](https://tpr.pali.tools/open?book_id=mula_ku_12&page_number=384&name=buddhava%E1%B9%83sap%C4%81%E1%B8%B7i&note=&selected_text=RGjEgXR1YmjEgWphbsSreWFrYXRoxIEgbmnhua3hua1oaXTEgS4%3D)
+
+### Quote (Aṭṭhakathā: Madhuratthavilāsinī, the Buddha answered Sāriputta)
+> **Tattha tassa puṭṭho viyākāsīti tena dhammasenāpatinā puṭṭho hutvā tassa byākāsi, attano abhinīhārato paṭṭhāya abhisambodhipariyosānaṃ sabbaṃ buddhavaṃsaṃ kathesīti attho.**  
+> Regarding that, the phrase ‘When asked, he answered’ (tassa puṭṭho viyākāsi) means that, when asked by the Commander of the Dhamma, he answered him. The meaning is that he recounted the entire Buddha-lineage, starting from his own aspiration up to his complete enlightenment.  
+>  
+> — [Madhuratthavilāsinī](/glossary/madhuratthavilasini/) (Buddhavaṃsa-aṭṭhakathā, Ratanacaṅkamanakaṇḍavaṇṇanā) · [TPR](https://tpr.pali.tools/open?book_id=attha_ku_12&page_number=82&name=buddhava%E1%B9%83saa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=VGF0dGhhIHRhc3NhIHB14bmt4bmtaG8gdml5xIFrxIFzxKt0aSB0ZW5hIGRoYW1tYXNlbsSBcGF0aW7EgQ%3D%3D)
+
+### Quote (Aṭṭhakathā: Madhuratthavilāsinī, the twenty-four Buddhas)
+> **Amhākaṃ bhagavato abhinīhārassa purato pana taṇhaṅkaro medhaṅkaro saraṇaṅkaro dīpaṅkaroti cattāro buddhā ekasmiṃ kappe nibbattiṃsu. Tesaṃ aparabhāge koṇḍaññādayo tevīsati buddhāti sabbe dīpaṅkarādayo catuvīsati buddhā idha “atītabuddhā” ti adhippetā, tesaṃ atītabuddhānaṃ.**  
+> Now, before the aspiration of our Blessed One, four Buddhas—Taṇhaṅkara, Medhaṅkara, Saraṇaṅkara, and Dīpaṅkara—were reborn in a single aeon. After a time, there were twenty-three Buddhas, such as Koṇḍañña. So, all twenty-four Buddhas, starting with Dīpaṅkara and so on, are meant here as “past Buddhas”—of those past Buddhas.  
+>  
+> — [Madhuratthavilāsinī](/glossary/madhuratthavilasini/) (Buddhavaṃsa-aṭṭhakathā, Ratanacaṅkamanakaṇḍavaṇṇanā) · [TPR](https://tpr.pali.tools/open?book_id=attha_ku_12&page_number=83&name=buddhava%E1%B9%83saa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=QW1oxIFrYeG5gyBiaGFnYXZhdG8gYWJoaW7Eq2jEgXJhc3NhIHB1cmF0byBwYW5hIHRh4bmHaGHhuYVrYXJv)
+
+### Quote (Aṭṭhakathā: Madhuratthavilāsinī, the introduction)
+> **Subuddhavaṃsenidha buddhavaṃso , visuddhavaṃsena vināyakena; Hatāvakāsena pakāsito yo, samādhivāsena tathāgatena. Yāvajjakālā avināsayantā, pāḷikkamañceva ca pāḷiyatthaṃ; Kathānusandhiṃ sugatassa puttā, yathāsutaṃyeva samāhariṃsu.**  
+> Here, the Buddha Chronicle by the Guide, who is of a noble Buddha-lineage and of a pure lineage, ...which was declared by the Realized One, who had destroyed the opportunity, and who dwells in concentration. Until today, without destroying either the Pāli text or the Pāli meaning— ...the sons of the Sugata preserved the narrative connection just as they heard it.  
+>  
+> — [Madhuratthavilāsinī](/glossary/madhuratthavilasini/) (Buddhavaṃsa-aṭṭhakathā, Ganthārambhakathā) · [TPR](https://tpr.pali.tools/open?book_id=attha_ku_12&page_number=1&name=buddhava%E1%B9%83saa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=U3VidWRkaGF2YeG5g3NlbmlkaGEgYnVkZGhhdmHhuYNzbyAsIHZpc3VkZGhhdmHhuYNzZW5hIHZpbsSBeWFrZW5hOw%3D%3D)
+
+### Quote (Aṭṭhakathā: Paramatthajotikā, place in the Khuddaka Nikāya)
+> **Khuddakapāṭho, dhammapadaṃ, udānaṃ, itivuttakaṃ, suttanipāto, vimānavatthu, petavatthu, theragāthā, therīgāthā, jātakaṃ, niddeso, paṭisambhidā, apadānaṃ, buddhavaṃso, cariyāpiṭakaṃ, vinayābhidhammapiṭakāni, ṭhapetvā vā cattāro nikāye avasesaṃ buddhavacanaṃ khuddakanikāyo.**  
+> The Khuddakapāṭha, Dhammapada, Udāna, Itivuttaka, Suttanipāta, Vimānavatthu, Petavatthu, Theragāthā, Therīgāthā, Jātaka, Niddesa, Paṭisambhidā, Apadāna, Buddhavamsa, Cariyāpiṭaka, the Vinaya Piṭaka, and Abhidhamma Piṭaka—or, leaving aside the four Nikāyas, the remaining word of the Buddha—is the Khuddaka Nikāya.  
+>  
+> — [Paramatthajotikā](/glossary/paramatthajotika/) (Khuddakapāṭha-aṭṭhakathā, Khuddakavavatthāna) · [TPR](https://tpr.pali.tools/open?book_id=attha_ku_01&page_number=2&name=khuddakap%C4%81%E1%B9%ADhaa%E1%B9%AD%E1%B9%ADhakath%C4%81&note=&selected_text=S2h1ZGRha2FwxIHhua1obywgZGhhbW1hcGFkYeG5gywgdWTEgW5h4bmDLCBpdGl2dXR0YWth4bmDLCBzdXR0YW5pcMSBdG8sIHZpbcSBbmF2YXR0aHUs)
 
 ### Textual References
-* **Canonical**: *Buddhavaṃsa* – The primary source text for the Theravāda [Bodhisatta](/glossary/bodhisatta/) ideal.
-* **Commentary**: *[Madhuratthavilāsinī](/glossary/madhuratthavilasini/)* – Written by Buddhadatta, this commentary heavily expands upon the extremely brief verses of the canonical text, filling in the biographical details of the past Buddhas.
+* **Canonical**: *Buddhavaṃsa* – Bv 921 "Dīpaṅkarassa bhagavato vaṃso paṭhamo"; Bv 3087 "27. Gotamabuddhavaṃso"; Bv 3281-3282, the Dhātubhājanīyakathā and "Buddhavaṃso niṭṭhito".
+* **Commentary**: *[Madhuratthavilāsinī](/glossary/madhuratthavilasini/)* – The Buddhavaṃsa-aṭṭhakathā; its colophon names the Elder Buddhadatta as the one who made it (Bv-a 4129-4130), and its Ganthārambhakathā (Bv-a 5-26) gives its aim.
+* **Commentary**: *[Paramatthajotikā](/glossary/paramatthajotika/)* – Khuddakapāṭha-aṭṭhakathā, Khuddakavavatthāna (Pj-i 24:5), the list of the Khuddaka Nikāya with the Buddhavaṃsa in fourteenth place.

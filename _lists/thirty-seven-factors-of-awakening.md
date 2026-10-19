@@ -22,6 +22,12 @@ The 37 factors are an amalgamation of seven distinct sub-lists:
 7. **The Noble 8-Fold Path (Ariyaṭṭhaṅgika [Magga](/glossary/magga/)):** Right view, intention, speech, action, livelihood, effort, mindfulness, and concentration. (8)
 *(4 + 4 + 4 + 5 + 5 + 7 + 8 = 37)*
 
+### Quote
+> **Katame ca te, bhikkhave, dhammā mayā abhiññā desitā, ye vo sādhukaṃ uggahetvā āsevitabbā bhāvetabbā bahulīkātabbā, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ. Seyyathidaṃ – cattāro satipaṭṭhānā cattāro sammappadhānā cattāro iddhipādā pañcindriyāni pañca balāni satta bojjhaṅgā ariyo aṭṭhaṅgiko maggo.**  
+> And what are those Teachings that have, with deep knowledge, been taught by me, which after grasping them well, you should practise, develop, and make a lot of them, so that the Spiritual Life may last long, and may endure for a long time, that will be for the benefit of many people, for the happiness of many people, out of compassion for the world, for the welfare, benefit, and happiness of Divinities and men? They are as follows: the four ways of attending to mindfulness, the four right strivings, the four paths to power, the five faculties, the five strengths, the seven factors of awakening, and the noble eightfold path.  
+>  
+> — [Dīgha Nikāya](/glossary/digha-nikaya/) (DN 16, Mahāparinibbāna Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_di_02&page_number=100&name=mah%C4%81vaggap%C4%81%E1%B8%B7i&note=&selected_text=S2F0YW1lIGNhIHRlLCBiaGlra2hhdmUsIGRoYW1txIEgbWF5xIE%3D)
+
 ### Textual References
 * **Canonical**: *[Mahāparinibbāna](/glossary/mahaparinibbana/) [Sutta](/glossary/sutta/)* (DN 16) – The Buddha formally entrusts these 37 factors to the [Saṅgha](/glossary/sangha/) as the essence of the dispensation.
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XXII) – Explains how all 37 factors arise simultaneously in the mind at the exact moment of supramundane path-attainment.

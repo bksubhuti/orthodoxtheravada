@@ -20,7 +20,13 @@ To preserve historical accuracy, the [Mahāvihāra](/glossary/maha-vihara/) comm
 
 Bhava is the bridge where current mental choices solidify into future cosmic physics.
 
+### Quote
+> **Tattha katamo upādānapaccayā bhavo? Bhavo duvidhena – atthi kammabhavo, atthi upapattibhavo. Tattha katamo kammabhavo? Puññābhisaṅkhāro, apuññābhisaṅkhāro, āneñjābhisaṅkhāro – ayaṃ vuccati “kammabhavo”. Sabbampi bhavagāmikammaṃ kammabhavo.**  
+> Therein, what is existence (bhavo) conditioned by clinging (upādānaṃ)? Existence (bhavo) is in two ways: there is kamma-process being (kammabhavo), and there is rebirth-process being (upapattibhavo). Therein, what is kamma-process being (kammabhavo)? The formation of merit (puññābhisaṅkhāro), the formation of demerit (apuññābhisaṅkhāro), and the formation of imperturbability (āneñjābhisaṅkhāro) — this is called kamma-process being (kammabhavo). All kamma leading to existence (bhavagāmikammaṃ) is kamma-process being (kammabhavo).  
+>  
+> — [Vibhaṅga](/glossary/vibhanga/) (Paṭiccasamuppādavibhaṅga, Vibh §234) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_02&page_number=143&name=vibha%E1%B9%85gap%C4%81%E1%B8%B7i&note=&selected_text=MjM0LiBUYXR0aGEga2F0YW1vIHVwxIFkxIFuYXBhY2NhecSBIGJoYXZvPw%3D%3D)
+
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Bhava Sutta* (AN 3.76) – Where Venerable Ānanda asks what constitutes becoming, and the Buddha explicitly defines it through a powerful agricultural simile: *[Kamma](/glossary/kamma/)* is the field, *[Viññāṇa](/glossary/vinnana/)* is the seed, and *[Taṇhā](/glossary/tanha/)* is the moisture that allows a new existence to grow.
+* **[Sutta](/glossary/sutta/)**: *Paṭhamabhavasutta* (AN 3.76 in Bodhi's numbering, 77 in CST; A-iii 832–836, with the Dutiyabhavasutta following) – Where Venerable Ānanda asks what constitutes becoming, and the Buddha explicitly defines it through a powerful agricultural simile: *[Kamma](/glossary/kamma/)* is the field, *[Viññāṇa](/glossary/vinnana/)* is the seed, and *[Taṇhā](/glossary/tanha/)* is the moisture that allows a new existence to grow.
 * **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Paticcasamuppāda-vibhaṅga chapter).
 * **Commentary**: *[Visuddhimagga](/glossary/visuddhimagga/)* (Chapter XVII) – Deeply technical exegesis analyzing the structural overlap between *kammabhava* and *upapattibhava*.

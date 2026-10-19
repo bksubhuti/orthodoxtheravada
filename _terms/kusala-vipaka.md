@@ -20,6 +20,12 @@ According to [Abhidhamma](/glossary/abhidhamma/) mapping, wholesome [kamma](/glo
 
 It is important to note that experiencing a pleasant *kusala-vipāka* can easily trigger new *unwholesome* kamma (like greed or pride) if the mind is not guarded by mindfulness.
 
+### Quote
+> **Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ cakkhuviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rūpārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti;**  
+> 431. What mental phenomena are indeterminate? When, at the time, due to the doing and having accumulated wholesome kamma belonging to the sense sphere, resultant eye-consciousness accompanied by onlooking-equanimity, with a visual object, is arisen, at that time there is contact, feeling, perception, volition, mind, onlooking-equanimity, unification of mind, controlling power of mind, faculty of equanimity, life faculty;  
+>  
+> — [Dhammasaṅgaṇī](/glossary/dhammasangani/) (Dhs §431, Kusalavipākapañcaviññāṇāni) · [TPR](https://tpr.pali.tools/open?book_id=mula_bi_01&page_number=104&name=dhammasa%E1%B9%85ga%E1%B9%87%C4%ABp%C4%81%E1%B8%B7i&note=&selected_text=NDMxLiBLYXRhbWUgZGhhbW3EgSBhYnnEgWthdMSBPw%3D%3D)
+
 ### Textual References
-* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* – Categorizing the specific types of resultant consciousness rooted in non-greed, non-hatred, and non-delusion.
-* **Historical**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter V) – Outlining the mapping of wholesome kamma to specific human and heavenly rebirths.
+* **Abhidhamma**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (the "Kusalavipāka" sections: five-fold sense consciousness Dhs 942, mind-element Dhs 970, mind-consciousness-element Dhs 987, 1005) – Categorizing the specific types of resultant consciousness rooted in non-greed, non-hatred, and non-delusion.
+* **Historical**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter V) – Outlining the mapping of wholesome kamma to specific human and heavenly rebirths; verse 88 (Abhidh-s 478:1-479:1, on exalted merit) states that merit "produces a similar result, at rebirth and in the course of existence" (*janeti sadisaṃ pākaṃ, paṭisandhipavattiyaṃ*), the basis of the two kinds of result above.

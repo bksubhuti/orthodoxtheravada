@@ -8,22 +8,22 @@ cross_links: ["bhava", "kamma", "citta"]
 canonical_texts: ["Abhidhamma"]
 commentaries: ["Abhidhammatthasangaha"]
 ---
-verified
 ### Overview
-In the [Abhidhamma](/glossary/abhidhamma/), death is immediately followed by rebirth without any intervening soul or "bardo" state. This instantaneous transition is executed by a specific consciousness called the Rebirth-Linking Consciousness (*Paṭisandhi-citta*). Depending on past [kamma](/glossary/kamma/), this linking occurs in one of four broad domains.
+In the [Abhidhamma](/glossary/abhidhamma/), the Abhidhammatthasaṅgaha treats rebirth-linking (*paṭisandhi*) in the "compendium of the process-freed" (*vīthimuttasaṅgaha*), as one of four sets of four: the four planes, the four kinds of rebirth-linking, the four kinds of kamma and the four kinds of death (Abhidh-s 380:1). The consciousness that is the rebirth-linking arises at the moment of descent into the new existence, then continues as the life-continuum (*bhavaṅga*), and at the end becomes the death-consciousness (*cuti*) and is cut off (Abhidh-s 399:1). The four kinds follow the four planes (Abhidh-s 382:1).
 
 ### The List
-1. **Apāyapaṭisandhi** - Rebirth-linking in the Plane of Misery: Caused by unwholesome kamma. It is executed by a single type of consciousness (unwholesome-resultant investigating consciousness) and drops the being into hell, the animal realm, the ghost realm, or the demon realm.
-2. **Kāmasugatipaṭisandhi** - Rebirth-linking in the Sensuous Blissful Plane: Caused by wholesome sense-sphere kamma. It drops the being into the human realm or the six lower heavens, executed by one of nine possible resultant consciousnesses.
-3. **Rūpāvacarapaṭisandhi** - Rebirth-linking in the Fine-Material Sphere: Caused by the mastery of the fine-material jhānas. It drops the being into the [Brahma](/glossary/brahma/) worlds, executed by one of five resultant [jhāna](/glossary/jhana/) consciousnesses.
-4. **Arūpāvacarapaṭisandhi** - Rebirth-linking in the Immaterial Sphere: Caused by the mastery of the formless jhānas. It drops the being into the formless realms, executed by one of four formless resultant consciousnesses.
+1. **Apāyapaṭisandhi** - Rebirth-linking in the woeful plane: the single unwholesome-resultant investigating consciousness accompanied by equanimity (*akusalavipākopekkhāsahagatasantīraṇaṃ*), in the woeful plane (Abhidh-s 399:1). The woeful plane is of four kinds: hell, the animal realm, the ghost realm and the Asura group (Abhidh-s 383:1).
+2. **Kāmasugatipaṭisandhi** - Rebirth-linking in the fortunate sense-sphere: nine kinds in all: the wholesome-resultant investigating consciousness with equanimity (for humans born blind and so on, and fallen asuras), plus the eight great resultants (*mahāvipāka*) (Abhidh-s 400:1-402:1). The fortunate sense-sphere plane is of seven kinds: humans and the six sense-sphere heavens (Abhidh-s 384:1).
+3. **Rūpāvacarapaṭisandhi** - Rebirth-linking in the fine-material sphere: the resultants of the five fine-material jhānas in their planes (first jhāna, second and third jhāna, fourth, fifth; Abhidh-s 408:1-411:1). For the unconscious beings only form serves as rebirth-linking (Abhidh-s 412:1).
+4. **Arūpāvacarapaṭisandhi** - Rebirth-linking in the immaterial sphere: the resultants of the first formless jhāna and so on in the planes of the first formless jhāna and so on, respectively (Abhidh-s 428:1).
+
+The ten (nine and one) kinds in the woeful and fortunate sense-sphere rebirth-linkings are together reckoned as sense-sphere rebirth-linking (Abhidh-s 403:1).
 
 ### Quote
->### Paṭisandhicatukkaṃ   
->**15.apāyapaṭisandhi kāmasugatipaṭisandhi rūpāvacarapaṭisandhi**   
->Rebirth-linking in the planes of misery, rebirth-linking in the sensuous happy planes, rebirth-linking in the fine-material planes, and rebirth-linking in the immaterial planes—this is called the fourfold rebirth-linking.
->Abhidhammatthasaṅgaho 
- 
+> **Paṭisandhicatukkaṃ 15. Apāyapaṭisandhi kāmasugatipaṭisandhi rūpāvacarapaṭisandhi arūpāvacarapaṭisandhi ceti catubbidhā paṭisandhi nāma.**  
+> The Quadruplet of Rebirth-linking 15. Woeful rebirth-linking, fortunate sense-sphere rebirth-linking, fine-material sphere rebirth-linking, and formless-sphere rebirth-linking—these are the four kinds of rebirth-linking (catubbidhā paṭisandhi).  
+>  
+> — *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter V, Vīthimuttasaṅgaha, §15, Paṭisandhicatukka) · [TPR](https://tpr.pali.tools/open?book_id=annya_bi_05&page_number=31&name=abhidhammatthasa%E1%B9%85gaho&note=&selected_text=UGHhua1pc2FuZGhpY2F0dWtrYeG5gw%3D%3D)
 
 ### Textual References
-* **Commentary**: *[Abhidhammatthasangaha](/glossary/abhidhammatthasangaha/)* (Chapter V) – The definitive guide to exactly which kammas produce which specific rebirth-linking consciousnesses.
+* **Handbook**: *[Abhidhammatthasaṅgaha](/glossary/abhidhammatthasangaha/)* (Chapter V, *Vīthimuttasaṅgaha*, "Paṭisandhicatukkaṃ", Abhidh-s 397:1-428:1, paras 15-44).

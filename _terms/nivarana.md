@@ -21,9 +21,17 @@ The five traditional hindrances are:
 4. *[Uddhacca-kukkucca](/glossary/uddhacca-kukkucca/)* (Restlessness and Worry)
 5. *[Vicikicchā](/glossary/vicikiccha/)* (Skeptical Doubt)
 
-The commentaries compare the hindrances to a heavy psychological tax or debt that drains the mind's workable utility. The Buddha used five striking liquid analogies to describe them: a mind filled with sensory lust is like water mixed with colored dye; ill-will is like boiling water; sloth-torpor is like water choked with moss; restlessness-worry is like wind-whipped, turbulent water; and doubt is like muddy water placed in the dark. 
+The texts call them "obstructions, hindrances, overgrowths of the mind that weaken wisdom" (*āvaraṇā nīvaraṇā cetaso ajjhāruhā paññāya dubbalīkaraṇā*, A-v 436:1). The Buddha used five liquid similes to describe them (Saṅgārava Sutta, SN 46.55): a mind seized by sensual lust is like water mixed with lac, turmeric, indigo or crimson dye (S-v 702:1); ill-will is like water heated on a fire, boiling and bubbling (S-v 704:1); sloth-torpor is like water overgrown with moss and water-plants (S-v 706:1); restlessness-worry is like water stirred by wind, rippling and churning (S-v 708:1); and doubt is like water that is turbid, stirred up and muddy, placed in the dark (S-v 710:1).
+
+Note that the Dhammasaṅgaṇī, in its Cluster on Hindrances (*Nīvaraṇagocchakaṃ*, Dhs 1942:1), gives *six* hindrances, adding ignorance (*avijjānīvaraṇaṃ*) to the five (Dhs 1943:2).
+
+### Quote
+> **“Pañcimāni, bhikkhave, nīvaraṇāni. Katamāni pañca? Kāmacchandanīvaraṇaṃ, byāpādanīvaraṇaṃ, thinamiddhanīvaraṇaṃ, uddhaccakukkuccanīvaraṇaṃ, vicikicchānīvaraṇaṃ – imāni kho, bhikkhave, pañca nīvaraṇāni.**  
+> “Monks, there are these five hindrances. What are the five? Sensual desire as a hindrance, ill will as a hindrance, sloth and drowsiness as a hindrance, restlessness and anxiety as a hindrance, and uncertainty as a hindrance—these indeed, monks, are the five hindrances.  
+>  
+> — [Aṅguttara Nikāya](/glossary/anguttara-nikaya/) (AN 9.64, Nīvaraṇa Sutta) · [TPR](https://tpr.pali.tools/open?book_id=mula_an_09&page_number=250&name=navakanip%C4%81tap%C4%81%E1%B8%B7i&note=&selected_text=NjQu4oCY4oCYIFBhw7FjaW3EgW5pLCBiaGlra2hhdmUsIG7Eq3ZhcmHhuYfEgW5pLg%3D%3D)
 
 ### Textual References
-* **[Sutta](/glossary/sutta/)**: *Samaññaphala Sutta* (DN 2) – Section detailing the beautiful series of similes comparing the casting off of the hindrances to being freed from slavery, prison, debt, or sickness.
-* **[Abhidhamma](/glossary/abhidhamma/)**: *[Vibhaṅga](/glossary/vibhanga/)* (Nīvaraṇavibhaṅga chapter) – Rigorous categorization of the hindrances.
-* **Commentary**: *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* (Detailed methods for down-regulating and blocking each hindrance).
+* **[Sutta](/glossary/sutta/)**: *Nīvaraṇa Sutta* (AN 9.64, A-ix 444:1, the quote above; also the Nīvaraṇa Sutta in the Saṃyutta, "7. Nīvaraṇasuttaṃ", S-v 393:1, with the same opening at S-v 394:1). *Saṅgārava Sutta* (SN 46.55, "5. Saṅgāravasuttaṃ", S-v 698:1) for the water similes. *Sāmaññaphala Sutta* (DN 2): the monk who has not abandoned the five hindrances regards them as a debt, a sickness, a prison, slavery, and a desert road (D-i 324:1).
+* **[Abhidhamma](/glossary/abhidhamma/)**: *[Dhammasaṅgaṇī](/glossary/dhammasangani/)* (Nīvaraṇagocchakaṃ, Dhs 1942-1944, six hindrances); *[Vibhaṅga](/glossary/vibhanga/)* (Khuddakavatthuvibhaṅga, "(8) Pañca nīvaraṇāni", Vibh 2921:1). The Vibhaṅga has no separate "Nīvaraṇavibhaṅga" chapter.
+* **Commentary**: *[Sumaṅgalavilāsinī](/glossary/sumangalavilasini/)* on the simile of debt (Sv-i 921:2, 925:3, 930:3).
