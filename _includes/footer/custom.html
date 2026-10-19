@@ -1,4 +1,4 @@
-<div id="tvi-upcoming" style="margin-top:1.25rem">
+<div id="tvi-upcoming" style="margin-top:1.25rem" hidden>
   <strong>Upcoming Events</strong>
   <ul id="tvi-upcoming-list" style="margin:0.5rem 0 0 1rem"></ul>
 </div>
@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", async function () {
       li.textContent = `${formatted} — ${e.summary}`;
       ul.appendChild(li);
     });
+    if (next.length) document.getElementById("tvi-upcoming").hidden = false;
 
   } catch(err) {
     console.error("TVI footer events error:", err);

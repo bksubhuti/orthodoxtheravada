@@ -3,6 +3,7 @@ layout: single
 title: "Pāḷi Glossary"
 permalink: /glossary/
 author_profile: false
+classes: wide
 ---
 
 <div class="glossary-index">

@@ -1,19 +1,15 @@
 ---
 title: "Orthodox Theravāda"
 layout: single
-classes: home
+classes: [home, wide]
 header:
   show_overlay_excerpt: true
 lang: en
 description: "Dedicated to the authentic teachings of the Buddha as preserved in the Pāli Canon, commentaries, and Abhidhamma tradition. Free resources, books, videos, and classical Theravāda study materials."
-excerpt: "A resource hub for Orthodox Theravāda Buddhism — faithful to the original teachings of the Buddha."
+excerpt: "The Buddha’s teaching as preserved in the Pāḷi Tipiṭaka, its commentaries and the Mahāvihāra tradition."
 keywords: ["Orthodox Theravāda", "Theravāda Buddhism", "Pāli Canon", "Abhidhamma", "Vipassanā", "Classical Theravada", "Dhamma", "Buddhaghosa", "Tipiṭaka"]
 
 ---
-
-# Orthodox Theravāda
-
-**The Buddha’s teaching as preserved in the Pāḷi Tipiṭaka, its commentaries and the Mahāvihāra tradition.** Start with a section below.
 
 <div class="ot-card-grid" id="explore-section">
 

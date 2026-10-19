@@ -3,6 +3,7 @@ layout: single
 title: "Numerical Dhamma Lists"
 permalink: /lists/
 author_profile: false
+classes: wide
 ---
 
 <div class="lists-index">
