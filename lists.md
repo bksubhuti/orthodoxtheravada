@@ -5,8 +5,6 @@ permalink: /lists/
 author_profile: false
 ---
 
-Welcome to the Numerical Dhamma Lists. Here you will find structured, doctrinal lists from the Theravāda canonical texts and commentaries, organized by their numerical count.
-
 <div class="lists-index">
   {% assign sorted_by_title = site.lists | sort: "title" %}
   {% assign sorted_lists = sorted_by_title | sort: "list_count" %}
